@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Création de personnage
 
 Un guide étape par étape pour créer un personnage.
@@ -331,3 +327,6 @@ Comment parle-t-il ? Quels sont ses tics, ses peurs, ses ambitions ? Ce travail 
 La validation finale est une étape essentielle pour transformer une simple fiche en un héros ou une héroïne unique et mémorable.
 
 Soyez ouvert aux suggestions de votre MJ, tout en affirmant votre propre vision. Un personnage bien conçu et étoffé ne se contentera pas de traverser les aventures : il en sera un élément clé, captivant et inoubliable, pour vous et pour les autres joueurs.
+
+
+TODO Vitesse dans les attributs dérivés

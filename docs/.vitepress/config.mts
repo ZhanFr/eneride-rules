@@ -13,6 +13,11 @@ export default defineConfig({
     },
 
     themeConfig: {
+        outline: {
+            level: [2, 3],
+            label: 'Table des matières',
+        },
+
         docFooter: {
             prev: 'Page précédente',
             next: 'Page suivante',

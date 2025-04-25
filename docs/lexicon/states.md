@@ -1,39 +1,109 @@
 # États
 
-TODO
+Les __États__ représentent des conditions particulières qui affectent un personnage pendant une durée plus ou moins longue. Ils traduisent des situations physiques, mentales ou magiques qui modifient leur comportement, leurs activités disponibles, ou leur efficacité en jeu.
 
-### A terre
-donne l'avantage au corps à corps. + déplacements.
+Un __État__ peut être appliqué par une action (comme une attaque), une condition environnementale, ou un effet divers. Certains __États__ disparaissent automatiquement après un certain temps ou un événement particulier ; d'autres nécessitent une activité volontaire ou un test pour être levés.
 
-### Affaibli
-malus de -1D cumulatif par source.
+Les États peuvent influencer :
 
-### Assourdi
-ne peut pas entendre (échec automatique).
+* les __tests__ (en conférant des bonus ou des malus),
+* les __possibilités__ d’un personnage,
+* ou encore les interactions avec d’autres règles du système.
 
-### Aveuglé
-donne l'avantage, ne peut pas voir (échec automatique) et terrain difficile.
+Un État persiste tant qu’il n’est pas supprimé ou que l'effet ayant imposé l'État n'a pas pris fin.
 
-### Effrayé
-affaibli, ne peut pas s'approcher de la source.
+:::tip Cumuler des États
+Par défaut, des États différents se cumulent et un même État ne peut être appliqué plusieurs fois. Il existe des exceptions décrites dans les États concernés.
+:::
 
-### Épuisé
-affaibli et seuil de stress divisé par deux.
+### A terre {#prone}
 
-### Etourdi
-donne l'avantage, ne peut prendre qu'une manoeuvre ou une action par tour.
+Un personnage est considéré comme __À Terre__ lorsqu’il se trouve en position allongée, que ce soit par perte d’équilibre, volontairement (pour se dissimuler ou se protéger), ou suite à un effet.
 
-### Entravé
-donne l'avantage, vitesse = 0.
+* Il est [en difficulté](/rules/combat#overwhelmed) contre les attaques de contact au corps à corps.
+* Bénéficie de +2D contre les attaques de contact à distance.
+* Ne peut [se déplacer](/rules/combat#se-deplacer) qu’en utilisant la méthode __Ramper__.
+* [Se relever](/rules/combat#aller-au-sol-se-relever) supprime l'état.
 
-### Neutralisé
-Entravé + ne peut pas prendre d'action, de manoeuvre. Doit Encaisser avec ses réactions.
+:::info Se jeter au sol
+Cet état reflète un désavantage tactique contre les ennemis proches, mais peut offrir une meilleure couverture face à des projectiles ou des assauts à distance.
+:::
 
-### Inconscient
-Neutralisé + A terre + lâche tout ce qu'il tient.
+### Affaibli {#weakened}
 
-### Ralenti
-donne l'avantage, dépense le double de sa vitesse pour se déplacer
+Le personnage subit un malus de `–1D` cumulatif par source d’affaiblissement.
 
-### Terrifié
-prend la fuite
+* __Un même effet ne s’applique qu’une fois__ : si un même sort ou capacité inflige l’état __Affaibli__ deux fois de suite, le malus reste à –1D.
+
+### Assourdi {#deafened}
+
+Le personnage __échoue automatiquement__ à tout test nécessitant l’ouïe.
+
+* Si le personnage n'est pas naturellement sourd, il subit un malus de `-2D` aux tests basés sur la [Perception](/rules/how-to-play#la-perception).
+
+### Aveuglé {#blinded}
+
+Le personnage __échoue automatiquement__ à tout test nécessitant la vue.
+
+* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
+* Si le personnage n'est pas naturellement aveugle, il est considéré comme étant sur un terrain difficile.
+
+### Effrayé {#afraid}
+
+Le personnage est saisi de peur :
+
+* Il s'applique l’état __Affaibli__.
+* Il ne peut pas volontairement se rapprocher de la source de sa peur (déplacement, attaques, etc).
+
+### Entravé {#restrained}
+
+Quelque chose empêche le personnage de se déplacer librement (entrave physique, gravité augmentée, etc) :
+
+* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
+* Sa [Vitesse]() est réduite à 0.
+
+### Épuisé {#exhausted}
+
+Le personnage est très fatigué (manque de sommeil, épuisement physique ou mental) :
+
+* Il s'applique l’état __Affaibli__.
+* Son [Seuil de Stress](/rules/character-creation#seuil-de-stress) est divisé par 2 (arrondi à l’inférieur).
+
+### Etourdi {#stunned}
+
+Le personnage n'est plus en possession de tous ses moyens :
+
+* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
+* Il s'applique l’état __Affaibli__.
+* Il ne peut prendre qu'une seule manœuvre ou une seule action par tour.
+
+### Neutralisé {#neutralized}
+
+Le personnage est totalement immobilisé (paralysie, entrave complète, etc) :
+
+* Il s'applique l’état __Entravé__.
+* Il ne peut pas effectuer d’action ni de manœuvre.
+* Il doit [Encaisser](/rules/combat#encaisser) avec ses réactions.
+
+### Inconscient {#unconscious}
+
+Le personnage a perdu connaissance :
+
+* Il est [sans défense](/rules/combat#sans-defense) en combat.
+* Il s'applique l’état __Neutralisé__.
+* Il tombe immédiatement __À Terre__.
+* Il lâche tout ce qu’il tient.
+
+### Ralenti {#slowed}
+
+Une condition freine les déplacements du personnage :
+
+* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
+* Sa [Vitesse]() est divisée par 2 (arrondi à l’inférieur).
+
+### Terrifié {#terrified}
+
+Le personnage est pris d'une panique extrême :
+
+* Il s'applique l’état __Effrayé__.
+* Pendant son tour, il ne peut effectuer que des activités qui l’éloignent de la source de sa terreur (par exemple, [se déplacer](/rules/combat#se-deplacer) en s'éloignant).
