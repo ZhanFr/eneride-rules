@@ -18,11 +18,12 @@ Par défaut, des États différents se cumulent et un même État ne peut être 
 
 ### A terre {#prone}
 
-Un personnage est considéré comme __À Terre__ lorsqu’il se trouve en position allongée, que ce soit par perte d’équilibre, volontairement (pour se dissimuler ou se protéger), ou suite à un effet.
+Un personnage est considéré comme __à Terre__ lorsqu’il se trouve en position allongée, que ce soit par perte d’équilibre, volontairement (pour se dissimuler ou se protéger), ou suite à un effet.
 
-* Il est [en difficulté](/rules/combat#overwhelmed) contre les attaques de contact au corps à corps.
-* Bénéficie de +2D contre les attaques de contact à distance.
-* Ne peut [se déplacer](/rules/combat#se-deplacer) qu’en utilisant la méthode __Ramper__.
+* Les attaques de contact au corps à corps contre lui bénéficient d'un bonus de `+1D`.
+* Les cibles de ses attaques de contact au corps à corps bénéficie d'un bonus de `+1D` pour se défendre.
+* Bénéficie de `+1D` contre les attaques de contact à distance.
+* Ne peut [se déplacer](/rules/combat#se-deplacer) qu’en utilisant la méthode __ramper__.
 * [Se relever](/rules/combat#aller-au-sol-se-relever) supprime l'état.
 
 :::info Se jeter au sol
@@ -33,22 +34,21 @@ Cet état reflète un désavantage tactique contre les ennemis proches, mais peu
 
 Le personnage subit un malus de `–1D` cumulatif par source d’affaiblissement.
 
-* __Un même effet ne s’applique qu’une fois__ : si un même sort ou capacité inflige l’état __Affaibli__ deux fois de suite, le malus reste à –1D.
+* __Un même effet ne s’applique qu’une fois__ : si un même sort ou capacité inflige l’état __affaibli__ deux fois de suite, le malus reste à `–1D`.
 
 ### Assourdi {#deafened}
 
-Le personnage __échoue automatiquement__ à tout test nécessitant l’ouïe.
+Le personnage __échoue automatiquement__ les tests nécessitant l’ouïe.
 
 * Si le personnage n'est pas naturellement sourd, il subit un malus de `-2D` aux tests basés sur la [Perception](/rules/how-to-play#la-perception).
 
 ### Aveuglé {#blinded}
 
-Le personnage __échoue automatiquement__ à tout test nécessitant la vue.
+Le personnage __échoue automatiquement__ les tests nécessitant la vue.
 
-* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
-* Si le personnage n'est pas naturellement aveugle, il est considéré comme étant sur un terrain difficile.
+* Si le personnage n'est pas naturellement aveugle, il s'applique l'état __ralenti__.
 
-### Effrayé {#afraid}
+### Effrayé {#frightened}
 
 Le personnage est saisi de peur :
 
@@ -57,23 +57,23 @@ Le personnage est saisi de peur :
 
 ### Entravé {#restrained}
 
-Quelque chose empêche le personnage de se déplacer librement (entrave physique, gravité augmentée, etc) :
+Quelque chose empêche le personnage de se déplacer (entrave physique, gravité augmentée, etc) :
 
-* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
-* Sa [Vitesse]() est réduite à 0.
+* Il est [déséquilibré](/rules/combat#off-balance) en combat.
+* Sa [vitesse](/rules/character-creation#speed) est réduite à 0.
 
 ### Épuisé {#exhausted}
 
 Le personnage est très fatigué (manque de sommeil, épuisement physique ou mental) :
 
 * Il s'applique l’état __Affaibli__.
-* Son [Seuil de Stress](/rules/character-creation#seuil-de-stress) est divisé par 2 (arrondi à l’inférieur).
+* Son [seuil de Stress](/rules/character-creation#seuil-de-stress) est divisé par 2 (arrondi à l’inférieur).
 
 ### Etourdi {#stunned}
 
 Le personnage n'est plus en possession de tous ses moyens :
 
-* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
+* Il est [déséquilibré](/rules/combat#off-balance) en combat.
 * Il s'applique l’état __Affaibli__.
 * Il ne peut prendre qu'une seule manœuvre ou une seule action par tour.
 
@@ -83,7 +83,7 @@ Le personnage est totalement immobilisé (paralysie, entrave complète, etc) :
 
 * Il s'applique l’état __Entravé__.
 * Il ne peut pas effectuer d’action ni de manœuvre.
-* Il doit [Encaisser](/rules/combat#encaisser) avec ses réactions.
+* Il doit [encaisser](/rules/combat#encaisser) avec ses réactions.
 
 ### Inconscient {#unconscious}
 
@@ -98,8 +98,8 @@ Le personnage a perdu connaissance :
 
 Une condition freine les déplacements du personnage :
 
-* Il est [en difficulté](/rules/combat#overwhelmed) en combat.
-* Sa [Vitesse]() est divisée par 2 (arrondi à l’inférieur).
+* Il est [déséquilibré](/rules/combat#off-balance) en combat.
+* Sa [vitesse](/rules/character-creation#speed) est divisée par 2 (arrondi à l’inférieur).
 
 ### Terrifié {#terrified}
 

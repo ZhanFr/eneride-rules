@@ -16,21 +16,59 @@ Bienvenue dans l’arène. Soyez prêts, et choisissez vos batailles avec soin.
 
 ## Déroulement {#course}
 
-### Surprise {#course-surprise}
+La phase de combat suit une structure précise destinée à maintenir le rythme et l'équilibre entre les participants. Le combat est découpé en plusieurs phases successives : __Initiative, Surprise, Rounds et Tours__.
 
 ### Initiative {#course-initiative}
 
+Au début d'un combat, chaque participant détermine son ordre d'action en réalisant un test d'Initiative.
+
+* Lancez `1d10` et ajoutez votre `Coordination`.
+* Le MJ effectue ce test pour les alliés et les adversaires des joueurs.
+
+Les participants sont ensuite placés dans l'Initiative du plus élevé au plus faible.
+
+:::tip Égalité ?
+En cas d'égalité, le participant ayant la Coordination la plus élevée agit en premier.
+Si l'égalité persiste, tirez au hasard pour départager.
+:::
+
+### Surprise {#course-surprise}
+
+Si une embuscade ou un événement non anticipé déclenche le combat, un __round de surprise__ est joué immédiatement :
+
+* Seuls les participants __non surpris__ peuvent prendre un tour durant ce round.
+* Les participants surpris sont [pris au dépourvu](#off-guard) jusqu'au début du prochain round.
+
+À l'issue du round de surprise, le combat reprend normalement avec tous les participants.
+
 ### Rounds {#course-rounds}
+
+Le combat est ensuite structuré en __Rounds__ successifs.
+
+Chaque round représente une courte période (environ 10 secondes) et est composé des __Tours__ de chacun des participants, selon l'Initiative.
+
+* À la fin d'un round, on commence un nouveau round avec la même initiative.
 
 ### Tours {#course-turns}
 
+Lors de son __Tour__, chaque participant peut effectuer un nombre limité d'activités :
+
+* __1 Action__ : par exemple, attaquer, lancer un sort, utiliser une compétence, etc.
+* __1 Manoeuvre__ : par exemple, se déplacer, se relever, dégainer une arme, etc.
+
+:::tip Plus d'Activités
+Il est possible d'effectuer des activités supplémentaires en échange de coûts spécifiques (comme du Stress). Ces conditions sont expliquées plus loin dans ce chapitre. 
+:::
+
+Une fois son tour terminé, on passe au participant suivant dans l'Initiative.
+
 ## Activités en combat {#activities}
 
-Les activités que peuvent entreprendre les personnage lors d'un combat sont divisées en trois catégories : les `Actions`, les `Manœuvres` et les `Réactions`.
+Les activités que peuvent entreprendre les participants lors d'un combat sont divisées en trois catégories : les __Actions__, les __Manœuvres__ et les __Réactions__.
 
 ### Action {#action}
 
-Les `Actions` représentent les activités majeures qu'un personnage peut entreprendre pendant son tour.
+Les __Actions__ représentent les activités majeures qu'un participant peut entreprendre pendant son tour.
 
 Elles impliquent presque toujours un test, car elles ont une issue incertaine. Exemples d'actions :
 
@@ -38,11 +76,11 @@ Elles impliquent presque toujours un test, car elles ont une issue incertaine. E
 - Lancer un sort.
 - Convaincre un adversaire de baisser les armes.
 
-Chaque personnage peut effectuer __une Action par tour__, sauf règles ou talents spéciaux permettant d’en effectuer davantage.
+Chaque participant peut effectuer __une Action par tour__, sauf aptitudes spéciales permettant d’en effectuer davantage.
 
 ### Manœuvre {#maneuver}
 
-Les `Manœuvres` sont des activités plus simples et rapides qui ne nécessitent pas de test.
+Les __Manœuvres__ sont des activités plus simples et rapides qui ne nécessitent pas de test.
 
 Elles sont souvent liées à des activités tactiques ou de positionnement. Exemples de manœuvres :
 
@@ -51,109 +89,113 @@ Elles sont souvent liées à des activités tactiques ou de positionnement. Exem
 - Boire une potion.
 - Interagir avec un objet (ouvrir un porte, actionner un levier)
 
-Chaque personnage peut effectuer __une Manœuvre par tour__, mais également :
+Chaque participant peut effectuer __une Manœuvre par tour__, mais également :
 
-- Sacrifier son Action du tour pour réaliser une Manœuvre à la place
-- Effectuer une Manœuvre additionnelle en prenant `1 Stress` (voir `Se Presser`).
+- Sacrifier son __Action__ du tour pour réaliser une __Manœuvre__ à la place
+- Effectuer une __Manœuvre additionnelle__ en prenant `1 Stress` (voir [Se Presser](#maneuvers-hurry)).
 
 ### Réaction {#reaction}
 
-Les `Réactions` représentent les activités entreprises hors du tour du personnage en réponse à un événement. Exemples de réactions :
+Les __Réactions__ représentent les activités entreprises hors du tour des participants en réponse à un événement. Exemples de réactions :
 
 - Se défendre contre une attaque.
 - Tenter d'éviter un projectile ou une explosion.
 - Se jeter au sol pour se mettre à couvert.
 
-Après avoir utiliser une Réaction, un personnage subit un malus de `-1D` cumulatif aux Réactions suivantes.
+Après avoir utiliser une __Réaction__, un participant confère un bonus de `+1D` cumulatif à ses adversaires lors des Réactions prises avant le début de son prochain tour.
 
-Un personnage ne peut prendre qu'un nombre de Réaction inférieur ou égal à sa `Coordination` entre la fin de son tour et le début du prochain.
-
-S'il est la cible d'un test opposé sans pouvoir prendre de Réaction, il doit systématiquement utiliser [Encaisser](#reactions-brace).
+S'il est la cible d'un test opposé sans pouvoir prendre de Réaction, il doit utiliser [Encaisser](#reactions-brace).
 
 ### Exemple pratique
 
-:::info Scénario
-Un personnage affronte un groupe d'adversaires dans un entrepôt abandonné.
+Vous affrontez un groupe d'adversaires dans un entrepôt abandonné.
 
-__Tour du personnage :__
+__Votre tour :__
 
-- Il utilise une `Manœuvre` pour se déplacer derrière une caisse, cherchant à se mettre à couvert.
-- Il effectue ensuite une `Action` pour tirer sur un adversaire avec son arme, réussissant un test de `Tir (Coordination)`.
+* Vous utilisez une __Manœuvre__ pour [vous déplacer](#maneuvers-move) derrière une caisse, cherchant à vous mettre à couvert.
+* Vous effectuez une __Action__ pour tirer sur votre adversaire avec votre arme, réussissant un test de `Tir (Coordination)`.
 
 __Tour de l'adversaire :__
 
-- Il attaque le personnage avec son arme à distance. Le personnage utilise une `Réaction` pour `Esquiver` et il choisi de se jeter au sol pour obtenir un bonus sur son test de `Coordination`.
-:::
+* Il vous attaque avec son arme à distance. Vous utilisez une __Réaction__ pour [Esquiver](#reaction-dodge) et choisissez de vous jeter au sol pour obtenir un bonus sur votre test de `Coordination`.
+
 
 ## Liste des Actions {#actions}
 
 ### Attaquer {#actions-attack}
 
-`Attaquer` permet de s'en prendre directement à un ou plusieurs adversaire avec une arme, un sort ou encore avec une compétence comme l'Intimidation.
+> L'action __Attaquer__ est traitée en détail [ici](#attack).
+
+__Attaquer__ permet de s'en prendre directement à un ou plusieurs adversaire avec une arme, un sort ou encore avec une compétence comme l'Intimidation.
 
 Il existe plusieurs types d'attaques :
 
-- __Attaque de contact au corps à corps__ : l'attaquant cherche à toucher sa cible à l'aide d'une arme ou d'un sort. La cible doit être dans l'allonge de l'attaquant. Il est possible de réagir à cette catégorie d'attaque avec `Parer`, `Esquiver` ou `Encaisser`.
-- __Attaque de contact à distance__ : l'attaquant cherche à toucher sa cible à l'aide d'un projectile (qui peut être un sort). La cible doit être à portée de l'attaquant. Il est possible de réagir à cette catégorie d'attaque avec `Esquiver` ou `Encaisser`.
-- __Attaque sans contact__ : l'attaquant n'a pas besoin de toucher sa cible. En général, il doit pouvoir voir sa cible et cette dernière doit être à portée de l'attaquant. Il est possible de réagir à cette catégorie d'attaque avec `Résister` ou `Encaisser`.
+- __Attaque de contact au corps à corps__ : vous cherchez à toucher votre cible à l'aide d'une arme ou d'un sort. La cible doit être dans votre allonge. Il est possible de réagir à cette catégorie d'attaque avec [Parer](#reactions-parry), [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
+- __Attaque de contact à distance__ : vous cherchez à toucher votre cible à l'aide d'un projectile (qui peut être un sort). La cible doit être à portée de votre arme ou de votre sort. Il est possible de réagir à cette catégorie d'attaque avec [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
+- __Attaque sans contact__ : vous n'avez pas besoin de toucher votre cible. En général, vous devez voir votre cible et cette dernière doit être à votre portée. Il est possible de réagir à cette catégorie d'attaque avec [Résister](#reactions-resist) ou [Encaisser](#reactions-brace).
 
-Une attaque n'a pas uniquement pour but d'infliger des dégâts, un attaquant peut choisir l'objectif de son attaque parmi les catégories suivantes :
+Une attaque n'a pas uniquement pour but d'infliger des dégâts, vous pouvez choisir l'objectif de votre attaque parmi les catégories suivantes :
 
-- __Blesser__ : infliger des dégâts aux adversaires.
-- __Affaiblir__ : appliquer un état aux adversaires.
-- __Repousser__ : déplacer les adversaires.
-- __Saisir__ : saisir un adversaire pour appliquer un état, le déplacer ou le faire tomber au sol.
-- __Distraire__ : confèrer un avantage à vos alliés contre des adversaires.
-- __Désarmer__ : faire lâcher son arme à un adversaire.
-- __Renverser__ : faire aller au sol des adversaires.
-
-:::tip Article détaillé
-L'action __Attaquer__ est traitée en détail [ici](#attack)
-:::
+- __Affaiblir__ : appliquez un état aux adversaires.
+- __Blesser__ : infligez des dégâts aux adversaires.
+- __Désarmer__ : faites lâcher son arme à un adversaire.
+- __Distraire__ : conférez un avantage à vos alliés contre des adversaires.
+- __Renverser__ : faites aller au sol des adversaires.
+- __Repousser__ : déplacez des adversaires.
+- __Saisir__ : saisissez un adversaire pour le restreindre ou le neutraliser.
 
 ### Se désengager {#actions-disengage}
 
-`Se désengager` permet de quitter l'allonge d'un ou de plusieurs adversaires engagés.
+__Se désengager__ permet de quitter l'allonge d'un ou de plusieurs adversaires.
 
-Pour cela, il faut réussir un test opposé contre tous les adversaires souhaitant `Parer` en réaction. Si aucun adversaire ne peut ou ne veut `Parer`, se désengager n'est pas nécessaire.
+Pour cela, réussissez un test opposé contre tous vos adversaires souhaitant [parer](#reactions-parry) en réaction. Si aucun adversaire ne peut ou ne veut parer, se désengager n'est pas nécessaire.
 
-Pour se désengager, il est possible d'utiliser :
+Pour se désengager, vous pouvez utiliser :
 
-- __Mêlée (Coordination)__ : le personnage utilise ses armes pour s'extirper de l'allonge de ses adversaires sans risque.
-- __Pugilat (Coordination)__ : le personnage utilise ses aptitudes martiales pour quitter l'allonge de ses adversaires sans risque.
-- __Adresse (Coordination)__ : le personnage se faufile habilement pour sortir de l'allonge de ses adversaires sans prendre de coup.
+- __Mêlée (Coordination)__ : utilisez vos armes pour vous extirper de l'allonge de vos adversaires sans danger.
+- __Pugilat (Coordination)__ : utilisez vos aptitudes martiales pour quitter l'allonge de vos adversaires sans risque.
+- __Adresse (Coordination)__ : faufilez-vous habilement pour sortir de l'allonge de vos adversaires sans prendre de coup.
+
+Si le test est une réussite contre tous vos adversaires, vous pouvez vous déplacer comme si vous utilisiez la manœuvre [se déplacer](#maneuver-move) dans le cadre de cette action.
+
+:::tip Dans l'allonge ou non ?
+On considère l'allonge des adversaires au début de votre tour.
+
+* Si vous être dans une case qui n'est dans l'allonge d'aucun adversaire au début de votre tour, vous pouvez vous déplacer librement à travers n'importe quel nombre de cases se trouvant dans l'allonge d'adversaires sans besoin de vous désengager.
+* Si vous êtes dans une case qui se trouve dans l'allonge d'un ou de plusieurs adversaires au début de votre tour, vous devez vous désengager pour quitter votre case si au moins un adversaire souhaite vous en empêcher.
+::: 
 
 ### Lancer un sort {#actions-spellcast}
 
-`Lancer un sort` peut fonctionner comme l'action `Attaquer` s'il s'agit d'un sort d'attaque ou comme l'action `Utiliser une compétence` s'il s'agit d'un sort utilitaire.
+__Lancer un sort__ peut fonctionner comme l'action [Attaquer](#actions-attack) s'il s'agit d'un sort d'attaque ou comme l'action [Utiliser une compétence](#actions-skillcheck) s'il s'agit d'un sort utilitaire.
 
 Le déroulement de cette action est expliqué en détail dans l'article sur la [Magie](/magic).
 
 ### Utiliser une compétence {#actions-skillcheck}
 
-`Utiliser une compétence` couvre toutes les actions qui ne sont pas des attaques.
+__Utiliser une compétence__ couvre toutes les actions qui ne sont pas des attaques.
 
-:::info Exemple
-Faire un saut difficile au dessus d'un obstacle pour atteindre un adversaire ou identifier un effet magique en cours.
-:::
+Par exemple :
+
+* Faire un saut difficile au dessus d'un obstacle pour atteindre votre adversaire.
+* Identifier un effet magique en cours.
+* Lancer un sort utilitaire.
 
 ## Liste des Manœuvres {#maneuvers}
 
 ### Aider {#maneuvers-help}
 
-`Aider` confère un bonus de +1D à un test d'un allié dans l'allonge du personnage.
+__Aider__ confère un bonus de `+1D` au prochain test d'un allié dans votre allonge.
 
-Ce bonus est valable jusqu'à la fin du round.
+Ce bonus est valable pendant 1 round.
 
-### Aller au sol / Se relever {#maneuvers-prone-stand}
+### Aller à terre / Se relever {#maneuvers-prone-stand}
 
-Cette manoeuvre permet d'aller au sol depuis la position debout ou de se relever si le personnage est au sol.
+Cette manoeuvre permet d'aller [à terre](/lexicon/states#prone) depuis la position debout ou de vous relever si vous êtes à terre.
 
 ### Avancer/Retarder son tour {#maneuvers-hasten-delay}
 
-`Avancer son tour` permet d'augmenter son `initiative` d'un nombre inférieur ou égal à sa `Coordination`.
-
-`Retarder son tour` permet de la diminuer d'autant.
+__Avancer votre tour__ permet d'augmenter votre `initiative` d'un nombre inférieur ou égal à votre `Coordination`. __Retarder votre tour__ permet de la diminuer d'autant.
 
 La nouvelle initiative est prise en compte à partir du prochain round.
 
@@ -172,6 +214,10 @@ Sauter, rouler ou tout autre déplacement d'un personnage doit être associé à
 Un saut en longueur est l'équivalent de __Marcher/Courir__.
 
 Si le personnage fait ce saut pour éviter un obstacle ou un terrain difficile, le MJ peut demander au joueur de faire un test d'`Athlétisme` ou d'`Adresse`.
+:::
+
+:::danger Déplacement et Allonge
+Il n'est pas possible de quitter votre case (et donc de vous déplacer) si vous êtes dans l'allonge d'un adversaire et que ce dernier souhaite vous en empêcher. Dans ce cas, vous devez [vous désengager](#actions-disengage).
 :::
 
 ### Interagir {#maneuvers-interact}
@@ -221,19 +267,15 @@ Permet de se défendre d'une attaque de __contact au corps à corps__ avec un te
 
 ### Encaisser {#reactions-brace}
 
-`Encaisser` ne permet pas à son utilisateur de faire un test : son opposant fait le test contre une difficulté de 1.
+__Encaisser__ ne permet pas à son utilisateur de faire un test : son opposant fait le test contre une difficulté de 1. En échange, __Encaisser__ ne confère pas de bonus de `+1D` cumulatif à ses adversaires.
 
-Un personnage peut Encaisser dans les situations suivantes :
+Un personnage doit Encaisser dans les situations suivantes :
 
-- Il ne peut plus prendre de Réaction.
-- Il souhaite conserver sa première Réaction sans malus.
+- Il ne peut pas prendre de Réaction.
+- Il ne souhaite pas conférer le bonus cumulatif de Réaction à ses adversaires.
 
-:::danger Attention
-Encaisser est particulièrement risqué.
-
-Des combattants entrainés réussiront aisément un test de difficulté 1, ce qui peut coûter très cher.
-
-À utiliser judicieusement.
+:::danger Encaisser est dangereux
+Des combattants entrainés réussiront aisément un test de difficulté 1, ce qui peut vous coûter très cher. Soyez judicieux.
 :::
 
 ### Esquiver {#reactions-dodge}
@@ -288,30 +330,117 @@ Elle repose sur un test opposé, où l’attaquant et la cible engagent leur exp
 5. __Calcul des dégâts__ : Si l’attaque touche, elle inflige ses dégâts. La cible peut alors utiliser ses ressources défensives (armure, bouclier, autres effets). Ensuite, les réductions de dégâts, résistances, vulnérabilités ou immunités sont appliquées pour ajuster le total des dégâts subis.
 6. __Application des dégâts__ : Si le total des dégâts subis est positif, on applique ces dégâts à la cible (voir [Subir des dégâts]()).
 
-### Catégories d'attaques {#attack-categories}
+### Catégories {#attack-categories}
 
-#### Blesser
+Les attaques, en plus de leurs types, peuvent être séparées en plusieurs catégories. Chaque catégorie permet aux joueurs de préciser leurs intentions en combat.
 
-#### Affaiblir
+Pour chaque catégorie, cette section précise :
+* Les conditions d'utilisation.
+* Les effets d'une réussite.
+* Les effets supplémentaires que l'on peut obtenir en dépensant des succès.
+ 
+Sauf indication contraire, les effets sont cumulatifs.
 
-#### Repousser
+:::tip Catégories et Sorts d'attaque
+En général, la description d'un sort d'attaque précise quelle(s) categorie(s) il permet d'utiliser. Un joueur peut dépenser des succès pour obtenir les effets des catégories correspondantes. 
+:::
 
-#### Saisir
+#### Affaiblir {#attack-weaken}
 
-#### Distraire
+Diminue temporairement la puissance de la cible. Dépenser des succès peut ajouter des effets plus handicapants.
 
-#### Désarmer
+* __Réussite__ : la cible est [affaiblie](/lexicon/states#weakened) pendant 1 round.
+* __2 Succès__ : la cible est [étourdie](/lexicon/states#stunned) pendant 1 round.
 
-#### Renverser
+#### Blesser {#attack-harm}
 
+Inflige des dégâts à la cible. Dépenser des succès inflige des dégâts supplémentaires.
+
+* __Réussite__ : inflige les dégâts de l’arme.
+* __1 Succès__ : inflige 1 dégat d'arme supplémentaire.
+
+#### Désarmer {#attack-disarm}
+
+Force la cible à lâcher son arme. Dépenser des succès éloigne l'arme ou permet de la récupérer.
+
+* __Réussite__ : la cible lache son arme qui tombe à ses pieds.
+* __1 Succès__ : l'arme est projetée à 1 case de distance au choix de l'attaquant.
+* __2 Succès__ : l'attaquant peut récupérer l'arme immédiatement (il doit pouvoir la tenir).
+
+#### Distraire {#attack-distract}
+
+Détourne l'attention de la cible pour aider ses alliés.
+
+* __Réussite__ : la cible est [prise au dépourvu](#off-guard) jusqu'à la fin du tour du prochain allié contre lequel elle prend une réaction ou jusqu'au début de son prochain tour le cas échéant.
+* __2 Succès__ : la cible est [prise au dépourvu](#off-guard) pendant 1 round.
+
+#### Renverser {#attack-throw}
+
+Cherche à faire tomber la cible à terre. Dépenser des succès peut étourdir la cible dans sa chute.
+
+* __Réussite__ : la cible est [à terre](/lexicon/states#prone).
+* __2 Succès__ : la cible est également [étourdie](/lexicon/states#stunned) pendant 1 round.
+
+#### Repousser {#attack-repel}
+
+Déplace la cible sur une ou plusieurs cases. Dépenser des succès peut déséquilibrer.
+
+* __Condition__ : la cible doit pouvoir être déplacée.
+* __Réussite__ : repousse la cible d'1 case en ligne droite vers une case non occupée.
+* __1 Succès__ : repousse la cible d'1 case supplémentaire.
+* __2 Succès__ : la cible est [déséquilibrée](#off-balance) pendant 1 round.
+
+#### Saisir {#attack-seize}
+
+Tente de limiter les mouvements de la cible. Dépenser des succès peut neutraliser.
+
+* __Condition__ : l'attaquant doit avoir les mains libres ou utiliser une arme de saisie s'il n'utilise pas de sort.
+* __Réussite__ : la cible est [entravée](/lexicon/states#restrained) pendant 1 round.
+* __2 Succès__ : la cible est [neutralisée](/lexicon/states#neutralized) pendant 1 round.
+
+:::tip Saisies subséquentes
+Si l'attaquant parvient à neutraliser plusieurs rounds de suite un même défenseur avec Saisir, il peut utiliser 1 Succès pour :
+
+* Mettre la cible [à terre](/lexicon/states#prone).
+* Désarmer la cible et récupérer l'arme immédiatement s'il le souhaite (il doit pouvoir la tenir).
+* Asphyxier la cible (voir TODO asphyxie). 
+:::
 
 ## Situations de combat {#combat-situations}
 
-### Infériorité numérique {#overwhelmed}
+### Abri {#cover}
 
-Quand un personnage se trouve dans l'allonge de plusieurs adversaires sans bénéficier du soutien d'alliés, il est __en infériorité numérique__.
+### Allonge {#reach}
 
-Cette situation confère un bonus de `+1D` aux __attaques__ de ses adversaires.
+L'Allonge d'un personnage représente le nombre de cases autour de lui qu'il peut menacer. Les personnages de taille moyenne comme les humains ont une Allonge de 1. Cela veut dire que tout adversaire qui se trouve dans une case adjacente à la sienne risque de devoir [se désengager](#actions-disengage) pour quitter la case qu'il occupe. Ce choix appartient au personnage qui peut, s'il en est capable, [parer](#reactions-parry) en réponse.
+
+Si un personnage ne souhaite pas utiliser une __réaction__ pour [parer](#reaction-parry) le désengagement d'un adversaire dans son allonge, alors l'adversaire n'a pas besoin de se désengager.
+
+L'Allonge peut être supérieure à 1 pour des personnages de plus grande taille, ou si un personnage utilise des armes ou des sorts qui confèrent une augmentation d'allonge.
+
+:::tip Allonge et contrôle
+Plus votre Allonge est grande, plus vous obligez vos adversaires à s'opposer à vous pour se déplacer sur le champ de bataille.
+
+Attention toutefois : chaque nouvelle [parade](#reaction-parry) ajoute un bonus de `+1D` à vos adversaires pour se désengager ou pour vous attaquer. Soyez judicieux. 
+:::
+
+### Arme improvisée {#improvised-weapon}
+
+si un personnage utilise une arme avec laquelle __il n'est pas compétent__, son arme est considérée comme étant improvisée.
+
+### Attaque multiple
+
+### Combat à deux armes {#dual-wield}
+
+### Combat aérien {#aerial-combat}
+
+### Combat aquatique {#underwater-combat}
+
+### Combat en aveugle {#blind-combat}
+
+### Combat monté {#mounted-combat}
+
+### Déséquilibré {#off-balance}
 
 ### Pris au dépourvu {#off-guard}
 
@@ -330,22 +459,11 @@ Un personnage est sans défense s'il est [inconscient](/lexicon/states#unconscio
 
 ### Terrain difficile {#difficult-terrain}
 
-### Allonge {#reach}
+### Tirer sans viser {#hipfire}
 
-### Combat à deux armes {#dual-wield}
+si un personnage tente une attaque de contact à distance sans avoir préalablement [visé](/rules/combat#maneuvers-aim) dans le même tour, la cible obtient un bonus de `+2D` à son test.
 
-### Abri
-
-### Combat monté
-
-### Combat aérien
-
-### Combat aquatique
-
-### Cas particuliers {#attack-specifics}
-
-* __Tirer sans viser__ : si un personnage tente une attaque de contact à distance sans avoir préalablement [visé](/rules/combat#maneuvers-aim) dans le même tour, il subit un malus de `-2D` à son test.
-* __Arme improvisée__ : si un personnage utilise une arme avec laquelle __il n'est pas compétent__, son arme est considérée comme étant improvisée.
+### Tirer à bout portant {#point-blank-shot}
 
 ## Modificateurs {#attack-modifiers}
 
@@ -358,7 +476,7 @@ Lorsqu’un personnage prépare sa réserve de dés pour attaquer ou se défendr
 | __[À Terre](/lexicon/states#prone)__ | Combat difficilement au corps à corps mais est moins exposé. | `–1D` pour et contre le contact au corps à corps.<br>`+1D` contre le contact à distance. |
 | __[Affaibli](/lexicon/states#weakened)__ | Combat moins efficacement. | `–1D` par degré d'affaiblissement. |
 | __[Aveuglé](/lexicon/states#blinded)__ | Ne voit pas ses adversaires. | `-2D` aux tests de combat nécessitant de voir l'adversaire. |
-| __[Effrayé](/lexicon/states#afraid)__ | Est effrayé par quelque chose. | `-1D` aux tests de combat (Affaibli). |
+| __[Effrayé](/lexicon/states#frightened)__ | Est effrayé par quelque chose. | `-1D` aux tests de combat (Affaibli). |
 | __[Entravé](/lexicon/states#restrained)__ | Est immobilisé par quelque chose. | `-1D` à certains tests¹.<br/>Ne peut pas Esquiver. |
 | __[Épuisé](/lexicon/states#exhausted)__ | Est fatigué. | `–1D` aux tests de combat (Affaibli). |
 | __[Étourdi](/lexicon/states#stunned)__ | Est sonné. | `–1D` aux tests de combat (Affaibli). |
@@ -370,8 +488,6 @@ Lorsqu’un personnage prépare sa réserve de dés pour attaquer ou se défendr
 
 | Condition | Description | Effet mécanique |
 | - | - | - |
-| Abri partiel | Abri partiel (muret, meuble…). | –2D aux attaques contre la cible. |
-| Couvert lourd | Abri solide (mur, porte…). | –4D aux attaques contre la cible. |
 | Terrain difficile | Boue, gravats, neige, etc. | Réduction de la vitesse, ou malus –1D à certains tests. |
 | Hauteur | Attaquant en hauteur | +1D à l’attaque. |
 | Faible visibilité | Brouillard, fumée, lumière faible. | –2D aux jets liés à la perception ou la précision. |

@@ -254,6 +254,9 @@ L'Encombrement représente la capacité du personnage à transporter des objets 
 - __Gérer l'encombrement__ : Pensez à l’équipement nécessaire pour vos aventures et évitez de transporter trop d’objets inutiles pour rester efficace en combat et en exploration.
 :::
 
+### Vitesse
+TODO
+
 ## Expérience de départ
 
 À la création de votre personnage, vous disposez de __20 points d'expérience__ que vous pouvez répartir selon votre convenance.
@@ -327,6 +330,3 @@ Comment parle-t-il ? Quels sont ses tics, ses peurs, ses ambitions ? Ce travail 
 La validation finale est une étape essentielle pour transformer une simple fiche en un héros ou une héroïne unique et mémorable.
 
 Soyez ouvert aux suggestions de votre MJ, tout en affirmant votre propre vision. Un personnage bien conçu et étoffé ne se contentera pas de traverser les aventures : il en sera un élément clé, captivant et inoubliable, pour vous et pour les autres joueurs.
-
-
-TODO Vitesse dans les attributs dérivés

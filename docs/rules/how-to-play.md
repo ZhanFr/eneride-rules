@@ -453,6 +453,11 @@ Bien que les tours soient joués les uns après les autres pour des raisons prat
 
 Le système structuré permet ainsi de gérer précisément les actions, les effets temporaires (comme une torche qui brûle pendant 6 rounds) et les réactions dans un cadre clair et équilibré.
 
+:::tip Durée des Effets
+* Un effet qui dure 1 ou plusieurs rounds se termine au début du tour de la source lorsque le nombre de round est atteint. Par exemple, si un personnage lance un sort qui applique un effet pendant 2 rounds, il reste 1 round au début du prochain tour du personnage, puis l'effet prend fin au début du tour suivant.
+* Un effet qui dure 1 tour se termine systématiquement à la fin du tour de la source.
+:::
+
 ### Alternance des Modes
 
 Le passage du __temps narratif__ au __temps structuré__, et inversement, est fluide. C’est le MJ qui décide à quel moment basculer d’un mode à l’autre en fonction de la situation.
