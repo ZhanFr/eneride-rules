@@ -187,11 +187,11 @@ Par exemple :
 
 __Aider__ confère un bonus de `+1D` au prochain test d'un allié dans votre allonge.
 
-Ce bonus est valable pendant 1 round.
+Ce bonus est valable jusqu'à utilisation ou pendant 1 round.
 
 ### Aller à terre / Se relever {#maneuvers-prone-stand}
 
-Cette manoeuvre permet d'aller [à terre](/lexicon/states#prone) depuis la position debout ou de vous relever si vous êtes à terre.
+Permet d'aller [à terre](/lexicon/states#prone) depuis la position debout ou de vous relever si vous êtes à terre.
 
 ### Avancer/Retarder son tour {#maneuvers-hasten-delay}
 
@@ -203,17 +203,17 @@ La nouvelle initiative est prise en compte à partir du prochain round.
 
 Permet au personnage de se déplacer en utilisant une des méthodes suivants :
 
-- __Marcher/Courir__ : c'est le déplacement par défaut si le personnage est debout. Il se déplace d'une distance inférieure ou égale à sa `Vitesse`. Par exemple, un humain avec une `Vitesse` de 5 peut se déplacer de 1 à 5 cases (ou de 1.5 à 7.5 mètres).
+- __Marcher/Courir__ : c'est le déplacement par défaut si vous êtes debout. Déplacez-vous d'une distance inférieure ou égale à votre `Vitesse`. Par exemple, avec une `Vitesse` de 5, vous pouvez vous déplacer de 1 à 5 cases (ou de 1.5 à 7.5 mètres).
 - __Monter__ : permet de monter sur une monture, un véhicule ou un support équivalent.
 - __Descendre__ : permet de descendre d'une monture, d'un véhicule ou d'un support équivalent.
-- __Ramper__ : c'est le déplacement par défaut si le personnage est au sol. Il se déplace d'1 case (ou d'1.5 mètres) peu importe sa `Vitesse`.
+- __Ramper__ : c'est le déplacement par défaut si vous êtes au sol. Déplacez-vous d'1 case (ou d'1.5 mètres) peu importe votre `Vitesse`.
 
-Sauter, rouler ou tout autre déplacement d'un personnage doit être associé à une des méthodes ci-dessus.
+Sauter, rouler ou tout autre déplacement doit être associé à une des méthodes ci-dessus.
 
 :::info Exemple
 Un saut en longueur est l'équivalent de __Marcher/Courir__.
 
-Si le personnage fait ce saut pour éviter un obstacle ou un terrain difficile, le MJ peut demander au joueur de faire un test d'`Athlétisme` ou d'`Adresse`.
+Si vous faites ce saut pour éviter un obstacle ou un terrain difficile, le MJ peut vous demander de faire un test d'`Athlétisme` ou d'`Adresse`.
 :::
 
 :::danger Déplacement et Allonge
@@ -224,7 +224,7 @@ Il n'est pas possible de quitter votre case (et donc de vous déplacer) si vous 
 
 Cette manoeuvre permet d'interagir avec l'environnement.
 
-L'interaction doit être assez rapide sinon le MJ peut demander au joueur d'utiliser plusieurs manoeuvres pour atteindre son objectif.
+L'interaction doit être assez rapide sinon le MJ peut vous demander d'utiliser plusieurs manoeuvres pour atteindre votre objectif.
 
 :::info Exemple
 Dire quelque chose à quelqu'un, ramasser ou poser un objet, ouvrir ou fermer une porte.
@@ -232,47 +232,47 @@ Dire quelque chose à quelqu'un, ramasser ou poser un objet, ouvrir ou fermer un
 
 ### Se presser {#maneuvers-hurry}
 
-Le personnage subit `1 Stress` pour effectuer immédiatement deux `manoeuvres` de son choix.
+Vous subissez `1 Stress` pour effectuer immédiatement __deux manoeuvres__ de votre choix.
 
-Un personnage ne peut se presser qu'__une seule fois par round__.
+Vous ne pouvez vous presser qu'__une seule fois par round__.
 
 ### Posture agressive {#maneuvers-aggressive-stance}
 
-Confère un bonus de +1D aux tests de `Mêlée` ou de `Pugilat` jusqu'au début du prochain tour du personnage.
+Vous confère un bonus de `+1D` aux tests de `Mêlée` ou de `Pugilat` jusqu'à la fin de votre tour.
 
-L'effet n'est pas cumulable avec la manoeuvre `Posture défensive` (la dernière manoeuvre remplace la précédente).
+L'effet n'est pas cumulable avec la manoeuvre __Posture défensive__ (la dernière manoeuvre remplace la précédente).
 
 ### Posture défensive {#maneuvers-defensive-stance}
 
-Confère un bonus de +1D aux tests entrepris dans le cadre des réactions `Parer` et `Esquiver` jusqu'au début du prochain tour du personnage.
+Vous confère un bonus de `+1D` aux tests des réactions [Parer](#reactions-parry) et [Esquiver](#reactions-dodge) pendant 1 round.
 
-L'effet n'est pas cumulable avec la manoeuvre `Posture offensive` (la dernière manoeuvre remplace la précédente).
+L'effet n'est pas cumulable avec la manoeuvre __Posture offensive__ (la dernière manoeuvre remplace la précédente).
 
 ### Révoquer un sort {#maneuvers-revoke-spell}
 
-Met fin à un sort que le personnage contrôle.
+Mettez fin à un sort que vous contrôlez.
 
 ### Viser {#maneuvers-aim}
 
-Permet d'annuler le malus du `Tir rapide` jusqu'à la fin du tour du personnage.
+Vos cibles ne bénéficient pas du bonus lié au tir sans viser aux réactions contre vos __attaques de contact à distance__ jusqu'à la fin de votre tour.
 
 ## Liste des Réactions {#reactions}
 
 ### Parer {#reactions-parry}
 
-Permet de se défendre d'une attaque de __contact au corps à corps__ avec un test opposé utilisant `Mêlée (Coordination)` ou `Pugilat (Coordination)`.
+Permet de vous défendre contre une attaque de __contact au corps à corps__ avec un test opposé utilisant `Mêlée (Coordination)` ou `Pugilat (Coordination)`.
 
-- Si le personnage obtient au moins autant de succès que l'attaquant, il pare l'attaque.
-- Se le défenseur obtient 3 degrés de réussite, il obtient une `Contre-attaque`.
+- Si vous obtenez au moins autant de succès que l'attaquant, vous parez l'attaque.
+- Si vous dépensez 3 succès, vous obtenez une [contre-attaque](#counter-attack).
 
 ### Encaisser {#reactions-brace}
 
-__Encaisser__ ne permet pas à son utilisateur de faire un test : son opposant fait le test contre une difficulté de 1. En échange, __Encaisser__ ne confère pas de bonus de `+1D` cumulatif à ses adversaires.
+__Encaisser__ ne vous permet pas de faire un test : votre adversaire fait le test contre une difficulté de 1. En échange, __encaisser__ ne confère pas de bonus de `+1D` cumulatif à vos adversaires.
 
-Un personnage doit Encaisser dans les situations suivantes :
+Vous devez encaisser dans les situations suivantes :
 
-- Il ne peut pas prendre de Réaction.
-- Il ne souhaite pas conférer le bonus cumulatif de Réaction à ses adversaires.
+- Vous ne pouvez pas prendre de Réaction.
+- Vous ne souhaitez pas conférer le bonus cumulatif de Réaction à vos adversaires.
 
 :::danger Encaisser est dangereux
 Des combattants entrainés réussiront aisément un test de difficulté 1, ce qui peut vous coûter très cher. Soyez judicieux.
@@ -280,25 +280,25 @@ Des combattants entrainés réussiront aisément un test de difficulté 1, ce qu
 
 ### Esquiver {#reactions-dodge}
 
-Permet de se défendre d'une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant `Coordination` sans compétence, auquel s'ajoutent certains bonus ou malus (voir TODO Modificateurs de combat).
+Permet de vous défendre contre une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant uniquement `Coordination`, auquel vous ajoutez certains bonus (voir les [modificateurs de combat](##attack-modifiers)).
 
 :::tip Se jeter au sol
-Si le personnage n'est pas `Entravé`, il est possible de `Se jeter au sol` : le personnage subit `1 Stress` et se retrouve [À Terre](/lexicon/states#prone) immédiatement. Cela lui confère les modificateurs de combat associés.
+Si vous n'êtes pas [entravé](/lexicon/states#restrained), vous pouvez __vous jeter au sol__ : vous subissez `1 Stress` et vous retrouvez [à terre](/lexicon/states#prone) immédiatement. Cela vous confère les [modificateurs de combat associés](#attack-modifiers-states).
 :::
 
-Si le personnage obtient au moins autant de succès que l'attaquant, il esquive l'attaque.
+Si vous obtenez au moins autant de succès que l'attaquant, vous esquivez l'attaque.
 
 ### Résister {#reactions-resist}
 
-Permet de se défendre d'une attaque __sans contact__ avec un test opposé dont la réserve de dés dépend de l'attaque.
+Permet de vous défendre contre une attaque __sans contact__ avec un test opposé.
 
-Le plus souvent, la compétence `Discipline (Volonté)` est utilisée contre les attaques mentales et la compétence `Résilience (Vigueur)` contre les attaques infligeant des effets physiques ou des dégâts internes.
+Le plus souvent, `Discipline (Volonté)` est utilisé contre les attaques mentales et `Résilience (Vigueur)` contre les attaques infligeant des effets physiques ou des dégâts internes.
 
-Si le personnage obtient au moins autant de succès que l'attaquant, il résiste à l'attaque.
+Si vous obtenez au moins autant de succès que l'attaquant, vous résistez à l'attaque.
 
 ## Attaquer {#attack}
 
- `Attaquer` représente toute forme d'agression dirigée contre un ou plusieurs adversaires. Cela peut être une agression __physique__, __verbale__ ou __magique__.
+ __Attaquer__ représente toute forme d'agression dirigée contre un ou plusieurs adversaires. Cela peut être une agression __physique__, __verbale__ ou __magique__.
 
 Les attaques sont des actions fondamentales du combat et nécessitent une approche tactique.
 
@@ -306,33 +306,33 @@ Leur résolution repose sur un test opposé entre l'__attaquant__ et le __défen
 
 ### Règles générales {#attack-rules}
 
-Pour mener à bien une `attaque`, certaines conditions doivent être remplies :
+Pour mener à bien une attaque, certaines conditions doivent être remplies :
 
 - __Identifier sa cible__ : que ce soit une zone ou un adversaire, cela nécessite une ligne de vue dégagée ou de connaître sa position.
 - __Être à portée__ : à une distance appropriée selon l'arme ou le pouvoir.
 - __Être compétent__ : sans quoi l'arme est considérée comme improvisée.
-- __Être capable__ : le personnage doit pouvoir utiliser une `action`.
+- __Être capable__ : vous devez pouvoir utiliser une `action`.
 
 ### Réagir à une attaque {#react-to-attack}
 
-Toute `attaque` entraine une `réaction`. Si un personnage ne se sent pas en danger contre un assaillant et qu'il souhaite conserver au maximum ses capacités pour une prochaine attaque dans un même round, il peut choisir d'`Encaisser` avec les risques que cela représente.
+__Toute attaque entraine une réaction__. Si vous ne vous sentez pas en danger contre un assaillant et que vous souhaitez conserver au maximum vos capacités pour une autre attaque dans un même round, vous pouvez choisir d'[encaisser](#reactions-brace) avec les risques que cela représente.
 
 ### Résolution {#attack-resolution}
 
 La résolution d'une attaque se fait en plusieurs étapes successives qui simulent son déroulement.
 
-Elle repose sur un test opposé, où l’attaquant et la cible engagent leur expertise respective pour tenter de toucher… ou d’éviter le coup.
+Elle repose sur un test opposé, où vous et vos adversaires engagez vos expertises respectives pour tenter de toucher… ou d’éviter le coup.
 
-1. __Déclaration de l'attaque__ : Le joueur décrit l'action entreprise : quel type d’attaque, quelle arme, quelle cible, et éventuellement quelles options sont utilisées.
-2. __Constitution de la réserve de dés__ : L’attaquant constitue sa réserve de dés en prenant en compte les modificateurs contextuels (position, portée, états, visibilité, etc).
-3. __Choix de la Réaction par la cible__ : la cible déclare sa __Réaction__, c’est-à-dire la manière dont elle compte se défendre (Parer, Esquiver, Résister ou Encaisser) en prenant en compte les conditions de l'attaque.
-4. __Tests__ : L’attaquant lance sa réserve de dés. Si la cible a choisi une réaction active (Parer, Esquiver ou Résister), elle lance également sa réserve. Le test est réussi si l’attaquant obtient plus de Succès que la cible. En cas d’égalité, l’attaque est un échec.
-5. __Calcul des dégâts__ : Si l’attaque touche, elle inflige ses dégâts. La cible peut alors utiliser ses ressources défensives (armure, bouclier, autres effets). Ensuite, les réductions de dégâts, résistances, vulnérabilités ou immunités sont appliquées pour ajuster le total des dégâts subis.
-6. __Application des dégâts__ : Si le total des dégâts subis est positif, on applique ces dégâts à la cible (voir [Subir des dégâts]()).
+1. __Déclaration de l'attaque__ : vous décrivez l'action entreprise : quel type d’attaque, quelle arme, quelle cible, et éventuellement quelles options sont utilisées.
+2. __Constitution de la réserve de dés__ : constituez votre réserve de dés en prenant en compte les modificateurs contextuels (position, portée, états, visibilité, etc).
+3. __Choix de la Réaction par la cible__ : votre cible (ou vos cibles) déclare sa __réaction__, c’est-à-dire la manière dont elle compte se défendre (Parer, Esquiver, Résister ou Encaisser) en prenant en compte les conditions de l'attaque.
+4. __Tests__ : lancez votre réserve de dés. Si la cible a choisi une réaction active (Parer, Esquiver ou Résister), elle lance également sa réserve. Le test est une réussite si vous obtenez __plus de succès__ que la cible. En cas d’égalité, l’attaque est un échec.
+5. __Calcul des dégâts__ : Si votre attaque est une réussite, elle peut inflige des dégâts. Votre cible peut alors utiliser ses ressources défensives (armure, bouclier, autres effets). Ensuite, les réductions de dégâts, résistances, vulnérabilités ou immunités sont appliquées pour ajuster le total des dégâts subis.
+6. __Application des dégâts__ : Si le total des dégâts subis est positif, on applique ces dégâts à la cible (voir [Subir des dégâts](/rules/how-to-play#take-damage)).
 
 ### Catégories {#attack-categories}
 
-Les attaques, en plus de leurs types, peuvent être séparées en plusieurs catégories. Chaque catégorie permet aux joueurs de préciser leurs intentions en combat.
+Les attaques, en plus de leurs types, peuvent être séparées en plusieurs catégories. Chaque catégorie vous permet de préciser vos intentions en combat.
 
 Pour chaque catégorie, cette section précise :
 * Les conditions d'utilisation.
@@ -342,15 +342,22 @@ Pour chaque catégorie, cette section précise :
 Sauf indication contraire, les effets sont cumulatifs.
 
 :::tip Catégories et Sorts d'attaque
-En général, la description d'un sort d'attaque précise quelle(s) categorie(s) il permet d'utiliser. Un joueur peut dépenser des succès pour obtenir les effets des catégories correspondantes. 
+En général, la description d'un sort d'attaque précise quelle(s) categorie(s) il permet d'utiliser. Vous pouvez dépenser des succès pour obtenir les effets des catégories correspondantes.
 :::
 
 #### Affaiblir {#attack-weaken}
 
 Diminue temporairement la puissance de la cible. Dépenser des succès peut ajouter des effets plus handicapants.
 
+* __Condition__ : vous devez utiliser une __attaque sans contact__ ou un __sort__.
 * __Réussite__ : la cible est [affaiblie](/lexicon/states#weakened) pendant 1 round.
 * __2 Succès__ : la cible est [étourdie](/lexicon/states#stunned) pendant 1 round.
+
+:::tip Affaiblir sans contact ?
+Cette catégorie représente des actions qui visent à saper le moral ou à fatiguer vos adversaires. Par exemple :
+- Utilisez `Intimidation (Charisme)` pour démoraliser vos adversaires.
+- Utilisez un __sort de fatigue__ pour réduire l'efficacité de vos adversaires.
+::: 
 
 #### Blesser {#attack-harm}
 
@@ -365,11 +372,11 @@ Force la cible à lâcher son arme. Dépenser des succès éloigne l'arme ou per
 
 * __Réussite__ : la cible lache son arme qui tombe à ses pieds.
 * __1 Succès__ : l'arme est projetée à 1 case de distance au choix de l'attaquant.
-* __2 Succès__ : l'attaquant peut récupérer l'arme immédiatement (il doit pouvoir la tenir).
+* __2 Succès__ : vous pouvez récupérer l'arme immédiatement si vous pouvez la tenir.
 
 #### Distraire {#attack-distract}
 
-Détourne l'attention de la cible pour aider ses alliés.
+Détourne l'attention de la cible pour aider vos alliés.
 
 * __Réussite__ : la cible est [prise au dépourvu](#off-guard) jusqu'à la fin du tour du prochain allié contre lequel elle prend une réaction ou jusqu'au début de son prochain tour le cas échéant.
 * __2 Succès__ : la cible est [prise au dépourvu](#off-guard) pendant 1 round.
@@ -386,23 +393,22 @@ Cherche à faire tomber la cible à terre. Dépenser des succès peut étourdir 
 Déplace la cible sur une ou plusieurs cases. Dépenser des succès peut déséquilibrer.
 
 * __Condition__ : la cible doit pouvoir être déplacée.
-* __Réussite__ : repousse la cible d'1 case en ligne droite vers une case non occupée.
-* __1 Succès__ : repousse la cible d'1 case supplémentaire.
+* __Réussite__ : repoussez la cible d'1 case en ligne droite vers une case non occupée.
+* __1 Succès__ : repoussez la cible d'1 case supplémentaire.
 * __2 Succès__ : la cible est [déséquilibrée](#off-balance) pendant 1 round.
 
 #### Saisir {#attack-seize}
 
 Tente de limiter les mouvements de la cible. Dépenser des succès peut neutraliser.
 
-* __Condition__ : l'attaquant doit avoir les mains libres ou utiliser une arme de saisie s'il n'utilise pas de sort.
+* __Condition__ : vous devez avoir les mains libres ou utiliser une arme de saisie si vous n'utilisez pas de sort ; vous devez avoir une seule cible.
 * __Réussite__ : la cible est [entravée](/lexicon/states#restrained) pendant 1 round.
 * __2 Succès__ : la cible est [neutralisée](/lexicon/states#neutralized) pendant 1 round.
 
 :::tip Saisies subséquentes
-Si l'attaquant parvient à neutraliser plusieurs rounds de suite un même défenseur avec Saisir, il peut utiliser 1 Succès pour :
-
+Si vous parvenez à neutraliser plusieurs rounds de suite une même cible avec Saisir, vous pouvez dépenser 1 succès pour :
 * Mettre la cible [à terre](/lexicon/states#prone).
-* Désarmer la cible et récupérer l'arme immédiatement s'il le souhaite (il doit pouvoir la tenir).
+* Désarmer la cible et récupérer l'arme immédiatement si vous le souhaitez et si vous pouvez la tenir (cela peut mettre fin à la saisie).
 * Asphyxier la cible (voir TODO asphyxie). 
 :::
 
@@ -412,52 +418,122 @@ Si l'attaquant parvient à neutraliser plusieurs rounds de suite un même défen
 
 ### Allonge {#reach}
 
-L'Allonge d'un personnage représente le nombre de cases autour de lui qu'il peut menacer. Les personnages de taille moyenne comme les humains ont une Allonge de 1. Cela veut dire que tout adversaire qui se trouve dans une case adjacente à la sienne risque de devoir [se désengager](#actions-disengage) pour quitter la case qu'il occupe. Ce choix appartient au personnage qui peut, s'il en est capable, [parer](#reactions-parry) en réponse.
+Votre allonge représente le nombre de cases autour de vous que vous pouvez menacer. Les personnages de taille moyenne comme les humains ont une Allonge de 1. Cela veut dire que tout adversaire qui se trouve dans une case adjacente à la votre risque de devoir [se désengager](#actions-disengage) pour quitter la case qu'il occupe. Vous pouvez alors, si vous en êtes capable, [parer](#reactions-parry) en réponse.
 
-Si un personnage ne souhaite pas utiliser une __réaction__ pour [parer](#reaction-parry) le désengagement d'un adversaire dans son allonge, alors l'adversaire n'a pas besoin de se désengager.
+Si vous ne souhaitez pas utiliser une __réaction__ pour [parer](#reaction-parry) le désengagement d'un adversaire dans votre allonge, alors l'adversaire n'a pas besoin de se désengager.
 
-L'Allonge peut être supérieure à 1 pour des personnages de plus grande taille, ou si un personnage utilise des armes ou des sorts qui confèrent une augmentation d'allonge.
+L'Allonge peut être supérieure à 1 pour des personnages de plus grande taille, ou si vous utilisez des armes ou des sorts qui confèrent une augmentation d'allonge.
 
 :::tip Allonge et contrôle
-Plus votre Allonge est grande, plus vous obligez vos adversaires à s'opposer à vous pour se déplacer sur le champ de bataille.
+Plus votre allonge est grande, plus vous obligez vos adversaires à s'opposer à vous pour se déplacer sur le champ de bataille.
 
 Attention toutefois : chaque nouvelle [parade](#reaction-parry) ajoute un bonus de `+1D` à vos adversaires pour se désengager ou pour vous attaquer. Soyez judicieux. 
 :::
 
 ### Arme improvisée {#improvised-weapon}
 
-si un personnage utilise une arme avec laquelle __il n'est pas compétent__, son arme est considérée comme étant improvisée.
+Si vous utilisez une arme avec laquelle __vous n'êtes pas compétent__, elle est considérée comme étant une arme improvisée de catégorie équivalente.
 
-### Attaque multiple
+### Attaque multiple {#multiple-strikes}
+
+Lors d'une attaque, vous pouvez cibler plusieurs adversaires ou cibler plusieurs fois un même adversaire. Pour cela, vous devez remplir les conditions suivantes :
+
+* Vos armes ou votre sort doivent pouvoir être utilisés plusieurs fois dans un même tour.
+* Toutes vos cibles doivent être à votre portée.
+* Le nombre maximal de cible est égal à votre `Coordination`.
+
+Pour réaliser une attaque multiple :
+1. Constituez votre réserve de dés comme si vous alliez cibler un seul adversaire.
+2. Appliquez les modificateurs de combat de la cible la plus difficile à toucher.
+3. Divisez votre réserve par le nombre de cibles. Vous pouvez répartir les dés comme vous le souhaitez, à condition qu'aucune sous-réserve ne contienne plus de dés que votre réserve initiale moins 1 dé.
+4. Opposez vos sous-réserves aux réactions de vos adversaires, notez que votre attaque multiple ne compte que comme une seule attaque.
+5. Pour obtenir des réussites, chaque sous-réserve doit obtenir plus de succès que la réaction adverse.
+
+Vous pouvez cibler plusieurs fois le même adversaire, auquel cas chaque sous-réserve doit obtenir plus de succès que l'unique réaction adverse pour être des réussites.
+
+:::info Exemple
+Vous faites face à deux adversaires (A et B) dans votre allonge. Vous décidez de faire une attaque multiple pour les blesser. Grâce à votre `Coordination` égale à 3, vous souhaitez cibler vos adversaires trois fois : deux fois sur A, une fois sur B.
+
+* Vous constituez votre réserve de `Mêlée (Coordination)` égale à `6D`.
+* Vous pouvez obtenir un bonus de `+2D` contre A et `+1D` contre B, vous ajoutez donc `+1D` pour un total de `7D`.
+* Vous divisez votre réserve comme suit : `3D` contre A, `2D` contre A et `2D` contre B.
+* A décide de parer votre attaque avec une réserve de `3D`.
+* B décide d'équiver votre attaque avec une réserve de `2D`.
+* Tous les participants lancent leurs réserves.
+* Vous obtenez __3 succès__ contre A, __2 succès__ contre A et __1 succès__ contre B.
+* A n'obtient __aucun succès__, B obtient __1 succès__.
+* Votre attaque multiple contre A se solde par 2 réussites, vous infligez deux fois vos dégâts.
+* Votre attaque multiple contre B se solde par 1 échec, vous n'infligez pas de dégâts.
+:::
+
+### Attaque de zone {#attack-area}
+
 
 ### Combat à deux armes {#dual-wield}
 
+Combattre à deux armes ne confère __aucun bonus particulier__ à une réserve de dés.
+
+Vous pouvez utiliser deux armes avec des types de dégâts et des portées différentes, vous permettant de couvrir un plus large panel de situations tactiques. Chaque arme doit pouvoir être maniée à une main, de sorte que vous puissiez les tenir en même temps.
+
+Lorsque vous attaquez, vous choisissez avec quelle arme (ou avec les deux dans le cadre d'une attaque multiple par exemple).
+
 ### Combat aérien {#aerial-combat}
 
+TODO Supplément
+
 ### Combat aquatique {#underwater-combat}
+
+TODO Supplément
 
 ### Combat en aveugle {#blind-combat}
 
 ### Combat monté {#mounted-combat}
 
+TODO Supplément
+
 ### Déséquilibré {#off-balance}
+
+Si une situation vous empêche de combattre efficacement, vous êtes __déséquilibré__. Dans cette condition :
+
+* Vos adversaires ont un bonus de `+1D` contre vos attaque de __contact au corps à corps__ et de __contact à distance__.
+* Vos adversaires ont un bonus de `+1D` aux attaques de __contact au corps à corps__ et de __contact à distance__ contre vous.
 
 ### Pris au dépourvu {#off-guard}
 
-Quand un personnage est surpris par ses adversaires, il est __pris au dépourvu__, ce qui implique :
+Si vous êtes est surpris par vos adversaires, vous êtes __pris au dépourvu__. Dans cette condition :
 
-* un malus de `-1D` à ses __réactions défensives__ (Parer, Esquiver et Résister).
-* il ne peut pas utiliser de réaction en réponse à l'action [se désengager](/rules/combat#actions-disengage).
+* Vos adversaires ont un bonus de `+1D` aux attaques contre vous.
+* Vous ne pouvez pas [parer](#reactions-parry) en réponse à l'action [se désengager](/rules/combat#actions-disengage).
 
 ### Sans défense {#defenseless}
 
-Quand un personnage n'est plus en mesure de se défendre, il est __sans défense__.
+Si vous n'êtes plus en mesure de vous défendre, vous êtes __sans défense__. Dans cette condition :
 
-Le personnage ne peut normalement plus agir, ce qui l'oblige à [encaisser](/rules/combat#reactions-brace) systématiquement dans le cadre de ses réactions.
+* Vous devez [encaisser](/rules/combat#reactions-brace) systématiquement dans le cadre de vos réactions.
 
-Un personnage est sans défense s'il est [inconscient](/lexicon/states#unconscious).
+Vous êtes sans défense si vous êtes [inconscient](/lexicon/states#unconscious).
 
 ### Terrain difficile {#difficult-terrain}
+
+Un terrain difficile représente un espace qui gêne vos mouvements et qui est suffisamment inégal ou instable pour que votre équilibre y soit précaire.
+
+* Vous êtes [déséquilibré](#off-balance) sur un terrain difficile.
+* Quitter une case de terrain difficile nécessite deux fois plus de déplacement.
+
+:::info Exemple : Terrain difficile et déplacement
+Si vous parcourez 4 cases numérotées 1, 2, 3 et 4, et que les cases 2 et 3 sont des terrains difficiles, voici comment calculer votre déplacement avec une `Vitesse` de 5 :
+- Vous vous trouvez initialement dans la case 1.
+- La case 1 n'étant pas un terrain difficile, vous déplacer vers la case 2 coûte 1 case (ou 1.5 mètres).
+- La case 2 est un terrain difficile, vous déplacer vers la case 3 coûte 2 cases (ou 3 mètres).
+- La case 3 est un terrain difficile, vous déplacer vers la case 4 coûte également 2 cases (ou 3 mètres).
+- Vous atteignez la case 4 en ayant consommé tout votre déplacement (5 cases / 7.5 mètres).
+:::
+
+:::tip Ramper en terrain difficile
+Dans la majorité des cas, ramper ignore le terrain difficile : ramper sur un sol glissant ou sur un terrain instable ne représente pas de difficultés particulières.
+
+Votre MJ peut décider que son terrain difficile n'est pas pratiquable en rampant. Dans ce cas, il peut vous demander de consommer deux manœuvres ou de réaliser un test pour quitter une case.
+:::
 
 ### Tirer sans viser {#hipfire}
 
@@ -469,7 +545,7 @@ si un personnage tente une attaque de contact à distance sans avoir préalablem
 
 Lorsqu’un personnage prépare sa réserve de dés pour attaquer ou se défendre, divers modificateurs peuvent s’appliquer. Ils reflètent des éléments tactiques et narratifs.
 
-### État du personnage
+### État du personnage {#attack-modifiers-states}
 
 | État | Description | Modificateurs |
 | - | - | - |

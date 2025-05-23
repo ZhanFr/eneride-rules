@@ -203,7 +203,7 @@ Dans ce système, trois notions essentielles représentent l'état physique et m
 - __Le Stress__ : Cette valeur mesure la capacité d'un personnage à encaisser et à supporter des agressions, tant physiques que mentales. Le stress agit comme un tampon temporaire qui permet d'éviter que les dégâts ne se transforment immédiatement en `blessures`.
 - __Les Blessures__ : Ce sont les dommages effectifs, qu'ils soient physiques ou mentaux, qui altèrent durablement la condition d'un personnage. Lorsqu'un personnage subit des dégâts, il choisit (ou se voit imposer) de convertir ces dégâts en `stress` ou en `blessures`, en fonction de la situation.
 
-### Subir des dégâts
+### Subir des dégâts {#take-damage}
 Lorsqu'une source inflige des `dégâts` à une cible, plusieurs étapes s'appliquent :
 
 1. __Calcul initial__ : La source inflige un nombre de `dégâts` indiqués.
