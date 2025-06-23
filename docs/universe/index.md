@@ -4,12 +4,9 @@ layout: home
 
 hero:
   name: "Eneride"
-  text: "Règles du système"
-  tagline: My great project tagline
+  text: "L'encyclopédie complète de l'univers"
+  tagline: En l'an 2680 de l'ère 4ème
   actions:
-    - theme: alt
-      text: Règles de jeu
-      link: /rulebook
     - theme: alt
       text: Encyclopédie de l'univers
       link: /universe

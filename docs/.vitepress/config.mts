@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
     title: 'Eneride',
     description: 'Règles du système',
+    base: '/eneride/',
 
     locales: {
         root: {
@@ -25,7 +26,7 @@ export default defineConfig({
 
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Règles', link: '/rules', activeMatch: '/rules|lexicon/' },
+            { text: 'Règles', link: '/rulebook', activeMatch: '/rules|careers/' },
             { text: 'Univers', link: '/universe', activeMatch: '/universe/' },
         ],
 
@@ -33,17 +34,29 @@ export default defineConfig({
             {
                 text: 'Règles',
                 items: [
-                    { text: 'Création de personnage', link: '/rules/character-creation' },
-                    { text: 'Comment jouer ?', link: '/rules/how-to-play' },
-                    { text: 'Magie', link: '/rules/magic' },
-                    { text: 'Exploration', link: '/rules/exploration' },
-                    { text: 'Combat', link: '/rules/combat' },
-                    { text: 'Négociation', link: '/rules/negociation' },
+                    { text: 'Création de personnage', link: '/rulebook/rules/character-creation' },
+                    { text: 'Comment jouer ?', link: '/rulebook/rules/how-to-play' },
+                    { text: 'Magie', link: '/rulebook/rules/magic' },
+                    { text: 'Exploration', link: '/rulebook/rules/exploration' },
+                    { text: 'Combat', link: '/rulebook/rules/combat' },
+                    { text: 'Négociation', link: '/rulebook/rules/negociation' },
+                    { text: 'États', link: '/rulebook/rules/conditions' },
+                    { text: 'Glossaire', link: '/rulebook/rules/glossary' },
                 ],
             },
             {
-                text: 'Lexique',
-                items: [{ text: 'États', link: '/lexicon/states' }],
+                text: 'Carrières',
+                items: [
+                    { text: 'Alchimiste', link: '/rulebook/careers/alchemist' },
+                    { text: 'Artificier', link: '/rulebook/careers/artificer' },
+                    { text: 'Pyromancien', link: '/rulebook/careers/pyromancer' },
+                    { text: 'Espion', link: '/rulebook/careers/spy' },
+                    { text: 'Tacticien', link: '/rulebook/careers/tactician' },
+                ],
+            },
+            {
+                text: 'Équipement',
+                items: [],
             },
         ],
 
