@@ -13,9 +13,9 @@ features:
   - title: Comment jouer ?
     details: Une présentation en détail du système de jeu
     link: /rulebook/rules/how-to-play
-  - title: Magie
-    details: Les différents types de magie et comment les utiliser
-    link: /rulebook/rules/magic
+  - title: Carrières et Spécialisations
+    details: La liste des carrières disponibles pour votre personnage
+    link: /rulebook/careers
   - title: Exploration
     details: L'ensemble des règles qui encadrent la phase d'exploration
     link: /rulebook/rules/exploration

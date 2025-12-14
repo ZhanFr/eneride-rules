@@ -2,9 +2,9 @@
 
 Les __États__ représentent des conditions qui vous affectent pendant une certaine durée. Ils traduisent des situations physiques, mentales ou magiques qui modifient vos activités disponibles ou votre efficacité en jeu.
 
-Un __État__ peut être appliqué par une arme, un sort, un aptitude ou encore une condition environnementale. Certains __états__ disparaissent automatiquement après un certain temps ; d'autres nécessitent une activité ou un test.
+Un __état__ peut être appliqué par une arme, une aptitude ou encore une condition environnementale. Certains __états__ disparaissent automatiquement après un certain temps ; d'autres nécessitent une activité ou un test.
 
-Un État persiste tant qu’il n’est pas supprimé ou que l'effet ayant imposé l'État n'a pas pris fin.
+Un __état__ persiste tant qu’il n’est pas supprimé ou que l'effet ayant imposé l'état n'a pas pris fin.
 
 :::tip Cumuler des états
 Les conséquences d'états différents se cumulent, mais pas celles d'un même état appliqué plusieurs fois.
@@ -22,9 +22,9 @@ Si vous êtes [assourdi](#deafened) par deux effets différents, l'un ayant une 
 
 Vous êtes __à terre__ lorsque vous vous trouvez en position allongée, que ce soit par perte d’équilibre ou par votre propre décision (pour se dissimuler ou se protéger).
 
-* Les attaques de contact au corps à corps contre vous bénéficient de `+1D`.
-* Les cibles de vos attaques de contact au corps à corps bénéficie de `+1D` pour se défendre.
-* Vous bénéficiez de `+1D` contre les attaques de contact à distance.
+* Vos adversaires ont un bonus de `+1D` aux attaques de __contact au corps à corps__ contre vous.
+* Vos adversaires ont un bonus de `+1D` contre vos attaques de __contact au corps à corps__.
+* Vous avez un bonus de `+1D` contre les attaques de __contact à distance__.
 * Vous ne pouvez [vous déplacer](combat#maneuvers-move) qu’en utilisant la méthode __ramper__.
 * [Vous relever](combat#maneuvers-prone-stand) supprime l'état.
 
@@ -48,8 +48,8 @@ Vous __échouez automatiquement__ les tests faisant appel à votre vue.
 
 Vous ne parvenez pas à combattre efficacement :
 
-* Vos adversaires ont un bonus de `+1D` contre vos attaques de __contact au corps à corps__ et de __contact à distance__.
 * Vos adversaires ont un bonus de `+1D` aux attaques de __contact au corps à corps__ et de __contact à distance__ contre vous.
+* Vos adversaires ont un bonus de `+1D` contre vos attaques de __contact au corps à corps__ et de __contact à distance__.
 
 ### Effrayé {#frightened}
 
@@ -64,13 +64,6 @@ Vous ne pouvez plus vous déplacer :
 
 * Vous êtes également [déséquilibré](#off-balance).
 * Votre [vitesse](character-creation#speed) est réduite à 0.
-
-### Épuisé {#exhausted}
-
-Vous êtes très fatigué (manque de sommeil, épuisement physique ou mental) :
-
-* Vous faites tous vos tests avec un malus de `-1D`.
-* Vous ne gagnez pas de points d'aptitude au début de votre tour en combat.
 
 ### Etourdi {#stunned}
 
@@ -93,11 +86,11 @@ Vous êtes totalement immobilisé (paralysie, entrave complète, etc) :
 
 * Vous êtes également [entravé](#restrained).
 * Vous ne pouvez effectuer aucune action ou manœuvre.
-* Vous ne pouvez effectuer que la réaction [encaisser](combat#reactions-brace).
+* Vous ne pouvez utiliser que la réaction [encaisser](combat#reactions-brace).
 
 ### Pris au dépourvu {#off-guard}
 
-Vous êtes surpris par vos adversaires  :
+Vous êtes surpris par vos adversaires :
 
 * Vos adversaires ont un bonus de `+1D` aux attaques contre vous.
 * Vous ne pouvez pas [parer](combat#reactions-parry) en réaction à l'action [se désengager](combat#actions-disengage).

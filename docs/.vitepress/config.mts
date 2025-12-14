@@ -36,7 +36,6 @@ export default defineConfig({
                 items: [
                     { text: 'Création de personnage', link: '/rulebook/rules/character-creation' },
                     { text: 'Comment jouer ?', link: '/rulebook/rules/how-to-play' },
-                    { text: 'Magie', link: '/rulebook/rules/magic' },
                     { text: 'Exploration', link: '/rulebook/rules/exploration' },
                     { text: 'Combat', link: '/rulebook/rules/combat' },
                     { text: 'Négociation', link: '/rulebook/rules/negociation' },

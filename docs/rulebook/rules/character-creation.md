@@ -61,60 +61,75 @@ Cette étape est une opportunité unique de tisser des liens profonds entre votr
 
 ## Les Caractéristiques
 
-__Cinq caractéristiques principales__ représentent vos capcités physiques, mentales et sociales.
+__Sept caractéristiques principales__ représentent vos capcités physiques, mentales et sociales.
 
-Réfléchissez au rôle et à la personnalité que vous souhaitez incarner, car ces caractéristiques influencent directement vos chances de succès dans diverses actions et interactions.
+Réfléchissez au rôle et à la personnalité que vous souhaitez incarner, car ces caractéristiques influencent le résultat de vos actions et interactions.
 
-#### Vigueur
+#### Force
 
-Cette caractéristique mesure votre force et votre résistance physique. Elle influe sur votre capacité à soulever des charges, encaisser des coups, résister aux maladies et supporter des efforts prolongés.
+La Force mesure votre puissance physique. Elle influe sur votre capacité à porter des coups et à réaliser des prouesses physiques.
 
-#### Coordination
+#### Agilité
 
-La Coordination représente votre agilité, votre précision et votre rapidité d'action. Elle permet d'exceller dans les mouvements acrobatiques, la dextérité manuelle et les tâches nécessitant une précision accrue, comme le maniement d'armes légères ou les réflexes en situation de danger.
+L'Agilité représente votre dextérité, votre rapidité d'action et la précision de vos gestes. Elle permet d'exceller dans les mouvements acrobatiques, les tâches minutieuse et la manipulation d'armes précises.
+
+#### Endurance
+
+L'Endurance représente votre capacité à supporter la fatigue, la douleur, et est un indicateur de votre résistance physiologique. Une Endurance élevée peut permettre d'encaisser les coups et de résister aux maladies et poisons.
 
 #### Intellect
 
-Représentant les capacités cognitives, l'Intellect détermine votre rapidité d'apprentissage, vos compétences analytiques et votre capacité à résoudre des énigmes ou à planifier des stratégies complexes.
+Représentant les capacités cognitives, l'Intellect détermine votre rapidité d'apprentissage, vos savoirs et votre capacité à résoudre des problèmes ou à planifier des stratégies complexes.
 
 #### Résolution
 
-La Résolution mesure votre résilience mentale, votre intuition et votre capacité à résister aux influences extérieures, telles que la peur ou la manipulation. Elle est cruciale si vous souhaitez manipuler les forces surnaturelles ou affronter des défis psychologiques.
+La Résolution mesure votre discipline, votre intuition et votre résistance mentale contre la peur ou la manipulation. Elle est cruciale dans la manipulation des forces surnaturelles, ainsi que pour s'en défendre.
 
 #### Charisme
 
-Le Charisme représente votre capacité naturelle à influencer, inspirer ou séduire les autres. Il peut être basé sur une présence physique impressionnante ou sur des talents relationnels tels que le charme ou la persuasion.
+Le Charisme représente votre capacité à convaincre, inspirer ou séduire les autres. Il peut être basé sur une présence physique remarquable ou sur des talents relationnels tels que le charme ou la persuasion.
+
+#### Perception
+
+La Perception représente votre capacité à percevoir le monde qui vous entoure grâce à vos sens (vue, ouïe, odorat, etc.). Une Perception élevée vous permet d'améliorer votre vigilance et votre perspicacité.
 
 ### Distribution des points
 
-Vous commencez avec une valeur de 2 dans 4 caractéristiques de votre choix, et une valeur de 1 dans la dernière caractéristique.
+Vous commencez avec une valeur de 2 dans 5 caractéristiques de votre choix, et une valeur de 1 dans les deux caractéristiques restantes.
 
-- Vous pouvez augmenter 4 fois vos caractéristiques, sans toutefois dépasser une valeur de 4.
+- Vous pouvez augmenter 5 fois vos caractéristiques, sans dépasser une valeur de 4.
 
 :::info Exemple
-- Vigueur 4 (+2) - Coordination 2 (+0) - Intellect 3 (+1) - Résolution 2 (+0) - Charisme 2 (+1).
-- Vigueur 4 (+2) - Coordination 2 (+0) - Intellect 4 (+2) - Résolution 2 (+0) - Charisme 1 (+0).
-- Vigueur 2 (+0) - Coordination 3 (+1) - Intellect 2 (+0) - Résolution 3 (+1) - Charisme 3 (+2).
+
+| Type de personnage | For | Agi | End | Int | Rés | Cha | Per |
+| - |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Combattant | 4 ** | 3 * | 4 ** | 1 | 2 | 1 | 2 |
+| Rusé | 1 | 4 ** | 2 | 4 ** | 1 | 2 | 3 * |
+| Érudit | 1 | 1 | 2 | 4 ** | 4 ** | 2 | 3 * |
+| Diplomate | 1 | 1 | 2 | 3 * | 3 * | 4 ** | 3 * |
+
+\* Emplacement des augmentations
+
 :::
 
 ### Influence des caractéristiques sur les actions
 
-Chaque action est résolue par un test combinant une caractéristique principale et une compétence appropriée.
+Chaque action est résolue par un test combinant deux caractéristiques.
 
-Le choix de la caractéristique dépend de la manière dont l'action est entreprise.
+Le choix des caractéristiques dépend de la manière dont l'action est entreprise.
 
 :::info Exemple
-- Traverser une rivière à la nage fait appel à la compétence `Athlétisme` et la `Vigueur` sera essentielle pour mesurer l'endurance.
-- Escalader une paroi glissante peut également faire appel à `Athlétisme`, mais cette fois, c'est la `Coordination` qui sera privilégiée pour déterminer l'agilité et la précision nécessaires.
+- Escalader une paroi rocheuse peut être une combinaison de `Force` et d'`Endurance` pour déterminer si le personnage parvient à se hisser au sommet.
+- Escalader la même paroi rendue glissante par la pluie devient une combinaison d'`Agilité` et d'`Endurance` pour rappeler le besoin d'adresse pour éviter de chûter.
 :::
 
 ### Choisir vos caractéristiques
 
 Réfléchissez au type de défi que vous souhaitez relever et à votre rôle dans le groupe.
 
-- Un __Combattant__ aura besoin de `Vigueur` et de `Coordination`, mais il ne doit pas négliger la `Résolution` pour affronter des situations stressantes.
-- Un __Élémentaliste__ doit avoir une forte `Résolution` pour manipuler les forces surnaturelles, de la `Vigueur` pour ne pas être trop fragile et une autre caractéristique pour couvrir d'autres options que les sortilèges. 
-- Un __Espion__, quant à lui, bénéficiera d'un bon `Intellect` pour analyser les situations complexes, d'un `Charisme` élevé pour manipuler les autres et de `Coordination` pour fuir les dangers.
+- Un __Combattant__ aura besoin de `Force` et d'`Endurance`, mais il ne doit pas négliger la `Résolution` pour affronter des situations stressantes.
+- Un __Élémentaliste__ doit avoir `Charisme` et `Résolution` pour manipuler les forces élémentaires, et autre caractéristique pour couvrir d'autres options que les aptitudes. 
+- Un __Espion__, quant à lui, bénéficiera d'un bon `Intellect` pour analyser les situations complexes, d'un `Charisme` élevé pour manipuler les autres et d'`Agilité` pour fuir les dangers.
 
 ## Carrière {#careers}
 
@@ -135,103 +150,15 @@ Choisissez votre carrière en fonction de vos préférences en termes de rôle e
 - __Votre rôle dans le groupe__ : Souhaitez-vous être un combattant en première ligne, un stratège à distance, ou un spécialiste des interactions sociales ?
 - __Votre personnalité__ : La carrière que vous choisissez doit également correspondre au caractère et aux motivations de votre personnage.
 
-## Les Compétences
+### Progresser dans sa carrière {#career-progress}
 
-Les compétences représentent votre entraînement et vos capacités dans divers domaines.
+Chaque carrière possède un arbre de 20 progressions. Ces progression peuvent conférer à votre personnage des augmentations de stastiques (comme les points de vie ou les caractéristiques) ou des aptitudes.
 
-Elles définissent ce que vous savez faire, où vous excellez, de l'art de la persuasion à la maîtrise des armes, en passant par la capacité à résoudre des énigmes complexes.
-
-Lors de la création de votre personnage, vous disposez de points de compétences à répartir pour façonner les talents uniques de votre personnage.
-
-### Compétences générales
-
-Ces compétences sont utiles dans de nombreuses situations et couvrent divers aspects des interactions, de la survie et des tâches pratiques.
-
-| Compétence | Description |
-| - | - |
-| Adresse | Représente la dextérité et la précision. Elle permet d'effectuer des actions telles que crocheter une serrure, subtiliser un objet, ou garder son équilibre sur une surface instable. |
-| Athlétisme | Illustre la capacité physique globale, utile pour courir, sauter, escalader, nager, ou encore soulever de lourdes charges. |
-| Culture | Reflète la culture générale et les connaissances académiques ou pratiques, comme la compréhension de l'histoire, de la philosophie ou l'estimation d'objets rares. |
-| Discipline | Représente la capacité à résister aux pressions psychologiques telles que la peur, le stress ou la coercition. Permet de garder son calme face à l'adversité ou de maintenir sa concentration. |
-| Dissimulation | Utilisée pour se cacher, dissimuler des objets ou se déguiser de manière crédible. |
-| Enquête | Permet de collecter des informations, mener une investigation, pister une cible, ou examiner minutieusement une scène. |
-| Intrigue | Fait appel à la connaissance du monde souterrain, de la criminalité, ainsi qu'à des compétences comme la contrefaçon ou la cryptographie. |
-| Médecine | Compétence axée sur la biologie, la physiologie et la capacité à soigner les blessures ou les maladies. |
-| Résilience | Représente la capacité à résister aux conditions extrêmes telles que le froid, la faim, la douleur ou les toxines. |
-| Vigilance | Permet de remarquer des détails importants de manière instinctive, de deviner les intentions, ou d'observer des éléments cachés. |
-
-### Compétences d'artisanat
-
-Ces compétences relèvent de la maîtrise technique et de l'ingénierie.
-
-| Compétence | Description |
-| - | - |
-| Alchimie | Connaissances et pratique de la création de potions, élixirs, et autres substances alchimiques. |
-| Artifice | Maîtrise de la conception et fabrication d'objets complexes, souvent mécaniques ou liés aux pierres d'énergie. |
-
-### Compétences de combat
-
-Pour les personnages spécialisés dans l'art de la guerre.
-
-| Compétence | Description |
-| - | - |
-| Mêlée | Maîtrise des armes de corps à corps telles que les épées, dagues, haches et autres. |
-| Pugilat | Compétence de combat à mains nues ou avec des outils improvisés tels que des gantelets. |
-| Tir | Capacité à utiliser les armes à distance, des arbalètes aux fusils. |
-
-### Compétences magiques
-
-Pour les personnages spécialisés dans l'art de la magie.
-
-| Compétence | Description |
-| - | - |
-| Arcanes | Compétence permettant de manipuler les énergies magiques liées aux arcanes. |
-| Elémentalisme | Compétence permettant de manipuler les énergies magiques liées aux éléments. |
-| Théurgie | Compétence permettant de manipuler les énergies magiques liées à la Création. |
-
-### Compétences sociales
-
-Indispensables pour influencer, manipuler ou séduire les autres.
-
-| Compétence | Description |
-| - | - |
-| Éloquence | Capacité à captiver par la parole ou l'attitude, pour inspirer, charmer ou séduire. |
-| Intimidation | Talent de menace verbale ou physique, pour faire plier ou impressionner. |
-| Rhétorique | Art de convaincre par des arguments logiques et persuasifs. |
-| Tromperie | Capacité à mentir, bluffer ou se faire passer pour quelqu'un d'autre. |
-
-### Distribution des points
-
-Chaque compétence commence au niveau 0 et peut être augmentée jusqu'à un maximum de 5 (3 à la création du personnage). Le coût en points augmente avec chaque niveau :
-
-- Niveau 1 : 1 point
-- Niveau 2 : 2 points (3 au total pour atteindre ce niveau)
-- Niveau 3 : 3 points (6 au total pour atteindre ce niveau)
-
-Par exemple, vous pouvez choisir de concentrer vos points pour exceller dans quelques compétences ou de les répartir plus largement pour couvrir davantage de domaines.
-
-### Intéraction avec les caractéristiques
-
-Lorsque vous utilisez une compétence, le nombre de dés lancés dépend de la somme de la valeur de la compétence et de la valeur de la caractéristique la plus pertinente pour l'action entreprise. Le choix de la caractéristique dépend de la situation. Par exemple :
-
-- __Traverser une rivière__ en utilisant _Athlétisme_ peut reposer sur la _Vigueur_ (pour l'endurance).
-- __Escalader une paroi glissante__ avec _Athlétisme_ peut, en revanche, reposer sur la _Coordination_ (pour la souplesse et la précision).
-
-### Choisir vos compétences
-
-Choisissez vos compétences en cohérence avec l'objectif et l'histoire de votre personnage.
-
-Par exemple, un combattant pourrait investir dans Mêlée ou Pugilat pour exceller au combat rapproché, tandis qu'un diplomate pourrait se concentrer sur des compétences sociales comme _Rhétorique_ ou _Éloquence_.
-
-:::warning Attention
-Investissez dans vos points forts pour briller dans vos moments clés, mais conservez une certaine polyvalence pour ne pas vous sentir inutile le reste du temps.
-:::
+Chaque progression a un prix en point d'expérience. Une fois que vous avez dépensé 30 points d'expérience dans votre carrière, vous pouvez accéder à une spécialisation.
 
 ## Attributs dérivés
 
-En complément des caractéristiques et des compétences, vous disposez d’attributs dérivés qui influencent directement le comportement et les capacités de votre personnage.
-
-Ces valeurs sont calculées à partir de votre ascendance et de certaines caractéristiques.
+En complément des caractéristiques, vous disposez d’attributs dérivés qui influencent directement le comportement et les capacités de votre personnage.
 
 ### Allonge {#reach}
 
@@ -239,46 +166,52 @@ L'allonge représente la distance que votre personnage peut atteindre avec ses m
 
 L'allonge est définie par votre __taille__.
 
-### Encombrement
+### Initiative {#initiative}
 
-L'Encombrement représente votre capacité à transporter des objets et de l'équipement sans subir de contrecoup.
+L'initiative est une valeur qui mesure la capacité de votre personnage à réagir rapidement et efficacement face au danger.
 
-Si vous dépassez votre limite d’encombrement, vous êtes [étourdi](conditions#stunned).
-
-L'encombrement est défini par votre __taille__.
-
-### Perception
-
-La Perception représente votre capacité à percevoir le monde qui vous entoure grâce à vos sens (vue, ouïe, odorat, etc.).
-
-Sa valeur est déterminée par l'ascendance et reste fixe dans la plupart des cas. Elle ne peut être modifiée que par des progressions spécifiques, des sorts affectant la physionomie ou des blessures graves (comme la perte d’un sens).
+```
+Valeur d'Initiative = (Agilité + Perception) / 2
+```
 
 ### Points de vie {#health-points}
 
-Les points de vie (PV) représente la capacité du personnage à encaisser les efforts physiques et les pressions psychologiques avant de perdre connaissance ou de se blesser grièvement.
+Les points de vie (PV) représente la capacité de votre personnage à encaisser les efforts physiques et les pressions psychologiques avant de perdre connaissance ou de se blesser grièvement.
 
 ```
-Points de vie = Vigueur x Ajustement de Taille
+Points de vie = (Endurance + Résolution) x Ajustement de taille  
 ```
 
-### Seuil de blessure {#injury-threshold}
+### Points de pouvoir {#power-points}
 
-Le seuil de blessure (SB) représente la quantité maximum de blessures que votre personnage peut supporter avant de périr.
+> L'utilisation des points de pouvoir est détaillé [ici](how-to-play#power-points)
 
-Il est toujours égal à votre `Vigueur`.
+Les points de pouvoir (PP) représente la quantité d'énergie que votre personnage peut dépenser pour utiliser ses aptitudes.
+
+Votre personnage commence son aventure avec __1 point de pouvoir__ et peut en obtenir plus en achetant des progressions de carrière.
+
+Un personnage ne peut pas avoir plus de 9 points de pouvoir.
+
+### Points de ressources {#resource-points}
+
+> L'utilisation des points de ressources est détaillé [ici](exploration##resource-points)
+
+Les points de ressource (PR) représente l'agent liquide, l'influence immédiate ou l'accès à des services dont dispose votre personnage.
+
+Votre personnage commence son aventure avec un nombre de point de ressource égal à __2 + Niveau de Richesse__.
 
 ### Taille {#size}
 
-La Taille du personnage est définie par son ascendance. Elle influence les __points de Vie__, l'__allonge__ et l'__encombrement__.
+La Taille du personnage est définie par son ascendance. Elle influence les __points de Vie__ et l'__allonge__.
 
-| Taille | Points de vie | Allonge | Encombrement |
-|-|:-:|:-:|:-:|
-| Minuscule | x0.5 | 0 | 0 |
-| Petite | x2 | 1 | 5 |
-| Moyenne | x3 | 1 | 10 |
-| Grande | x5 | 2 | 20 |
-| Colossale | x8 | 3 | 50 |
-| Titanesque | x12 | 5 | ∞ |
+| Taille | Points de vie | Allonge |
+| - |:-:|:-:|
+| Minuscule | x0.5 | 0 |
+| Petite | x1 | 1 |
+| Moyenne | x2 | 1 |
+| Grande | x3 | 2 |
+| Colossale | x5 | 3 |
+| Titanesque | x8 | 5 |
 
 ### Vitesse {#speed}
 
@@ -288,17 +221,17 @@ Les humanoïdes de taille moyenne, comme les humains, les elfes ou les nains, on
 
 ## Expérience de départ
 
-À la création de votre personnage, vous disposez de __20 points d'expérience__ que vous pouvez répartir selon votre convenance.
+À la création de votre personnage, vous disposez de __10 points d'expérience__ que vous pouvez dépenser dans votre carrière.
 
-:::tip Investir son expérience
-Investissez suffisamment d'expérience dans vos compétences pour ne pas être trop limité dans vos actions.
+## Richesse de départ
 
-15 points d'expérience dans les compétences et 5 points dans les progressions de carrière représentent un bon équilibre.
-:::
+En fonction de l'origine de votre personnage, vous débutez l'aventure avec un niveau de richesse variable.
+
+Consultez votre MJ à ce sujet.
 
 ## Équipement de départ
 
-Vous commencez l’aventure avec un équipement de base dépendant de votre carrière ainsi qu’une somme d’argent initiale définie par votre origine sociale.
+Vous commencez l’aventure avec un équipement de base dépendant de votre carrière et de votre origine sociale.
 
 Pour personnaliser davantage l’équipement de départ, discutez avec le MJ pour assurer une cohérence avec l’histoire et les choix narratifs de votre personnage.
 
@@ -346,7 +279,7 @@ La création de votre personnage ne s’achève pas une fois la fiche remplie. C
 Il s’agit également d’un moment d’échange constructif avec votre MJ, garant de la cohérence globale.
 
 ### Personnalisation et interprétation
-Un personnage n’est pas qu’une liste de caractéristiques et de compétences. C’est un être fictionnel que vous incarnerez et développerez au fil de l’histoire.
+Un personnage n’est pas qu’une liste de caractéristiques et de valeurs. C’est un être fictionnel que vous incarnerez et développerez au fil de l’histoire.
 
 Prenez un moment pour réfléchir à ses traits distinctifs, ses manies, ses objectifs ou même ses dilemmes moraux.
 

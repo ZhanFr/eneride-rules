@@ -13,9 +13,6 @@ features:
   - title: Comment jouer ?
     details: Une présentation en détail du système de jeu
     link: /rules/how-to-play
-  - title: Magie
-    details: Les différents types de magie et comment les utiliser
-    link: /rules/magic
   - title: Exploration
     details: L'ensemble des règles qui encadrent la phase d'exploration
     link: /rules/exploration
@@ -27,3 +24,4 @@ features:
     link: /rules/negociation
 ---
 
+Quelques infos sur les carrières ?

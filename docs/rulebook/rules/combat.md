@@ -7,20 +7,18 @@ Vous êtes un __adepte__, un être doté de talents exceptionnels, mais vous n'�
 :::warning Méfiez-vous
 Engager un combat, c'est accepter de prendre des risques.
 
-Vous devez comprendre vos forces et vos limites, utiliser l'environnement, exploiter vos capacités, et prendre des décisions audacieuses pour sortir victorieux.
+Vous devez comprendre vos forces et vos limites, utiliser l'environnement, exploiter vos aptitudes, et prendre des décisions audacieuses pour sortir victorieux.
 :::
-
-Bienvenue dans l’arène. Soyez prêts, et choisissez vos batailles avec soin.
 
 ## Déroulement {#course}
 
-La phase de combat suit une structure précise destinée à maintenir le rythme et l'équilibre entre les participants. Le combat est découpé en plusieurs phases : __Initiative, Surprise, Rounds et Tours__.
+La phase de combat suit une structure précise destinée à maintenir le rythme et l'équilibre entre les participants. Le combat est découpé en plusieurs phases : __Initiative, Surprise et Rounds__.
 
 ### Initiative {#course-initiative}
 
 Au début d'un combat, vous déterminez dans quel ordre vous prenez votre tour en réalisant un test d'initiative.
 
-* Lancez `1D10` et ajoutez votre `Coordination`.
+* Lancez `1D10` et ajoutez votre [valeur d'initiative](character-creation#initiative).
 * Le MJ effectue ce test pour les participants non-joueurs.
 
 Les participants sont ensuite placés dans l'Initiative du plus élevé au plus faible.
@@ -36,7 +34,7 @@ Si une embuscade ou un événement non anticipé déclenche le combat, un __roun
 Si vous êtes surpris :
 
 * Vous ne pouvez pas prendre de tour pendant ce round.
-* Vous êtes [pris au dépourvu](#off-guard) jusqu'à la fin du round.
+* Vous êtes [pris au dépourvu](conditions#off-guard) jusqu'à la fin du round.
 
 ### Rounds {#course-rounds}
 
@@ -50,7 +48,7 @@ Quand tous les participants en capacité de prendre leur __tour__ l'ont fait, un
 
 Lors de votre __tour__, vous pouvez effectuer un nombre limité d'activités :
 
-* __1 Action__ : attaquer, lancer un sort, utiliser une compétence, etc.
+* __1 Action__ : attaquer, faire un test, etc.
 * __1 Manoeuvre__ : se déplacer, se relever, dégainer une arme, etc.
 
 :::tip Plus d'Activités
@@ -58,45 +56,6 @@ Certaines activités ou aptitudes peuvent vous conférer plus d'actions ou de ma
 :::
 
 Une fois votre tour terminé, le prochain participant dans l'initiative débute le sien.
-
-## Les Points d'Aptitudes {#ability-points}
-
-En progressant dans votre [carrière](character-creation#careers), vous allez obtenir diverses aptitudes qui peuvent consommer ou conférer des points d'aptitude. Ces points sont une ressource qui représente votre capacité à canaliser vos pouvoirs d'__Adepte__ lors des combats.
-
-Les points d'aptitude peuvent aller de 0 à un maximum défini par vos progressions de carrière.
-
-* Au début du combat, vous commencez avec 0 points d'aptitude.
-* À la fin du combat, vous perdez tous vos points d'aptitude non dépensés.
-
-Au début de votre aventure, votre carrière vous permet de cumuler jusqu'à 3 points d'aptitude. Cette limite augmente avec certaines progressions.
-
-:::tip Aptitude en dehors des combats ?
-Les phases de [négociation](negociation) et d'[exploration](exploration) ne répondent pas aux mêmes critères que la phase de combat. Vous n'y subissez pas la pression de l'affrontement, vous n'y ressentez pas les puissantes énergies qui s'entrechoquent.
-
-Pour ces raisons, utiliser des points d'aptitude en dehors des combats n'a pas de sens :
-* Si vous souhaitez faire la démonstration d'une aptitude qui dépense des points d'aptitude, le MJ peut vous demander un test simple.
-* Si vous souhaitez utiliser un sort, vous devez utiliser un rituel équivalent (voir l'[article sur la magie](magic)).
-:::
-
-:::tip Représenter les points d'aptitude
-Vous allez gagner et dépenser des points d'aptitude très fréquemment en combat. Plutôt que de noter chaque changement, vous pouvez utiliser un `D10` sur lequel vous affichez votre nombre de points.
-
-À l'apogée de votre puissance, vous pourrez avoir jusqu'à 9 points d'aptitude, ce qui colle parfaitement avec les faces du `D10` !
-:::
-
-#### Gagner des points d'aptitude {#gain-ability-points}
-
-* Au début de votre tour, vous gagnez 1 point d'aptitude.
-* Certaines activités ou aptitudes de carrière peuvent vous faire gagner 1 ou plusieurs points d'aptitude.
-
-:::danger Points d'aptitude et états
-Si vous êtes [épuisé](conditions#exhausted), vous ne gagnez pas de point d'aptitude au début de votre tour.
-:::
-
-#### Dépenser les points d'aptitude {#use-ability-points}
-
-* Dépensez `1 point d'aptitude` pour [vous presser](#maneuvers-hurry).
-* Dépensez des points d'aptitude pour utiliser vos aptitudes et sorts les plus puissants.
 
 ## Activités en combat {#activities}
 
@@ -110,8 +69,8 @@ Elles impliquent presque toujours un test, car elles ont une issue incertaine.
 Vous pouvez effectuer __une action par tour__, sauf circonstances spéciales permettant d’en effectuer davantage.
 
 :::info Exemples d'actions 
-- Attaquer un adversaire.
-- Lancer un sort.
+- Frapper un adversaire.
+- Utiliser une aptitude.
 - Désamorcer un explosif.
 :::
 
@@ -122,7 +81,7 @@ Les __manœuvres__ sont des activités plus simples et rapides qui ne nécessite
 Elles sont souvent liées à des activités tactiques ou de positionnement. Vous pouvez effectuer __une manœuvre par tour__, mais également :
 
 - Sacrifier une __action__ du tour pour réaliser une __manœuvre__ à la place
-- Effectuer une __manœuvre additionnelle__ en dépensant 1 point d'aptitude (voir [se presser](#maneuvers-hurry)).
+- Effectuer une __manœuvre additionnelle__ en dépensant 1 point de pouvoir (voir [se presser](#maneuvers-hurry)).
 
 :::info Exemples de manœuvres
 - Se déplacer.
@@ -135,7 +94,7 @@ Elles sont souvent liées à des activités tactiques ou de positionnement. Vous
 
 Les __réactions__ représentent les activités entreprises en dehors de votre tour en réponse à un événement.
 
-Après avoir utiliser une __réaction__, vous concédez un bonus de `+1D` cumulatif à vos adversaires pour les autres réactions prises avant le début de votre prochain tour.
+Après avoir utiliser une __réaction__, vous concédez un bonus de `+1D` cumulatif aux adversaires qui vous ciblent jusqu'au début de votre prochain tour.
 
 Si vous êtes la cible d'un test opposé sans pouvoir prendre de __réaction__, vous devez utiliser [encaisser](#reactions-brace).
 
@@ -152,11 +111,11 @@ Vous affrontez un groupe d'adversaires dans un entrepôt abandonné.
 __Votre tour :__
 
 * Vous utilisez une __manœuvre__ pour [vous déplacer](#maneuvers-move) derrière une caisse, cherchant à vous mettre à couvert.
-* Vous effectuez une __action__ pour tirer sur votre adversaire avec votre arme, réussissant un test de `Tir (Coordination)`.
+* Vous effectuez une __action__ pour tirer sur votre adversaire avec votre arme, réussissant un test de `Agilité + Perception`.
 
 __Tour de l'adversaire :__
 
-* Il vous attaque avec son arme à distance. Vous utilisez une __Réaction__ pour [Esquiver](#reaction-dodge) et choisissez de vous jeter au sol pour obtenir un bonus sur votre test de `Coordination`.
+* Il vous attaque avec son arme à distance. Vous utilisez une __Réaction__ pour [Esquiver](#reaction-dodge) et choisissez de vous jeter au sol pour obtenir un bonus sur votre test de `Perception`.
 
 ## Liste des Actions {#actions}
 
@@ -164,13 +123,13 @@ __Tour de l'adversaire :__
 
 > L'action __Attaquer__ est traitée en détail [ici](#attack).
 
-__Attaquer__ permet de s'en prendre directement à un ou plusieurs adversaire avec une arme, un sort ou encore avec une compétence comme l'`intimidation`.
+__Attaquer__ permet de s'en prendre directement à un ou plusieurs adversaire avec une arme, une aptitude ou d'autres options.
 
 Il existe plusieurs types d'attaques :
 
-- __Attaque de contact au corps à corps__ : vous cherchez à toucher votre cible à l'aide d'une arme, d'un sort ou autre. La cible doit être dans votre allonge. Vous pouvez réagir à ces attaques avec [Parer](#reactions-parry), [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
-- __Attaque de contact à distance__ : vous cherchez à toucher votre cible à l'aide d'un projectile (qui peut être un sort). La cible doit être dans la portée du projectile. Vous pouvez réagir à ces attaques avec [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
-- __Attaque sans contact__ : vous n'avez pas besoin de toucher votre cible. En général, vous devez voir votre cible et cette dernière doit être à portée de votre arme, sort ou autre. Vous pouvez réagir à ces attaques avec [Résister](#reactions-resist) ou [Encaisser](#reactions-brace).
+- __Attaque de contact au corps à corps__ : vous cherchez à toucher votre cible à l'aide d'une arme, d'une aptitude ou autre. La cible doit être dans votre allonge. Vous pouvez réagir à ces attaques avec [Parer](#reactions-parry), [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
+- __Attaque de contact à distance__ : vous cherchez à toucher votre cible à l'aide d'un projectile. La cible doit être dans la portée du projectile. Vous pouvez réagir à ces attaques avec [Esquiver](#reactions-dodge) ou [Encaisser](#reactions-brace).
+- __Attaque sans contact__ : vous n'avez pas besoin de toucher votre cible. En général, vous devez voir votre cible et cette dernière doit être à portée de votre arme, aptitude ou autre. Vous pouvez réagir à ces attaques avec [Résister](#reactions-resist) ou [Encaisser](#reactions-brace).
 
 Une attaque n'a pas uniquement pour but d'infliger des dégâts, vous pouvez choisir l'objectif de votre attaque parmi les options suivantes :
 
@@ -187,13 +146,12 @@ Une attaque n'a pas uniquement pour but d'infliger des dégâts, vous pouvez cho
 
 __Se désengager__ permet de quitter l'allonge d'un ou de plusieurs adversaires.
 
-Pour cela, réussissez un test opposé contre tous vos adversaires souhaitant [parer](#reactions-parry) en réaction. Si aucun adversaire ne peut ou ne veut parer, se désengager n'est pas nécessaire.
+Pour cela, vous devez réussir un test opposé contre tous vos adversaires souhaitant [parer](#reactions-parry) en réaction. Si aucun adversaire ne peut ou ne veut parer, se désengager n'est pas nécessaire.
 
 Pour se désengager, vous pouvez utiliser :
 
-- __`Mêlée (Coordination)`__ : utilisez vos armes pour vous extirper de l'allonge de vos adversaires sans danger.
-- __`Pugilat (Coordination)`__ : utilisez vos capacités martiales pour quitter l'allonge de vos adversaires sans risque.
-- __`Adresse (Coordination)`__ : faufilez-vous habilement pour sortir de l'allonge de vos adversaires sans prendre de coup.
+- __`Force + Agilité`__ : utilisez vos armes pour vous extirper de l'allonge de vos adversaires sans danger.
+- __`Agilité + Intellect`__ : faufilez-vous habilement pour sortir de l'allonge de vos adversaires sans prendre de coup.
 
 Si le test est une réussite contre tous vos adversaires, vous pouvez vous déplacer comme si vous utilisiez la manœuvre [se déplacer](#maneuver-move) dans le cadre de cette action.
 
@@ -202,22 +160,16 @@ On considère l'allonge des adversaires au début de votre tour.
 
 * Si vous êtes dans une case qui n'est dans l'allonge d'aucun adversaire au début de votre tour, vous pouvez vous déplacer librement à travers n'importe quel nombre de cases se trouvant dans l'allonge d'adversaires sans besoin de vous désengager.
 * Si vous êtes dans une case qui se trouve dans l'allonge d'un ou de plusieurs adversaires au début de votre tour, vous devez vous désengager pour quitter votre case si au moins un adversaire souhaite vous en empêcher.
-::: 
+:::
 
-### Lancer un sort {#actions-spellcast}
+### Faire un test {#actions-check}
 
-__Lancer un sort__ peut fonctionner comme l'action [Attaquer](#actions-attack) si c'est un sort d'attaque ou comme l'action [Utiliser une compétence](#actions-skillcheck) si c'est un sort utilitaire.
+__Faire un test__ couvre toutes les actions qui ne sont pas des attaques.
 
-Le déroulement de cette action est expliqué en détail dans l'article sur la [Magie](magic).
-
-### Utiliser une compétence {#actions-skillcheck}
-
-__Utiliser une compétence__ couvre toutes les actions qui ne sont pas des attaques.
-
-:::info Exemple :
-* Faire un saut difficile au dessus d'un obstacle pour atteindre votre adversaire.
+:::info Exemple
+* Faire un saut difficile par dessus un obstacle.
 * Identifier un effet magique en cours.
-* Lancer un sort utilitaire.
+* Utiliser une aptitude utilitaire.
 :::
 
 ## Liste des Manœuvres {#maneuvers}
@@ -244,7 +196,7 @@ Vous permet de vous déplacer en utilisant une des méthodes suivants :
 :::info Exemple
 Un saut est l'équivalent de __Marcher/Courir__.
 
-Si vous faites ce saut pour éviter un obstacle ou un terrain difficile, le MJ peut vous demander de faire un test d'`Athlétisme` ou d'`Adresse`.
+Si vous faites ce saut pour éviter un obstacle ou un terrain difficile, le MJ peut vous demander de [faire un test](#actions-check) dans le cadre d'une action.
 :::
 
 :::tip Déplacement et bonus défensif
@@ -267,13 +219,13 @@ Cette manoeuvre permet d'interagir avec l'environnement. Si cette interaction ri
 
 ### Se presser {#maneuvers-hurry}
 
-Dépensez `1 Point d'Aptitude` pour effectuer immédiatement __deux manoeuvres__ de votre choix.
+Dépensez 1 point de pouvoir pour effectuer immédiatement __deux manoeuvres__ de votre choix.
 
 Vous ne pouvez vous presser qu'__une seule fois par round__.
 
 ### Posture agressive {#maneuvers-aggressive-stance}
 
-Vous confère un bonus de `+1D` aux tests de `Mêlée` ou de `Pugilat` jusqu'à la fin de votre tour.
+Vous confère un bonus de `+1D` aux tests d'attaque de contact au corps à corps jusqu'à la fin de votre tour.
 
 L'effet n'est pas cumulable avec la manoeuvre __Posture défensive__ (la dernière manoeuvre remplace la précédente).
 
@@ -283,22 +235,15 @@ Vous confère un bonus de `+1D` aux tests des réactions [Parer](#reactions-parr
 
 L'effet n'est pas cumulable avec la manoeuvre __Posture offensive__ (la dernière manoeuvre remplace la précédente).
 
-### Révoquer un sort {#maneuvers-revoke-spell}
+### Révoquer un effet {#maneuvers-revoke-effect}
 
-Mettez fin à un sort que vous contrôlez.
+Mettez fin à un effet que vous contrôlez. Par exemple, vous pouvez mettre fin à un effet causé par une aptitude que vous avez utilisé.
 
 ### Viser {#maneuvers-aim}
 
 Vos cibles ne bénéficient pas du bonus conféré par les __attaques de contact à distance sans viser__, jusqu'à la fin de votre tour. Voir [tirer sans viser](#hipfire).
 
 ## Liste des Réactions {#reactions}
-
-### Parer {#reactions-parry}
-
-Permet de vous défendre contre une attaque de __contact au corps à corps__ avec un test opposé utilisant `Mêlée (Coordination)` ou `Pugilat (Coordination)`.
-
-- Si vous obtenez au moins autant de succès que l'attaquant, vous parez l'attaque.
-- Si vous dépensez `3 succès`, vous obtenez une [contre-attaque](#counter-attack).
 
 ### Encaisser {#reactions-brace}
 
@@ -315,7 +260,7 @@ Des combattants entrainés réussiront aisément un test de difficulté 1, ce qu
 
 ### Esquiver {#reactions-dodge}
 
-Permet de vous défendre contre une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant uniquement `Coordination`, auquel vous ajoutez certains bonus (voir les [modificateurs de combat](##attack-modifiers)).
+Permet de vous défendre contre une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant uniquement `Perception`, auquel vous ajoutez certains bonus (voir les [modificateurs de combat](##attack-modifiers)).
 
 :::tip Se jeter au sol
 Si vous n'êtes pas [entravé](conditions#restrained), vous pouvez __vous jeter au sol__ : vous perdez `1 PV` et vous retrouvez [à terre](conditions#prone) immédiatement. Cela vous confère les [modificateurs de combat associés](#attack-modifiers).
@@ -323,11 +268,18 @@ Si vous n'êtes pas [entravé](conditions#restrained), vous pouvez __vous jeter 
 
 Si vous obtenez au moins autant de succès que l'attaquant, vous esquivez l'attaque.
 
+### Parer {#reactions-parry}
+
+Permet de vous défendre contre une attaque de __contact au corps à corps__ avec un test opposé utilisant `Force + Agilité`.
+
+- Si vous obtenez au moins autant de succès que l'attaquant, vous parez l'attaque.
+- Si vous dépensez __2 succès__, vous obtenez une [contre-attaque](#counter-attack).
+
 ### Résister {#reactions-resist}
 
 Permet de vous défendre contre une attaque __sans contact__ avec un test opposé.
 
-Le plus souvent, `Discipline (Volonté)` est utilisé contre les attaques mentales et `Résilience (Vigueur)` contre les effets physiques.
+Le plus souvent, `Intellect + Résolution` est utilisé contre les attaques mentales et `Endurance + Résolution` contre les effets physiques.
 
 Si vous obtenez au moins autant de succès que l'attaquant, vous résistez à l'attaque.
 
@@ -343,7 +295,6 @@ Pour mener à bien une attaque, certaines conditions doivent être remplies :
 
 - __Identifier votre cible__ : que ce soit une zone ou un adversaire, cela nécessite une ligne de vue dégagée ou de connaître sa position.
 - __Être à portée__ : à une distance appropriée selon l'arme ou le pouvoir.
-- __Être compétent__ : sans quoi l'arme est considérée comme improvisée.
 - __Être en capacité__ : vous devez pouvoir utiliser une __action__.
 
 ### Réagir à une attaque {#react-to-attack}
@@ -372,8 +323,8 @@ Pour chaque catégorie, cette section précise :
  
 Sauf indication contraire, les effets sont cumulatifs.
 
-:::tip Catégories et Sorts d'attaque
-En général, la description d'un sort d'attaque précise quelle(s) categorie(s) il permet d'utiliser. Vous pouvez dépenser des succès pour obtenir les effets des catégories correspondantes.
+:::tip Catégories et Aptitude
+En général, la description d'une aptitude offensive précise quelle(s) categorie(s) elle permet d'utiliser. Vous pouvez dépenser des succès pour obtenir les effets des catégories correspondantes.
 :::
 
 #### Affaiblir {#attack-weaken}
@@ -388,14 +339,14 @@ Diminue temporairement l'efficacité de la cible au combat. Dépenser des succè
 Inflige des dégâts à la cible. Dépenser des succès inflige des dégâts supplémentaires.
 
 * __Réussite__ : inflige les dégâts de l’arme.
-* __1 Succès__ : inflige 1 dégat d'arme supplémentaire.
+* __1+ Succès__ : inflige 1+ dégat d'arme supplémentaire.
 
 #### Désarmer {#attack-disarm}
 
 Force la cible à lâcher son arme. Dépenser des succès éloigne l'arme ou permet de la récupérer.
 
 * __Réussite__ : la cible lache son arme qui tombe à ses pieds.
-* __1 Succès__ : l'arme est projetée à 1 case de distance au choix de l'attaquant.
+* __1+ Succès__ : l'arme est projetée à 1+ case(s) de distance au choix de l'attaquant.
 * __2 Succès__ : vous pouvez récupérer l'arme immédiatement si vous pouvez la tenir.
 
 #### Distraire {#attack-distract}
@@ -425,14 +376,14 @@ Déplace la cible sur une ou plusieurs cases. Dépenser des succès peut déséq
 
 * __Condition__ : la cible doit pouvoir être déplacée.
 * __Réussite__ : repoussez la cible d'1 case en ligne droite vers une case non occupée.
-* __1 Succès__ : repoussez la cible d'1 case supplémentaire.
+* __1+ Succès__ : repoussez la cible d'1+ case(s) supplémentaire(s).
 * __2 Succès__ : la cible est [déséquilibrée](#off-balance) pendant 1 round.
 
 #### Saisir {#attack-seize}
 
 Tente de limiter les mouvements de la cible. Dépenser des succès peut neutraliser.
 
-* __Condition__ : vous devez avoir les mains libres ou utiliser une arme permettant une saisie si vous n'utilisez pas de sort ; vous devez avoir une seule cible.
+* __Condition__ : vous devez avoir les mains libres ou utiliser une arme permettant une saisie ; vous devez avoir une seule cible.
 * __Réussite__ : la cible est [entravée](conditions#restrained) pendant 1 round.
 * __2 Succès__ : la cible est [neutralisée](conditions#neutralized) pendant 1 round.
 
@@ -447,9 +398,10 @@ Si vous parvenez à neutraliser plusieurs rounds de suite une même cible avec _
 
 ### Abri {#cover}
 
-Lorsque vous êtes derrière un obstacle susceptible de vous protéger contre des attaques, vous disposez d'un abri.
+Lorsque vous êtes derrière un obstacle susceptible de vous protéger contre des attaques, vous disposez d'un abri. Cela vous confère un bonus de `+1D` aux réactions contre les attaques de contact au corps à corps et à distance.
 
-Un abri vous confère un bonus de `+1D` aux réactions contre les attaques de contact au corps à corps et à distance.
+Vous pouvez choisir de vous abriter complètement pour obtenir un bonus plus important. Si vous le faites, l'abri vous confère un bonus de `+3D`, mais vous ne pouvez faire aucune __action__ ou __manoeuvre__ qui mettrait en péril votre position : confirmez avec votre MJ que vous pouvez entreprendre ces activités.
+
 
 :::tip Abri destructible
 Un abri peut être destructible sur décision du MJ. Dans ce cas, le MJ défini le nombre de fois où l'abri est utilisable avant d'être détruit, et il réduit ce nombre à chaque fois que vous bénéficiez du bonus d'abri.
@@ -461,17 +413,13 @@ Votre allonge représente le nombre de cases autour de vous que vous pouvez mena
 
 Si vous ne souhaitez pas utiliser une __réaction__ pour [parer](#reaction-parry) le désengagement d'un adversaire dans votre allonge, alors l'adversaire n'a pas besoin de se désengager.
 
-L'allonge peut être supérieure à 1 pour des personnages de plus grande taille, ou si vous utilisez des armes ou des sorts qui confèrent une augmentation d'allonge.
+L'allonge peut être supérieure à 1 pour des personnages de plus grande taille, ou si vous utilisez des armes ou des aptitudes qui confèrent une augmentation d'allonge.
 
 :::tip Allonge et contrôle
 Plus votre allonge est grande, plus vous obligez vos adversaires à s'opposer à vous pour se déplacer sur le champ de bataille.
 
 Attention toutefois : chaque nouvelle [parade](#reaction-parry) confère le bonus cumulatif de réaction à vos adversaires pour se désengager ou pour vous attaquer.
 :::
-
-### Arme improvisée {#improvised-weapon}
-
-Si vous utilisez une arme avec laquelle __vous n'êtes pas compétent__, elle est considérée comme étant une arme improvisée de catégorie équivalente.
 
 ### Attaque multi-cible {#attack-multiple-targets}
 
@@ -489,13 +437,13 @@ Pour réaliser une attaque multi-cible :
 :::info Exemple
 Vous faites face à deux adversaires (A et B) dans votre allonge. Vous décidez d'utiliser une aptitude qui vous permet d'attaquer deux adversaires pour les blesser.
 
-* Vous constituez votre réserve de `Mêlée (Coordination)` égale à `6D`.
+* Vous constituez votre réserve de `Force + Agilité` égale à `6D`.
 * Les conditions vous confèrent un bonus de `+2D` contre A mais aucun bonus contre B, votre réserve reste à un total de `6D`.
 * A décide de parer votre attaque une réserve de `3D`.
 * B décide d'équiver votre attaque avec une réserve de `2D`.
 * Tous les participants lancent leur réserve.
 * Vous obtenez __4 succès__, A obtient __3 succès__ et B n'obtient __aucun succès__.
-* Votre attaque multi-cible se solde par 1 réussite contre A (avec 1 succès à dépenser) et par une réussite contre B (avec 3 succès à dépenser).
+* Votre attaque multi-cible se solde par 1 réussite contre A (sans succès à dépenser) et par une réussite contre B (avec 3 succès à dépenser).
 * Vous infligez vos dégâts à A et à B, et pouvez dépensez vos succès contre chaque cible.
 :::
 
@@ -503,9 +451,9 @@ Vous faites face à deux adversaires (A et B) dans votre allonge. Vous décidez 
 
 Lors d'une attaque, vous pouvez cibler plusieurs adversaires ou cibler plusieurs fois un même adversaire. Pour cela, vous devez remplir les conditions suivantes :
 
-* Vos armes ou votre sort doivent pouvoir être utilisés plusieurs fois dans un même tour.
+* Vos armes ou votre aptitude doivent pouvoir être utilisées plusieurs fois dans un même tour.
 * Toutes vos cibles doivent être à votre portée.
-* Le nombre maximal de cible est égal à votre `Coordination`.
+* Le nombre maximal de cible est égal à votre `Agilité`.
 
 Pour réaliser une attaque multiple :
 1. Constituez votre réserve de dés comme si vous alliez cibler un seul adversaire.
@@ -520,7 +468,7 @@ Vous pouvez cibler plusieurs fois le même adversaire, auquel cas chaque sous-r�
 :::info Exemple
 Vous faites face à deux adversaires (A et B) dans votre allonge. Vous décidez de faire une attaque multiple pour les blesser. Grâce à votre `Coordination` égale à 3, vous souhaitez cibler vos adversaires trois fois : deux fois sur A, une fois sur B.
 
-* Vous constituez votre réserve de `Mêlée (Coordination)` égale à `6D`.
+* Vous constituez votre réserve de `Force + Agilité` égale à `6D`.
 * Les conditions vous confèrent un bonus de `+2D` contre A et `+1D` contre B, vous ajoutez le minimum de `+1D` pour un total de `7D`.
 * Vous divisez votre réserve comme suit : `3D` contre A, `2D` contre A et `2D` contre B.
 * A décide de parer votre attaque avec une réserve de `3D`.
@@ -538,11 +486,11 @@ Si l'arme ou l'aptitude que vous utilisez possède une zone d'effet, vous pouvez
 
 :::tip Types de zone d'effet
 Il existe trois types de zone d'effet. Si vous utilisez la [grille](how-to-play#grid), procédez comme suit :
-- __Ligne__ : utilisez une règle ou un stylo comme patron. Placez là au centre de la case d'origine et constatez les cases qu'il traverse. La taille de la zone vous indique le nombre de cases adjacentes traversées par votre patron que vous pouvez cibler.
-- __Cercle__ : la taille de la zone vous indique le nombre de cases adjacentes, dans toutes les directions à partir de la case d'origine, qui sont ciblées.
+- __Ligne__ : utilisez une règle ou un stylo comme patron. Placez là au centre de la case d'origine et constatez les cases qu'il traverse. La taille de la zone vous indique le nombre de cases adjacentes traversées par votre patron que vous allez cibler.
+- __Cercle__ : la taille de la zone vous indique le nombre de cases adjacentes, dans toutes les directions à partir de la case d'origine, que vous allez cibler.
 - __Cône__ : considérez un triangle rectangle isocèle comme patron. La taille de la zone vous indique la longueur de ses deux côtés égaux. Son angle droit se trouve au centre de la case d'origine.
 
-Si vous n'utilisez pas la grille, le MJ doit vous indiquer quelles cibles vous pouvez atteindre.
+Si vous n'utilisez pas la grille, le MJ doit vous indiquer les cibles que vous pouvez atteindre.
 :::
 
 ### Combat à deux armes {#dual-wield}
@@ -552,6 +500,17 @@ Combattre à deux armes ne confère __aucun bonus particulier__ à une réserve 
 Vous pouvez utiliser deux armes avec des types de dégâts et des portées différentes, vous permettant de couvrir un plus large panel de situations tactiques. Chaque arme doit pouvoir être maniée à une main, de sorte que vous puissiez les tenir en même temps.
 
 Lorsque vous attaquez, vous choisissez avec quelle arme (ou avec les deux dans le cadre d'une [attaque multiple](#attack-multiple-strikes) par exemple).
+
+### Contre-attaque {#counter-attack}
+
+Si vous [parez](#reactions-parry) un adversaire et que vous dépensez __2 succès__, vous pouvez utiliser une __contre-attaque__.
+
+Vous infligez immédiatement à votre adversaire les effets d'une attaque de contact au corps à corps réussie avec une arme que vous tenez. 
+
+* Vous choisissez la [catégorie](#attack-categories) de votre attaque.
+* Cette attaque fait partie de votre parade, personne ne peut utiliser une réaction en réponse.
+* Aucun test supplémentaire n'est nécessaire.
+* Si vous avez plus de __2 succès__ à dépenser, vous pouvez les dépenser pour obtenir les effets supplémentaires de la catégorie d'attaque choisie.
 
 ### Terrain difficile {#difficult-terrain}
 
@@ -572,7 +531,7 @@ Si vous parcourez 4 cases numérotées 1, 2, 3 et 4, et que les cases n°2 et n�
 :::tip Ramper en terrain difficile
 Dans la majorité des cas, ramper ignore le terrain difficile : ramper sur un sol glissant ou sur un terrain instable ne représente pas de difficultés particulières.
 
-Votre MJ peut décider que son terrain difficile n'est pas pratiquable en rampant. Dans ce cas, il peut vous demander de consommer deux manœuvres ou de réaliser un test pour quitter une case.
+Votre MJ peut décider que son terrain difficile n'est pas pratiquable en rampant. Dans ce cas, il peut vous demander de consommer deux manœuvres ou de [faire un test](#actions-check) pour quitter une case.
 :::
 
 ### Tirer sans viser {#hipfire}
@@ -593,7 +552,7 @@ Vous trouverez dans les tableaux ci-dessous un récapitulatif des situations et 
 | Votre cible est plus petite. | `+1D` aux attaques pour chaque différence de taille. |
 | Vous utilisez une arme de qualité. | `+1D` aux attaques utilisant cette arme. |
 | Un allié vous [aide](#maneuvers-help). | `+1D` au prochain test de votre choix. |
-| Vous adoptez une [posture agressive](#maneuvers-aggressive-stance). | `+1D` aux tests de `Mêlée` et de `Pugilat` jusqu'à la fin de votre tour. |
+| Vous adoptez une [posture agressive](#maneuvers-aggressive-stance). | `+1D` aux attaques de contact au corps à corps jusqu'à la fin de votre tour. |
 | Vous utilisez un [point de destin](how-to-play#use-destiny-points). | `+1D` au test de votre choix. |
 
 ### Bonus défensifs {#attack-modifiers-defensive}
@@ -603,8 +562,9 @@ Vous trouverez dans les tableaux ci-dessous un récapitulatif des situations et 
 | Vous êtes [à terre](conditions#prone). | `+1D` contre les attaques de contact à distance. |
 | Votre cible est [à terre](conditions#prone). | `+1D` contre ses attaques de contact au corps à corps. |
 | Votre cible est [déséquilibrée](#off-balance). | `+1D` contre ses attaques de contact au corps à corps et à distance. |
-| Vous vous êtes [déplacé](#maneuvers-move) lors de votre dernier tour. | `+1D` aux [esquives](#reactions-dodge) contre les attaques de contact à distance pour chaque manœuvre entreprise. |
+| Vous vous êtes [déplacé](#maneuvers-move) lors de votre dernier tour. | `+1D` aux [esquives](#reactions-dodge) contre les attaques de contact à distance pour chaque déplacement. |
 | Vous bénéficiez d'un [abri](#cover). | `+1D` contre les attaques de contact au corps à corps et à distance. |
+| Vous bénéficiez d'un [abri](#cover) complet. | `+3D` contre les attaques de contact au corps à corps et à distance. |
 | Votre adversaire vous cible en ayant une [perception faible](how-to-play#perception-accuracy). | `+1D` contre ses attaques. |
 | Un allié vous [aide](#maneuvers-help). | `+1D` au prochain test de votre choix. |
 | Vous adoptez une [posture défensive](#maneuvers-defensive-stance). | `+1D` aux tests pour [parer](#reactions-parry) et [esquiver](#reactions-dodge) jusqu'au début de votre prochain tour. |
