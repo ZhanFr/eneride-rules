@@ -50,6 +50,12 @@ Crocheter une serrure basique a une difficulté de 2. Si la serrure est difficil
 
 Lorsqu’une activité nécessite un test, vous constituez votre réserve de dés et interprétez le résultat pour savoir si vous réussissez ou si vous échouez.
 
+:::tip Au-delà de 10
+Si le nombre de dés dans votre réserve devait dépasser 10, défaussez les dés au delà de 10 et obtenez automatiquement 1 succès par dé défaussé de cette manière.
+
+Vous ne devriez jamais lancer plus de 10 dés pour un test.
+:::
+
 #### Succès, Réussite et Échec
 
 Un dé affichant un résultat de 7, 8 ou 9 confère un succès. Un résultat de 10 confère deux succès.
@@ -558,14 +564,14 @@ Il est possible d'ignorer les effets de la Luminosité, ou au contraire d'être 
 
 En progressant dans votre [carrière](character-creation#careers), vous allez obtenir des aptitudes que votre personnage va pouvoir utiliser dans les différentes phases du jeu. Ces aptitudes peuvent être :
 
-* __Passives__ : vous bénéficiez toujours de leurs effets (comme une augmentation de points de vie).
+* __Passives__ : vous bénéficiez toujours de leurs effets (comme un bonus à un test spécifique).
 * __Actives__ : vous devez agir spécifiquement dans le cadre de l'aptitude pour bénéficier de ses effets (comme une attaque spéciale).
 
 Certaines aptitudes peuvent consommer ou vous faire récupérer des [points de pouvoir](#power-points).
 
 Quelques règles à prendre en compte lorsque vous utilisez une aptitude :
-* Sauf indication contraire, une aptitude qui vous demande de faire un test s'utilise dans le cadre d'une [action](combat#action).
-* Sauf indication contraire, une aptitude qui ne demande pas de faire un test s'utilise dans le cadre d'une [manoeuvre](combat#maneuver).
+* Par défaut, une aptitude qui vous demande de faire un test s'utilise dans le cadre d'une [action](combat#action).
+* Également, une aptitude qui ne demande pas de faire un test s'utilise dans le cadre d'une [manoeuvre](combat#maneuver).
 * En dehors de la phase de [combat](#combat-phase), confirmez avec votre MJ si vous pouvez utiliser une aptitude.
 
 ## Les Points de Pouvoir {#power-points}
@@ -598,7 +604,7 @@ Votre personnage est un Cryomancien (spécialisation de la carrière d'Hydromanc
 
 Ainsi, selon votre total de points de pouvoir :
 
-* __1 PP (Novice)__ : vous pouvez créer une surface suffisante pour une personnage, mais pas un véritable pont.
+* __1 PP (Novice)__ : vous pouvez créer une surface suffisante pour un personnage, mais pas un véritable pont.
 * __3 PP (Praticien)__ : vous pouvez créer un pont de glace solide au-dessus d'une petite rivière, suffisant pour un petit groupe.
 * __7 PP (Maître)__ : vous pouvez ériger un large pont de glace au-dessus d'un fleuve, assez solide pour faire traverser une armée.
 
