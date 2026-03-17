@@ -2,72 +2,35 @@
 
 Cet article présente les règles du système de jeu dans sa globalité.
 
-## Les Mécanismes de Jeu
+## Mécaniques de Jeu
 
 Le système utilise exclusivement des dés à 10 faces (ou D10).
 
-Selon les situations, les dés peuvent être lancés individuellement ou en "réserve" (plusieurs dés lancés en même temps).
+Selon les situations, les dés peuvent être lancés individuellement ou en __réserve__ (plusieurs dés lancés en même temps).
 
-Le système fait référence aux dés de plusieurs manières :
-
-- __D10__ : Le dé standard, offrant un résultat entre 1 et 10.
-- __D100__ : Un couple de D10, l'un donnant le nombre de dizaines et l'autre le chiffre des unités.
-- __D2__ (ou "pile ou face") : Le D10 sert à déterminer un résultat binaire, avec un chiffre pair représentant "vrai" et un chiffre impair représentant "faux".
+Lorsque les règles parlent d'un `D10` ou d'un `D`, elles font référence à un dé à 10 faces.
 
 Pour jouer confortablement, il est recommandé d'avoir 5 à 10 dés à 10 faces. Ces dés peuvent être de n’importe quelle couleur tant qu’ils sont lisibles.
 
-### La Réserve de Dés
+### Réserve de Dés
 
-La réserve de dés représente un ensemble de D10 utilisé pour résoudre des situations où l’issue est incertaine.
+La __réserve de dés__ représente un ensemble de __D10__ utilisé pour résoudre des situations dont l’issue est incertaine : on parle alors d'un __test__. Le nombre de dés constituant une réserve dépend des circonstances et des capacités des personnages.
 
-Le nombre de dés constituant une réserve dépend des capacités de votre personnage.
+Une fois votre réserve de dés lancée, vous devez consulter le résultat de chaque dé pour savoir si vous réussissez ou si vous échouez.
 
-### La Difficulté {#difficulty}
+Un dé affichant un résultat de __7, 8 ou 9 confère un succès__. Un résultat de __10 confère deux succès__. Chaque succès obtenu contribue à la réussite de votre test.
 
-La difficulté représente la complexité d’une activité et est exprimée par une valeur allant de 1 à 7 ou plus.
+:::tip Limites de la réserve
 
-Chaque niveau de difficulté correspond à un degré de complexité :
+Si le nombre de dés dans votre réserve __devait dépasser 10__, défaussez les dés au delà de 10 et obtenez automatiquement 1 succès par dé défaussé de cette manière.
+Si le nombre de dés dans votre réserve __devait être inférieur à 1__, conserver un minimum d'un seul dé dans votre réserve.
 
-| Valeur | Difficulté | Description |
-|:-:|-|-|
-| 1 | Simple | Demande de la concentration et du savoir-faire de base |
-| 2 | Modérée | Nécessite une certaine expertise |
-| 3 | Difficile | Seuls des experts peuvent réussir régulièrement |
-| 4 | Très difficile | Demande un investissement sérieux et une maîtrise reconnue |
-| 5 | Extraordinaire | À la limite des capacités humaines |
-| 6 | Surnaturelle | Accessible uniquement à de puissants adeptes |
-| 7 | Impossible | Réalisable par quelques adeptes d’exception |
-
-Les activités avec une difficulté de 1 à 4 peuvent être accomplies par des artisans ou des athlètes expérimentés. Au-delà, elles relèvent de capacités surhumaines ou surnaturelles, réservées aux adeptes ou à des individus hors du commun.
-
-Le MJ détermine la difficulté en fonction de l’intention du joueur et de la complexité de la tâche.
-
-:::info Exemple
-Crocheter une serrure basique a une difficulté de 2. Si la serrure est difficilement visible à cause d'un mauvais éclairage ou si vous utilisez des outils inadaptés, le MJ peut augmenter la difficulté à 3.
+Ainsi, votre réserve devrait toujours contenir __entre 1 et 10 dés__.
 :::
-
-### Interpréter une réserve
-
-Lorsqu’une activité nécessite un test, vous constituez votre réserve de dés et interprétez le résultat pour savoir si vous réussissez ou si vous échouez.
-
-:::tip Au-delà de 10
-Si le nombre de dés dans votre réserve devait dépasser 10, défaussez les dés au delà de 10 et obtenez automatiquement 1 succès par dé défaussé de cette manière.
-
-Vous ne devriez jamais lancer plus de 10 dés pour un test.
-:::
-
-#### Succès, Réussite et Échec
-
-Un dé affichant un résultat de 7, 8 ou 9 confère un succès. Un résultat de 10 confère deux succès.
-
-Chaque succès obtenu contribue à la réussite de l’action.
-
-- __Réussite__ : Si le nombre de succès est égal ou supérieur à la difficulté, l’action est réussie.
-- __Échec__ : Si le nombre de succès est inférieur à la difficulté, l’action échoue.
 
 #### Dépenser des succès
 
-Quand vous obtenez plus de succès que nécessaire sur un test, vous pouvez les dépenser en fonction de la situation pour améliorer le résultat de votre activité ou ajouter des effets positifs.
+Quand vous obtenez plus de succès que nécessaire pour réussir, vous pouvez parfois les dépenser pour améliorer l'issue du test et ajouter des effets positifs.
 
 :::info Exemple
 Lors d’un combat, vous pouvez dépenser des succès pour infliger des dégâts supplémentaires ou affaiblir davantage votre adversaire.
@@ -75,7 +38,7 @@ Lors d’un combat, vous pouvez dépenser des succès pour infliger des dégâts
 
 #### Revers en cas d'Échec
 
-Lorsque votre activité échoue, si au moins un dé affiche un 1 dans la réserve, le MJ peut vous faire subir un revers.
+Lorsque vous échouez, si __au moins un dé affiche un 1__ dans votre réserve, le MJ peut vous faire subir un __revers__.
 
 Un revers est une conséquence négative spécifique, en lien avec la situation.
 
@@ -83,25 +46,21 @@ Un revers est une conséquence négative spécifique, en lien avec la situation.
 Lors d’une tentative de crochetage, un revers peut signifier que vos outils se cassent ou que la serrure est définitivement bloquée, empêchant toute tentative ultérieure.
 :::
 
-::: tip Conseil au maître de jeu
+:::tip Conseil au maître de jeu
 Privilégiez les revers dans les phases d'__exploration__ et de __négociation__ avec des implications scénaristiques notables.
 :::
 
-## Tests simples et Tests opposés
+### Tests
 
-Les tests servent à résoudre les situations où l'issue est incertaine. Ils permettent de déterminer si votre activité réussit ou échoue
+Les tests sont le coeur du jeu : ils permettent de déterminer si vos actions se concluent par des réussites ou des échecs.
 
 Il existe deux types de tests : les __tests simples__ et les __tests opposés__.
 
-### Test simple
+#### Test simple
 
-Le test simple compare le résultat de votre réserve de dés à une difficulté fixée par le MJ.
+Le test simple compare le résultat de votre réserve de dés à une [difficulté](#difficulty) fixée par le MJ.
 
-Pour résoudre un test simple, constituez votre réserve selon la formule suivante :
-
-```
-Caractéristique principale + Caractéristique secondaire + Bonus.
-```
+Pour résoudre un test simple, vous constituez une réserve avec un nombre de dés égal à la somme des deux caractéristiques qui conviennent le mieux à la situation. Vous pouvez ensuite y ajouter des dés bonus situationnels en accord avec le MJ.
 
 :::info Exemple
 - Escalader une paroi rocheuse.
@@ -109,7 +68,7 @@ Caractéristique principale + Caractéristique secondaire + Bonus.
 - Résister aux effets d'un poison.
 :::
 
-### Test opposé
+#### Test opposé
 
 Le test opposé compare les résultats de plusieurs réserves de dés.
 
@@ -121,14 +80,14 @@ Le test opposé compare les résultats de plusieurs réserves de dés.
 
 Dans ce cas, chaque participant constitue sa réserve de dés selon les mêmes principes que pour un test simple. Les dés sont ensuite lancés, et le nombre de succès de chaque réserve est comparé.
 
-- Si un participant obtient plus de succès que l'autre, il l'emporte.
-- En cas d'égalité, le MJ décide si l'action se termine sans effet décisif ou s'il faut départager. On compare alors le résultat du dé ayant obtenu la plus haute valeur dans chaque réserve. En dernier recours, le MJ peut demander un nouveau test.
+* Si un participant obtient plus de succès que les autres, il l'emporte.
+* En cas d'égalité, le MJ décide si l'action se termine sans effet décisif ou s'il faut départager. On compare alors le résultat du dé ayant obtenu la plus haute valeur dans chaque réserve. En dernier recours, le MJ peut demander un nouveau test.
 
 :::info Exemple
 
 __Test simple__ : Un personnage tente d'escalader une paroi de difficulté 2.
 
-Le joueur choisi d'utiliser la `Force` (3) et l'`Agilité` (2) de son personnage pour escalader rapidement la paroi. Il bénéficie d'un Bonus de `+1D` grâce à un équipement spécialisé. Sa réserve est donc constituée de :
+Le joueur choisi d'utiliser la `Force` (3) et l'`Agilité` (2) de son personnage pour escalader rapidement la paroi. Il obtient un bonus de `+1D` grâce à un équipement spécialisé. Sa réserve est donc constituée de :
 
 ```
 3 (Force) + 2 (Agilité) + 1 (Bonus) = 6 dés.
@@ -138,9 +97,9 @@ Le joueur lance les dés et obtient __3 succès__. Comme ce nombre dépasse la D
 
 ---
 
-__Test opposé__ : Deux personnages s'affrontent dans une course pour atteindre un objet.
+__Test opposé__ : Deux personnages s'affrontent dans une longue course pour atteindre un objet.
 
-Le personnage A possède 3 en `Force` et 2 en `Agilité`, tandis que le personnage B a 2 en `Force` et 4 en `Agilité`. Aucun Bonus ne s'applique. Leurs réserves de dés sont donc :
+Le personnage A possède 3 en `Agilité` et 2 en `Endurance`, tandis que le personnage B a 2 en `Agilité` et 4 en `Endurance`. Aucun Bonus ne s'applique. Leurs réserves de dés sont donc :
 
 ```
 Personnage A : 3 + 2 = 5 dés.
@@ -149,6 +108,41 @@ Personnage B : 2 + 4 = 6 dés.
 
 Le joueur A obtient __2 succès__, tandis que le joueur B en obtient __4__. Le personnage B remporte la course.
 :::
+
+### Difficulté {#difficulty}
+
+La difficulté représente la complexité d’un test et est exprimée par une valeur allant de 1 à 7 ou plus.
+
+| Valeur | Difficulté | Description |
+|:-:|-|-|
+| 1 | Simple | Demande de la concentration et du savoir-faire de base |
+| 2 | Modérée | Nécessite une certaine expertise |
+| 3 | Difficile | Seuls des experts peuvent réussir régulièrement |
+| 4 | Très difficile | Demande un investissement sérieux et une maîtrise reconnue |
+| 5 | Extraordinaire | À la limite des capacités humaines |
+| 6 | Surnaturelle | Accessible uniquement à de puissants adeptes |
+| 7 | Impossible | Réalisable par quelques adeptes d’exception |
+
+Les tests avec une difficulté de 1 à 4 peuvent être accomplis par des artisans ou des athlètes expérimentés. Au-delà, ils relèvent de capacités surhumaines ou surnaturelles, réservées aux adeptes ou à des individus hors du commun.
+
+Le MJ détermine la difficulté en fonction de l’intention du joueur et de la complexité de la tâche.
+
+:::info Exemple
+Si vous voulez crocheter une serrure, la difficulté dépend de la conception de celle-ci :
+* Une serrure basique de petit coffre ou de porte a une difficulté de 2.
+* Une serrure renforcée pour un coffre fort ou une porte blindée a une difficulté de 4.
+* Une serrure conçue par un artificier de génie a une difficulté de 5 ou plus.
+:::
+
+:::tip Difficulté et contexte
+La difficulté devrait toujours être fixe en fonction de la tâche à accomplir. Les éléments contextuels rendant la tâche plus facile ou plus complexe ne modifient pas la difficulté mais confèrent des bonus ou des malus à la réserve de dés.
+
+Ainsi, crocheter une serrure renforcée aura toujours une difficulté de 4.
+* Si vous êtes pressé, ou sous pression au moment de crocheter, le MJ peut imposer un malus de `-1D`.
+* Si vous n'utilisez pas les bons outils ou que l'accès à la serrure est difficile, le MJ peut également imposer un malus de `-1D`.
+* Si vous utilisez des outils de qualité, le MJ peut vous accorder un bonus de `+1D`.
+* Si vous avez déjà crocheté une serrure de ce type ou avez étudié sa conception, le MJ peut également vous accorder un bonus de `+1D`.
+::: 
 
 ## Les Phases de Jeu {#game-phases}
 
@@ -160,7 +154,7 @@ Ces phases sont : l'__exploration__, le __combat__, et la __négociation__.
 
 > Article détaillé : [Exploration](exploration)
 
-La phase d'exploration représente les moments où vous évoluez dans votre environnement.
+La phase d'exploration représente les moments où vous évoluez librement dans l'univers.
 
 Pendant cette phase :
 
@@ -200,30 +194,85 @@ La phase de négociation se déroule lorsque vous interagissez socialement avec 
 Vous avez capturé un voleur et souhaitez négocier avec lui pour obtenir des informations sur son employeur. Vous décidez de menacer le voleur pour le convaincre. Le MJ vous demande un test de `Force + Charisme`.
 :::
 
+## Les Aptitudes {#abilities}
+
+En progressant dans votre [carrière](character-creation#careers), vous allez obtenir des aptitudes que votre personnage va pouvoir utiliser dans les différentes phases du jeu. Ces aptitudes peuvent être :
+
+* __Passives__ : vous bénéficiez toujours de leurs effets (comme un bonus à un test spécifique).
+* __Actives__ : vous devez agir spécifiquement dans le cadre de l'aptitude pour bénéficier de ses effets (comme une attaque spéciale).
+
+Certaines aptitudes peuvent consommer ou vous faire récupérer des [points de pouvoir](#power-points).
+
+Quelques règles à prendre en compte lorsque vous utilisez une aptitude :
+* Par défaut, une aptitude qui vous demande de faire un test s'utilise dans le cadre d'une [action](combat#action).
+* Également, une aptitude qui ne demande pas de faire un test s'utilise dans le cadre d'une [manoeuvre](combat#maneuver).
+* En dehors de la phase de [combat](#combat-phase), confirmez avec votre MJ si vous pouvez utiliser une aptitude.
+
+## Les Points de Pouvoir {#power-points}
+
+Vous disposez d'une quantité de points de pouvoir pour activer des [aptitudes](#abilities) ou des activités spéciales. C'est aussi un marqueur qui représente votre capacité à canaliser vos pouvoirs d'__Adepte__.
+
+* Vous pouvez avoir jusqu'à 9 points de pouvoir.
+* Vous pouvez augmenter votre total de points de pouvoir en achetant des progressions de [carrière](character-creation#careers).
+* Après un [repos](how-to-play#rest), vous récupérez tous vos points de pouvoir.
+
+:::tip Représenter les points de pouvoir
+Vous allez consommer et récupérer des points de pouvoir fréquemment en combat. Plutôt que de noter chaque changement, vous pouvez utiliser un `D10` sur lequel vous affichez votre nombre de points.
+:::
+
+#### Points de pouvoir en dehors des combats ?
+
+Les phases de [négociation](negociation) et d'[exploration](exploration) ne répondent pas aux mêmes critères que la phase de combat. Vous n'y subissez pas la pression de l'affrontement, vous n'y ressentez pas les puissantes énergies qui s'entrechoquent.
+
+Pour ces raisons, consommer ou récupérer des points de pouvoir en dehors des combats peut ne pas avoir de sens. En revanche, le total de vos points de pouvoir informe sur l'ampleur de ce que votre personnage peut accomplir.
+
+En dehors du combat, vous n'êtes pas limité par vos aptitudes, vous pouvez tenter d'agir de manière créatives tant que cela reste cohérent avec :
+* La nature de votre pouvoir.
+* Votre niveau de puissance (votre total de PP).
+* Le temps, la préparation et les ressources à votre disposition.
+
+Votre MJ a le dernier mot sur ce que vous êtes capable de faire.
+
+:::info Exemple
+Votre personnage est un Cryomancien (spécialisation de la carrière d'Hydromancien). Il n'existe pas d'aptitude "Pont de glace" dans vos progressions. Toutefois, cela ne signifie pas que vous êtes incapable de créer un pont de glace en jeu.
+
+Ainsi, selon votre total de points de pouvoir :
+
+* __1 PP (Novice)__ : vous pouvez créer une surface suffisante pour un personnage, mais pas un véritable pont.
+* __3 PP (Praticien)__ : vous pouvez créer un pont de glace solide au-dessus d'une petite rivière, suffisant pour un petit groupe.
+* __7 PP (Maître)__ : vous pouvez ériger un large pont de glace au-dessus d'un fleuve, assez solide pour faire traverser une armée.
+
+Dans tous les cas, le MJ devrait vous demander un test et imposer des contraintes (temps d'incantation par exemple) pour représenter la difficulté de la tâche à accomplir.
+:::
+
 ## Dégâts, Points de vie et Blessures {#damage-hp-injuries}
 
 Trois notions sont utilisées pour représenter votre état physique et mental lorsque vous êtes exposé aux dangers du monde :
 
 - __Les Dégâts__ : Ils proviennent d'attaques, d'éléments environnementaux (chutes, pièges) ou d'autres sources d'agression. Ils reflètent la quantité de dommages qui peuvent vous être infligés.
-- __Les Points de vie (PV)__ : Cette valeur mesure votre capacité à encaisser et à supporter des dégâts.
-- __Les Blessures__ : Ce sont des effets qui altèrent durablement votre condition. Lorsque vous subissez des dégâts, vous pouvez choisir de prendre une blessure en fonction de la situation.
+- __Les Points de vie (PV)__ : Cet attribut mesure votre capacité à encaisser et à supporter des dégâts.
+- __Les Blessures__ : Ce sont des effets qui altèrent durablement votre condition. Lorsque vous subissez des dégâts, vous pouvez choisir de prendre des blessures en fonction de la situation.
 
 ### Types de dégâts {#damage-types}
 
-Tous les dégâts sont associés à un type :
+Tous les dégâts sont divisés en deux catégories :
 
-| Type | Description | Exemple |
-|-|-|-|
-| __Impact__ | Les dégâts causant des chocs physiques | Les coups de poing ou d'épée, les projectiles (balles, flèches), les explosions, etc. |
-| __Feu__ | Les dégâts causant des brûlures | Projection de flammes (lance-flammes ou aptitude), grenade incendiaire, feu alchimique, etc. |
-| __Froid__ | Les dégâts causant des gelure | Grand froid (environnement ou aptitude), cryogénie alchimique, etc. |
-| __Caustique__ | Les dégâts causant une dégradation des tissus vivants | Acides, gaz et autres toxines. |
-| __Nécrotique__ | Les dégâts causant des lésions internes | Poisons et effets de nécrose (naturel ou aptitude). |
-| __Mental__ | Les dégâts causant des troubles psychiques | Fantasmes, hallucinations (drogue ou aptitude) ou altération de la psyché. |
+* Les __dégâts externes__ infligés par des armes, des aptitudes, des éléments extérieurs. Sauf exception, les armures vous protègent de ces dégâts.
+* Les __dégâts internes__ infligés par certaines aptitudes, des toxines ou des troubles psychiques. Les armures ne peuvent pas vous protéger de ces dégâts.
 
-:::tip Protection des armures
-Les armures réduisent les dégâts d'impact, mais peuvent être augmentée pour offrir une réduction contre d'autres types de dégâts.
-:::
+À l'intérieur de ces catégories, les dégâts sont associés à un type. Les armes et les aptitudes infligent au moins un type de dégâts.
+
+| Type | Catégorie | Description | Exemple |
+| - | - | - | - |
+| __Contondant__ | Externe | L'énergie d'un impact brut. | Les coups de poing ou de matraque, les chutes. |
+| __Perforant__ | Externe | Une force concentrée sur une pointe fine. | Les couteaux et projectiles (balles, flèches). |
+| __Tranchant__ | Externe | Une lame affûtée qui provoque des entailles nettes et profondes. | Les épées, fouets. |
+| __Ardent__ | Externe | Une chaleur intense qui consume la matière, laissant des brûlures vives. | Flammes, chaleurs intenses. |
+| __Caustique__ | Externe | Une réaction chimique corrosive qui ronge les surfaces. | Acides et autres irritants. |
+| __Glacial__ | Externe | Un froid mordant entrainant des gelures. | Expositions à des températures faibles extrêmes. |
+| __Entropique__ | Interne | Effet de fatigue, de perte d'énergie vitale. | Aptitudes et autres effets surnaturels qui ciblent la vitalité. |
+| __Nécrotique__ | Interne | Effet de fletrissement, nécrose ou hémorragie. | Les poisons, venins et lésions internes. |
+| __Psychique__ | Interne | Agression directe de la psyché brisant la volonté ou la raison. | Chocs traumatiques, hallucinations et autres altérations mentales. |
 
 ### Subir des dégâts {#take-damage}
 
@@ -241,38 +290,40 @@ Le round suivant, le même monstre vous inflige 5 dégâts. Vous préférez pren
 
 ### Réduction de dégâts {#damage-reduction}
 
-Avant de subir des dégâts, des ressources, des effets ou des aptitudes peuvent vous aider à les réduire :
+Quand vous subissez des dégâts, votre équipement ou vos aptitudes peuvent vous aider à les réduire :
 
-- __Armure__ : Votre armure peut réduire les dégâts en fonction de sa valeur de protection.
-- __Utiliser une aptitude__ : Une aptitude peut vous procurer une réduction de dégâts.
+- __Armure__ : Une armure peut réduire les dégâts en fonction de sa valeur de protection.
+- __Aptitude__ : Une aptitude peut vous procurer une réduction de dégâts spécifique.
 
 La __réduction de dégâts__ s'applique en __premier__ dans le calcul des modifications.
 
 :::info Exemple
-Un monstre vous griffe et vous inflige 5 dégâts. Votre armure possède une protection de 2. Vous réduisez les dégâts à 3.
+Un monstre vous griffe et vous inflige 5 dégâts. Votre armure possède une protection de 2, ce qui ramène les dégâts subis à 3.
 :::
 
 ### Résistance et Faiblesse {#damage-resistance}
 
-Les __Résistances__ et __Faiblesses__ s'appliquent selon le type de dégâts :
+Les __Résistances__ et __Faiblesses__ s'appliquent sur les types de dégâts, ou plus rarement sur les catégories.
 
-- __Résistance__ : Vous ne subissez que la moitié des dégâts si vous êtes résistant au type.
-- __Faiblesse__ : Vous subissez le double des dégâts si vous êtes faible au type.
+- __Résistance__ : Vous ne subissez que la moitié des dégâts.
+- __Faiblesse__ : Vous subissez le double des dégâts.
 
 Ces modificateurs s'appliquent __après__ les réductions.
 
 :::info Exemple
-Un monstre vous inflige 5 dégâts de type __Feu__. Votre armure ne vous protège pas de ce type, et vous êtes __faible__ au __Feu__. Vous subissez `5 x 2 = 10` dégâts.
+Un monstre vous inflige 5 dégâts de type __Ardent__.
+* Votre armure réduit ces dégâts de 2, vous devez subir 3 dégâts.
+* Vous êtes __faible__ à __Ardent__, vous doublez les dégâts que vous deviez subir : vous subissez donc `3 x 2 = 6` dégâts.
 :::
 
 ### Immunité {#damage-immunity}
 
-Une immunité à un type de dégâts les réduit systématiquement à 0, quelle qu'en soit l'origine.
+Une immunité à un type ou à une catégorie de dégâts les réduit systématiquement à 0, quelle qu'en soit l'origine.
 
-Les immunités sont rares et puissantes, souvent accordées par des aptitudes de haut niveau.
+Les immunités sont rares et puissantes, elles sont parfois accordées par des aptitudes de haut niveau.
 
 :::info Exemple
-Un Fantôme, en tant que créature éthérée, est __immunisé__ à la majorité des dégâts d'__Impact__. Une épée en acier, un balle en plomb ou une chaise en bois ne lui infligeront aucun dégâts.
+Un Fantôme, en tant que créature éthérée, est __immunisé__ à de nombreux types de dégâts (tranchants, perforants, contondants, nécrotiques) en raison de l'absence d'enveloppe corporelle. Une épée en acier, un balle en plomb ou un poison ne lui infligeront aucun dégâts.
 :::
 
 ### Perdre des points de vie {#losing-hp}
@@ -281,10 +332,15 @@ Quand vous subissez des dégâts, vous pouvez les déduire de vos points de vie.
 
 Vous déduisez de vos points de vie les dégâts reçus après application des réductions, résistances, faiblesses et immunités.
 
-Si vos points de vie atteignent 0, ignorez les dégâts supplémentaires, prenez une blessure et tombez [inconscient](conditions#unconscious) pendant 1 heure. Après quoi, vous récupérez 1 PV et perdez l'état inconscient.
+Si vos points de vie atteignent 0 :
+* Ignorez les dégâts supplémentaires
+* Prenez une blessure
+* Tombez [inconscient](conditions#unconscious) pendant 1 heure.
+
+S'il ne vous arrive rien au bout d'1 heure, vous récupérez automatiquement 1 PV et perdez l'état inconscient.
 
 :::warning Points de vie à 0
-En combat, tomber à 0 points de vie signifie la fin de votre participation, mais cela ne vous met pas à l'abri pour autant. Si vous deviez subir des dégâts dans ces conditions, vous devez prendre une blessure.
+En combat, tomber à 0 points de vie signifie la fin de votre participation, mais cela ne vous met pas à l'abri pour autant. Si vous deviez subir des dégâts dans ces conditions, vous devez prendre des blessures.
 :::
 
 ### Prendre des blessures {#take-injuries}
@@ -303,7 +359,7 @@ Tous les personnages possèdent __4 paliers__ de blessures avec des effets assoc
 Quand vous choisissez de prendre des blessures, vous réduisez les dégâts subis de votre `Endurance` pour chaque palier que vous prenez.
 
 :::info Exemple
-Votre personnage a une `Endurance` de 3 et un monstre vous inflige 7 points de dégâts. Vous pouvez prendre deux paliers de blessure, légère et grave, pour réduire ces dégâts de 3x2=6.
+Vous avez une `Endurance` de 3 et un monstre vous inflige 7 points de dégâts. Vous pouvez prendre deux paliers de blessure, légère et grave, pour réduire ces dégâts de `3 + 3 = 6`.
 
 Ainsi, au lieu de subir 7 points de dégâts, vous subissez 1 points de dégâts et prenez deux paliers de blessures.
 :::
@@ -320,34 +376,33 @@ Un repos représente une période d'environ 8 heures durant laquelle vous ne dev
 
 Après vous être reposé, vous récupérez l'ensemble de vos points de vie.
 
-Si vous vous êtes reposé en étant sur le qui-vive, tout équipé, ou dans des conditions difficiles (environnement, nombreuses interruptions, etc.), vous ne récupérez que la moitié de vos points de vie. 
+Si vous vous êtes reposé en étant sur le qui-vive, tout équipé, ou dans des conditions difficiles (environnement, nombreuses interruptions, etc.), vous ne récupérez que la moitié de vos points de vie.
 
 ### Récupérer des Points de Vie {#recover-hp}
 
 En dehors des combats, se reposer est la méthode la plus simple pour récupérer des points de vie.
 
-Vous pouvez également :
-
-- Consommer des potions de soin.
-- Utiliser des aptitudes.
+Les autres options incluent :
+* Utiliser un consommable comme une trousse de soin ou une potion.
+* Utiliser des aptitudes permettant de récupérer des points de vie.
 
 ### Soigner des Blessures {#heal-injuries}
 
-Contrairement aux points de vie, les blessures nécessitent une intervention médicale et du repos pour être soignées.
+Les blessures nécessitent une intervention médicale en plus du repos pour être soignées.
 
 #### Soins par la Médecine {#heal-injuries-with-medecine}
 
-Vos blessures peuvent être soignées lors d'interventions médicales complexes (chirurgie, transfusion, etc.) accessible aux personnages à travers une ressource ou une aptitude. Le test associé doit prendre en compte les éléments suivants :
+Vos blessures peuvent être soignées lors d'interventions médicales (chirurgie, transfusion, etc.) accessiblent aux personnages en utilisant des points de ressource ou une aptitude. Le test associé doit prendre en compte les éléments suivants :
 
 * Ce test n'est possible qu'une fois par repos.
 * La __difficulté du test__ est égale au palier de blessure.
-* Si vous vous soignez vous-même, la difficulté est augmentée de +2.
-* Ce soin nécessite un __environnement adapté__ (infirmerie, outils médicaux, hygiène) sans quoi le MJ peut __augmenter la difficulté__ ou ajouter des complications.
+* Si vous vous soignez vous-même, vous faites le test avec `-1D` par palier de blessure.
+* Ce soin nécessite un __environnement adapté__ (infirmerie, outils médicaux, hygiène) sans quoi le MJ peut imposer des malus ou ajouter des complications.
 * Vous soignez le palier de blessure le plus élevé en cas de réussite.
 * Vous pouvez dépenser un nombre de succès égal au palier inférieur pour le soigner immédiatement.
 
 :::info Exemple
-Vous avez une blessure critique (palier 3). Vous obtenez les services d'un chirurgien qui va vous opérer. Pour ce test, il utilise `Agilité + Intellect + 1D (bonus d'aptitude)` ce qui lui confère une réserve de `7D`. Avec un lancé particulièrement réussi, il obtient 5 succès.
+Vous avez une blessure critique (palier 3). Vous obtenez les services d'un chirurgien qui va vous opérer. Pour ce test, il utilise `Agilité + Intellect + 1D (bonus d'aptitude)` ce qui lui confère une réserve de `7D`. Avec un jet particulièrement réussi, il obtient 5 succès.
 
 * Il en dépense 3 pour réussir le test contre la difficulté de votre palier. Vous êtes donc soigné de votre blessure critique.
 * Il dispose de 2 succès supplémentaires qu'il dépense pour atteindre le palier inférieur. Vous êtes donc soigné de votre blessure grave également.
@@ -357,10 +412,13 @@ Suite à son intervention, vous êtes blessé légèrement. Un nouveau test sera
 
 #### Soins par le repos {#heal-injuries-with-rest}
 
-Vos blessures peuvent être soignées grâce au repos et à coup de main du destin.
+Vos blessures peuvent être soignées grâce au repos et à un coup de main du destin.
 
 * Après vous être reposé, vous pouvez effectuer un [test de Destin](#destiny-check).
-* Le test de destin fonctionne comme le test de médecine ci-dessus.
+* Ce test n'est possible qu'une fois par repos.
+* La __difficulté du test__ est égale au palier de blessure.
+* Vous soignez le palier de blessure le plus élevé en cas de réussite.
+* Vous pouvez dépenser un nombre de succès égal au palier inférieur pour le soigner immédiatement.
 
 #### Soins par les aptitudes {#heal-injuries-with-aptitude}
 
@@ -379,15 +437,15 @@ Vous devez ensuite effectuer un [test de Destin](#destiny-check) avec une diffic
 * __En cas de réussite__, vous ne risquez plus de mourir.
 * __En cas d’échec__, vous mourrez __à la fin du round__ en cours (en phase de combat), ou après __une minute__.
 
-Réussir le test de Destin ne supprime pas votre blessure fatale. Si vous deviez subir des dégâts à nouveau en ayant encore votre blessure fatale, vous devez refaire le test de Destin avec une difficulté augmentée de 1 (cumulable).
+Réussir le test de Destin ne soigne pas votre blessure fatale. Si vous deviez subir des dégâts à nouveau en ayant encore votre blessure fatale, vous devez refaire le test de Destin avec une difficulté augmentée de 1 (cumulable).
 
 ### Prévenir la Mort {#prevent-death}
 
-Si vous deviez mourrir prochainement, il est possible de stabiliser votre situation si __votre blessure fatale est soignée__. Vous pouvez alors vous reposer pour récupérer vos points de vie et faire soigner vos autres blessures.
+Si vous deviez mourir prochainement, il est possible de stabiliser votre situation si __votre blessure fatale est soignée__. Vous pouvez alors vous reposer pour récupérer vos points de vie et faire soigner vos autres blessures.
 
 ## Le Destin {#destiny}
 
-Le Destin représente l'intervention d'une force supérieure dans les événements que vous traversez. 
+Le Destin représente l'intervention d'une force supérieure dans les événements que vous traversez.
 
 Il s'agit d'une ressource rare et partagée avec les autres joueurs, qui reflète l'élan du récit et votre impact dans l'univers.
 
@@ -396,7 +454,7 @@ Il s'agit d'une ressource rare et partagée avec les autres joueurs, qui reflèt
 Au début de chaque session de jeu, vous disposez d'un __points de destin__ par joueur à la table.
 
 * Tous les joueurs peuvent utiliser les points de destin.
-* Une fois dépensé, les points de destin sont perdus jusqu'à la prochaine session.
+* Une fois dépensés, les points de destin sont perdus jusqu'à la prochaine session.
 * Le MJ peut décider de restituer des points de destin pour récompenser un RP ou une initiative remarquable.
 
 ### Dépenser les Points de Destin {#use-destiny-points}
@@ -416,11 +474,13 @@ Dans certaines situations spécifiques (échapper à la mort par exemple), le MJ
 * Vous devez dépenser des points de destin pour constituer votre réserve de dés.
 * Chaque point de destin ainsi dépensé vous confère 2D.
 * Ces tests ne prennent pas en compte votre habileté ou votre volonté, mais bien l'intervention du destin dans la fiction.
-* La difficulté du test est défini par le MJ en fonction des circonstances.
+* La difficulté du test est définie par le MJ en fonction des circonstances.
 
-#### Autres Usages {#destiny-other-usage}
-
-Certaines aptitudes ou effets permettent d’utiliser les __points de destin__ d'autres manières : relancer un test, influer sur un événement narratif, etc.
+:::tip Points de destin et aptitudes
+Certaines aptitudes permettent d’utiliser les __points de destin__ pour :
+* Relancer un test échoué.
+* Influer sur un événement narratif.
+:::
 
 ## Le Temps {#time}
 
@@ -435,7 +495,7 @@ Le temps narratif est exprimé en __secondes__, __minutes__, __heures__, __jours
 :::info Exemple
 * Traverser une pièce, inspecter une bibliothèque ou interroger un suspect peut prendre __quelques minutes__.
 * Explorer un donjon, fouiller un bâtiment abandonné ou négocier avec une délégation étrangère peut prendre __plusieurs heures__.
-* Voyager jusqu’à une ville voisine, attendre la pleine lune ou organiser une expédition peut nécessiter __plusieurs jours__.
+* Voyager jusqu’à une ville voisine, attendre une pleine lune ou organiser une expédition peut nécessiter __plusieurs jours__.
 :::
 
 ### Le Temps Structuré {#structured-time}
@@ -445,7 +505,7 @@ Le __temps structuré__ est utilisé pendant la phase de [combat](combat), lorsq
 * Un __Round__ correspond à une __dizaine de secondes__ durant lesquelles tous les participants agissent.
 * Un __Tour__ représente un instant fictif dédié aux agissements d'un participant à l’intérieur du __Round__.
 
-Les tours soint joués les uns après les autres pour des raisons pratiques, mais ils sont supposés représenter des activités simultanées : chaque round est un instant de chaos condensé, dans lequel tous les mouvements, attaques, esquives ou incantations se déroulent en parallèle.
+Les tours sont joués les uns après les autres pour des raisons pratiques, mais ils sont supposés représenter des activités simultanées : chaque round est un instant de chaos condensé, dans lequel tous les mouvements, attaques, esquives ou incantations se déroulent en parallèle.
 
 ### Durées et effets {#effect-durations}
 
@@ -498,7 +558,7 @@ Les portées s’adaptent aux deux méthodes de gestion des distances.
 
 | Portée | Grille | Théatre de l'Esprit | Usage Courant |
 | ------ | :----- | :------------------ | :------------ |
-| __Contact__ | `Allonge` | À portée de bras | Combat au corps à corps |
+| __Contact__ | Votre allonge | À portée de bras | Combat au corps à corps |
 | __Courte__   | Jusqu'à 5 cases | Quelques mètres | Armes de jet |
 | __Moyenne__ | Jusqu'à 15 cases | Jusqu'à une trentaine de mètres | Armes de poing |
 | __Longue__ | Jusqu'à 50 cases | Une centaine de mètres | Armes d'épaule |
@@ -530,7 +590,7 @@ Elle se divise en trois niveaux :
 | Précision | Description | Impact | Exemple (Vue) | Exemple (Ouïe) |
 | --------- | :---------- | :----- | :------------------ | :------------------ |
 | __Normale__ | Les perceptions sont nettes et fiables. | Aucun | Vision en plein jour. | Discussion dans une pièce calme. |
-| __Faible__ | Les perceptions sont confuses, floues ou déformées. | Difficulté augmentée | Brouillard, pénombre, lumière trop forte. | Grondement ambiant, voix lointaine. |
+| __Faible__ | Les perceptions sont confuses, floues ou déformées. | Malus aux tests | Brouillard, pénombre, lumière trop forte. | Grondement ambiant, voix lointaine. |
 | __Nulle__ | Les perceptions sont inexistantes ou complètement trompées. | Echec automatique | Obscurité totale, aveuglement. | Vacarme assourdissant, surdité. |
 
 La précision sensorielle peut s’appliquer à :
@@ -539,12 +599,10 @@ La précision sensorielle peut s’appliquer à :
 * __L’ouïe__ : influencée par le bruit ambiant, les matériaux.
 * __L’odorat__ : influencé par le vent, la densité d’odeurs concurrentes.
 
-Toute autre forme de perception (chaleur, douleur, vibrations, etc.).
+Ou toute autre forme de perception (chaleur, douleur, vibrations, etc.).
 
-:::warning Précision sensorielle et Difficulté
-Pour un test simple, une précision sensorielle faible augmente la difficulté.
-
-Pour un test opposé, une précision sensorielle faible confère un bonus aux participants qui ne sont pas affectés. Par exemple, un tireur ébloui confère à sa cible un bonus de `+1D` à sa réaction.
+:::warning Précision sensorielle et Test
+Une précision sensorielle faible vous impose un malus aux tests qui utilisent vos sens. Par exemple, si vous êtes ébloui, tirer sur une cible se fait avec un malus de `-1D`.
 :::
 
 ### Cas spécifique : Luminosité
@@ -559,54 +617,3 @@ La __Luminosité__ décrit l’éclairage d’une zone et détermine votre nivea
 | __Ténèbres__ | Nulle | Absence totale de lumière. Aucun détail n’est perceptible sans aptitude spéciale. |
 
 Il est possible d'ignorer les effets de la Luminosité, ou au contraire d'être pénalisés plus fortement en raison d'aptitude spécifique (vision nocturne, sensibilité à la lumière, perception thermique ou magique).
-
-## Les Aptitudes {#abilities}
-
-En progressant dans votre [carrière](character-creation#careers), vous allez obtenir des aptitudes que votre personnage va pouvoir utiliser dans les différentes phases du jeu. Ces aptitudes peuvent être :
-
-* __Passives__ : vous bénéficiez toujours de leurs effets (comme un bonus à un test spécifique).
-* __Actives__ : vous devez agir spécifiquement dans le cadre de l'aptitude pour bénéficier de ses effets (comme une attaque spéciale).
-
-Certaines aptitudes peuvent consommer ou vous faire récupérer des [points de pouvoir](#power-points).
-
-Quelques règles à prendre en compte lorsque vous utilisez une aptitude :
-* Par défaut, une aptitude qui vous demande de faire un test s'utilise dans le cadre d'une [action](combat#action).
-* Également, une aptitude qui ne demande pas de faire un test s'utilise dans le cadre d'une [manoeuvre](combat#maneuver).
-* En dehors de la phase de [combat](#combat-phase), confirmez avec votre MJ si vous pouvez utiliser une aptitude.
-
-## Les Points de Pouvoir {#power-points}
-
-Vous disposez d'une quantité de points de pouvoir pour activer des [aptitudes](#abilities) ou des activités spéciales. C'est aussi un marqueur qui représente votre capacité à canaliser vos pouvoirs d'__Adepte__.
-
-* Vous pouvez avoir jusqu'à 9 points de pouvoir.
-* Vous pouvez augmenter votre total de points de pouvoir en achetant des progressions de [carrière](character-creation#careers).
-* Après un [repos](how-to-play#rest), vous récupérez tous vos points de pouvoir.
-
-:::tip Représenter les points de pouvoir
-Vous allez consommer et récupérer des points de pouvoir fréquemment en combat. Plutôt que de noter chaque changement, vous pouvez utiliser un `D10` sur lequel vous affichez votre nombre de points.
-:::
-
-#### Points de pouvoir en dehors des combats ?
-
-Les phases de [négociation](negociation) et d'[exploration](exploration) ne répondent pas aux mêmes critères que la phase de combat. Vous n'y subissez pas la pression de l'affrontement, vous n'y ressentez pas les puissantes énergies qui s'entrechoquent.
-
-Pour ces raisons, consommer ou récupérer des points de pouvoir en dehors des combats peut ne pas avoir de sens. En revanche, le total de vos points de pouvoir informe sur l'ampleur de ce que votre personnage peut accomplir.
-
-En dehors du combat, vous n'êtes pas limité par vos aptitudes, vous pouvez tenter d'agir de manière créatives tant que cela reste cohérent avec :
-* La nature de votre pouvoir.
-* Votre niveau de puissance (votre total de PP).
-* Le temps, la préparation et les ressources à votre disposition.
-
-Votre MJ a le dernier mot sur ce que vous êtes capable de faire.
-
-:::info Exemple
-Votre personnage est un Cryomancien (spécialisation de la carrière d'Hydromancien). Il n'existe pas d'aptitude "Pont de glace" dans vos progressions. Toutefois, cela ne signifie pas que vous êtes incapable de créer un pont de glace en jeu.
-
-Ainsi, selon votre total de points de pouvoir :
-
-* __1 PP (Novice)__ : vous pouvez créer une surface suffisante pour un personnage, mais pas un véritable pont.
-* __3 PP (Praticien)__ : vous pouvez créer un pont de glace solide au-dessus d'une petite rivière, suffisant pour un petit groupe.
-* __7 PP (Maître)__ : vous pouvez ériger un large pont de glace au-dessus d'un fleuve, assez solide pour faire traverser une armée.
-
-Dans tous les cas, le MJ devrait vous demander un test et imposer des contraintes (temps d'incantation par exemple) pour représenter la difficulté de la tâche à accomplir.
-:::

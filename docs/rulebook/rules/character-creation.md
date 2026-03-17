@@ -93,25 +93,6 @@ Le Charisme représente votre capacité à convaincre, inspirer ou séduire les 
 
 La Perception représente votre capacité à percevoir le monde qui vous entoure grâce à vos sens (vue, ouïe, odorat, etc.). Une Perception élevée vous permet d'améliorer votre vigilance et votre perspicacité.
 
-### Distribution des points
-
-Vous commencez avec une valeur de 2 dans 5 caractéristiques de votre choix, et une valeur de 1 dans les deux caractéristiques restantes.
-
-- Vous pouvez augmenter 5 fois vos caractéristiques, sans dépasser une valeur de 4.
-
-:::info Exemple
-
-| Type de personnage | For | Agi | End | Int | Rés | Cha | Per |
-| - |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Combattant | 4 ** | 3 * | 4 ** | 1 | 2 | 1 | 2 |
-| Rusé | 1 | 4 ** | 2 | 4 ** | 1 | 2 | 3 * |
-| Érudit | 1 | 1 | 2 | 4 ** | 4 ** | 2 | 3 * |
-| Diplomate | 1 | 1 | 2 | 3 * | 3 * | 4 ** | 3 * |
-
-\* Emplacement des augmentations
-
-:::
-
 ### Influence des caractéristiques sur les actions
 
 Chaque action est résolue par un test combinant deux caractéristiques.
@@ -119,7 +100,7 @@ Chaque action est résolue par un test combinant deux caractéristiques.
 Le choix des caractéristiques dépend de la manière dont l'action est entreprise.
 
 :::info Exemple
-- Escalader une paroi rocheuse peut être une combinaison de `Force` et d'`Endurance` pour déterminer si le personnage parvient à se hisser au sommet.
+- Escalader une paroi rocheuse peut être une combinaison de `Force` et d'`Endurance` pour déterminer si vous parvenez à vous hisser au sommet.
 - Escalader la même paroi rendue glissante par la pluie devient une combinaison d'`Agilité` et d'`Endurance` pour rappeler le besoin d'adresse pour éviter de chûter.
 :::
 
@@ -131,74 +112,81 @@ Réfléchissez au type de défi que vous souhaitez relever et à votre rôle dan
 - Un __Élémentaliste__ doit avoir `Charisme` et `Résolution` pour manipuler les forces élémentaires, et autre caractéristique pour couvrir d'autres options que les aptitudes. 
 - Un __Espion__, quant à lui, bénéficiera d'un bon `Intellect` pour analyser les situations complexes, d'un `Charisme` élevé pour manipuler les autres et d'`Agilité` pour fuir les dangers.
 
-## Carrières, Progressions et Aptitudes {#careers-advancements-abilities}
+### Augmentation de caractéristique {#abilities-increases}
 
-Votre carrière représente la voie que vous suivez pour développer vos capacités.
+Vous pouvez augmenter vos caractéristiques à la création de votre personnage (voir [augmentations de départ](#abilities-starting-increases)) et lors de votre progression dans votre [carrière](#careers).
 
-### Carrières {#careers}
+Vous ne pouvez pas augmenter une caractéristique au-delà de 4 tant que vous n'avez pas acheté les progressions suivantes :
+* **Excellence** : vous permet d'augmenter vos caractéristiques jusqu'à une valeur de 5.
+* **Transcendance** : vous permet d'augmenter vos caractéristiques jusqu'à une valeur de 6.
+* **Perfection** : vous permet d'augmenter une de vos caractéristiques jusqu'à une valeur de 7.
 
-La carrière représente le __parcours__, la __formation__ et le __rôle principal__ de votre personnage. Elle définit ce que vous savez faire, comment vous agissez face au danger, et la manière dont vous interagissez avec le monde, que ce soit par la force, la ruse, le savoir ou l’influence sociale.
+Vous retrouverez ces progressions dans vos arbres de carrière et de spécialisation.
 
-Chaque carrière met à votre disposition un __ensemble de progressions__ qui traduisent l’évolution de votre personnage au fil des aventures. En dépensant des __points d’expérience__, vous achetez ces progressions afin d’améliorer vos caractéristiques ou d’acquérir des aptitudes spécifiques.
+### Augmentations de départ {#abilities-starting-increases}
+
+Vous commencez avec une valeur de 1 dans vos caractéristiques. Vous disposez de 7 augmentations à utiliser immédiatement, sans dépasser une valeur de 4.
+
+:::info Exemple
+
+| Type de personnage | For | Agi | End | Int | Rés | Cha | Per |
+| - |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Combattant | 3 ** | 2 * | 3 ** | 1 | 2 * | 1 | 2 * |
+| Rusé | 1 | 3 ** | 2 * | 3 ** | 1 | 2 * | 2 * |
+| Érudit | 1 | 2 * | 1 | 4 *** | 3 ** | 2 * | 1 |
+| Diplomate | 1 | 1 | 1 | 3 ** | 2 * | 4 *** | 2 * |
+
+\* Emplacement des augmentations
+
+:::
+
+## Carrières, Spécialisations et Aptitudes {#careers-spcializations-skills}
+
+La carrière représente votre __parcours__, votre __formation__ et votre __rôle principal__. Elle définit ce que vous savez faire, comment vous agissez face au danger, et la manière dont vous interagissez avec le monde.
+
+Chaque carrière met à votre disposition un __ensemble d'aptitudes__ qui traduisent votre évolution au fil des aventures.
+
+En dépensant des __points d’expérience__, vous achetez ces aptitudes pour améliorer et diversifier vos capacités.
 
 > Les carrières sont présentées en détail [ici](../careers/index).
 
-#### Choisir sa carrière {#choose-career}
+### Progresser dans une carrière {#career-advancement}
 
-Choisissez votre carrière en fonction de vos préférences en termes de rôle et de style de jeu. Prenez en compte :
+Chaque carrière possède une liste de __20 aptitudes__. Chaque aptitude achetée représente un apprentissage, un entraînement ou une expérience marquante vécue par votre personnage.
 
-- __Votre rôle dans le groupe__ : Souhaitez-vous être un combattant en première ligne, un stratège à distance, ou un spécialiste des interactions sociales ?
-- __Votre personnalité__ : La carrière que vous choisissez doit également correspondre au caractère et aux motivations de votre personnage.
+Chaque aptitude a un prix en point d'expérience. Lorsque vous avez dépensé __30 points d’expérience__ dans une carrière, vous débloquez l’accès à une __spécialisation__.
 
-#### Progresser dans une carrière {#career-advancement}
+### Spécialisations {#career-specialization}
 
-Chaque carrière possède un arbre de __25 progressions__. Chaque progression achetée représente un apprentissage, un entraînement ou une expérience marquante vécue par votre personnage. Ces progressions vous confèrent des augmentations de stastiques (comme les points de vie ou les caractéristiques) ou des aptitudes.
+Une __spécialisation__ représente l'évolution de votre carrière vers une orientation plus précise : vous vous perfectionnez dans un rôle et apprenez des capacités uniques.
 
-Chaque progression a un prix en point d'expérience. Lorsque vous avez dépensé __30 points d’expérience__ dans une carrière, vous débloquez l’accès à une __spécialisation__ liée à celle-ci.
+Chaque carrière propose trois spécialisations correspondant à des styles de jeu ou des rôles différents.
 
-#### Spécialisations {#career-specialization}
+Une spécialisation fonctionne comme une nouvelle carrière : Elle met à votre disposition __15 nouvelles aptitudes__ qui viennent compléter celles de la carrière.
 
-Une __spécialisation__ représente une orientation plus précise au sein de votre carrière : un perfectionnement, une doctrine, une méthode ou une vocation particulière. Chaque carrière propose trois spécialisations distinctes, correspondant à des styles de jeu ou des rôles différents.
+### Aptitudes
 
-Une spécialisation fonctionne comme une nouvelle carrière : Elle met à votre disposition __20 nouvelles progressions__, souvent plus ciblées, plus puissantes ou plus exigeantes, qui viennent compléter celles de la carrière d’origine. En choisissant une spécialisation, vous affirmez l’identité mécanique et narrative de votre personnage, sans pour autant renier son parcours initial.
+Les aptitudes de carrière et de spécialisation sont présentées sous la forme d’un tableau :
+* 5 colonnes qui définissent le prix des aptitudes et leur puissance.
+* 4 lignes pour une carrière, 3 lignes pour une spécialisation.
+* La progression dans le tableau se fait de gauche à droite.
+* Acheter une aptitude dans une colonne vous donne accès à la colonne suivante. Vous pouvez acheter n'importe quelle aptitude d'une colonne à laquelle vous avez accès.
+* La première fois que vous achetez une aptitude dans une nouvelle colonne (exceptée la première), augmentez de +1 votre total de [points de pouvoir](#power-points) et de +1 une caractéristique de votre choix en respectant votre valeur maximale.
 
-### Progressions {#advancements}
+### Acheter des Aptitudes
 
-Les progressions représentent les __avancées concrètes__ de votre personnage au cours de son parcours. Elles traduisent ce que vous apprennez, perfectionnez ou développez grâce à l’expérience acquise en jeu. Chaque fois que vous dépensez de l’expérience, vous le faites pour acheter une progression.
+Pour obtenir une aptitude, vous devez __dépenser des points d’expérience__. Chaque aptitude possède un coût fixé par sa colonne dans le tableau. Une fois ce coût payé, l'aptitude est acquise de manière permanente.
 
-#### Arbre de Progressions
+Certaines aptitudes ont des prérequis que vous devez remplir avant de pouvoir les acheter. Ces prérequis sont précisés dans la description de l'aptitude.
 
-Chaque carrière (et chaque spécialisation) est structurée sous la forme d’un arbre de progressions. Cet arbre présente l’ensemble des options accessibles à votre personnage, ainsi que les liens logiques entre elles.
+Une aptitude peut avoir différents effets :
 
-Certaines progressions sont accessibles dès le début, tandis que d’autres nécessitent d’avoir déjà acquis des progressions spécifiques. L’arbre reflète ainsi une montée en compétence progressive : on consolide d’abord les bases avant d’accéder à des options plus spécialisées ou plus puissantes.
+* __Un effet passif__, comme l'augmentation d'un attribut ou un bonus à certains de vos jets.
+* __Un effet actif__, qui débloque une option d’action, une réaction particulière ou une nouvelle interaction avec les mécaniques du jeu.
 
-#### Acheter une Progression
-
-Pour obtenir une progression, vous devez __dépenser des points d’expérience__. Chaque progression possède un coût fixe en expérience, indiqué dans l’arbre. Une fois ce coût payé, la progression est acquise de manière permanente.
-
-Vous êtes libre de choisir la progression que vous souhaitez acheter, tant que vous remplissez ses prérequis.
-
-#### Que confère une Progression ?
-
-Une progression peut avoir deux effets principaux :
-
-* __Une augmentation de statistiques__, comme des points de vie ou une caractéristique.
-* __Une aptitude__, qui débloque une nouvelle règle, une option d’action, une réaction particulière ou une interaction spécifique avec les mécaniques du jeu.
-
-Certaines progressions combinent ces deux aspects, mais la majorité se concentre sur l’un ou l’autre afin de garder des choix clairs et lisibles.
-
-### Aptitudes {#abilities}
+Certaines aptitudes combinent ces deux aspects, mais la majorité se concentre sur l’un ou l’autre afin de garder des choix clairs et lisibles.
 
 > L'utilisation des aptitudes est détaillée [ici](how-to-play#abilities)
-
-Les __aptitudes__ représentent ce qui rend votre personnage __véritablement exceptionnel__. Là où les caractéristiques décrivent ce que tout individu entraîné peut accomplir, les aptitudes définissent des capacités rares, spécialisées ou surnaturelles qui distinguent votre personnage des autres.
-
-Une aptitude n’est pas une simple amélioration chiffrée. Elle vous donne accès à de __nouvelles options de jeu__ :
-
-* Une capacité offensive ou utilitaire spécifique, comme une attaque particulière, un pouvoir surnaturel ou une technique avancée.
-* Un effet passif, qui modifie vos jets ou vos possibilités dans certaines circonstances.
-* Une exception aux règles générales, par exemple en réduisant un malus habituel, en élargissant les conditions d’utilisation d’une action, ou en vous permettant d’agir là où d’autres ne le pourraient pas.
-
 
 ## Attributs dérivés
 
@@ -206,13 +194,13 @@ En complément des caractéristiques, vous disposez d’attributs dérivés qui 
 
 ### Allonge {#reach}
 
-L'allonge représente la distance que votre personnage peut atteindre avec ses membres. Elle est particulièrement importante dans les combats.
+L'allonge représente la distance que vous pouvez atteindre avec vos membres. Elle est particulièrement importante dans les combats.
 
 L'allonge est définie par votre [taille](#size).
 
 ### Initiative {#initiative}
 
-L'initiative est une valeur qui mesure la capacité de votre personnage à réagir rapidement et efficacement face au danger.
+L'initiative est une valeur qui mesure votre capacité à réagir rapidement et efficacement face au danger.
 
 ```
 Valeur d'Initiative = Agilité + Perception
@@ -220,7 +208,7 @@ Valeur d'Initiative = Agilité + Perception
 
 ### Points de vie {#health-points}
 
-Les points de vie (PV) représente la capacité de votre personnage à encaisser les efforts physiques et les pressions psychologiques avant de perdre connaissance ou de se blesser grièvement.
+Les points de vie (PV) représentent votre capacité à encaisser les efforts physiques et les pressions psychologiques avant de perdre connaissance ou de vous blesser grièvement.
 
 ```
 Points de vie = (Endurance + Résolution) x Ajustement de taille
@@ -230,23 +218,25 @@ Points de vie = (Endurance + Résolution) x Ajustement de taille
 
 > L'utilisation des points de pouvoir est détaillée [ici](how-to-play#power-points)
 
-Les points de pouvoir (PP) représente la quantité d'énergie que votre personnage peut dépenser pour utiliser ses aptitudes.
+Les points de pouvoir (PP) représentent la quantité d'énergie que vous pouvez dépenser pour utiliser des aptitudes.
 
-Votre personnage commence son aventure avec __1 point de pouvoir__ et peut en obtenir plus en achetant des progressions de carrière.
+Vous commencez votre aventure avec __1 point de pouvoir__ et vous pouvez en obtenir plus en dépensant de l'expérience dans votre carrière ou spécialisation.
 
-Un personnage ne peut pas avoir plus de 9 points de pouvoir.
+Vous pouvez avoir jusqu'à 9 points de pouvoir au maximum de votre puissance.
 
-### Points de ressources {#resource-points}
+### Points de ressource {#resource-points}
 
-> L'utilisation des points de ressources est détaillée [ici](exploration##resource-points)
+> L'utilisation des points de ressource est détaillée [ici](exploration##resource-points)
 
-Les points de ressource (PR) représente l'agent liquide, l'influence immédiate ou l'accès à des services dont dispose votre personnage.
+Les points de ressource (PR) représentent l'agent liquide, l'influence immédiate ou l'accès à des services dont vous disposez.
 
-Votre personnage commence son aventure avec un nombre de point de ressource égal à __2 + Niveau de Richesse__.
+Vous commencez votre aventure avec un nombre de point de ressource égal à __2 + [Niveau de Richesse](#starting-wealth)__.
+
+TODO Points de ressource de démarrage en fonction de la richesse.
 
 ### Taille {#size}
 
-La Taille de votre personnage est définie par son ascendance. Elle influence les __points de vie__ et l'__allonge__.
+Votre taille est définie par votre ascendance. Elle influence vos __points de vie__, votre __allonge__ et confère divers bonus (ou malus) lors des combats.
 
 | Taille      | Points de vie | Allonge |
 | ----------- |:-------------:|:-------:|
@@ -259,78 +249,32 @@ La Taille de votre personnage est définie par son ascendance. Elle influence le
 
 ### Vitesse {#speed}
 
-La Vitesse représente la distance que votre personnage peut parcourir en une [manœuvre](combat#maneuver). Cette distance est exprimée en __cases__ qui représentent chacune 1,5 mètres.
+La Vitesse représente la distance que vous pouvez parcourir en une [manœuvre](combat#maneuver). Cette distance est exprimée en __cases__ qui représentent chacune 1,5 mètres.
 
-Les humanoïdes de taille moyenne, comme les humains, les elfes ou les nains, ont une vitesse de 5.
+Les humanoïdes de taille moyenne, comme les humains, les elfes ou les nains, ont une __vitesse de 5__.
 
 ## Expérience de départ
 
 À la création de votre personnage, vous disposez de __10 points d'expérience__ que vous pouvez dépenser dans votre carrière.
 
-## Richesse de départ
+## Richesse de départ {#starting-wealth}
 
-En fonction de l'origine de votre personnage, vous débutez l'aventure avec un niveau de richesse variable.
+En fonction des origines socio-économiques de votre personnage, vous débutez l'aventure avec un [niveau de richesse](exploration##wealth-level) variable.
 
 Consultez votre MJ à ce sujet.
 
 ## Équipement de départ
 
-Vous commencez l’aventure avec un équipement de base dépendant de votre carrière et de votre origine sociale.
+Vous commencez l’aventure avec un équipement de base dépendant de votre carrière et de votre niveau de richesse.
 
-Pour personnaliser davantage l’équipement de départ, discutez avec le MJ pour assurer une cohérence avec l’histoire et les choix narratifs de votre personnage.
+Pour personnaliser davantage votre équipement de départ, discutez avec le MJ pour assurer une cohérence avec votre histoire et vos choix narratifs.
 
 ## Histoire et liens avec l'univers
 
-Chaque personnage est une pièce unique dans le vaste puzzle de l'univers. Son passé, ses relations et ses aspirations le définissent autant qu’ils enrichissent le monde qui l’entoure.
+### L'ancrage et le potentiel du héros
 
-Un personnage ne se contente pas d’exister, il est façonné par son environnement, ses choix et les événements marquants de sa vie.
+La genèse d'un personnage mémorable repose sur son ancrage profond dans l'univers et son statut singulier d'Adepte. Qu'il soit issu des tumultes industriels ou du calme rural, ses origines dictent ses valeurs et sa vision du monde. Ce potentiel hors norme n'est pas qu'un simple pouvoir : c'est un catalyseur social qui attire l'attention des factions et définit la place du héros au sein des grands conflits thématiques, comme l'opposition entre magie et technologie ou les luttes pour la vérité historique.
 
-### Origines et expériences
+### De la fiche à l'incarnation
 
-D’où vient votre personnage ? A-t-il grandi dans les tumultes d’une cité industrielle, sous l’ombre des grandes usines et des révoltes sociales ? Ou peut-être a-t-il connu la quiétude d’une communauté rurale, loin des intrigues politiques mais proche des mystères oubliés de la nature ? La région ou nation qui l’a vu grandir influence son rapport au monde, ses valeurs et ses ambitions. Prenez le temps de vous renseigner sur ces lieux pour donner de la profondeur à vos origines.
-
-### L’Adepte qui sommeille en vous
-
-Votre personnage n’est pas ordinaire : c’est un Adepte. Que ses capacités aient déjà été révélées ou qu’elles restent en latence, elles sont au cœur de son identité. La découverte de ses dons a pu être un moment exaltant… ou terrifiant.
-
-Ce potentiel hors du commun attire l’attention de nombreuses forces dans l’univers : les ordres religieux, des factions militaires, ou même des réseaux clandestins.
-
-Ces interactions façonnent son quotidien et sa place dans la société. Peut-être lutte-t-il pour conserver son indépendance, ou peut-être a-t-il embrassé un rôle au sein d’une organisation influente.
-
-### Thèmes et conflits
-
-Votre personnage évolue dans un monde complexe, traversé par des tensions entre magie et technologie, des luttes sociales et des quêtes de vérité historique.
-
-Son histoire peut être profondément influencée par ces thèmes : a-t-il participé à une révolte ? A-t-il été témoin de la disparition d’un mythe ou au contraire de l’émergence d’une vérité cachée ? Pensez à intégrer ces grands enjeux pour enrichir votre récit personnel.
-
-### Liens et relations
-
-Votre personnage a tissé des liens avec des individus, des groupes ou même des institutions qui influencent sa vie. Ces relations peuvent être des alliés, des rivaux ou des figures du passé qui hantent encore ses pas.
-
-Prenez le temps d’explorer ces connexions, en consultant les articles dédiés aux organisations et factions de l’univers.
-
-### Un passé ouvert à l’aventure
-
-Lorsque vous élaborez l’histoire de votre personnage, laissez des zones d’ombre, des questions sans réponses, ou des intrigues inachevées. Ces éléments deviendront des leviers pour le maître de jeu et enrichiront vos aventures futures.
-
-N’hésitez pas à discuter avec votre MJ pour ancrer votre histoire dans l’intrigue globale tout en conservant votre singularité.
-
-En donnant vie à votre personnage, vous ne créez pas seulement un héros pour une aventure : vous ajoutez une nouvelle voix à l’univers lui-même.
-
-## Validation finale et ajustements
-La création de votre personnage ne s’achève pas une fois la fiche remplie. Cette dernière étape est cruciale pour assurer que votre héros ou héroïne est prêt à s’intégrer harmonieusement dans l’univers du jeu et à briller au cours des aventures.
-
-Il s’agit également d’un moment d’échange constructif avec votre MJ, garant de la cohérence globale.
-
-### Personnalisation et interprétation
-Un personnage n’est pas qu’une liste de caractéristiques et de valeurs. C’est un être fictionnel que vous incarnerez et développerez au fil de l’histoire.
-
-Prenez un moment pour réfléchir à ses traits distinctifs, ses manies, ses objectifs ou même ses dilemmes moraux.
-
-Comment parle-t-il ? Quels sont ses tics, ses peurs, ses ambitions ? Ce travail d’imagination donnera vie à votre personnage et enrichira votre expérience de jeu.
-
-### Un dernier mot d’encouragement
-
-La validation finale est une étape essentielle pour transformer une simple fiche en un héros ou une héroïne unique et mémorable.
-
-Soyez ouvert aux suggestions de votre MJ, tout en affirmant votre propre vision. Un personnage bien conçu et étoffé ne se contentera pas de traverser les aventures : il en sera un élément clé, captivant et inoubliable, pour vous et pour les autres joueurs.
+Pour transformer une simple liste de statistiques en un protagoniste vibrant, il est crucial de cultiver sa profondeur psychologique et ses zones d'ombre. En dotant votre personnage de manies, de peurs et d'aspirations inachevées, vous offrez au maître de jeu des leviers narratifs précieux pour nourrir les aventures futures. Cette étape de personnalisation, validée par un échange constructif avec le MJ, garantit que votre personnage ne se contente pas de traverser l'histoire, mais qu'il en devienne un moteur cohérent et inoubliable.

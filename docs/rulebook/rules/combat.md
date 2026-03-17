@@ -46,7 +46,9 @@ Quand tous les participants en capacité de prendre leur __tour__ l'ont fait, un
 
 ### Tours {#course-turns}
 
-Lors de votre __tour__, vous pouvez effectuer un nombre limité d'activités :
+Au début de votre __tour__, si vous n'êtes pas [neutralisé](conditions#neutralized), vous récupérez __[1 Point de Pouvoir](how-to-play#power-points)__.
+
+Vous pouvez ensuite effectuer un nombre limité d'activités :
 
 * __1 Action__ : attaquer, faire un test, etc.
 * __1 Manoeuvre__ : se déplacer, se relever, dégainer une arme, etc.
@@ -94,7 +96,7 @@ Elles sont souvent liées à des activités tactiques ou de positionnement. Vous
 
 Les __réactions__ représentent les activités entreprises en dehors de votre tour en réponse à un événement.
 
-Après avoir utiliser une __réaction__, vous concédez un bonus de `+1D` cumulatif aux adversaires qui vous ciblent jusqu'au début de votre prochain tour.
+Après avoir utiliser une __réaction__, vous subissez un malus de `-1D` cumulatif pour vos autres réactions jusqu'au début de votre prochain tour.
 
 Si vous êtes la cible d'un test opposé sans pouvoir prendre de __réaction__, vous devez utiliser [encaisser](#reactions-brace).
 
@@ -200,7 +202,7 @@ Si vous faites ce saut pour éviter un obstacle ou un terrain difficile, le MJ p
 :::
 
 :::tip Déplacement et bonus défensif
-Chaque fois que vous utilisez cette manœuvre ou une activité qui est semblable à cette manœuvre, vous bénéficiez d'un bonus de `+1D` aux tests d'[esquive](#reactions-dodge) contre les __attaques de contact à distance__ qui vous ciblent jusqu'au début de votre prochain tour.
+Si vous utilisez cette manœuvre ou une activité semblable, vous obtenez un bonus de `+1D` aux tests d'[esquive](#reactions-dodge) contre les __attaques de contact à distance__ jusqu'au début de votre prochain tour.
 :::
 
 :::danger Déplacement et Allonge
@@ -237,22 +239,22 @@ L'effet n'est pas cumulable avec la manoeuvre __Posture offensive__ (la dernièr
 
 ### Révoquer un effet {#maneuvers-revoke-effect}
 
-Mettez fin à un effet que vous contrôlez. Par exemple, vous pouvez mettre fin à un effet causé par une aptitude que vous avez utilisé.
+Mettez fin à un effet que vous contrôlez. Par exemple, vous pouvez mettre fin à un effet causé par une aptitude que vous avez utilisée.
 
 ### Viser {#maneuvers-aim}
 
-Vos cibles ne bénéficient pas du bonus conféré par les __attaques de contact à distance sans viser__, jusqu'à la fin de votre tour. Voir [tirer sans viser](#hipfire).
+Vous confère un bonus de `+1D` aux tests d'attaque de contact à distance jusqu'à la fin de votre tour.
 
 ## Liste des Réactions {#reactions}
 
 ### Encaisser {#reactions-brace}
 
-__Encaisser__ ne vous permet pas de faire un test : votre adversaire fait le test contre une difficulté de 1. En échange, __encaisser__ ne confère pas de bonus de réactions cumulées à vos adversaires.
+__Encaisser__ ne vous permet pas de faire un test : votre adversaire fait le test contre une difficulté de 1. En échange, __encaisser__ ne vous impose pas le malus de réaction cumulatif.
 
 Vous devez __encaisser__ dans les situations suivantes :
 
 - Vous ne pouvez pas prendre de __réaction__.
-- Vous ne souhaitez pas conférer le __bonus cumulatif de réaction__ à vos adversaires.
+- Vous ne souhaitez pas subir le __malus cumulatif de réaction__.
 
 :::danger Encaisser est dangereux
 Des combattants entrainés réussiront aisément un test de difficulté 1, ce qui peut vous coûter très cher.
@@ -260,13 +262,13 @@ Des combattants entrainés réussiront aisément un test de difficulté 1, ce qu
 
 ### Esquiver {#reactions-dodge}
 
-Permet de vous défendre contre une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant uniquement `Perception`, auquel vous ajoutez certains bonus (voir les [modificateurs de combat](##attack-modifiers)).
-
-:::tip Se jeter au sol
-Si vous n'êtes pas [entravé](conditions#restrained), vous pouvez __vous jeter au sol__ : vous perdez `1 PV` et vous retrouvez [à terre](conditions#prone) immédiatement. Cela vous confère les [modificateurs de combat associés](#attack-modifiers).
-:::
+Permet de vous défendre contre une attaque de __contact au corps à corps__ ou de __contact à distance__ avec un test opposé utilisant `Agilité + Perception`.
 
 Si vous obtenez au moins autant de succès que l'attaquant, vous esquivez l'attaque.
+
+:::tip Se jeter au sol
+Si vous n'êtes pas [entravé](conditions#restrained), vous pouvez __vous jeter au sol__ : vous vous retrouvez [à terre](conditions#prone) immédiatement. Cela vous confère les [modificateurs de combat associés](#attack-modifiers).
+:::
 
 ### Parer {#reactions-parry}
 
@@ -279,7 +281,7 @@ Permet de vous défendre contre une attaque de __contact au corps à corps__ ave
 
 Permet de vous défendre contre une attaque __sans contact__ avec un test opposé.
 
-Le plus souvent, `Intellect + Résolution` est utilisé contre les attaques mentales et `Endurance + Résolution` contre les effets physiques.
+Le plus souvent, `Intellect + Résolution` est utilisé contre les effets psychiques et `Endurance + Résolution` contre les effets physiques.
 
 Si vous obtenez au moins autant de succès que l'attaquant, vous résistez à l'attaque.
 
@@ -287,14 +289,14 @@ Si vous obtenez au moins autant de succès que l'attaquant, vous résistez à l'
 
  __Attaquer__ représente toute forme d'agression dirigée contre un ou plusieurs adversaires. Cela peut être une agression __physique__, __verbale__ ou __magique__.
 
-La résolution d'une attaque repose sur un test opposé entre vous et votre cible, influencé par divers __modificateurs__.
+La résolution d'une attaque repose sur un test opposé entre vous et vos cibles, influencé par divers __modificateurs__.
 
 ### Règles générales {#attack-rules}
 
 Pour mener à bien une attaque, certaines conditions doivent être remplies :
 
 - __Identifier votre cible__ : que ce soit une zone ou un adversaire, cela nécessite une ligne de vue dégagée ou de connaître sa position.
-- __Être à portée__ : à une distance appropriée selon l'arme ou le pouvoir.
+- __Être à portée__ : à une distance appropriée selon l'arme ou l'aptitude.
 - __Être en capacité__ : vous devez pouvoir utiliser une __action__.
 
 ### Réagir à une attaque {#react-to-attack}
@@ -305,9 +307,9 @@ __Toute attaque entraine une réaction__. Si vous ne vous sentez pas en danger c
 
 La résolution d'une attaque se fait en plusieurs étapes qui simulent son déroulement :
 
-1. __Déclarez votre attaque__ : vous décrivez l'action entreprise : quel type d’attaque, quelle arme, quelle cible, et éventuellement quelles options sont utilisées.
+1. __Déclarez votre attaque__ : vous décrivez l'action entreprise, quel type d’attaque, quelle arme, quelle cible, et éventuellement quelles options sont utilisées.
 2. __Constituez votre réserve de dés__ : prenez en compte les modificateurs contextuels (position, portée, états, visibilité, etc).
-3. __Vos cibles déclarent leur réaction__ : c'est la manière dont elles comptent se défendre (Parer, Esquiver, Résister ou Encaisser) de votre attaque.
+3. __Vos cibles déclarent leur réaction__ : c'est la manière dont elles comptent se défendre de votre attaque (Parer, Esquiver, Résister ou Encaisser).
 4. __Lancez votre réserve__ : si vos cibles ont choisi une réaction active (Parer, Esquiver ou Résister), elles lancent également leur réserve. Le test est une réussite si vous obtenez __plus de succès__ qu'elles. En cas d’égalité, l’attaque est un échec.
 5. __Calcul des dégâts__ : Si votre attaque est une réussite, elle peut infliger des dégâts. Vos cibles appliquent les réductions de dégâts, résistances, vulnérabilités ou immunités pour ajuster le total des dégâts subis.
 6. __Application des dégâts__ : chaque cible [subit les dégâts](how-to-play#take-damage) qu'elle n'a pas pu réduire.
@@ -402,10 +404,17 @@ Lorsque vous êtes derrière un obstacle susceptible de vous protéger contre de
 
 Vous pouvez choisir de vous abriter complètement pour obtenir un bonus plus important. Si vous le faites, l'abri vous confère un bonus de `+3D`, mais vous ne pouvez faire aucune __action__ ou __manoeuvre__ qui mettrait en péril votre position : confirmez avec votre MJ que vous pouvez entreprendre ces activités.
 
-
 :::tip Abri destructible
 Un abri peut être destructible sur décision du MJ. Dans ce cas, le MJ défini le nombre de fois où l'abri est utilisable avant d'être détruit, et il réduit ce nombre à chaque fois que vous bénéficiez du bonus d'abri.
-::: 
+:::
+
+:::tip Mêlée et attaque à distance
+Si au moins deux adversaires ou alliés occupent des cases adjacentes à la votre, vous pouvez bénéficier des avantages d'un abri contre d'autres adversaires qui vous ciblent avec des attaques de contact à distance.
+:::
+
+### Arme à distance au corps à corps {#range-weapons-in-melee}
+
+Utiliser une arme d'épaule, de trait ou de jet contre une cible dans votre allonge est inadapté. Si vous vous retrouvez dans cette situation, vous faites le test d'attaque avec un malus de `-1D`.
 
 ### Allonge {#reach}
 
@@ -418,7 +427,7 @@ L'allonge peut être supérieure à 1 pour des personnages de plus grande taille
 :::tip Allonge et contrôle
 Plus votre allonge est grande, plus vous obligez vos adversaires à s'opposer à vous pour se déplacer sur le champ de bataille.
 
-Attention toutefois : chaque nouvelle [parade](#reaction-parry) confère le bonus cumulatif de réaction à vos adversaires pour se désengager ou pour vous attaquer.
+Attention toutefois : chaque nouvelle [parade](#reaction-parry) impose le malus cumulatif de réaction.
 :::
 
 ### Attaque multi-cible {#attack-multiple-targets}
@@ -487,7 +496,7 @@ Si l'arme ou l'aptitude que vous utilisez possède une zone d'effet, vous pouvez
 :::tip Types de zone d'effet
 Il existe trois types de zone d'effet. Si vous utilisez la [grille](how-to-play#grid), procédez comme suit :
 - __Ligne__ : utilisez une règle ou un stylo comme patron. Placez là au centre de la case d'origine et constatez les cases qu'il traverse. La taille de la zone vous indique le nombre de cases adjacentes traversées par votre patron que vous allez cibler.
-- __Cercle__ : la taille de la zone vous indique le nombre de cases adjacentes, dans toutes les directions à partir de la case d'origine, que vous allez cibler.
+- __Sphère__ : la taille de la zone vous indique le nombre de cases adjacentes, dans toutes les directions à partir de la case d'origine, que vous allez cibler.
 - __Cône__ : considérez un triangle rectangle isocèle comme patron. La taille de la zone vous indique la longueur de ses deux côtés égaux. Son angle droit se trouve au centre de la case d'origine.
 
 Si vous n'utilisez pas la grille, le MJ doit vous indiquer les cibles que vous pouvez atteindre.
@@ -534,39 +543,50 @@ Dans la majorité des cas, ramper ignore le terrain difficile : ramper sur un so
 Votre MJ peut décider que son terrain difficile n'est pas pratiquable en rampant. Dans ce cas, il peut vous demander de consommer deux manœuvres ou de [faire un test](#actions-check) pour quitter une case.
 :::
 
-### Tirer sans viser {#hipfire}
-
-Si vous tentez une attaque de contact à distance sans avoir préalablement [visé](#maneuvers-aim) dans le même tour, votre cible bénéficie d'un bonus de `+1D` à sa réaction.
-
 ## Modificateurs {#attack-modifiers}
 
-Vous trouverez dans les tableaux ci-dessous un récapitulatif des situations et états qui vous confèrent des bonus offensifs ou des bonus défensifs.
+Vous trouverez dans les tableaux ci-dessous un récapitulatif des situations et états qui vous confèrent des bonus et malus offensifs et défensifs.
 
-### Bonus offensifs {#attack-modifiers-offensive}
+### Bonus offensifs {#attack-modifiers-offensive-bonus}
 
 | Situation | Modificateurs |
 | - | - |
-| Votre cible est [à terre](conditions#prone). | `+1D` aux attaques de contact au corps à corps. |
-| Votre cible est [déséquilibrée](conditions#off-balance). | `+1D` aux attaques de contact au corps à corps et à distance. |
-| Votre cible est [prise au dépourvu](conditions#off-guard). | `+1D` aux attaques. |
-| Votre cible est plus petite. | `+1D` aux attaques pour chaque différence de taille. |
+| Votre cible est plus petite. | `+1D` aux attaques de contact au corps à corps pour chaque différence de taille. |
 | Vous utilisez une arme de qualité. | `+1D` aux attaques utilisant cette arme. |
+| Vous avez [visé](#manœuvre-aim) avec votre arme. | `+1D` aux attaques de contact à distance jusqu'à la fin de votre tour. |
 | Un allié vous [aide](#maneuvers-help). | `+1D` au prochain test de votre choix. |
 | Vous adoptez une [posture agressive](#maneuvers-aggressive-stance). | `+1D` aux attaques de contact au corps à corps jusqu'à la fin de votre tour. |
 | Vous utilisez un [point de destin](how-to-play#use-destiny-points). | `+1D` au test de votre choix. |
 
-### Bonus défensifs {#attack-modifiers-defensive}
+### Malus offensifs {#attack-modifiers-offensive-penalty}
 
 | Situation | Modificateurs |
 | - | - |
-| Vous êtes [à terre](conditions#prone). | `+1D` contre les attaques de contact à distance. |
-| Votre cible est [à terre](conditions#prone). | `+1D` contre ses attaques de contact au corps à corps. |
-| Votre cible est [déséquilibrée](#off-balance). | `+1D` contre ses attaques de contact au corps à corps et à distance. |
-| Vous vous êtes [déplacé](#maneuvers-move) lors de votre dernier tour. | `+1D` aux [esquives](#reactions-dodge) contre les attaques de contact à distance pour chaque déplacement. |
-| Vous bénéficiez d'un [abri](#cover). | `+1D` contre les attaques de contact au corps à corps et à distance. |
-| Vous bénéficiez d'un [abri](#cover) complet. | `+3D` contre les attaques de contact au corps à corps et à distance. |
-| Votre adversaire vous cible en ayant une [perception faible](how-to-play#perception-accuracy). | `+1D` contre ses attaques. |
+| Votre cible est plus petite. | `-1D` aux attaques de contact à distance pour chaque différence de taille. |
+| Vous êtes [à terre](conditions#prone). | `-1D` aux attaques de contact au corps à corps. |
+| Vous êtes [déséquilibrée](conditions#off-balance). | `-1D` aux attaques. |
+| Votre [précision sensorielle](how-to-play#perception-accuracy) est faible. | `-1D` aux attaques. |
+| Votre cible est [à terre](conditions#prone). | `-1D` aux attaques de contact à distance. |
+| Votre cible est hors de portée. | `-1D` aux attaques de contact à distance et aux attaques sans contact. |
+| Vous utilisez une arme d'épaule, de trait ou de jet contre une cible dans votre allonge. | `-1D` aux attaque de contact à distance |
+
+### Bonus défensifs {#attack-modifiers-defensive-bonus}
+
+| Situation | Modificateurs |
+| - | - |
+| Vous vous êtes [déplacé](#maneuvers-move) lors de votre dernier tour. | `+1D` contre les attaques de contact à distance. |
+| Vous bénéficiez d'un [abri](#cover). | `+1D` contre les attaques de contact. |
+| Vous bénéficiez d'un [abri](#cover) complet. | `+3D` contre les attaques de contact. |
 | Un allié vous [aide](#maneuvers-help). | `+1D` au prochain test de votre choix. |
-| Vous adoptez une [posture défensive](#maneuvers-defensive-stance). | `+1D` aux tests pour [parer](#reactions-parry) et [esquiver](#reactions-dodge) jusqu'au début de votre prochain tour. |
+| Vous adoptez une [posture défensive](#maneuvers-defensive-stance). | `+1D` aux [parades](#reactions-parry) et [esquives](#reactions-dodge) jusqu'au début de votre prochain tour. |
 | Vous utilisez un [point de destin](how-to-play#use-destiny-points). | `+1D` au test de votre choix. |
 
+### Malus défensifs {#attack-modifiers-defensive-penalty}
+
+| Situation | Modificateurs |
+| - | - |
+| Vous êtes [à terre](conditions#prone). | `-1D` contre les attaques de contact au corps à corps. |
+| Vous êtes [déséquilibrée](conditions#off-balance). | `-1D` contre les attaques. |
+| Vous êtes [pris au dépourvu](conditions#off-guard). | `-1D` contre les attaques. |
+| Votre [précision sensorielle](how-to-play#perception-accuracy) est faible. | `-1D` contre les attaques. |
+| Votre armure est un encombrement important. | `-1D` contre les attaques de contact à distance. |

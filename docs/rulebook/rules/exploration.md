@@ -2,15 +2,15 @@
 
 La phase d’exploration représente tout ce qui se passe en dehors des combats et des négociations : les voyages, la découverte de lieux inconnus, les scènes de vie quotidienne et les plongées dans des environnements dangereux ou mystérieux.
 
-C’est dans cette phase que les personnages prennent le temps d’observer, de fouiller, de réfléchir et de choisir leur chemin.
+C’est dans cette phase que vous prenez le temps d’observer, de fouiller, de réfléchir et de choisir votre chemin.
 
-Contrairement au temps structuré des combats, l’exploration utilise le temps narratif : les actions se comptent en minutes, heures, jours ou semaines, selon le rythme de l’histoire. Le MJ décide combien de temps s’écoule en fonction des choix des personnages : une fouille minutieuse peut prendre une heure, une marche à travers la campagne, une journée entière, et un voyage entre deux villes, plusieurs jours.
+Contrairement au temps structuré des combats, l’exploration utilise le temps narratif : les actions se comptent en minutes, heures, jours ou semaines, selon le rythme de l’histoire. Le MJ décide combien de temps s’écoule en fonction de vos choix : une fouille minutieuse peut prendre une heure, une marche à travers la campagne, une journée entière, et un voyage entre deux villes, plusieurs jours.
 
-L’exploration met en avant les compétences, les ressources et le jugement des joueurs plutôt que la seule puissance martiale.
+L’exploration met en avant vos compétences, vos ressources et votre jugement plutôt que votre seule puissance martiale.
 
 ## Voyage et Déplacement
 
-Dans la phase d’exploration, les déplacements relient les scènes importantes et donnent du poids aux distances. Cette section propose des repères simples pour gérer comment les personnages voyagent, combien de temps cela leur prend et comment le climat ou le relief compliquent leur progression.
+Dans la phase d’exploration, les déplacements relient les scènes importantes et donnent du poids aux distances. Cette section propose des repères simples représenter les méthodes de voyage, leur durée et comment le climat ou le relief compliquent leur progression.
 
 ### Moyens de déplacement
 
@@ -25,7 +25,7 @@ Le tableau ci-dessous donne des valeurs indicatives pour une journée de voyage 
 | Navire maritime | 100 km |
 | Train | 100+ km |
 
-Ces valeurs servent de base pour vos estimations. Le MJ peut les adapter selon la situation : forme des personnages, qualité du matériel, état des chemins, ou urgence du voyage.
+Ces valeurs servent de base pour vos estimations. Le MJ peut les adapter selon la situation : forme, qualité du matériel, état des chemins ou urgence du voyage.
 
 ### Repères de durée
 
@@ -69,9 +69,9 @@ En jeu, plutôt que de multiplier des chiffres, le MJ peut annoncer clairement :
 
 ## Déplacements complexes
 
-Quand les personnages explorent des cavernes, ruines, manoirs, ils sont souvent confrontés à des déplacements plus exigeants qu’une simple marche : grimper, nager, sauter, se faufiler dans des passages étroits ou gérer le vide et la verticalité.
+Quand vous explorez des cavernes, ruines, manoirs, vous êtes souvent confrontés à des déplacements plus exigeants qu’une simple marche : grimper, nager, sauter, se faufiler dans des passages étroits ou gérer le vide et la verticalité.
 
-Face à ces obstacles, les joueurs doivent indiquer comment leur personnage compte progresser. Le MJ détermine ensuite :
+Face à ces obstacles, vous choisissez comment vous allez progresser. Le MJ détermine ensuite :
 
 * Les caractéristiques à utiliser (`Force`, `Agilité`, `Perception`, etc.).
 * La [difficulté](how-to-play#difficulty) du test, en s'aidant des exemples ci-dessous.
@@ -100,8 +100,8 @@ Tests typiques : `Agilité + Endurance`.
 | Échelle solide, escalier raide, paroi avec prises évidentes               | 1 (Simple)          |
 | Mur en pierre avec prises correctes, corde avec nœuds                     | 2 (Modérée)         |
 | Paroi rocheuse naturelle, prises irrégulières                             | 3 (Difficile)       |
-| Paroi presque lisse avec quelques prises, sans matériel                   | 4 (Très difficile)  |
-| Surplomb, plafond, ou paroi quasi lisse sans équipement                   | 5 (Extraordinaire)  |
+| Paroi presque lisse avec quelques prises                                  | 4 (Très difficile)  |
+| Surplomb, plafond, ou paroi quasi lisse                                   | 5 (Extraordinaire)  |
 
 ### Nage
 
@@ -113,7 +113,6 @@ Tests typiques : `Force + Endurance`.
 | Traverser un bassin calme, courte distance, eau claire    | 1 (Simple)           |
 | Nager avec équipement léger (sac, vêtements lourds)       | 2 (Modérée)          |
 | Traverser un cours d’eau à courant modéré                 | 3 (Difficile)        |
-| Nager avec armure légère ou charge importante             | 3 (Difficile)        |
 | Remonter un courant fort ou des vagues puissantes         | 4 (Très difficile)   |
 | Nager longtemps dans une eau glacée                       | 4 (Très difficile)   |
 | Traverser un torrent en crue, eaux tumultueuses           | 5 (Extraordinaire)   |
@@ -133,15 +132,17 @@ Tests typiques : `Force + Agilité`.
 
 ## Environnements dangereux
 
-Tous les dangers ne viennent pas des armes ou des aptitudes. Le froid, le feu, les chutes ou les gaz peuvent mettre un terme à une aventure aussi sûrement qu’une lame bien placée. Cette section propose des repères pour gérer ces menaces de façon cohérente et rapide.
+Tous les dangers ne viennent pas des armes ou des aptitudes. Le froid, le feu, les chutes ou les gaz peuvent mettre un terme à une aventure aussi sûrement qu’une lame bien placée.
+
+Cette section propose des repères pour gérer ces menaces de façon cohérente et rapide.
 
 ### Asphyxie {#asphyxia}
 
-L’asphyxie survient quand un personnage ne reçoit pas assez d’air respirable : noyade, fumée, manque d’oxygène, étranglement, gaz, etc.
+L’asphyxie survient quand vous ne recevez plus assez d’air respirable : noyade, fumée, manque d’oxygène, étranglement, gaz, etc.
 
-* Un personnage peut retenir son souffle pendant un nombre de minutes égal à son `Endurance`.
-* Une fois cette durée écoulée, il suffoque et subit 1 point de dégâts par round (ou toutes les 10 secondes).
-* Un personnage qui suffoque est [ralenti](conditions#slowed) et [pris au dépourvu](conditions#off-guard).
+* Vous pouvez retenir votre souffle pendant un nombre de minutes égal à votre `Endurance`.
+* Une fois cette durée écoulée, vous suffoquez et subissez 1 point de dégâts par round (ou toutes les 10 secondes).
+* Si vous suffoquez, vous êtes [ralenti](conditions#slowed) et [pris au dépourvu](conditions#off-guard).
 
 ### Chaleur
 
@@ -186,11 +187,11 @@ Ci-dessous les effets de la fumée :
 | Froid modéré, vêtements adaptés, activité normale | Aucun / narratif  | Inconfort, fatigue |
 | Froid intense, vêtements corrects (hiver rude, montagne) | 1 dégât / heure   | Peut [ralentir](conditions#slowed) |
 | Froid glacial + vent, vêtements insuffisants (blizzard)  | 1 dégât / minute  | Peut [ralentir](conditions#slowed) |
-| Immersion dans eau glacée | 1 dégât / round   | Risque de [noyade](#drowning) |
+| Immersion dans eau glacée | 1 dégât / round | Risque de [noyade](#drowning) |
 
 ### Noyade {#drowning}
 
-La noyade est un cas particulier d'[asphixie](#asphyxia) : le personnage est immergé dans un liquide au lieu de manquer d’air. Les mêmes règles s'appliquent.
+La noyade est un cas particulier d'[asphixie](#asphyxia) : vous êtes immergé dans un liquide au lieu de manquer d’air. Les mêmes règles s'appliquent.
 
 ## Richesse et Ressources {#wealth-resource-points}
 
@@ -198,18 +199,18 @@ Dans ce système, la gestion de l’argent n’utilise pas une monnaie comptée 
 
 ### Niveau de Richesse {#wealth-level}
 
-Le __Niveau de Richesse__ d'un personnage mesure son statut social et sa réputation économique, ce qui affecte les interactions et opportunités.
+Votre __Niveau de Richesse__ mesure votre statut social et votre réputation économique, ce qui affecte vos interactions et opportunités.
 
 Il sert de référence pour estimer :
-* Le type d'équipement accessible.
-* Le style de vie quotidien du personnage.
-* L'ampleur des choses qu'il peut obtenir en dépensant un Point de Ressource.
+* Le type d'équipement qui vous est accessible.
+* Votre style de vie quotidien.
+* La quantité de Points de Ressource que vous pouvez obtenir.
 
 :::tip Fortune et liquidités
-Un personnage fortuné ne se promène pas avec des coffres sur lui, mais il a des moyens : comptes bancaires, propriétés, créances, relations, etc.
+Être fortuné ne veut pas dire que vous vous promenez avec des coffres de pièces et de billets sur vous, mais vous avez des moyens : comptes bancaires, propriétés, créances, relations, etc.
 :::
 
-Ci-dessous, les différents Niveaux de Richesse accessibles aux personnages :
+Ci-dessous, les différents niveaux de richesse accessibles :
 
 | Niveau | Nom | Description | Exemple de train de vie / avantages |
 | - | - | - | - |
@@ -221,56 +222,11 @@ Ci-dessous, les différents Niveaux de Richesse accessibles aux personnages :
 | 5 | Opulent | Noblesse, guilde puissante | Demeure de prestige, serviteurs, influence significative. Peut mobiliser des ressources pour financer missions, recruter, corrompre. |
 | 6 | Fortuné | Fortune légendaire | Possède plusieurs propriétés, entreprises, influence politique ou économique majeure. Peut commander des expéditions, financer des intrigues, contrôler des guildes ou armées. |
 
-### Gagner un Niveau de Richesse
-
-Un personnage peut __augmenter__ son Niveau de Richesse lorsqu'il obtient de nouveaux moyens durables ou un statut économique et social supérieur. Cela doit résulter d'un __changement significatif__ dans la fiction.
-
-:::info Exemple
-* Hériter d'un patrimoine.
-* Découvrir un trésor important et le convertir en richesse stable.
-* Nouer un partenariat avec un mécène, une guilde ou une société qui assure des revenus réguliers.
-:::
-
-C'est au MJ, en accord avec le joueur, de décider quand un événement justifie une augmentation du Niveau de Richesse. En règle générale, on ne monte pas de Richesse à cause d'un seul coup de chance, mais parce que le personnage s'inscrit dans une __nouvelle réalité économique et sociale__.
-
-### Perdre un Niveau de Richesse
-
-À l'inverse, un personnage peut __perdre__ un Niveau de Richesse lorsque ses moyens s'effondrent, que ses sources de revenus disparaissent ou qu'il subit un revers majeur.
-
-:::info Exemple
-* Faillite personnelle ou commerciale.
-* Rupture avec son mécène, sa guilde ou sa société qui assurait son train de vie.
-* Endettement massif, scandale, exil, confiscation de biens.
-:::
-
-Comme pour le gain d'un niveau, la perte doit être __justifiée par la narration__ et validée par le MJ.
-
-### S'appauvrir volontairement
-
-Un personnage peut choisir de __sacrifier volontairement__ une partie de sa richesse pour obtenir un coup de pouce significatif dans un arc narratif.
-
-En accord avec le MJ, le personnage :
-* Baisse son Niveau de Richesse de 1 (ou plus dans des cas extrêmes).
-* Gagne immédiatement 3 Points de Ressource par Niveau de Richesse perdu.
-
-Cela permet de matérialiser des sacrifices économiques lourds : le personnage vend, hypothèque ou liquide des biens pour obtenir un avantage décisif à court terme, au prix d’une baisse durable de son niveau de vie.
-
-Le MJ reste garant de la cohérence :
-* Il valide quand un événement est suffisamment important pour modifier la Richesse.
-* Il peut ajuster le nombre de Points de Ressource accordés en fonction de l'impact narratif et du réalisme économique de l'univers.
-
 ### Points de Ressource {#resource-points}
 
-Les __Points de Ressource__ représentent la marge de manoeuvre économique et logistique du personnage à un moment donné de la campagne.
+Les __Points de Ressource__ représentent votre marge de manoeuvre économique et logistique.
 
-Au début de chaque arc narratif, ou au choix du MJ, un personnage récupère :
-* 2 Points de Ressource de base.
-* +1 Point de Ressource par __Niveau de Richesse__.
-
-:::info Exemple
-* Un personnage d'un niveau de richesse 2 commence un nouvel arc avec __4 Points de Ressource__.
-* Un personnage d'un niveau de richesse 5 commence avec __7 Points de Ressource__, etc.
-:::
+Le nombre de points de ressource que vous possédez au début de votre aventure et que vous gagnez au fil du récit dépend de votre __niveau de richesse__.
 
 Ces points sont ensuite dépensés au cours de l'arc pour obtenir :
 * De l'équipement (armes, armures, outils, montures, etc.).
@@ -278,7 +234,51 @@ Ces points sont ensuite dépensés au cours de l'arc pour obtenir :
 * Des avantages narratifs (acheter un commerce, louer un entrepôt, corrompre des individus, etc.).
 * Des [atouts](negociation#edges) dans le cadre d'une [négociation](negociation).
 
-Les Points de Ressource __ne se comptent pas en pièces__ : un point dépensé représente un ensemble de dépenses, faveurs, crédits, ventes d'objets, etc.
+### Changer le Niveau de Richesse
+
+Vous pouvez __augmenter__ votre niveau de richesse si vous disposez d'assez de points de ressource pour acheter le niveau supérieur. À l'inverse, vous pouvez __diminuer__ votre niveau de richesse pour obtenir immédiatement des points de ressource.
+
+Ces changements de niveau de richesse ne sont pas de simples transactions : Vous devez décider, avec l'accord du MJ, comment cette __nouvelle réalité économique et sociale__ se justifie narrativement.
+
+:::info Exemple
+Si vous augmentez votre niveau de richesse :
+* Achat d'une maison, d'un domaine. Fondation d'une guilde ou d'une entreprise.
+* Partenariat avec un mécène, une guilde ou une société qui assure des revenus réguliers.
+* Obtention de titres, arrangement d'un mariage, nomination à un poste important.
+
+Si vous diminuez votre niveau de richesse :
+* Faillite personnelle ou commerciale.
+* Rupture avec votre mécène, votre guilde ou la société qui assurait votre train de vie.
+* Endettement massif, scandale, exil, confiscation de biens.
+:::
+
+### Niveau de Richesse et Points de Ressource
+
+Le tableau ci-dessous vous donne les valeurs importantes en lien avec votre __niveau de richesse__ et vos __points de ressource__. Vous y trouverez :
+* Le nombre de points de ressource au début de votre aventure.
+* Le nombre de points de ressource que vous pouvez gagner grâce à vos investissements.
+* Le coût en points de ressource pour augmenter le niveau de richesse.
+* Le nombre de points de ressource obtenu en diminuant le niveau de richesse.
+
+| Niveau | Points à la création | Gains réguliers | Prix d'achat | Prix de vente |
+| ------ | -------------------- | --------------- | ------------ | ------------- |
+| 0      | 2                    | 0               | 0            | 0             |
+| 1      | 5                    | 0               | 0            | 0             |
+| 2      | 10                   | 0               | 0            | 0             |
+| 3      | 15                   | 0               | 0            | 0             |
+| 4      | 25                   | 0               | 0            | 0             |
+| 5      | 35                   | 0               | 0            | 0             |
+| 6      | 50                   | 0               | 0            | 0             |
+
+:::tip Gains réguliers de points de ressource
+Les gains réguliers présentés dans le tableau ci-dessus sont exprimés en quantité obtenue par phase narrative.
+
+Votre MJ est libre de définir la durée de la phase narrative qui correspond le mieux au rythme de vos aventures (une fois par semaine, une fois entre deux voyages, etc.).
+
+Votre MJ peut également appliqué une variation à vos gains (effet saisonnier, affaires plus ou moins florissantes) en fonction de leur nature et du contexte global.
+
+N'hésitez pas à discuter ensemble de ces éléments !
+:::
 
 ### Valeur des Points de Ressource {#resource-points-value}
 

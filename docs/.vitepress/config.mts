@@ -40,6 +40,7 @@ export default defineConfig({
                     { text: 'Combat', link: '/rulebook/rules/combat' },
                     { text: 'Négociation', link: '/rulebook/rules/negociation' },
                     { text: 'États', link: '/rulebook/rules/conditions' },
+                    { text: 'Équipement', link: '/rulebook/rules/equipment' },
                     { text: 'Glossaire', link: '/rulebook/rules/glossary' },
                 ],
             },
@@ -52,10 +53,6 @@ export default defineConfig({
                     { text: 'Espion', link: '/rulebook/careers/spy' },
                     { text: 'Tacticien', link: '/rulebook/careers/tactician' },
                 ],
-            },
-            {
-                text: 'Équipement',
-                items: [],
             },
         ],
 

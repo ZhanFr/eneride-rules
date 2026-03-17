@@ -13,7 +13,7 @@ Si deux états identiques vous sont appliqués, les conséquences de cet état p
 :::
 
 :::info Exemple
-Si vous êtes [à terre](#prone) et [effrayé](#frightened), vous cumulez les conséquences de ces deux effets. Un adversaire qui vous cible avec une attaque de contact au corps à corps bénéficie de `+2D` (`+1D` en raison de l'état à terre, et `+1D` en raison de l'état [pris au dépourvu](#off-guard) conféré par l'état effrayé).
+Si vous êtes [à terre](#prone) et [effrayé](#frightened), vous cumulez les conséquences de ces deux effets. Un adversaire qui vous cible avec une attaque de contact au corps à corps bénéficie de `+1D` en raison de l'état [pris au dépourvu](#off-guard) conféré par l'état effrayé, et vous subissez un malus de `-1D` contre cette attaque.
 
 Si vous êtes [assourdi](#deafened) par deux effets différents, l'un ayant une durée d'1 round et l'autre ayant une durée d'1 heure, vous ne cumulez pas deux fois les conséquence de cet effet, mais vous resterez assourdi jusqu'à la fin de l'effet avec une durée d'1 heure.
 :::
@@ -22,9 +22,9 @@ Si vous êtes [assourdi](#deafened) par deux effets différents, l'un ayant une 
 
 Vous êtes __à terre__ lorsque vous vous trouvez en position allongée, que ce soit par perte d’équilibre ou par votre propre décision (pour se dissimuler ou se protéger).
 
-* Vos adversaires ont un bonus de `+1D` aux attaques de __contact au corps à corps__ contre vous.
-* Vos adversaires ont un bonus de `+1D` contre vos attaques de __contact au corps à corps__.
-* Vous avez un bonus de `+1D` contre les attaques de __contact à distance__.
+* Vous avez un malus de `-1D` aux attaques de __contact au corps à corps__.
+* Vous avez un malus de `-1D` contre les attaques de __contact au corps à corps__.
+* Vos adversaires ont un malus de `-1D` aux attaques de __contact à distance__ contre vous.
 * Vous ne pouvez [vous déplacer](combat#maneuvers-move) qu’en utilisant la méthode __ramper__.
 * [Vous relever](combat#maneuvers-prone-stand) supprime l'état.
 
@@ -48,8 +48,8 @@ Vous __échouez automatiquement__ les tests faisant appel à votre vue.
 
 Vous ne parvenez pas à combattre efficacement :
 
-* Vos adversaires ont un bonus de `+1D` aux attaques de __contact au corps à corps__ et de __contact à distance__ contre vous.
-* Vos adversaires ont un bonus de `+1D` contre vos attaques de __contact au corps à corps__ et de __contact à distance__.
+* Vous avez un malus de `-1D` aux attaques.
+* Vous avez un malus de `-1D` contre les attaques.
 
 ### Effrayé {#frightened}
 
@@ -92,7 +92,7 @@ Vous êtes totalement immobilisé (paralysie, entrave complète, etc) :
 
 Vous êtes surpris par vos adversaires :
 
-* Vos adversaires ont un bonus de `+1D` aux attaques contre vous.
+* Vous avez un malus de `-1D` contre les attaques.
 * Vous ne pouvez pas [parer](combat#reactions-parry) en réaction à l'action [se désengager](combat#actions-disengage).
 
 ### Ralenti {#slowed}
