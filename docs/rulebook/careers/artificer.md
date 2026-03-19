@@ -34,11 +34,11 @@ Blablabla
 <table>
   <thead>
     <tr>
-      <th>Prix : 1 PX</th>
-      <th>Prix : 2 PX</th>
-      <th>Prix : 3 PX</th>
-      <th>Prix : 4 PX</th>
-      <th>Prix : 5 PX</th>
+      <th style="min-width: 200px">Prix : 1 PX</th>
+      <th style="min-width: 200px">Prix : 2 PX</th>
+      <th style="min-width: 200px">Prix : 3 PX</th>
+      <th style="min-width: 200px">Prix : 4 PX</th>
+      <th style="min-width: 200px">Prix : 5 PX</th>
     </tr>
   </thead>
   <tbody>
@@ -131,11 +131,11 @@ Blablabla
 <table>
   <thead>
     <tr>
-      <th>Prix : 2 PX</th>
-      <th>Prix : 3 PX</th>
-      <th>Prix : 5 PX</th>
-      <th>Prix : 7 PX</th>
-      <th>Prix : 10 PX</th>
+      <th style="min-width: 200px">Prix : 2 PX</th>
+      <th style="min-width: 200px">Prix : 3 PX</th>
+      <th style="min-width: 200px">Prix : 5 PX</th>
+      <th style="min-width: 200px">Prix : 7 PX</th>
+      <th style="min-width: 200px">Prix : 10 PX</th>
     </tr>
   </thead>
   <tbody>
@@ -153,7 +153,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Arme destinée</b>
         <br>
-        Dépensez 1 dé de Destin pour relancer un test d'attaque ou de parade utilisant votre arme liée.
+        Dépensez 1 point de Destin pour relancer un test d'attaque ou de parade utilisant votre arme liée.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Prouesse martiale</b>
@@ -228,11 +228,11 @@ Blablabla
 <table>
   <thead>
     <tr>
-      <th>Prix : 2 PX</th>
-      <th>Prix : 3 PX</th>
-      <th>Prix : 5 PX</th>
-      <th>Prix : 7 PX</th>
-      <th>Prix : 10 PX</th>
+      <th style="min-width: 200px">Prix : 2 PX</th>
+      <th style="min-width: 200px">Prix : 3 PX</th>
+      <th style="min-width: 200px">Prix : 5 PX</th>
+      <th style="min-width: 200px">Prix : 7 PX</th>
+      <th style="min-width: 200px">Prix : 10 PX</th>
     </tr>
   </thead>
   <tbody>
@@ -329,11 +329,11 @@ Blablabla
 <table>
   <thead>
     <tr>
-      <th>Prix : 2 PX</th>
-      <th>Prix : 3 PX</th>
-      <th>Prix : 5 PX</th>
-      <th>Prix : 7 PX</th>
-      <th>Prix : 10 PX</th>
+      <th style="min-width: 200px">Prix : 2 PX</th>
+      <th style="min-width: 200px">Prix : 3 PX</th>
+      <th style="min-width: 200px">Prix : 5 PX</th>
+      <th style="min-width: 200px">Prix : 7 PX</th>
+      <th style="min-width: 200px">Prix : 10 PX</th>
     </tr>
   </thead>
   <tbody>
@@ -351,7 +351,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Destinée runique</b>
         <br>
-        Dépensez 1 dé de Destin pour relancer un test pour fabriquer ou appliquer une rune.
+        Dépensez 1 point de Destin pour relancer un test pour fabriquer ou appliquer une rune.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Prouesse runique</b>
