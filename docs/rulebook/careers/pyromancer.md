@@ -56,7 +56,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Arme enflammée</b>
         <br>
-        Dépensez 2 points de pouvoir pour enflammer les armes de votre choix à portée courte pendant 1 minute. Les armes enflammées peuvent infliger des dégâts ardents et faire de la lumière.
+        Dépensez 2 points de pouvoir pour enflammer les armes de votre choix à portée courte pendant 1 minute. Les armes enflammées infligent 1 point de dégâts supplémentaire, peuvent infliger des dégâts ardents et faire de la lumière.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Expertise martiale</b>
@@ -100,7 +100,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Traits enflammés</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque à portée moyenne <code>Charisme + Perception</code>. Infligez 5 dégâts ardents.
+        Dépensez 2 points de pouvoir pour faire une attaque à portée moyenne <code>Charisme + Perception</code>. Infligez 7 dégâts ardents.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -110,7 +110,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Souffle de feu</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque de zone (cône 3), <code>Charisme + Perception</code>. Infligez 8 dégâts ardents.
+        Dépensez 3 points de pouvoir pour faire une attaque de zone (cône 3), <code>Charisme + Perception</code>. Infligez 10 dégâts ardents.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Expertise élémentaire</b>
@@ -120,7 +120,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Boule de feu</b>
         <br>
-        Dépensez 5 points de pouvoir pour fiare une attaque de zone (sphère 2) à portée moyenne, <code>Charisme + Perception</code>. Infligez 15 dégâts ardents et repoussez les cibles d'une case.
+        Dépensez 5 points de pouvoir pour faire une attaque de zone (sphère 2) à portée moyenne, <code>Charisme + Perception</code>. Infligez 15 dégâts ardents et repoussez les cibles d'une case.
       </td>
     </tr>
   </tbody>
@@ -163,7 +163,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Courroux ardent</b>
         <br>
-        Une fois par round pendant votre tour, si vous neutralisez une cible à l'aide de votre armement ardent, dépensez 2 points de pouvoir pour prendre une action immédiatement.
+        Une fois par round pendant votre tour, si vous mettez hors de combat une cible à l'aide de votre armement ardent, dépensez 2 points de pouvoir pour prendre une action immédiatement.
       </td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Frappe ardente</b>
         <br>
-        Quand vous infligez des dégâts avec votre armement ardent, vous pouvez dépensez 3 points de pouvoir pour consommer les charges ardentes sur la cible. Si vous le faites, la cible subit 5 dégâts ardents par charge consommée.
+        Quand vous infligez des dégâts avec votre armement ardent, vous pouvez dépenser 1 point de pouvoir pour consommer les charges ardentes sur la cible. Si vous le faites, la cible subit 5 dégâts ardents par charge consommée.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Transcendance</b>
@@ -217,7 +217,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Ténacité du Bélier</b>
         <br>
-        Si vous tombez à 0 point de vie et qu'au moins un adversaire à portée moyenne porte une charge ardente, vous pouvez dépenser 5 points de pouvoir et consommer les charges ardentes à portée moyenne. Chaque charge consommée inflige 5 dégâts ardents à son porteur et vous permet de récupérer 1 point de vie.
+        Vous pouvez dépenser 3 points de pouvoir et consommer immédiatement les charges ardentes à portée moyenne. Chaque charge consommée inflige 5 dégâts ardents à son porteur et vous permet de récupérer 3 points de vie.
       </td>
     </tr>
   </tbody>
@@ -250,7 +250,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Mur de flammes</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire apparaître un mur (max 10m de long, 5m de haut, 1m de large) à portée moyenne pendant 1 minute. Traverser le mur inflige 3 dégâts ardents. Débuter son tour sur une case occupée par le mur inflige 8 dégâts ardents. La visibilité à travers le mur est réduite.
+        Dépensez 3 points de pouvoir pour faire apparaître un mur (max 10m de long, 5m de haut, 1m de large) à portée moyenne pendant 1 minute. Traverser le mur inflige 5 dégâts ardents. Débuter son tour sur une case occupée par le mur inflige 10 dégâts ardents. La visibilité à travers le mur est réduite.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Prouesse élémentaire</b>
@@ -282,12 +282,12 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Énergie élémentaire</b>
         <br>
-        Lors d'un combat, si vous avez infligé des dégâts de feu au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
+        Lors d'un combat, si vous avez infligé des dégâts ardents au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Cercle de feu</b>
         <br>
-        Dépensez 5 points de pouvoir pour faire apparaître un cercle (max 5m de rayon) sur le sol à portée moyenne pendant 1 minute. Traverser le cercle inflige 8 dégâts ardents. Débuter son tour sur une case occupée par le cercle inflige 15 dégâts ardents.
+        Dépensez 5 points de pouvoir pour faire apparaître un cercle (max 5m de rayon) sur le sol à portée moyenne pendant 1 minute. Traverser le cercle inflige 10 dégâts ardents. Débuter son tour sur une case occupée par le cercle inflige 15 dégâts ardents.
       </td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Figure de Lion</b>
         <br>
-        Dépensez 5 points de pouvoir pour immuniser vos alliés à la peur et récupérer un nombre de points de vie égal à votre <code>Charisme</code> au début de votre tour pendant 1 minute.
+        Dépensez 5 points de pouvoir pour vous immuniser vous et vos alliés contre la peur et récupérer un nombre de points de vie égal à votre <code>Charisme</code> au début de votre tour pendant 1 minute.
       </td>
     </tr>
   </tbody>
@@ -344,12 +344,12 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Bouclier solaire</b>
         <br>
-        Dépensez 3 points de pouvoir pour obtenir un bouclier qui absorbe 10 dégâts pendant 1 minute.
+        Dépensez 2 points de pouvoir pour obtenir un bouclier avec 10 points de vie pendant 1 minute.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Surface brûlante</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire apparaître un cercle (max 3m de rayon) sur le sol à portée moyenne pendant 1 minute. Traverser le cercle inflige 3 dégâts ardents. Débuter son tour sur une case occupée par le cercle inflige 5 dégâts ardents. La zone est un terrain difficile.
+        Dépensez 3 points de pouvoir pour faire apparaître un cercle (max 3m de rayon) sur le sol à portée moyenne pendant 1 minute. Traverser le cercle inflige 5 dégâts ardents. Débuter son tour sur une case occupée par le cercle inflige 10 dégâts ardents. La zone est un terrain difficile.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Prouesse élémentaire</b>
@@ -359,7 +359,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Aspect Zénithal</b>
         <br>
-        Dépensez 5 points de pouvoir pour recharger immédiatement votre bouclier solaire ou le faire appaître. Pendant 1 minute, les dégâts absorbés par votre bouclier sont renvoyés comme dégâts ardents.<br>
+        Dépensez 5 points de pouvoir pour recharger immédiatement votre bouclier solaire ou le faire apparaître. Pendant 1 minute, les dégâts absorbés par votre bouclier sont renvoyés comme dégâts ardents.<br>
         Vos aptitudes qui infligent des dégâts ardents infligent 5 dégâts ardents supplémentaires.
       </td>
     </tr>
@@ -387,7 +387,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Nova</b>
         <br>
-        Dépensez 7 points de pouvoir pour faire une attaque de zone à portée moyenne <code>Charisme + Perception</code>. Infligez 15 dégâts ardents. Si une cible possède une marque solaire, infligez-lui 25 dégâts ardents. Si une cible subit des dégâts, elle est aveuglée pendant 1 round.
+        Dépensez 7 points de pouvoir pour faire une attaque de zone à portée moyenne <code>Charisme + Perception</code>. Infligez 15 dégâts ardents. Si une cible possède une marque solaire, infligez-lui 20 dégâts ardents. Si une cible subit des dégâts, elle est aveuglée pendant 1 round.
       </td>
     </tr>
     <tr>

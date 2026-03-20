@@ -61,7 +61,7 @@ Blablabla
         - Doublez la durée de l'effet.<br>
         - Augmentez les dégâts ou les soins de +2.<br>
         - Rendez l'objet inefficace.<br>
-        - Tranformez une potion en poison équivalent.
+        - Transformez une potion en poison équivalent.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Optimisation</b>
@@ -71,7 +71,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Décharge éthérique</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque de zone (ligne 5) <code>Intellect + Perception</code>. Infligez 12 points de dégâts entropiques.
+        Dépensez 3 points de pouvoir pour faire une attaque de zone (ligne 5) <code>Intellect + Perception</code>. Infligez 7 dégâts entropiques.
       </td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ Blablabla
         <b style="text-decoration: underline">Guérison mineure</b>
         <br>
         Dépensez 3 points de pouvoir pour appliquer un effet à une cible à portée courte :<br>
-        - Récuperer 5 points de vie.<br>
+        - Récupérer 5 points de vie.<br>
         - Supprimer un état parmi : assourdi, aveuglé, étourdi.
       </td>
     </tr>
@@ -122,12 +122,12 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Signature</b>
         <br>
-        Obtenez 1 point de ressource supplémentaire quand vous revendez un objet que vous avez fabriqué.
+        Obtenez 1 point de ressource supplémentaire quand vous vendez un objet que vous avez fabriqué.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Toucher corrosif</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque de contact au corps à corps <code>Agilité + Intellect</code>. Infligez 8 dégâts caustiques. Si la cible porte une armure, réduisez sa protection de 2 points.
+        Dépensez 3 points de pouvoir pour faire une attaque de contact au corps à corps <code>Agilité + Intellect</code>. Infligez 10 dégâts caustiques. Si la cible porte une armure, réduisez sa protection de 2 points.
       </td>
     </tr>
   </tbody>
@@ -150,7 +150,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Nuée de projectiles</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque de zone (cône 3) <code>Intellect + Perception</code>. Infligez 7 dégâts perforants.
+        Dépensez 2 points de pouvoir pour faire une attaque de zone (cône 3) <code>Intellect + Perception</code>. Infligez 5 dégâts perforants.
       </td>
      <td valign="top">
         <b style="text-decoration: underline">Expertise éthérique</b>
@@ -197,7 +197,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Nouvelle lune</b>
         <br>
-        Dépensez 9 points de pouvoir pour faire une attaque de zone (sphère 10) <code>Intellect + Perception</code>. Infligez 30 dégâts contondants, la zone devient un terrain difficile. Les cibles qui réussissent à esquiver subissent la moitié des dégâts.
+        Dépensez 9 points de pouvoir pour faire une attaque de zone (sphère 10) <code>Intellect + Perception</code>. Infligez 25 dégâts contondants, la zone devient un terrain difficile. Les cibles qui réussissent à esquiver subissent la moitié des dégâts.
       </td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Oblitérer</b>
         <br>
-        Dépensez 5 points de dégâts pour faire une attaque à portée moyenne <code>Intellect + Perception</code>. Infligez 30 dégâts entropiques. Même si la cible résiste, elle est étourdie et ralentie pendant 1 round.
+        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Intellect + Perception</code>. Infligez 20 dégâts entropiques. Même si la cible résiste, elle est étourdie et ralentie pendant 1 round.
       </td>
     </tr>
   </tbody>
@@ -247,7 +247,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Drain de vie</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque à portée courte <code>Endurance + Intellect</code>. Infligez 8 dégâts entropiques. Si vous êtes négatif, infligez 12 dégâts et récupérez 5 points de vie. Devenez positif.
+        Dépensez 2 points de pouvoir pour faire une attaque à portée courte <code>Endurance + Intellect</code>. Infligez 5 dégâts entropiques. Si vous êtes négatif, infligez 10 dégâts et récupérez 5 points de vie. Devenez positif.
       </td>
      <td valign="top">
         <b style="text-decoration: underline">Expertise panacéenne</b>
@@ -264,12 +264,12 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Prouesse panacéenne</b>
         <br>
-        Augmentez les dégâts infligés et les récupération de points de vie conférés par vos aptitudes panacéenne de +2.
+        Augmentez les dégâts infligés et les récupération de points de vie conférés par vos aptitudes panacéennes de +2.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Siphon de vie</b>
         <br>
-        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code> contre 5 cibles. Infligez 15 dégâts entropiques. Si vous êtes négatif, infligez 20 dégâts. Pour chaque cible qui subit des dégâts, récupérez 5 points de vie. Le surplus devient des points de vie temporaires pendant 1 minute. Devenez positif.
+        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code> contre 5 cibles. Infligez 13 dégâts entropiques. Si vous êtes négatif, infligez 18 dégâts. Pour chaque cible qui subit des dégâts, récupérez 5 points de vie. Le surplus devient des points de vie temporaires pendant 1 minute. Devenez positif.
       </td>
     </tr>
     <tr>
@@ -329,7 +329,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Non-vie</b>
         <br>
-        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code>. Infligez 25 dégâts entropiques. Si la cible résiste, infligez 10 dégâts entropiques. Si vous êtes négatif, doublez les dégâts et la cible est étourdie et ralentie pendant 1 round. Devenez positif.
+        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code>. Infligez 20 dégâts entropiques. Si la cible résiste, infligez 10 dégâts. Si vous êtes négatif, infligez 25 dégâts et la cible est étourdie et ralentie pendant 1 round. Devenez positif.
       </td>
     </tr>
   </tbody>

@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # Tacticien
 
 Introduction blabla
@@ -27,12 +31,6 @@ Blablabla
 
 ## Progressions de Tacticien
 
-| Prix: 1 px | Prix: 2 px | Prix: 3 px | Prix: 4 px | Prix: 5 px |
-| --- | --- | --- | --- | --- |
-| [Évaluation tactique](#tactical-evaluation) | [Endurci](#toughened) | [Ralliement](#rally) | [Excellence](#excellence) | [Inspiration](#inspire) |
-| [Ouverture](#opening) | [Prouesse martiale](#martial-prowess) | [Déluge de coup](#many-blows) | [Expertise martiale](#martial-expert) | [Attaque étourdissante](#stunning-attack) |
-| [Bravade](#bravado) | [Endurci](#toughened) | [Interception](#intercept) | [Expertise des armures](#armor-expert) | [Riposte](#response) |
-
 <table>
   <thead>
     <tr>
@@ -46,14 +44,9 @@ Blablabla
   <tbody>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Coup bas</b>
+        <b style="text-decoration: underline">Évaluation tactique</b>
         <br>
-        Ajoutez votre <code>Intellect</code> aux dégâts infligés par vos attaques contre des adversaires pris au dépourvu.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Fulgurance</b>
-        <br>
-        Lors d'un combat, vous prenez au dépourvu les adversaires qui n'ont pas encore pris un tour.
+        Faites une test à portée moyenne <code>Résolution + Perception</code>. Obtenez une information sur ses caractéristiques, ses attributs ou ses aptitudes par succès dépensé.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -61,81 +54,79 @@ Blablabla
         Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
+        <b style="text-decoration: underline">Ralliement</b>
+        <br>
+        Dépensez 3 points de pouvoir pour que vos alliés à portée moyenne puissent utiliser une manoeuvre immédiatement et récupérer un nombre de points de vie égal à votre <code>Résolution</code>.
+      </td>
+      <td valign="top">
         <b style="text-decoration: underline">Excellence</b>
         <br>
         Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 5.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Opportunisme</b>
+        <b style="text-decoration: underline">Inspiration</b>
         <br>
-        Dépensez 3 points de pouvoir quand un allié réussit une attaque contre un adversaire à portée courte pour utiliser une réaction et l'attaquer immédiatement.
+        Dépensez 3 points de pouvoir pour que vos alliés obtiennent un bonus de <code>+1D</code> aux attaques et aux réactions pendant 1 round.
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Sociabilité</b>
+        <b style="text-decoration: underline">Ouverture</b>
         <br>
-        Quand vous débutez une négociation avec un auditoire pour la première fois, vous obtenez un atout pour faire bonne impression avec charme.
+        Dépensez 2 points de pouvoir pour vous déplacer de deux fois votre vitesse. Obtenez un bonus de <code>+1D</code> aux attaques jusqu'à la fin de votre tour.
       </td>
        <td valign="top">
-        <b style="text-decoration: underline">Feinte</b>
+        <b style="text-decoration: underline">Prouesse martiale</b>
         <br>
-        Quand vous réussissez une attaque contre un adversaire, dépensez 2 points de pouvoir pour qu'il soit pris au dépourvu par vous jusqu'à la fin de votre prochain tour.
+        Augmentez vos dégâts infligés avec une arme de +2.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Faux semblants</b>
+        <b style="text-decoration: underline">Déluge de coups</b>
         <br>
-        Obtenez un bonus de <code>+1D</code> aux tests visant à dissimuler votre identité ou à conserver une couverture.
+        Dépensez 3 points de pouvoir pour faire une attaque multiple avec une arme. Obtenez un bonus de <code>+1D</code> par cible.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Chanceux</b>
+        <b style="text-decoration: underline">Expertise martiale</b>
         <br>
-        Dépensez 1 point de Destin pour relancer un test de votre choix.
+        Obtenez un bonus de <code>+1D</code> aux attaques et aux parades quand vous utilisez une arme.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Egratignure</b>
+        <b style="text-decoration: underline">Frappe étourdissante</b>
         <br>
-        Une fois par repos, si vous deviez subir des dégâts, vous pouvez dépenser 1 point de destin pour les ignorer totalement.
+        Si vous infligez des dégâts avec une attaque, vous pouvez dépenser 3 points de pouvoir pour étourdir vos cibles pendant 1 round.
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Discrétion</b>
+        <b style="text-decoration: underline">Bravade</b>
         <br>
-        Obtenez un bonus de <code>+1D</code> pour vous dissimuler ou dissimuler vos intentions.
+        Si vous infligez des dégâts avec une attaque, vous pouvez dépenser 2 points de pouvoir pour que vos cibles soient prises au dépourvu par vos alliés pendant 1 round.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Fuite</b>
+        <b style="text-decoration: underline">Endurci</b>
         <br>
-        Au début de votre tour, dépensez 3 points de pouvoir pour ne plus être engagé par vos adversaires.
+        Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Cambrioleur</b>
+        <b style="text-decoration: underline">Interception</b>
         <br>
-        Obtenez un bonus de <code>+1D</code> pour crocheter des serrures, escamoter ou atteindre physiquement un lieu difficile d'accès.
+        Si un adversaire dans votre allonge réussit une attaque contre un allié, dépensez 2 points de pouvoir pour utiliser une réaction et subir les dégâts à sa place.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Alerte</b>
+        <b style="text-decoration: underline">Expertise des armures</b>
         <br>
-        Lancez <code>2D10</code> au test d'initiative et conserver le meilleur résultat avant d'ajouter votre valeur d'initiative.<br>
-        Obtenez un bonus de <code>+1D</code> aux tests visant à détecter une menace imminente.
+        Augmentez la valeur de protection de l'armure que vous portez de +1.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Pas de côté</b>
+        <b style="text-decoration: underline">Riposte</b>
         <br>
-        Si vous deviez subir des dégâts causés par une attaque de zone, vous pouvez dépenser 2 points de pouvoir pour réduire les dégâts de moitié.
+        Si un adversaire dans votre allonge réussit une attaque contre un allié, dépensez 3 points de pouvoir pour utiliser une réaction et l'attaquer immédiatement.
       </td>
     </tr>
   </tbody>
 </table>
 
 ## Progressions de Berruier
-
-| Prix: 2 px | Prix: 3 px | Prix: 5 px | Prix: 7 px | Prix: 10 px |
-| --- | --- | --- | --- | --- |
-| Présage (vision de l'avenir divination 3) | [Endurci](#toughened) | Révélation (vrai nature) | [Prouesse martiale](#martial-prowess) | Injonction |
-| Réécriture (temps utilitaire 1) | Défense irréductible | [Transcendance](#transcendence) | [Energie combattante](#combat-energy) | Exhortation (inspiration++) |
-| [Apaisement](#alleviation) | Sursaut offensif | [Endurci](#toughened) | Fixation (stillness ordre 3) | Flux et reflux (pile ou face 1 min) |
 
 <table>
   <thead>
@@ -150,63 +141,9 @@ Blablabla
   <tbody>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Nuée de projectiles</b>
+        <b style="text-decoration: underline">Présages</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque de zone (cône 3) <code>Intellect + Perception</code>. Infligez 7 dégâts perforants.
-      </td>
-     <td valign="top">
-        <b style="text-decoration: underline">Expertise éthérique</b>
-        <br>
-        Obtenez un bonus de <code>+1D</code> quand vous attaquez avec une aptitude éthérique.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Amplification</b>
-        <br>
-        Dépensez 2 points de pouvoir pour obtenir un bonus de <code>+2D</code> sur une attaque avec une aptitude sans arme. Vous pouvez utiliser une réaction pour appliquer Amplification sur l'aptitude d'un allié à portée moyenne.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Prouesse éthérique</b>
-        <br>
-        Augmentez les dégâts infligés par vos aptitudes éthériques de +2.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Effacement</b>
-        <br>
-        Dépensez 5 points de pouvoir pour réagir à une attaque de contact à distance ou au corps à corps. Vous effacez la source des dégâts (arme, projectile) de la réalité. Si la source est un adversaire, il échoue automatiquement son attaque et vous lui infligez 15 dégats entropiques.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Alchimie majeure</b>
-        <br>
-        Vous pouvez fabriquer des objets d'alchimie majeure.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Energie éthérique</b>
-        <br>
-        Lors d'un combat, si vous avez infligé des dégâts entropiques au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Transcendance</b>
-        <br>
-        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Palissade</b>
-        <br>
-        Dépensez 3 points de pouvoir pour faire apparaître un mur (max 10m de long, 5m de haut, 2m de large) à portée moyenne pendant 1 minute. Vous pouvez utiliser cette aptitude lors d'une esquive, ce qui confère un abri total.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Nouvelle lune</b>
-        <br>
-        Dépensez 9 points de pouvoir pour faire une attaque de zone (sphère 10) <code>Intellect + Perception</code>. Infligez 30 dégâts contondants, la zone devient un terrain difficile. Les cibles qui réussissent à esquiver subissent la moitié des dégâts.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Fuite</b>
-        <br>
-        Au début de votre tour, dépensez 3 points de pouvoir pour ne plus être engagé par vos adversaires.
+        Dépensez 3 points de pouvoir obtenir un bonus de <code>+2D</code> aux parades et esquives pendant 1 minute. Pendant cette période, vous n'êtes jamais considéré comme engagé.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -214,19 +151,75 @@ Blablabla
         Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Intensification</b>
+        <b style="text-decoration: underline">Révélation</b>
         <br>
-        Dépensez 2 points de pouvoir pour qu'une aptitude sans arme inflige 5 dégâts entropiques supplémentaires. Vous pouvez utiliser une réaction pour appliquer Intensification sur l'aptitude d'un allié à portée moyenne.
+        Dépensez 3 points de pouvoir pour obtenir toutes les informations sur les points de vie, l'armure, les faiblesses, résistances et immunités d'une cible à portée moyenne.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Destinée éthérique</b>
+        <b style="text-decoration: underline">Prouesse martiale</b>
         <br>
-        Dépensez 1 point de Destin pour relancer un test d'attaque d'une aptitude éthérique.
+        Augmentez vos dégâts infligés avec une arme de +2.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Oblitérer</b>
+        <b style="text-decoration: underline">Injonction</b>
         <br>
-        Dépensez 5 points de dégâts pour faire une attaque à portée moyenne <code>Intellect + Perception</code>. Infligez 30 dégâts entropiques. Même si la cible résiste, elle est étourdie et ralentie pendant 1 round.
+        Si un adversaire à portée moyenne réussit une attaque contre vous ou vos alliés, vous pouvez dépenser 3 points de pouvoir pour utiliser une réaction et faire échouer l'attaque.<br>
+        Si vous ou un allié échouez une attaque contre un adversaire à portée moyenne, vous pouvez dépenser 3 points de pouvoir pour utiliser une réaction et faire réussir l'attaque.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Réécriture</b>
+        <br>
+        Dépensez 2 points de pouvoir pour pouvoir relancer 1 dé de votre choix dans chaque réserve lancée par vous ou vos alliés pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Défense irreductible</b>
+        <br>
+        Dépensez 5 points de pouvoir pour que vous et vos alliés ne subissent plus le malus cumulatif aux réactions pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Transcendance</b>
+        <br>
+        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Énergie combattante</b>
+        <br>
+        Lors d'une phase de combat, si vous n'êtes pas neutralisé, vous récupérez 1 point de pouvoir supplémentaire au début de votre tour.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Exhortation</b>
+        <br>
+        Dépensez 5 points de pouvoir pour faire une attaque de zone <code>Résolution + Charisme</code> contre tous vos adversaires à portée moyenne. En cas de réussite, infligez 10 dégâts entropiques et effrayez vos cible pendant 1 round. Vous et vos alliés dans la zone devenez immunisés à la peur et obtenez un bouclier avec 10 points de vie pendant 1 minute.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Apaisement</b>
+        <br>
+        Une fois par négociation, si votre auditoire devait dégrader sa disposition vers inamical ou hostile, vous pouvez annuler cette dégradation.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Sursaut offensif</b>
+        <br>
+        Dépensez 5 points de pouvoir pour que vous et vos alliés puissiez prendre une action supplémentaire lors de vos tours de jeu respectifs pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Endurci</b>
+        <br>
+        Augmentez votre total de point de vie de +4.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Fixation</b>
+        <br>
+        Dépensez 3 points de pouvoir pour faire une attaque de zone (cône 5), <code>Résolution + Charisme</code>. En cas de réussite, les cibles sont entravées pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Flux et reflux</b>
+        <br>
+        Dépensez 5 points de pouvoir. Pendant 3 rounds, vous et vos alliés faites vos tests avec un bonus de <code>+1D</code> et vous récupérez 1 point de pouvoir supplémentaire au début de vos tours respectifs, tandis que vos adversaires font leurs tests avec un malus de <code>-1D</code>. Puis, pendant 1 round, inversez les effets.<br>
+        Vous ne pouvez pas réutilisez Flux et reflux tant que les effets sont actifs.
       </td>
     </tr>
   </tbody>
@@ -235,12 +228,6 @@ Blablabla
 
 ## Progressions de Champion
 
-| Prix: 2 px | Prix: 3 px | Prix: 5 px | Prix: 7 px | Prix: 10 px |
-| --- | --- | --- | --- | --- |
-| Frappe éclair | [Endurci](#toughened) | Champion incarné | [Prouesse martiale](#martial-prowess) | Baroud d'honneur |
-| Second souffle | Débordement (double malus réaction) | [Transcendance](#transcendence) | [Maitrise martiale](#martial-master) | Chemin du champion |
-| Enchainement | Héroisme (bonus disposition) | [Endurci](#toughened) | Tempête d'acier | Massacre |
-
 <table>
   <thead>
     <tr>
@@ -254,63 +241,9 @@ Blablabla
   <tbody>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Nuée de projectiles</b>
+        <b style="text-decoration: underline">Frappe éclair</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque de zone (cône 3) <code>Intellect + Perception</code>. Infligez 7 dégâts perforants.
-      </td>
-     <td valign="top">
-        <b style="text-decoration: underline">Expertise éthérique</b>
-        <br>
-        Obtenez un bonus de <code>+1D</code> quand vous attaquez avec une aptitude éthérique.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Amplification</b>
-        <br>
-        Dépensez 2 points de pouvoir pour obtenir un bonus de <code>+2D</code> sur une attaque avec une aptitude sans arme. Vous pouvez utiliser une réaction pour appliquer Amplification sur l'aptitude d'un allié à portée moyenne.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Prouesse éthérique</b>
-        <br>
-        Augmentez les dégâts infligés par vos aptitudes éthériques de +2.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Effacement</b>
-        <br>
-        Dépensez 5 points de pouvoir pour réagir à une attaque de contact à distance ou au corps à corps. Vous effacez la source des dégâts (arme, projectile) de la réalité. Si la source est un adversaire, il échoue automatiquement son attaque et vous lui infligez 15 dégats entropiques.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Alchimie majeure</b>
-        <br>
-        Vous pouvez fabriquer des objets d'alchimie majeure.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Energie éthérique</b>
-        <br>
-        Lors d'un combat, si vous avez infligé des dégâts entropiques au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Transcendance</b>
-        <br>
-        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Palissade</b>
-        <br>
-        Dépensez 3 points de pouvoir pour faire apparaître un mur (max 10m de long, 5m de haut, 2m de large) à portée moyenne pendant 1 minute. Vous pouvez utiliser cette aptitude lors d'une esquive, ce qui confère un abri total.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Nouvelle lune</b>
-        <br>
-        Dépensez 9 points de pouvoir pour faire une attaque de zone (sphère 10) <code>Intellect + Perception</code>. Infligez 30 dégâts contondants, la zone devient un terrain difficile. Les cibles qui réussissent à esquiver subissent la moitié des dégâts.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Fuite</b>
-        <br>
-        Au début de votre tour, dépensez 3 points de pouvoir pour ne plus être engagé par vos adversaires.
+        Dépensez 3 points de pouvoir pour faire une attaque de zone (ligne de deux fois votre vitesse) avec votre arme. Repositionnez-vous immédiatement au bout de la ligne.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -318,19 +251,73 @@ Blablabla
         Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Intensification</b>
+        <b style="text-decoration: underline">Incarnation du champion</b>
         <br>
-        Dépensez 2 points de pouvoir pour qu'une aptitude sans arme inflige 5 dégâts entropiques supplémentaires. Vous pouvez utiliser une réaction pour appliquer Intensification sur l'aptitude d'un allié à portée moyenne.
+        Tant que vous n'êtes pas neutralisé, vos alliés à portée moyenne sont immunisés contre la peur et obtiennent une résistance aux dégâts psychiques.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Destinée éthérique</b>
+        <b style="text-decoration: underline">Prouesse martiale</b>
         <br>
-        Dépensez 1 point de Destin pour relancer un test d'attaque d'une aptitude éthérique.
+        Augmentez vos dégâts infligés avec une arme de +2.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Oblitérer</b>
+        <b style="text-decoration: underline">Baroud d'honneur</b>
         <br>
-        Dépensez 5 points de dégâts pour faire une attaque à portée moyenne <code>Intellect + Perception</code>. Infligez 30 dégâts entropiques. Même si la cible résiste, elle est étourdie et ralentie pendant 1 round.
+        Une fois par repos, quand vous n'avez plus de point de vie ou que vous prenez une blessure fatale, vous pouvez prendre un tour de jeu immédiatement. Vous tombez inconscient à la fin de ce tour.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Second souffle</b>
+        <br>
+        Une fois par repos, vous pouvez utiliser une manoeuvre pour récupérer 5 points de vie et ignorer les effets de vos blessures pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Débordement</b>
+        <br>
+        Dépensez 3 points de pouvoir pour imposer deux fois le malus cumulatif de réactions aux cibles de vos attaques pendant 1 round.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Transcendance</b>
+        <br>
+        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Maîtrise martiale</b>
+        <br>
+        Obtenez un bonus de <code>+1D</code> supplémentaire aux attaques et aux parades quand vous utilisez une arme.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Chemin du champion</b>
+        <br>
+        Lors d'un combat, à chaque fois que vous mettez un adversaire hors de combat, réduisez le coût en points de pouvoir de vos aptitudes de -1 (minimum 1). Si vous tombez inconscient ou que le combat se termine, vous perdez ces avantages.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Enchainement</b>
+        <br>
+        Si vous mettez un adversaire hors de combat et qu'une autre cible se trouve dans votre allonge, vous pouvez dépenser 3 points de pouvoir pour faire une attaque contre elle immédiatement.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Héroisme</b>
+        <br>
+        Quand vous débutez une négociation avec un auditoire qui n'est pas hostile pour la première fois, vous pouvez améliorer sa disposition.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Endurci</b>
+        <br>
+        Augmentez votre total de point de vie de +4.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Tempête d'acier</b>
+        <br>
+        Dépensez 5 points de pouvoir pour faire une attaque de zone (sphère 3) avec votre arme. Vous pouvez vous déplacer de votre vitesse immédiatement après l'attaque.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Massacre</b>
+        <br>
+        Si vous réussissez une attaque avec une arme, dépensez 5 points de pouvoir pour que votre attaque inflige double dégâts.
       </td>
     </tr>
   </tbody>
@@ -439,74 +426,3 @@ Blablabla
     </tr>
   </tbody>
 </table>
-
-
-## Aptitudes
-
-Cette section contient l'ensemble des aptitudes de la carrière de Tacticien.
-
-### Apaisement {#alleviation}
-Une fois par négociation, si votre auditoire devait dégrader sa disposition vers __inamical__ ou __hostile__, vous pouvez annuler cette dégradation.
-
-### Attaque étourdissante {#stunning-attack}
-Dépensez __3 points de pouvoir__ et faites une attaque. Votre attaque [étourdi](../rules/conditions#stunned) les cibles qui subissent des dégâts.
-
-### Bravade {#bravado}
-Quand vous réussissez une attaque contre une cible, dépensez __2 points de pouvoir__ pour qu'elle soit [prise au dépourvu](../rules/conditions#off-guard) par vos alliés pendant 1 round.
-
-### Déluge de coups {#many-blows}
-Dépensez __2 points de pouvoir__ pour faire une attaque multiple. Obtenez un bonus de `+1D` par cible.
-
-### Déplacement tactique {#tactical-movement}
-Dépensez __3 points de pouvoir__ pour [désengager](../rules/combat#actions-disengage) immédiatement un allié par point de pouvoir 
-
-### Endurci {#toughened}
-Augmentez votre total de point de vie de +4.
-
-### Énergie combattante {#combat-energy}
-Lors d'une phase de [combat](../rules/combat), si vous n'êtes pas [neutralisé](../rules/conditions#neutralized), vous récupérez __1 point de pouvoir supplémentaire__ au début de votre tour.
-
-### Évaluation tactique {#tactical-evaluation}
-Faites un test de `Résolution + Perception` contre `Intellect + Résolution` un adversaire à portée moyenne. En cas de réussite, obtenez une information sur ses caractéristiques, ses attributs ou ses aptitudes par succès dépensé. 
-
-### Excellence {#excellence}
-Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 5.
-
-### Expertise des armures {#armor-expert}
-Augmentez la valeur de protection de l'armure que vous portez de +1.
-
-### Expertise martiale {#martial-expert}
-Obtenez un bonus de `+1D` aux attaques et aux parades quand vous utilisez une arme.
-
-### Inspiration {#inspire}
-Dépensez __3 points de pouvoir__ pour que vos alliés obtiennent un bonus de `+1D` aux attaques et aux réactions pendant 1 round.
-
-### Interception {#intercept}
-Si un adversaire dans votre allonge réussit une attaque contre un allié, dépensez __2 points de pouvoir__ pour utiliser une réaction et subir les dégâts à sa place.
-
-### Maitrise des armures {#armor-master}
-Augmentez la valeur de protection de l'armure que vous portez de +1.
-
-### Maitrise martiale {#martial-mastery}
-Obtenez un bonus de `+1D` supplémentaire aux attaques et aux parades quand vous utilisez une arme.
-
-### Ouverture {#opening}
-Dépensez __2 points de pouvoir__ pour vous déplacer immédiatement de deux fois votre `vitesse`. Obtenez un bonus de `+1D` aux attaques jusqu'à la fin de votre tour.
-
-### Prouesse martiale {#martial-prowess}
-Augmentez vos dégâts infligés avec une arme de +2.
-
-### Ralliement {#rally}
-Dépensez __3 points de pouvoir__ pour que vos alliés à portée moyenne puissent utiliser une manoeuvre immédiatement et récupérer un nombre de points de vie égal à votre `Résolution`.
-
-### Réécriture {#rewrite}
-Dépensez __2 points de pouvoir__ pour pouvoir relancer 1 dé de votre choix dans chaque réserve lancée par vous ou vos alliés pendant 1 round.
-
-### Riposte {#response}
-Si un adversaire dans votre allonge réussit une attaque contre un allié, dépensez __3 points de pouvoir__ pour utiliser une réaction et l'attaquer immédiatement.
-
-### Sens du danger {#danger-sense}
-Au début d'un combat, dépensez 3 points de pouvoir pour ne pas être pris par surprise.
-
-### Transcendance {#transcendence}
-Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.

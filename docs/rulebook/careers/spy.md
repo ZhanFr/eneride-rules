@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # Espion
 
 Introduction blabla
@@ -74,7 +78,7 @@ Blablabla
        <td valign="top">
         <b style="text-decoration: underline">Feinte</b>
         <br>
-        Quand vous réussissez une attaque contre un adversaire, dépensez 2 points de pouvoir pour qu'il soit pris au dépourvu par vous jusqu'à la fin de votre prochain tour.
+        Si vous réussissez une attaque contre un adversaire, dépensez 2 points de pouvoir pour qu'il soit pris au dépourvu par vous jusqu'à la fin de votre prochain tour.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Faux semblants</b>
@@ -228,90 +232,22 @@ Blablabla
 
 ## Progressions de Masque
 
-| Prix: 2 px | Prix: 3 px | Prix: 5 px | Prix: 7 px | Prix: 10 px |
-| --- | --- | --- | --- | --- |
-| Succès du passé (pouvoir pour +2D à un test de combat) | [Endurci](#toughened) | Masque du guerrier (warlord lvl 2 cp2) | Masque du séducteur (desire in flesh lvl 3 cp2) | Paradoxe existentiel (1 fois, repos, impose au monde une nouvelle identité, full pv, full pouvoir, pas de blessure) |
-| Talent du passé (une fois par repos, savoir faire un truc) | Masque du guérisseur (world mother 5 cp2) | [Transcendance](#transcendence) | Masque de l'archimage (archmage lvl 7 OP) | masque du dragon (great dragon lvl 8 OP) |
-| Vol d'identité | Vol d'aptitude | Esprit fuyant (bonus vs psychique) | Anonyme (reset pression et disposition d'un auditoire) | masque de l'ascendant (ascended one, lvl 9 OP) |
-
 <table>
   <thead>
     <tr>
       <th style="min-width: 200px">Prix : 2 PX</th>
-      <th style="min-width: 200px">Prix : 3 PX</th>
-      <th style="min-width: 200px">Prix : 5 PX</th>
+      <th style="min-width: 300px">Prix : 3 PX</th>
+      <th style="min-width: 300px">Prix : 5 PX</th>
       <th style="min-width: 200px">Prix : 7 PX</th>
-      <th style="min-width: 200px">Prix : 10 PX</th>
+      <th style="min-width: 400px">Prix : 10 PX</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Drain de vie</b>
+        <b style="text-decoration: underline">Victoire du passé</b>
         <br>
-        Dépensez 2 points de pouvoir pour faire une attaque à portée courte <code>Endurance + Intellect</code>. Infligez 8 dégâts entropiques. Si vous êtes négatif, infligez 12 dégâts et récupérez 5 points de vie. Devenez positif.
-      </td>
-     <td valign="top">
-        <b style="text-decoration: underline">Expertise panacéenne</b>
-        <br>
-        Obtenez un bonus de <code>+1D</code> quand vous attaquez avec une aptitude panacéenne.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Equilibre panacéen</b>
-        <br>
-        Vos aptitudes peuvent vous conférez un état positif ou négatif.<br>
-        Quand vous êtes négatif, vous récupérez le double de points de vie.<br>
-        Quand vous êtes positif, vous ne récupérez que la moitié des points de vie.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Prouesse panacéenne</b>
-        <br>
-        Augmentez les dégâts infligés et les récupération de points de vie conférés par vos aptitudes panacéenne de +2.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Siphon de vie</b>
-        <br>
-        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code> contre 5 cibles. Infligez 15 dégâts entropiques. Si vous êtes négatif, infligez 20 dégâts. Pour chaque cible qui subit des dégâts, récupérez 5 points de vie. Le surplus devient des points de vie temporaires pendant 1 minute. Devenez positif.
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Alchimie majeure</b>
-        <br>
-        Vous pouvez fabriquer des objets d'alchimie majeure.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Guérison majeure</b>
-        <br>
-        Dépensez 5 points de pouvoir pour appliquer un effet à 3 cibles à portée courte. Si vous êtes positif, appliquez 2 effets. Devenez négatif.<br>
-        - Soigner une blessure.<br>
-        - Récupérer 10 points de vie.<br>
-        - Supprimer un état parmi : assourdi, aveuglé, étourdi, ralenti.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Transcendance</b>
-        <br>
-        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Energie panacéenne</b>
-        <br>
-        Lors d'un combat, si vous bénéficiez d'un équilibre positif, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Panacée</b>
-        <br>
-        Dépensez 9 points de pouvoir pour appliquer un effet aux cibles de votre choix à portée moyenne. Si vous êtes positif, appliquez 2 effets. Devenez négatif.<br>
-        - Soignez deux blessures.<br>
-        - Récupérer tous les points de vie.<br>
-        - Supprimer les états assourdi, aveuglé, étourdi, ralenti. 
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b style="text-decoration: underline">Fuite</b>
-        <br>
-        Au début de votre tour, dépensez 3 points de pouvoir pour ne plus être engagé par vos adversaires.
+        Dépensez 2 points de pouvoir pour obtenir un bonus de <code>+2D</code> à un test d'attaque ou de réaction pendant 1 round.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -319,19 +255,106 @@ Blablabla
         Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Transfert</b>
+        <b style="text-decoration: underline">Masque du Guerrier</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code>. En cas de réussite, vous pouvez supprimer les états assourdi, aveuglé, étourdi, ralenti d'un allié pour les appliquer à votre cible.
+        Dépensez 3 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Un bonus de <code>+1D</code> aux attaques et parades avec une arme.<br>
+        - Une augmentation des dégâts infligés avec une arme de +2.<br>
+        - Une caractéristique d'<code>Endurance</code> égale à 5.<br>
+        - Si vous avez infligés des dégâts avec une arme au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Destinée panacéenne</b>
+        <b style="text-decoration: underline">Paradoxe existentiel</b>
         <br>
-        Dépensez 1 point de Destin pour relancer un test d'attaque d'une aptitude panacéenne.
+        Une fois par repos, vous imposez à l'univers votre nouvelle identité. Récupérez tous vos points de vie, tous vos points de pouvoir et soignez toutes vos blessures.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Non-vie</b>
+        <b style="text-decoration: underline">Masque du Dragon</b>
         <br>
-        Dépensez 7 points de pouvoir pour faire une attaque à portée moyenne <code>Endurance + Intellect</code>. Infligez 25 dégâts entropiques. Si la cible résiste, infligez 10 dégâts entropiques. Si vous êtes négatif, doublez les dégâts et la cible est étourdie et ralentie pendant 1 round. Devenez positif.
+        Dépensez 7 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Une taille supplémentaire (ce qui augmente vos points de vie et votre allonge).<br>
+        - La vision dans le noir jusqu'à portée moyenne.<br>
+        - Les caractéristique de <code>Force</code> et d'<code>Endurance</code> égales à 6.<br>
+        - Vos attaques à mains nues infligent <code>Force + 3</code> dégâts tranchants.<br>
+        - Faites une attaque de zone (cône 3) <code>Endurance + Perception</code> pour infliger 20 dégâts ardents. Cela met fin au masque du Dragon.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Esprit fuyant</b>
+        <br>
+        Obtenez un bonus de <code>+1D</code> pour résister aux attaques infligeant des dégâts psychiques.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Masque du Séducteur</b>
+        <br>
+        Dépensez 3 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Un bonus de <code>+1D</code> pour distraire ou menacer.<br>
+        - Un bonus de <code>+1D</code> pour esquiver et résister aux attaques infligeant des dégâts psychiques.<br>
+        - Une caractéristique de <code>Charisme</code> égale à 5.<br>
+        - Si vous n'avez pas subit de dégâts au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Transcendance</b>
+        <br>
+        Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Anonymité</b>
+        <br>
+        Il est impossible de détecter si vous mentez. Une fois par phase de négociation, vous pouvez rétablir la disposition et la pression initiale de l'auditoire.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Masque de l'Ascendant</b>
+        <br>
+        Dépensez 9 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Emettez de la lumière sur 50 mètres.<br>
+        - Vos adversaires rechignent à vous attaquer et subissent un malus de <code>-3D</code>.<br>
+        - Vous êtes résistant à tous les dégâts.<br>
+        - Vous êtes immunisé aux états : assourdi, aveuglé, effrayé, étourdi, pris au dépourvu, ralenti.<br>
+        - Vos caractéristiques sont égales à 7.<br>
+        - Une fois par round, faites une attaque de zone (sphère 10), <code>Résolution + Perception</code> pour aveugler pendant un round.<br>
+        - Faites une attaque de zone (sphère 10) <code>Résolution + Perception</code> pour infliger 25 dégâts ardents. Cela met fin au masque de l'Ascendant. Subissez un nombre de dégâts égal à vos points de vie.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b style="text-decoration: underline">Succès d'une autre vie</b>
+        <br>
+        Une fois par repos, lors d'une phase d'exploration ou de négociation, obtenez un bonus de <code>+2D</code> à un test de votre choix.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Vol d'identité</b>
+        <br>
+        Après avoir côtoyé ou observé un humanoïde pendant 1 heure, vous pouvez voler son identité jusqu'à votre prochain repos.<br>
+        - Vous êtes physiquement identique.<br>
+        - Vous avez accès aux souvenirs de la cible sur les dernières 48h.<br>
+        - Vous pouvez utiliser ses caractéristiques (mais pas ses aptitudes) lors des tests.<br>
+        - Si vous et votre cible êtes vus par un même observateur au même moment (ou que vos regards se croisent), vous retrouvez votre identité immédiatement.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Masque du Guérisseur</b>
+        <br>
+        Dépensez 3 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Un total de <code>Intellect x 2</code> points de vie que vous pouvez distribuer à une cible dans votre allonge.<br>
+        - Dépensez 2 points de pouvoir pour supprimer un état à une cible à portée courte parmi : assourdi, aveuglé, étourdi.<br>
+        - Une caractéristique d'<code>Intellect</code> égale à 5.<br>
+        - Si vous avez distribué des points de vie au round précédent, récupérez 1 point de pouvoir supplémentaire au début de votre tour.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Vol d'aptitude</b>
+        <br>
+        Dépensez 2 points de pouvoir pour utiliser une réaction quand un allié ou un adversaire utilise une aptitude. Jusqu'à la fin de votre prochain tour, vous pouvez utiliser cette même aptitude.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Masque de l'Archimage</b>
+        <br>
+        Dépensez 7 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - Un bonus de <code>+1D</code> pour résister aux aptitudes.<br>
+        - Un bouclier avec 15 points de vie.<br>
+        - Les caractéristique d'<code>Intellect</code> et de <code>Perception</code> égales à 6.<br>
+        - Une fois par round, faites un test d'attaque de zone contre 3 cibles à portée moyenne. Infligez 10 dégâts perforants.<br>
+        - Quand vous ou un allié à portée courte êtes la cible d'une aptitude, utilisez une réaction pour annuler les effets de l'aptitude. Cela met fin au masque de l'Archimage.
       </td>
     </tr>
   </tbody>
@@ -339,12 +362,6 @@ Blablabla
 
 ## Progressions d'Ombre
 
-| Prix: 2 px | Prix: 3 px | Prix: 5 px | Prix: 7 px | Prix: 10 px |
-| --- | --- | --- | --- | --- |
-| Chimère (double d'ombre illusion 1) | [Endurci](#toughened) | Leurre (pouvoir contre déplacement instantanné ombre) | [Prouesse martiale](#martial-prowess) | Shade (lvl 8 shadow OP) |
-| traqueur (bonus pistage) | Assaut des ombre (attaques) | [Transcendance](#transcendence) | Etreinte d'ombre (strangling twin attack 3 shadow OP) | Ténèbres (utilitaire ombre lvl 1) |
-| rend indetectable | se fait oublier (negociation) | se fait oublier (combat : anonyme infiltrateur niveau 7) | marche des ombres (pouvoir contre pas de bruit et pas de terrain difficile) | Energie des ombres (+1 PP début du tour si dans l'ombre) |
-
 <table>
   <thead>
     <tr>
@@ -358,19 +375,23 @@ Blablabla
   <tbody>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Chimère</b>
         <br>
-        Text
+        Dépensez 2 points de pouvoir pour faire apparaitre un double d'ombre de vous à portée moyenne.<br>
+        - Vous prenez au dépourvu les adversaires qui se trouvent dans l'allonge de votre double.<br>
+        - Quand vous vous déplacez, vous pouvez déplacer votre double également.<br>
+        - Vous pouvez attaquer ou utiliser une aptitude depuis la position de votre double.<br>
+        - Votre double possède la moitié de vos points de vie et est immunisé aux états. À 0 point de vie, il disparait.
       </td>
      <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Endurci</b>
         <br>
-        Text
+        Augmentez votre total de point de vie de +4.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Leurre</b>
         <br>
-        Text
+        Quand vous êtes la cible d'une attaque, dépensez 3 points de pouvoir pour échanger immédiatement votre position avec celle de votre double.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Prouesse martiale</b>
@@ -378,21 +399,26 @@ Blablabla
         Augmentez vos dégâts infligés avec une arme de +2.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Silhouette</b>
         <br>
-        Text
+        Dépensez 7 points de pouvoir pour obtenir pendant 1 minute :<br>
+        - La vision dans le noir à portée moyenne.<br>
+        - Une immunité aux dégâts glacials, caustiques et nécrotiques.<br>
+        - Une résistance aux autres dégâts sauf entropiques et psychiques.<br>
+        - Vous ignorez les terrains difficiles.<br>
+        - Une fois par round, récupérez 5 points de vie au début de votre tour si vous êtes dans les ombres.
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Traqueur</b>
         <br>
-        Text
+        Obtenez un bonus de <code>+1D</code> aux tests visant à retrouver une cible.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Récolte énergétique</b>
+        <b style="text-decoration: underline">Enérgie des ombres</b>
         <br>
-        Quand un être vivant meurt à portée moyenne, vous pouvez faire immédiatement un test <code>Endurance + Intellect</code> et récupérer des points de pouvoir. La difficulté et le nombre de points récupérés sont définis par le MJ en fonction de la taille et de la puissance du défunt.
+        Si vous êtes dans les ombres ou que votre double est présent, vous récupérez 1 points de pouvoir supplémentaire au début de votre tour.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Transcendance</b>
@@ -400,21 +426,26 @@ Blablabla
         Vous pouvez augmenter vos caractéristiques jusqu'à une valeur de 6.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Marche des ombres</b>
         <br>
-        Text
+        Quand vous êtes dans les ombres, vous ne faites aucun bruit. Si vous pouvez vous déplacer, dépensez 3 points de pouvoir pour changer votre position d'une case d'ombre à une autre à portée moyenne.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Etreinte d'ombre</b>
         <br>
-        Text
+        Dépensez 5 points de pouvoir pour que votre double tente de saisir une cible de votre choix pendant 1 minute. Votre double agit juste après vous dans l'initiative. Vous pouvez utiliser une manoeuvre pour ordonner à votre double de changer de cible.
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <b style="text-decoration: underline">Fuite</b>
+        <b style="text-decoration: underline">Ténèbres</b>
         <br>
-        Au début de votre tour, dépensez 3 points de pouvoir pour ne plus être engagé par vos adversaires.
+        Dépensez 3 points de pouvoir pour plonger une zone (sphère 5) dans les ténèbres. Vous pouvez centrer la zone sur vous, sur un point dans l'espace ou un objet à portée courte.
+      </td>
+      <td valign="top">
+        <b style="text-decoration: underline">Quelconque</b>
+        <br>
+        Quand vous débutez une négociation avec un auditoire, vous pouvez déplacer sa disposition d'un cran vers neutre.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Expertise martiale</b>
@@ -422,19 +453,14 @@ Blablabla
         Obtenez un bonus de <code>+1D</code> aux attaques et aux parades quand vous utilisez une arme.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Endurci</b>
+        <b style="text-decoration: underline">Disparition</b>
         <br>
-        Augmentez votre total de point de vie de +4.
+        Si vous êtes dans les ombres, dépensez 3 points de pouvoir pour que vos adversaires vous oublient. À moins de reprendre activement part au combat, ils vous ignorent jusqu'à ce que vous soyez la seule cible disponible ou que le combat se termine.
       </td>
       <td valign="top">
-        <b style="text-decoration: underline">Text</b>
+        <b style="text-decoration: underline">Assaut des ombres</b>
         <br>
-        Text
-      </td>
-      <td valign="top">
-        <b style="text-decoration: underline">Text</b>
-        <br>
-        Text
+        Dépensez 5 points de pouvoir pour faire une attaque de zone (sphère 3) avec une arme. Si vous êtes dans les ombres, vous prenez toutes vos cibles au dépourvu. Si votre double se trouve à portée courte de la zone, infligez double dégâts.
       </td>
     </tr>
   </tbody>

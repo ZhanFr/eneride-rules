@@ -66,7 +66,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Onde de choc</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque de zone (sphère 2) centrée sur vous, <code>Intellect + Perception</code>, et infligez 12 dégâts contondants. Les cibles sont repoussées d'une case.
+        Dépensez 3 points de pouvoir pour faire une attaque de zone (sphère 2) centrée sur vous, <code>Intellect + Perception</code>, et infligez 10 dégâts contondants. Les cibles sont repoussées d'une case.
       </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Bouclier énergétique</b>
         <br>
-        Dépensez 5 points de pouvoir pour faire apparaître une sphère d'énergie autour de vous. La sphère possède 25 points de vie et subit les dégâts à votre place pendant 1 minute.
+        Dépensez 5 points de pouvoir pour obtenir un bouclier avec 20 points de vie pendant 1 minute.
       </td>
     </tr>
     <tr>
@@ -301,7 +301,7 @@ Blablabla
         <br>
         Dépensez 2 points de pouvoir pour activer les bottes de votre armure liée. Votre vitesse augmente de +3 jusqu'à la fin du round. Choisissez : <br>
         - Faites un saut vers une case de votre choix à portée de déplacement, vous n'êtes pas considéré comme engagé.<br>
-        - Faites une attaque de zone (sphère 3) <code>Endurance + Intellect</code> centrée sur vous, infligez 8 dégâts contondants. Les cibles touchées sont tombent à terre.
+        - Faites une attaque de zone (sphère 3) <code>Endurance + Intellect</code> centrée sur vous, infligez 5 dégâts contondants. Les cibles touchées sont tombent à terre.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Endurci</b>
@@ -318,7 +318,7 @@ Blablabla
         <br>
         Dépensez 3 points de pouvoir pour activer le casque de votre armure liée. Choisissez : <br>
         - Vous pouvez voir dans le noir et faire les tests basés sur la Perception avec un bonus de <code>+1D</code> pendant 1 minute.<br>
-        - Obtenez immédiatement une résistance aux dégâts psychiques jusqu'à votre prochain tour.
+        - Obtenez une résistance aux dégâts psychiques pendant 1 round.
       </td>
     </tr>
   </tbody>
@@ -341,7 +341,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Rune de protection</b>
         <br>
-        Dépensez 3 points de pouvoir pour appliquer une rune pendant 1 minute sur une cible à portée courte. La cible peut activer la rune immédiatement lors d'une réaction, ce qui lui confère un bonus de <code>+3D</code> au test.
+        Dépensez 3 points de pouvoir pour appliquer une rune pendant 1 minute sur une cible à portée courte. La cible peut activer la rune immédiatement lors d'une réaction, ce qui lui confère un bonus de <code>+2D</code> au test.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Rechargement runique</b>
@@ -368,7 +368,7 @@ Blablabla
       <td valign="top">
         <b style="text-decoration: underline">Rune explosive</b>
         <br>
-        Dépensez 3 points de pouvoir pour faire une attaque <code>Intellect + Perception</code> contre une cible à portée moyenne. Pendant 1 minute, vous pouvez activer la rune pour infliger 10 dégâts ardents. Si la cible subit des dégâts, elle se retrouve à terre à une case de sa position.
+        Dépensez 3 points de pouvoir pour faire une attaque <code>Intellect + Perception</code> contre une cible à portée moyenne. Pendant 1 minute, vous pouvez activer la rune pour infliger 12 dégâts ardents. Si la cible subit des dégâts, elle se retrouve à terre à une case de sa position.
       </td>
       <td valign="top">
         <b style="text-decoration: underline">Rune focale</b>
