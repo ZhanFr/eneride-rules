@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Eneride Universe - Writing Rules
 
 ## 1. Global Context

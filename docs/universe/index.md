@@ -27,7 +27,7 @@ Cet univers de *Fantaisie Victorienne* et de *Révolution Industrielle* est marq
   </div>
   <div class="feature">
     <h2><a href="/universe/religion.html">Divinités & Croyances</a></h2>
-    <p>L'Église de la Veille, la disparition de la Matriarche et les anciens cultes en ruine.</p>
+    <p>L'Église Unitariste, la disparition de la Matriarche et les anciens cultes en ruine.</p>
   </div>
   <div class="feature">
     <h2><a href="/universe/factions.html">Organisations & Factions</a></h2>
