@@ -26,6 +26,8 @@ Le ciel nocturne est dominé par une danse orbitale complexe entre trois lunes, 
 ### L'Influence Lunaire
 Ces cycles astraux vont bien au-delà de la météorologie. L'alignement de la lune dominante et des soleils au moment de l'accouchement influence drastiquement la probabilité de naître avec une affinité élémentaire. De même, les adeptes élémentaristes voient leur puissance décuplée lorsqu'ils se trouvent sous l'influence directe de la lune liée à leur élément.
 
+* **Explication scientifique :** La science humaine (alchimie, astronomie) explique cette influence par des observations empiriques, perçues à l'origine par des Adeptes particulièrement perceptifs. Les champs élémentaires de la planète se renforcent sous l'effet des pleines lunes ou lors de prédominances solaires. Ces fluctuations éthériques majeures facilitent l'établissement d'une affinité élémentaire profonde entre le nouveau-né et le champ élémentaire concerné à l'instant de sa naissance.
+
 ## Les Étoiles et la Cosmologie
 
 Il n'existe pas de constellations à proprement parler. L'interprétation du ciel étoilé varie radicalement selon la culture :
@@ -56,3 +58,11 @@ La magie dans Eneride s'explique par des interactions spécifiques avec ces lois
 * Les **Élémentaristes** tirent leur pouvoir de leur exposition aux astres et de leur naissance.
 * Les **Adeptes non-élémentaires** possèdent des dons s'apparentant à des spécificités génétiques, leur permettant de "tirer sur les fils" du Champ Éthérique de manière moins évidente ou mesurable.
 * Enfin, certains clercs et religieux capables de miracles (*Thaumaturgie*) ou de prescience (*Théurgie*) estiment recevoir une parcelle d'une véritable énergie divine pure, d'une nature fondamentalement différente de l'Éther et des éléments.
+
+## Métaux Réactifs & Limites de l'Industrialisation
+
+Bien que le Champ Éthérique régisse l'univers d'Eneride, il n'existe **aucune méthode industrielle** pour l'exploiter ou le canaliser directement à grande échelle. L'industrialisation de l'Éther reste hors de portée technologique. Il n'existe ni condensateurs d'Éther, ni détecteurs mécaniques de fluctuations. Pour accomplir de telles tâches de détection ou de manipulation subtile, il faudrait recourir à un Adepte extrêmement perceptif ; or, la fierté et l'étiquette des Adeptes font qu'aucun d'eux n'accepterait de servir de simple rouage ou d'outil pour l'appareil industriel.
+
+Cependant, les scientifiques et alchimistes étudient et emploient deux métaux rares dotés d'une réactivité exceptionnelle au Champ Éthérique :
+* **L'Orichalque :** Ce métal d'une teinte jaune-vert a la propriété singulière de déstabiliser les champs élémentaires locaux. Les alchimistes l'utilisent pour perturber la canalisation des élémentaristes, déstructurer la matière de certains minéraux ou métaux, et mesurer de manière empirique la concentration en éléments d'une zone.
+* **L'Adamantine :** Un métal gris sombre, extrêmement dense et réfractaire. On la trouve en concentration notable dans les pierres d'énergie appelées **pierres d'Aestus**. L'Adamantine possède la capacité de capturer une forme d'énergie pure produite par les fluctuations mêmes du Champ Éthérique. Son exploitation pratique demeure toutefois hautement expérimentale, et sa rareté en fait un objet de recherche extrêmement précieux et jalousement gardé dans les laboratoires de La Tranchée.

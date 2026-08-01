@@ -24,7 +24,7 @@ Si la cargaison n'est pas restituée au Gouvernorat humain sous 48 heures pour s
 * **Rapport à la hiérarchie et aux forces :** D'une soumission absolue envers le Gouverneur Militaire. Devant les Nains, il est terrorisé : il sait qu'au moindre quota manqué, le Cadran le destituera sans pitié. Il perçoit les Adeptes avec un mélange d'admiration jalouse et de méfiance, irrité par leur refus d'accomplir des tâches logistiques ordinaires.
 * **Rapport aux subalternes :** Sec et exigeant, il compense sa propre peur de la hiérarchie en étant d'une rigueur implacable avec ses soldats et les ouvriers des dépôts.
 
-### Colonel Gontran de l'Estrac (Gouverneur Militaire d'Envaine)
+### Colonel Gontard Estraquin (Gouverneur Militaire d'Envaine)
 * **Milieu social et origines :** Issu de la noblesse militaire sabernaise déchue. Sa famille possédait de grands domaines fonciers confisqués par les Nains lors de la conquête. N'ayant plus que son nom et son épée, il s'est mis au service du nouvel ordre pour conserver un semblant d'autorité et protéger l'humanité à sa manière.
 * **Famille et logement :** Il est veuf, sans enfants survivants (son fils unique est mort au front contre les Peaux-Brunes). Il vit dans un hôtel particulier réquisitionné en lisière de la Bastide Naine, entouré de domestiques silencieux et de souvenirs impériaux poussiéreux.
 * **Responsabilités et quotidien :** Responsable du Gouvernorat militaire du Nord-Est. Il gère la défense du secteur frontalier, la mobilisation des milices de bâtisseurs de remparts, et la coordination des convois ferroviaires vers le Mur. Son quotidien se partage entre les conseils de guerre et les réunions de quotas étouffantes avec le Directoire de la Veille.
@@ -71,7 +71,7 @@ Si la cargaison n'est pas restituée au Gouvernorat humain sous 48 heures pour s
 
 ### Scène 3 : Le Briefing du Fou
 * **Situation :** Le Fou donne rendez-vous aux PJ dans l'arrière-salle d'un tripot clandestin.
-* **Déroulement :** Le Fou pose cartes sur table. Un train de charbon de haute qualité et de pièces d'artillerie destinées au Mur a disparu. Le Gouverneur humain, le Colonel Gontran de l'Estrac, est acculé par les quotas. Si les Nains s'aperçoivent de la disparition, ils instaureront une dictature militaire naine directe. Le Réseau doit retrouver le chargement en moins de 36 heures pour le restituer à l'administration, afin de s'assurer une alliance forcée et de nouvelles licences d'importation de la part du Gouverneur.
+* **Déroulement :** Le Fou pose cartes sur table. Un train de charbon de haute qualité et de pièces d'artillerie destinées au Mur a disparu. Le Gouverneur humain, le Colonel Gontard, est acculé par les quotas. Si les Nains s'aperçoivent de la disparition, ils instaureront une dictature militaire naine directe. Le Réseau doit retrouver le chargement en moins de 36 heures pour le restituer à l'administration, afin de s'assurer une alliance forcée et de nouvelles licences d'importation de la part du Gouverneur.
 * **Ce qu'apprennent les joueurs :** Ils comprennent la philosophie du Réseau : ce n'est pas un groupe révolutionnaire, mais un syndicat criminel pragmatique qui préfère l'ordre corrompu à la révolte destructrice.
 
 ### Scène 4 : L'Enquête dans les Corons

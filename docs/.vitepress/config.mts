@@ -69,6 +69,13 @@ export default defineConfig({
                         { text: 'Divinités & Croyances', link: '/universe/religion' },
                         { text: 'Organisations & Factions', link: '/universe/factions' },
                     ]
+                },
+                {
+                    text: 'Personnages Clés',
+                    items: [
+                        { text: 'Index & Modèle de Fiche', link: '/universe/characters/' },
+                        { text: 'Émilien Leschères (Le Cavalier)', link: '/universe/characters/emilien-lescheres' },
+                    ]
                 }
             ]
         },

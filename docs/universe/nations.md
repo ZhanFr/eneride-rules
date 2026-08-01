@@ -29,6 +29,16 @@ Deux séismes politiques ont précipité la fin des Médresiens :
 
 Lorsque les Nains arrivèrent de l'Est, fuyant une menace mystérieuse, l'Empire était exsangue. L'Empereur n'était plus qu'une marionnette. Face à la discipline de fer, l'organisation millimétrée et l'artillerie dévastatrice des Nains, les armées de mercenaires désorganisées des Consuls furent balayées en une guerre de soixante ans.
 
+Le triomphe nain fut également facilité par la signature d'accords diplomatiques secrets visant à diviser et neutraliser les forces impériales de l'intérieur :
+* **Les accords avec l'Inquisition :** Conclus avec les dirigeants religieux, ils garantissent le maintien et la liberté de culte de l'Église Unitariste au sein de La Tranchée, assurant une continuité culturelle et spirituelle pour la population humaine.
+* **Les franchises des Propriétaires Fonciers :** Négociées individuellement avec la bourgeoisie et l'aristocratie terrienne, ces chartes leur permettent de conserver leurs privilèges économiques et leur statut social élevé en échange de leur stricte neutralité durant le conflit et de leur collaboration logistique ultérieure.
+
+### Chronologie de la Transition
+* **2480 (Coup d'État des Vitalii) :** Massacre de la lignée des héritiers Valerii et affaiblissement irréversible du pouvoir central. L'Empire s'enfonce dans l'ère des Consuls et des luttes intestines.
+* **2492 (Disparition de la Matriarche) :** Le Dôme d'Altice devient vacant. L'Inquisition s'empare des structures administratives de l'Église et réoriente toutes ses ressources vers la recherche secrète de sa dirigeante divine.
+* **2598 (Le Premier Contact et l'Invasion) :** Premières rencontres avec les Nains à l'Est de l'Empire Médresien, coïncidant avec des escarmouches menées par les Peaux-Brunes aux confins nord-est et sud-est. Proclamation des intentions d'établissement naines et début d'un conflit qui durera soixante ans.
+* **2656 (L'Avènement de La Tranchée) :** Fin de la guerre. Établissement du Directoire de la Veille et instauration des frontières de La Tranchée.
+
 ---
 
 ## Le Gouvernement de la Tranchée

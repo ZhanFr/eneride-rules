@@ -6,11 +6,11 @@ Chaque arme possède des caractéristiques propres qui influencent votre réserv
 
 ### Disponibilité des Armes
 
-Que ce soit par la fabrication, l'achat avec des [points de ressource]('exploration#resource-points') ou d'autres méthodes, l'obtention d'une arme par votre personnage doit se faire avec la validation du MJ.
+Que ce soit par la fabrication, l'achat avec des [points de ressource](exploration#resource-points) ou d'autres méthodes, l'obtention d'une arme par votre personnage doit se faire avec la validation du MJ.
 
 Plusieurs points sont à surveiller :
 * __Le niveau de civilisation et de technologie__ : si votre groupe se trouve dans un petit village, trouver un fusil à verrou est probablement impossible.
-* __La [richesse]('exploration#wealth-level') de votre groupe__ : même avec des points de ressource, un personnage démuni ne pourra probablement pas faire l'acquisition d'un sabre de qualité.
+* __La [richesse](exploration#wealth-level) de votre groupe__ : même avec des points de ressource, un personnage démuni ne pourra probablement pas faire l'acquisition d'un sabre de qualité.
 * __La légalité__ : l'acquisition d'une arme de guerre fait souvent l'objet d'un permis dans les grandes villes.
 
 ### Types et Catégories d'Armes

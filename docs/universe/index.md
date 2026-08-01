@@ -33,6 +33,10 @@ Cet univers de *Fantaisie Victorienne* et de *Révolution Industrielle* est marq
     <h2><a href="/universe/factions.html">Organisations & Factions</a></h2>
     <p>Les syndicats de l'ombre, le Réseau mafieux et la résistance des Sinclairs.</p>
   </div>
+  <div class="feature">
+    <h2><a href="/universe/characters/">Personnages Clés</a></h2>
+    <p>Le Dramatis Personae : fiches d'identité des figures marquantes, dirigeants et conspirateurs.</p>
+  </div>
 </div>
 
 <style>
