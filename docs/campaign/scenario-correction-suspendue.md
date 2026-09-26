@@ -48,20 +48,20 @@ Si la cargaison n'est pas restituée au Gouvernorat humain sous 48 heures pour s
 * **Leur état actuel (Dépassés par les événements) :**
     *   Ils ont réussi le vol grâce aux plans fournis par le contact Sinclair, mais ce dernier a disparu dès que la cargaison a été sécurisée, les laissant seuls. Maintenant qu'ils cachent les tonnes de charbon et de munitions dans un hangar abandonné, ils réalisent l'ampleur de la situation. Le Faisceau resserre son étau sur les Corons, les arrestations d'innocents se multiplient, et ils n'ont aucun moyen de distribuer le charbon aux ouvriers sans se faire repérer. Ils sont terrifiés, épuisés, et commencent à se disputer : Clovis veut faire sauter la cargaison pour "marquer l'histoire", tandis qu'Eulalie veut négocier pour sauver la vie des otages civils menacés d'exécution par le Faisceau.
 
-### Soline Aubry (L'Inquisitrice au service du Réseau)
+### Adelphine Aubry (L'Inquisitrice au service du Réseau)
 
-* **Nom :** Soline Aubry
-* **Profil et parcours :** Inquisitrice de l'Église Unitariste, postée au poste-frontière de la Porte des Larmes, à l'entrée d'Envaine. Soline est une femme d'une trentaine d'années, au regard vif et expressif. Contrairement aux hauts dignitaires de l'Inquisition qui subissent des rituels théurgiques avancés pour "purifier" leur esprit (les dépouillant de toute empathie pour mieux traquer la possession et lire les esprits), Soline a délibérément refusé ces rites d'effacement émotionnel. Ce refus de la soumission totale au dogme de l'Inquisition lui a valu d'être écartée des cercles de pouvoir de la capitale et affectée à ce poste de contrôle poussiéreux et ingrat.
-* **Le pacte avec le Réseau :** Ce poste-frontière est le paradis de la corruption. Approchée par le Fou, Soline a accepté d'utiliser ses capacités théurgiques de lecture superficielle des esprits et son autorité d'inquisitrice pour couvrir les agents du Réseau. En échange, le Réseau lui fournit un confort matériel de premier ordre : alcools fins d'importation, café damasrien, viande fraîche et protection personnelle.
+* **Nom :** Adelphine Aubry
+* **Profil et parcours :** Inquisitrice de l'Église Unitariste, postée au poste-frontière de la Porte des Larmes, à l'entrée d'Envaine. Adelphine est une femme d'une trentaine d'années, au regard vif et expressif. Contrairement aux hauts dignitaires de l'Inquisition qui subissent des rituels théurgiques avancés pour "purifier" leur esprit (les dépouillant de toute empathie pour mieux traquer la possession et lire les esprits), Adelphine a délibérément refusé ces rites d'effacement émotionnel. Ce refus de la soumission totale au dogme de l'Inquisition lui a valu d'être écartée des cercles de pouvoir de la capitale et affectée à ce poste de contrôle poussiéreux et ingrat.
+* **Le pacte avec le Réseau :** Ce poste-frontière est le paradis de la corruption. Approchée par le Fou, Adelphine a accepté d'utiliser ses capacités théurgiques de lecture superficielle des esprits et son autorité d'inquisitrice pour couvrir les agents du Réseau. En échange, le Réseau lui fournit un confort matériel de premier ordre : alcools fins d'importation, café damasrien, viande fraîche et protection personnelle.
 * **Rôle dans la scène d'introduction :** Lorsque les PJ arrivent avec le Cavalier, c'est elle qui mène l'inspection pour dépister les menaces occultes. Ayant été briefée par le Fou, elle feint de soumettre les PJ à un examen de routine, mais utilise en réalité sa Théurgie pour s'assurer qu'ils ne sont pas sous contrôle mental ou possédés. Elle fait pression sur le greffier humain du gouvernorat (terrifié par l'autorité d'une inquisitrice) pour qu'il valide de faux papiers d'identité d'artisans-adeptes pour les PJ, malgré les mesures de sécurité drastiques liées au vol de la cargaison.
 
 ---
 
 ## 3. Déroulement du Scénario (Scène par Scène)
 
-### Scène 1 : La Porte des Larmes et l'Inspection de Soline
+### Scène 1 : La Porte des Larmes et l'Inspection de Adelphine
 * **Situation :** Les PJ arrivent à la frontière d'Envaine en compagnie du Cavalier. L'entrée de la ville est soumise à un blocus de sécurité drastique en raison du sabotage récent.
-* **Déroulement :** Les PJ font la queue parmi les réfugiés et les ouvriers. C'est l'Inquisitrice **Soline Aubry** qui dirige l'inspection théurgique. Elle identifie discrètement les PJ comme les Adeptes attendus par le Fou. En public, elle simule une inspection rigoureuse, puis intimide le greffier de la garnison pour qu'il enregistre les PJ sous de fausses identités officielles d'artisans contractuels. 
+* **Déroulement :** Les PJ font la queue parmi les réfugiés et les ouvriers. C'est l'Inquisitrice **Adelphine Aubry** qui dirige l'inspection théurgique. Elle identifie discrètement les PJ comme les Adeptes attendus par le Fou. En public, elle simule une inspection rigoureuse, puis intimide le greffier de la garnison pour qu'il enregistre les PJ sous de fausses identités officielles d'artisans contractuels. 
 * **Ce qu'apprennent les joueurs :** Ils découvrent la peur qu'inspire l'Inquisition, le fonctionnement des postes-frontières et la façon dont le Réseau tire parti de la corruption et des failles administratives.
 
 ### Scène 2 : L'Installation dans les Faubourgs

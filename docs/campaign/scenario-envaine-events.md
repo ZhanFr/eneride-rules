@@ -14,14 +14,14 @@
 
 ## 2. Rappel des Personnages Joueurs
 
-| Personnage | Spécialité | Arc personnel | Enjeu de la séance |
-|---|---|---|---|
-| **Enora** | Résonnatrice (Aestus) | Famille assassinée, troublée par le rituel et ses centaines de morts | Témoin du lien entre Jean et Lilith ; se questionne sur le rôle des Résonateurs dans l'histoire de Lilith |
-| **Jean** | Théurgie martiale | Lien mental avec Lilith, protéger Thaddeus | Plongée dans les souvenirs de Lilith ; confrontation avec l'ampleur de l'Ancienne |
-| **Thaddeus** | Alchimie | Lien mystérieux avec Anaïde, ignorance du Magnus Opus | Observe la méditation de Léomire ; le lien avec Anaïde se manifeste de façon inattendue |
-| **Oscar** | Pyromancien | Famille en sécurité, pragmatisme moral | Intégration dans les opérations du Réseau ; confrontation avec la politique locale |
-| **Pauléon** | Adepte des ombres | Ombre autonome, conviction dans le Réseau | Reconnaissance de la Bastide Naine ; entretien avec le Gouverneur |
-| **Léomire** | Changeur d'identité | Quête de sa véritable identité, multiples vies passées | Méditation guidée par Elorien ; libération accidentelle d'un démon |
+| Personnage   | Spécialité            | Arc personnel                                                        | Enjeu de la séance                                                                                        |
+| ------------ | --------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Enora**    | Résonnatrice (Aestus) | Famille assassinée, troublée par le rituel et ses centaines de morts | Témoin du lien entre Jean et Lilith ; se questionne sur le rôle des Résonateurs dans l'histoire de Lilith |
+| **Jean**     | Théurgie martiale     | Lien mental avec Lilith, protéger Thaddeus                           | Plongée dans les souvenirs de Lilith ; confrontation avec l'ampleur de l'Ancienne                         |
+| **Thaddeus** | Alchimie              | Lien mystérieux avec Anaïde, ignorance du Magnus Opus                | Observe la méditation de Léomire ; le lien avec Anaïde se manifeste de façon inattendue                   |
+| **Oscar**    | Pyromancien           | Famille en sécurité, pragmatisme moral                               | Intégration dans les opérations du Réseau ; confrontation avec la politique locale                        |
+| **Pauléon**  | Adepte des ombres     | Ombre autonome, conviction dans le Réseau                            | Reconnaissance de la Bastide Naine ; entretien avec le Gouverneur                                         |
+| **Léomire**  | Changeur d'identité   | Quête de sa véritable identité, multiples vies passées               | Méditation guidée par Elorien ; libération accidentelle d'un démon                                        |
 
 ---
 
@@ -130,7 +130,7 @@ Puis le noir. Le silence. Et Jean se réveille en sursaut, trempé de sueur, le 
 > **Moment :** En journée, au palais du Gouvernorat, dans le quartier administratif d'Envaine (à la lisière de la Bastide Naine).
 
 #### Décor et Atmosphère — Le Quartier Administratif
-Le quartier administratif d'Envaine est un îlot de propreté relative au milieu de la crasse industrielle. De larges avenues pavées bordées de tilleuls taillés au cordeau mènent à des bâtiments officiels en pierre de taille, frappés du sceau du Directoire de la Veille. Des soldats humains en uniforme sombre montent la garde à chaque croisement. Des fonctionnaires en col « officier » blanc impeccable circulent entre les bureaux, des dossiers sous le bras. L'air y est un peu plus respirable, mais la tension n'en est que plus palpable : ici, chaque mot est pesé, chaque geste est observé.
+Le quartier administratif d'Envaine est un îlot de propreté relative au milieu de la crasse industrielle. De larges avenues pavées bordées de tilleuls taillés au cordeau mènent à des bâtiments officiels en pierre de taille, frappés du sceau du Directoire. Des soldats humains en uniforme sombre montent la garde à chaque croisement. Des fonctionnaires en col « officier » blanc impeccable circulent entre les bureaux, des dossiers sous le bras. L'air y est un peu plus respirable, mais la tension n'en est que plus palpable : ici, chaque mot est pesé, chaque geste est observé.
 
 Le palais du Gouvernorat est un ancien hôtel particulier de la noblesse prosienne, réquisitionné et transformé en centre de commandement. L'intérieur est austère : des cartes militaires couvrent les murs, des maquettes du Mur encombrent les tables, et le portrait en pied d'un officier nain du Directoire, peint dans un réalisme froid, surplombe la cheminée du salon principal.
 
@@ -220,13 +220,13 @@ Les trois scènes convergent vers un même objectif stratégique du Réseau : **
 * **Le Prince des Cendres :** À l'extérieur, l'armée des Peaux-Brunes approche. Le Mur est sous pression. Le Colonel Estraquin est de plus en plus nerveux, et les quotas militaires deviennent plus exigeants.
 
 ### Les Arcs Personnels en Mouvement
-| Personnage | Évolution dans cette séance |
-|---|---|
-| **Léomire** | Son pouvoir a des conséquences mortelles. Sa quête d'identité devient urgente et dangereuse. |
-| **Jean** | Il voit l'ampleur de ce que le groupe a déclenché. Lilith n'est pas une victime innocente. |
-| **Enora** | Si elle perçoit les visions, elle découvre l'horreur historique des Résonateurs. Le rituel prend une dimension terrifiante. |
-| **Pauléon** | Il s'enfonce dans les opérations clandestines du Réseau. Son ombre devient imprévisible. |
-| **Oscar** | Il est témoin de la mécanique politique du Réseau et de l'administration. Son pragmatisme est mis à l'épreuve. |
+| Personnage   | Évolution dans cette séance                                                                                                                                                                |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Léomire**  | Son pouvoir a des conséquences mortelles. Sa quête d'identité devient urgente et dangereuse.                                                                                               |
+| **Jean**     | Il voit l'ampleur de ce que le groupe a déclenché. Lilith n'est pas une victime innocente.                                                                                                 |
+| **Enora**    | Si elle perçoit les visions, elle découvre l'horreur historique des Résonateurs. Le rituel prend une dimension terrifiante.                                                                |
+| **Pauléon**  | Il s'enfonce dans les opérations clandestines du Réseau. Son ombre devient imprévisible.                                                                                                   |
+| **Oscar**    | Il est témoin de la mécanique politique du Réseau et de l'administration. Son pragmatisme est mis à l'épreuve.                                                                             |
 | **Thaddeus** | Le lien avec Anaïde continue de se manifester. Observer la méditation de Léomire peut éveiller des questions sur ses propres capacités alchimiques et l'influence du Fou sur son parcours. |
 
 ---

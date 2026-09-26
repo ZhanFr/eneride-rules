@@ -28,6 +28,7 @@ export default defineConfig({
         nav: [
             { text: 'Règles', link: '/rulebook', activeMatch: '/rules|careers/' },
             { text: 'Univers', link: '/universe', activeMatch: '/universe/' },
+            { text: 'Secrets (MJ)', link: '/secrets/genesis', activeMatch: '/secrets/' },
         ],
 
         sidebar: {
@@ -75,6 +76,14 @@ export default defineConfig({
                     items: [
                         { text: 'Index & Modèle de Fiche', link: '/universe/characters/' },
                         { text: 'Émilien Leschères (Le Cavalier)', link: '/universe/characters/emilien-lescheres' },
+                    ]
+                }
+            ],
+            '/secrets/': [
+                {
+                    text: 'Vérités Cachées (MJ)',
+                    items: [
+                        { text: 'La Genèse', link: '/secrets/genesis' },
                     ]
                 }
             ]
