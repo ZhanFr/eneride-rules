@@ -1,0 +1,2336 @@
+Acte 0 : Le camp de réfugiés
+Introduction
+Nous sommes le 12e jour de Nivôse 2680 dans le nord d’Astrade. La région est couverte de neige ; les zones les plus éloignées de la tranchée subissent des raids quotidiens des peaux grises.
+
+Un important groupe d’individus cherche à rejoindre la vallée de la Miste depuis l’est pour se rapprocher de la tranchée et fuir les combats. Alors qu’ils sont à une vingtaine de kilomètres de la valée et des trois villes, Roueaux, Saugerais et Edrain, la ville principale, les gens se rassemblent autour d’un vaste camp de réfugiés qui organise la traversée de la Miste.
+
+La Miste est partiellement glacée, la couche de glace est trop fine et l’eau est trop froide pour assurer un passage. La construction d’un pont flottant est en cours mais prend du retard par manque de connaissances structurelles et en raison de mésententes sur l’utilisation des ressources. Avec le froid, moins de gens prennent la peine d’approvisionner le camp en bois et une grosse partie des réserves sert avant tout au chauffage.
+
+Deux groupes semblent s’opposer, l’un, mené par la citadine Rosière qui souhaite assurer la survie de tous et remettre à plus tard la construction du pont, l’autre, mené par Urias Drumont, un marchand de l’est à la tête d’un groupe de 8 mercenaires, qui veut accélérer la construction du pont et la mise en place de protection autour du camp quitte à laisser les plus vulnérables derrière.
+Scène 1 : Attaque surprise
+Enora Moncardin (Marie) voyage vers l’ouest depuis deux semaines. Elle a consenti à beaucoup d’efforts pour trouver le matériel qu’elle recherche, mais la conclusion est sans appel, en dehors de la tranchée les gens ont d’autres intentions que de trouver des gisements d’Aestus. Le peu qu’elle a obtenu provient de la contrebande de la tranchée. Rien ne la retient plus à l’est. Un nuit, elle est réveillée par des cris. Depuis sa tente, elle perçoit des variations de lumière à l’extérieur. Les hurlements se renforcent, aucun doute, le groupe de gens avec qui elle voyage vers l’ouest se fait attaquer.
+
+À un moment, elle se fait assommer par des créatures semblables à des hommes bêtes. 
+
+Puis, paralysée par le froid, elle se réveille alors qu’elle entend des voix. Elle remarque deux silhouettes humaines, mais ses yeux l’empêchent de correctement les distinguer. Elle les entends rigoler, puis sent une douleur intense au niveau du ventre. Ses forces l’abandonnent et ses yeux se ferment.
+Scène 2 : Réveil désagréable 
+Oscar (Otto) a été recruté par Rosière depuis que son village a été abandonné il y a près d’un mois. Depuis 10 jours, il aide comme il peut dans le camp, même si sa fonction principale est d’allumer les torches et servir d’agent de sécurité. Ce matin, il se réveille alors qu’un homme à la voix rocailleuse l’appelle depuis l’extérieur de sa tente. L’homme s’appelle Bérard, c’est un des gros bras de Drumont. Cela fait trois jours que Drumont cherche à obtenir ses services et ce matin, Bérard l’invite au repas du soir.
+
+Oscar se rend ensuite dans la tente de Rosière, elle le salue et s’il parle du repas de Drumont, elle l’encourage à y aller pour récupérer des informations. Ensuite, elle lui demande d’aller voir l’alchimiste, une vieille dame du camp commence à montrer des signes de gerçures avancées et elle veut savoir s’il peut faire quelque chose. Elle lui donne quelques sous pour le convaincre.
+Scène 3 : Un corps dans la nuit
+Léomire et Pauléon ont perdu la trace de leur cible il y 10 jours, quand ils ont dû dévier de leur chemin pour éviter un groupe de pillards. De villages abandonnés en villages abandonnés, l’hiver a eu raison de leurs provisions et leur dernière option est un camp de réfugiés sur la route d’Edrain où ils vont pouvoir se ravitailler.
+
+Sur la route, après des heures de marche, ils tombent sur un campement abandonné. Un feu de camp récent laisse de la fumée s’échapper et des traces de pas montrent que des gens étaient encore là il y a quelques heures. Ils devraient vérifier les corps, savoir si quelqu’un est encore en vie. Ils tombent sur une jeune femme blessée à l’abdomen qui est encore en vie.
+Scène 4 : Sauver une vie
+??? (Matthieu) est dans son infirmerie de fortune au sein du camp. Son frère (kara) est comme d’habitude chargé de la sécurité de la tente. Deux hommes débarquent dans le camp avec une jeune femme grièvement blessée. ??? tente de la soigner.
+La vie du camp
+Le camp borde la Miste. Il compte 187 personnes au 14 Nivôse.
+Au nord se tient la tente de Drumont.
+Au sud se tient la tente de Rosière.
+Les PNJs
+Judelia Rosière
+Florilien Drumont
+Améline Aupons : menuisière en charge de la construction du pont. Les problèmes d’approvisionnement et de conception lui font grandement douter de sa capacité à faire traverser les gens avant le printemps. Elle est plutôt neutre dans l’histoire, mais ne parvient pas à se résoudre à suivre Drumont du fait de son pédigrée.
+Henrien Sandelier : Un savant de l’ancienne foi, il vient du même village que Priscille (Serigne). Il est au courant de son affliction et la protège autant que possible. Il cache ses croyances pour éviter d’attirer l’attention.
+Léance Tourbier : l’intendant du camp. C’est l’ami de tout le monde. Il soutient Rosière.
+Antholien : un charpentier qui aide à la construction du pont et qui parle à tout le monde dans le camp.
+Priscille : une chasseuse qui connaît bien la faune et la flore des environs et qui aide ??? (Matthieu) avec les matières premières. Elle est lycanthrope et vient de Serigne.
+Olidie : témoin d’un groupe de personnes ayant interagi avec des hommes bêtes.
+
+La Team Drumont
+Bérard, le second
+Bostier, le lourd qui a dépouillé  (Marie)
+Prolon, la casse cou
+Les intrigues du camp
+Intrigue 1 : Un monstre dans la camp
+Les gens s’inquiètent de la potentielle présence d’un changeforme dans le camp. Plusieurs témoins affirment avoir vu un homme bête se transformer en fin de soirée et s’enfuir dans les bois.
+Olidie : un des témoins à en fait vu un groupe de personne interagir avec des pillards à l’extérieur du camp
+Davier et des enfants, un des témoins a effectivement vu le lycanthrope sortir chasser, il s’agit d’une personne du camp qui n’est pas mal intentionnée.
+Jovanne a été payé par Drumont par l’intermédiaire de Bérard pour faire croire aux réfugiés que Rosière travaille avec le monstre. D’après le témoin, une femme lui ressemblant aurait échangé avec la bête un soir.
+
+La créature est Priscille, une lycanthrope qui est protégée par Henrien.
+
+Si les personnages s’intéressent à eux, Henrien propose une entrevue en tête à tête pour expliquer la situation. C’est un piège ou priscille, transformée, vient en secours à Henrien.
+Intrigue 2 : Contrebande
+Une partie des ressources du camp disparaît ponctuellement.
+Ce sont des amis de Ludore, le jeune malade qui mène les pillards. Ils viennent de l’ancien village de Léance et il était déjà très perturbé à l’époque.
+
+Vidas et Célesien sont les deux amis de Ludore.
+Le soir où les personnages surveillent, Vidas récupère de la nourriture et Célesien est partie prévenir Ludore.
+
+Si les personnages vont faire face aux jeunes, Ludore se montre intimidant et est prêt à en découdre. Il ne se rendra pas, mais les autres jeunes se rendent si Ludore est grièvement blessé ou juste mis ko.
+
+S’ils interrogent les autres jeunes, Nicaire, Martial, Roméard, Xainte et Bétina. Ils apprennent que Ludore communiquait avec quelqu’un du camp et qu’ils se partageaient le loot. Ce quelqu’un est Bostier.
+Intrigue 3 : La Créature
+Bostier et les jeunes ont attaqué de nombreuses personnes sur le chemin du camp. Ils ont pris des provisions et limité le nombre des réfugiés sous la directive (involontaire) de Drumont.
+
+Bostier a dressé un charnier dans la forêt, l’esprit n’a pas apprécié et a décidé de chasser Bostier de façon chaotique. La créature ne peut pas s’approcher du camp grâce à Henrien qui est un point focal de la vieille foi.
+
+Pour faire partir la créature : 
+Henrien peut sanctifier le charnier.
+Bostier peut être sacrifié dans le charnier.
+La créature tue Bostier et d’autres humains jusqu’à ce que sa vengeance l’apaise.
+Intrigue 4 : L’Arrivée de la caravane de réfugiés
+Le 17 nivose en fin de journée, la caravane de réfugiés venant du nord finit par arriver au camp. Les échanges sont cordiaux entre Rosière, Drumont et Josias, le chef de la caravane. Les caravaniers sont une cinquantaine, parmi eux :
+Josias : Chef de la caravane. Il a 50 ans, une barbe grise et des yeux marrons. Il est un homme expérimenté et courageux. Il a été élu chef de la caravane par les autres réfugiés. Il est déterminé à les protéger et à les conduire en sécurité. Il a perdu sa famille dans l'attaque des gobelins. Il est déterminé à trouver un endroit sûr où reconstruire sa vie. Il se tourne vers Rosière.
+Marice : Une sage-femme, Elle a 60 ans, des cheveux blancs et des yeux bleus. Elle est une femme douce et attentionnée. Elle est une sage-femme expérimentée et elle aide les femmes enceintes de la caravane. Elle se tourne vers Rosière.
+Prévin : Un forgeron. Il a 30 ans, des cheveux courts et noirs et des yeux marrons. Il est un homme fort et robuste. Il est un forgeron talentueux et il fabrique des armes et des outils pour les autres réfugiés. Il a du mal à accepter la situation. Il est un homme fort et robuste, mais il est aussi sensible et il a peur de la mort. Il se tourne vers Drumont.
+Godre : Il a 25 ans, des cheveux longs et bruns et des yeux verts. Il est un homme habile et agile. Il est un chasseur expérimenté et il fournit de la viande pour les autres réfugiés. Il est un homme courageux et loyal, mais il est aussi un peu naïf. Il peut se laisser influencer par Drumont par l’intermédiaire Prolon qu’il trouve sympathique.
+Elorien : Il a 40 ans, une barbe noire et des cheveux bruns. Il est toujours vêtu de noir et porte un chapeau à large bord qui cache son visage. Il est très secret et ne parle jamais de son passé. Il est toujours accompagné d'une jeune fille aux cheveux blonds, Anaïde. C’est un ancien soldat qui a combattu dans contre les gobelins. Il a été gravement blessé au combat et il a perdu la mémoire. Il ne sait pas pourquoi il protège Anaïde, mais il est déterminé à la garder en sécurité.
+Anaïde: Elle a 11 ans, des yeux bleus et un sourire doux. Elle est timide et réservée, mais elle est aussi très gentille et attentionnée. Elle est la nouvelle incarnation de l’essence de Sophia. Ce pouvoir lui permet de ressentir les émotions positives des autres et de les amplifier.
+
+Dans le groupe se trouve également Jenelle, une mercenaire travaillant pour le réseau noir qui va rapidement rejoindre Drumont, Solène et sa jeune fille de 5 ans malade Théoline que le personnage de Matthieu peut soigner.
+
+Les réfugiés arrivent avec suffisamment de ressources (cordage et outils) pour envisager la mise en place d’un bac à traille. Mais cela nécessite l’installation d’une traille de l’autre côté du fleuve. Quelqu’un doit faire la traversée avec le cordage, 70m au point le plus adapté.
+
+Quelques points de résolution :
+Ludore se présente au camp un soir, il est légèrement blessé (on peut établir que c’est une arme goblinoïde) et est avec un bouquetin qu’il a subtilisé à un camp de peaux brunes. Ces derniers se présentent au camp diplomatiquement.
+Restitution du bouquetin et livraison de Ludore contre la paix.
+Drumont fera une intervention devant le camp après la résolution des différentes histoires : il présente ses excuses, reconnait les erreurs de son pragmatisme et de son manque de précaution vis-à -vis des membres de sa suite, il distribue les ressources conservées par ses hommes à ceux qui ont perdu des proches.
+Rosière revient sur l’échange de la veille et propose à sa troupe de partager un repas.
+
+Musiques d’ambiance : 
+Dans le camp : https://www.youtube.com/watch?v=HkIzMuvIhNQ
+Vers le charnier : https://www.youtube.com/watch?v=YyKW2EmGVO8
+Au charnier : https://www.youtube.com/watch?v=LEs2J01gZX8
+En présence du Fomoire : https://www.youtube.com/watch?v=LvGFioQ3xgk
+En traversant le fleuve : https://www.youtube.com/watch?v=VqJ841bDbGo
+En vue de la vallée de la mire : https://youtu.be/GB6BnTcSupw?si=irevi8trMA96XcOV
+
+
+
+
+Acte 1 : La Vallée de la Miste
+
+Introduction
+Nous sommes le 27e jour de Nivôse 2680 dans le nord d’Astrade. La région est couverte de neige ; les zones les plus éloignées de la tranchée subissent des raids quotidiens des peaux grises.
+Les personnages arrivent dans le vallée de la Miste en remontant le cours du fleuve.
+
+Rappel PNJs
+Rosières
+Politicienne
+Adermin Rostand
+Directeur de l'Académie des sciences et des talents d’Edrain
+Henrien Sandelier
+Prêtre de l’ancienne foi (Ovate)
+Priscille
+Lycanthrope
+Elorien
+Héliaste? protégeant Anaïde
+Anaïde
+Réincarnation
+
+
+
+
+
+
+
+
+Florilien Drumont
+Sergeant de la Compagnie du Grès
+Jenelle
+Major de la Compagnie du Grès
+
+
+
+
+Emilien Leschères 
+Capitaine de la Compagnie du Grès
+Le Cavalier
+
+
+Maire d’Edrain
+
+
+Capitaine de la compagnie Misterroise
+
+
+
+
+Esidore
+Inquisiteur
+Rochard Saternin
+Vicaire d’Edrain
+Florent Vosgier
+Journaliste de la gazette Misterroise
+Marcine Tenssier
+Gérante des armureries Tenssier
+Davilien Mondre
+Apothicaire à Edrain
+Vilaire
+Ogham 
+
+
+
+
+Hubertin Lesquin
+Alchimiste (ancien maître de Thaddeus)
+Zacharias Avicenne
+Grand maître de la table d’Emeraude
+Le Fou
+
+
+
+
+Personnages politiques:
+Personnages religieux:
+Le Grand Prêtre du Dôme d'Edrain: Chef religieux de la ville.
+Personnages du monde de l'éducation:
+Le Recteur du Lycée général d'Edrain: Directeur du lycée général.
+La Directrice du Lycée des arts et techniques d'Edrain: Directrice du lycée des arts et techniques.
+Le Directeur du Collège d'Edrain: Directeur du collège catholique.
+Le Directeur de l'Académie des sciences et des talents d'Edrain: Directeur de l'académie.
+Personnages du monde économique:
+Le Président de la Chambre de commerce d'Edrain: Représentant des intérêts des commerçants de la ville.
+Le Chef de la guilde des artisans: Représentant des intérêts des artisans de la ville.
+Autres personnages importants:
+Le Commandant de la garnison d'Edrain: Chef de l'armée de la ville.
+
+
+
+
+Partie 1 : Arrivée (tranquille)
+
+27 Nivôse 2680
+Les personnages remontent le cours de la Miste pour rejoindre la vallée de la Miste.
+Le paysage : montagneux au sud sud-est, miste au nord nord-ouest, un large plateau commence à se dessiner au nord au fur et à mesure que les montagnes reculent.
+Le groupe de réfugiés traverse des villages de la rive sud de la Miste, Loron-sur-miste et Livrain. Ils arrivent enfin au pont du Puissolin où ils sont interceptés par la compagnie misterroise.
+À leur tête, le capitaine Levallier (Judes).
+Il les informe qu’ils ne peuvent pas traverser le pont et vont être escortés jusqu’aux abords de la ville.
+Sur place, ils devront s’enregistrer.
+Qu’il ne serait pas pertinent de s’enfuir, les chasseurs de prime sont sur les dents.
+Il demande s’il y a des femmes enceintes dans le groupe sur le point d’accoucher (une lune rouge est prévue dans la nuit du 29 au 30).
+Il se saisit de tout le surplus, les réfugiés sont autorisés à porter uniquement des vêtements pour quelques jours et des effets très personnels.
+(intéraction possible avec Enora, à propos de son arme, Rosière saute à sa rescousse).
+Ils sont à 4h de marche d’Édrain.
+
+
+À l’arrivée, ils découvrent l’état de la cité qui se tient sur la rive nord-ouest. Des camps de réfugiés avec d’innombrables tentes se dressent partout le long de la rive opposée.
+À l’entrée du camp, ils sont contrôlés les uns après les autres pour s’enregistrer auprès de la ville.
+L’enregistrement nécessite le nom, le prénom, le lieu de naissance et la déclaration de maladie.
+Si les individus possèdent des titres d’identité, ils doivent les fournir.
+Ils devront attendre au moins une dizaine avant d’être triés.
+Le groupe va être assigné dans la section 5, en compagnie de Manguin (Jacques).
+Il est demandé à chacun de respecter la bienséance, de se tenir propre et rasé, cheveux courts et de faire sa toilette à minima une fois par semaine.
+La nourriture est rationnée mais ils peuvent passer commande auprès du bureau d’enregistrement s’ils ont de l’argent.
+Idem pour les produits de première nécessité et certains loisirs.
+Jenelle est rejoint par un groupe de soldats, avec des uniformes différents, qui la salue comme “Mon Major”. Elle monte à cheval avec Drumont et Bérard et part vers le sud. Si les personnages posent la question, il s’agit de la Compagnie du Grès qui gère le Front de Grès à Roueaux.
+Dans le camp, des surveillants de la compagnie misterroise patrouillent, ils sont en tenue militaire et équipés de matraques uniquement. Aucune arme à feu n’est autorisée à l’intérieur.
+Depuis le camp, on peut observer la fortification bastionnée qui se tient devant le pont suspendu d’Édrain et sur lesquelles sont postés des canons tournés vers les camps.
+
+
+Les personnages rencontrent donc Manguin qui les accueille dans une grande tente commune. La seule zone personnelle se résume à l’espace de dodo, une paillasse à même le sol dans un recoin de la tente qui possède un morceau de toile qui se referme. Au centre de la tente, une grande table où l’on mange.
+Manguin possède une cabane en bois au milieu de toutes ces tentes car il est le tenancier de la section 5 avec sa femme. Il y vit avec sa famille, sa femme Olianne et ses deux fils, Davilien et Fédélin.
+Quotidien morose : deux repas par jour, matin : un fruit, un morceau de pain et du lait. Le soir : un bouillon de légumes, un morceau de pain et un fromage frais.
+Tôt le matin, quelques rabatteurs viennent engager pour quelques sous des personnes en bonne santé pour aller travailler dans les champs ou dans les mines du front de grès.
+Le 1er jour se termine.
+28 Nivôse 2680
+Les personnages sont réveillés à 5h30 par Manguin qui leur apporte le petit déjeuner. S'il apprend que Thaddeus est un alchimiste, il lui demande s'il sait faire la potion pour retarder l’accouchement car une amie à lui : Emidée, risque d’accoucher dans les prochains jours (son compagnon s’appelle Rufin).
+Les personnages y croisent l’inquisiteur Esidore et quelques soldats qui l’accompagnent dans le camp. L’Inquisiteur les informe que si Emidée accouche entre demain midi et après-demain midi, l’enfant sera purifié y compris sa génitrice si elle présente des signes de contamination.
+VS
+Henrien qui vient demander une potion tue-loup.pour permettre à Priscille de passer les prochains jours en sécurité (lune rouge puis veillée véridienne).
+Un apothicaire est tenancier de la section 2, il s’appelle Tolantin Lutier, il prévient les personnages qu’il ne possède pas les ingrédients qu’ils recherchent. Un test d’alchimie permet de se rendre compte que sa boutique possède quand même des ingrédients assez rares. Avec un peu de persuasion, il reconnaît qu’il possède un contact qui peut récupérer des ingrédients de l’extérieur.
+Le contact est Arcélie, dans la section 1. Elle demande beaucoup d’argent, étant donné l’urgence, les personnages n’auront pas assez pour couvrir les deux cas.
+29 Nivôse 2680
+Les personnages récupèrent les ingrédients auprès d’Arcélie.
+Thaddeus doit faire la préparation très rapidement pour l’apporter à Henrien ou à Emidée.
+La nuit, selon leur choix : 
+Emidée donne vit à un petit garçon immédiatement et brûlé par l’inquisition. Ses cris de désespoir et de rage résonnent dans tout le camp.
+Priscille saccage la section 4 où elle réside avec Henrien qui est lui-même gravement blessé. On dénombre 7 morts et une quinzaine de blessés. Priscille est portée disparue et va être chassée par l’Inquisition.
+30 Nivôse 2680
+Si Emidée n’est pas aidée : Emidée devient catatonique toute la journée. Le soir, elle se transforme en une créature sanguine aux dents caquetantes, qui mène une chasse vengeresse dans la section 5. Les personnages doivent l’arrêter avant qu’elle ne s’en prenne aux enfants de Manguin.
+Si Priscille n’est pas aidée, les personnages peuvent tenter de la retrouver avec l’aide d’Henrien. Ils sont alors suivis par un groupe de chasseurs de primes. Ils peuvent retrouver Priscille avant les chasseurs de prime, auquel cas elle demande aux personnages de la tuer avant sa transformation du soir. Sinon, ils retrouvent Priscille menacés par les chasseurs de prime, ils doivent choisir de la défendre ou non car elle est sur le point de se transformer.
+La fin de la partie à lieu à la tombée de la nuit, sous le ciel vert de la veillée véridienne.
+
+
+
+Partie 2 : Danger dans la brume
+
+30 Nivôse 2680 (suite)
+Personnages se réveillent dans la brume
+Cris à travers le camp
+Découverte d’une famille
+Coups de feu -> groupe de garde sous possession
+Les cris mènent vers la section 2 où se trouve Elorien et Anaïde
+À la sortie de la section 5, les inquisiteurs et un groupe en arme intercepte les personnages
+Peuvent travailler avec l’inquisition (Inquisiteur Esidore)
+Peuvent aller demander l’aide d’Henrien
+Peuvent y aller direct
+Si Inquisition
+L’inquisiteur aide à renvoyer le démon, puis ordonne aux personnages de tuer Emidée.
+Si Henrien
+Henrien aide à renvoyer le démon, puis demande aux personnages d’apaiser Emidée en tuant l’inquisiteur
+Si les personnages ne tuent pas l’inquisiteur, il capture Henrien dans la prochaine partie.
+Si direct
+Elorien relève ses pouvoirs et aide à renvoyer le démon, il informe les personnages que leur action est temporaire et qu’il leur faut trouver une solution pendant qu’il protège Anaïde.
+L’inquisiteur remarque les pouvoirs d’Elorien, cela déclenche sa capture dans la prochaine partie.
+Après résolution, un jeune journaliste, Florentin Vosgier, vient faire une interview des personnages
+Rosières informe les personnages qu’ils ont obtenu leur laissez passer vers la cité, ils vont y rencontrer Adermin Rostand, le Directeur de l'Académie des sciences et des talents d’Edrain. C’est un ami de Rosières qui a aidé la famille d’Oscar.
+La Tranchée ne laisse plus passer personne
+La Compagnie du Front de Grès prend de plus en plus de pouvoir
+Il soupçonne des membres du Haut-Conseil de préparer un repli à l’intérieur de la Tranchée et d’abandonner la vallée à son sort
+
+Partie 3 : Bienvenue à Edrain
+
+1er Pluviôse 2680
+Matin
+Florent Vosgier, un jeune journaliste, vient faire une interview sur les événements de la nuit.
+Questions abordées : 
+À quoi ressemblait la créature ?
+La femme possédé était-elle une sorcière ? Adepte de l’ancienne foi ?
+Des témoins affirment qu’elle aurait tenté d’enfanter une nuit rouge, est-ce vrai ?
+Qu’est-ce qui a motivé les personnages à agir ?
+Comment ont-il réussi à vaincre ce monstre ?
+Des témoins rapportent des bruits d’explosion et un flash de lumière ?
+L’Inquisition a-t-elle aidé à la destruction de la créature ?
+Quels sont vos projets ? Pensez-vous rejoindre la compagnie misterroise ?
+
+
+Les personnages et Rosières sont appelés par Manguin. Ils sont convoqués par l’administration du camp pour recevoir leur titre d’identité.
+Chaque personnage reçoit un titre d’identité d’Edrain au nom qu’ils ont renseigné en arrivant au camp.
+Manguin leur souhaite une bonne continuation, ils se croiseront peut-être en ville.
+
+
+Les personnages passent la sécurité de la porte sud d’Edrain, et sont accueillis par Octaire, le majordome de Rostand.
+Il fait preuve d’une grande déférence pour Rosières.
+Il salue chaleureusement les personnages.
+Envoyé par M. Rostand, il propose aux personnages de profiter d’une baignoire et de savon, ainsi que de vêtements propres.
+Ils se dirigent ensemble vers la loge où ils pourront habiter plus tard, en centre ville.
+Sur le chemin, ils passent par la grande place de la ville où ils peuvent observer le dôme d’Edrain, le Palais du Conseil et la chambre du commerce.
+Les personnages sont ensuite conviés à l’Académie des sciences et des talents d’Edrain pour rencontrer Adermin.
+Il se trouve dans l’espace d'entraînement, une longue salle au rdc de l’académie.
+Il entraîne deux étudiants, depuis l’intérieur d’une sphère d’eau, d’où il renvoie un trait de feu.
+La session se termine et Adermin salue tout le monde et propose de se retrouver dans son bureau.
+Octaire lui apporte un linge pour s’essuyer.
+Dans le bureau d’Adermin :
+Adermin parle avec un accent reconnaissable par Enora et Pauléon, l’accent de Prosie occidental d’où ils viennent.
+Adermin possède un cadre sur son bureau, une photo de sa femme et de ses deux filles s’y trouve.
+Adermin affiche en face de son bureau une gravure du plateau de Péronne, la capitale du gouvernorat de Prosie occidental.
+Adermin possède une épée et des médailles sur un présentoir. Un test permet de savoir qu’il s’agit d’une épée d’officier d’infanterie Prosienne, probablement un bataillon d'adeptes étant donné les capacités d’Adermin.
+Son bureau est ordonné, avec de nombreux dossiers d’étudiants, il semble très impliqué dans son établissement.
+
+
+Adermin salue Rosières et Oscar, il est heureux de les revoir et s’excuse de ne pas avoir pu les sortir des camps de réfugiés plus rapidement.
+Il aborde ensuite les sujets suivants : 
+La Tranchée est désormais totalement fermée. Il prévient Oscar que malgré l’engagement pris, il n’est pas certain que sa famille ait pu traverser. Il est possible de traverser en obtenant un laissez-passer auprès du gouverneur militaire d’Envaine mais à un prix exorbitant.
+Adermin et Rosières cherchent encore à trouver un moyen de revenir dans la tranchée du fait de leur situation particulière (une amnistie ou à minima une grâce, ou un moyen détourné).
+N’étant pas recherchés ou exilés, les personnages peuvent traverser mais doivent trouver d’importantes sommes d’argent.
+Globalement, la situation à Edrain et dans la vallée se complique. Les peaux brunes avancent et Adermin soupçonne une bonne partie du haut-conseil de négocier un passage dans la tranchée.
+De son côté, le commandant Emilien Leschères (Le Cavalier), à la tête de la Compagnie du Grès, semble favorable à une forte militarisation de la vallée, comme s’il considère possible de repousser les peaux brunes.
+Adermin propose aux personnages de partager un repas à l’académie.
+Détail du repas :
+Entrées : Consommé de volaille, terrines de campagne et oeufs durs mayonnaise
+Plats : Canard aux cèpes et marrons et vin rouge, matelote d’anguilles et vin blanc, pommes de terre sautées
+Fromages : Brie, Camembert et brebis frais
+Desserts : Crème brûlée + Digestif (cognac)
+Pendant le repas, Adermin aborde la question de l’emploi des personnages. Si Rosières ne tari pas d’éloges pour Oscar, il se doute qu’elle ne s’est pas entourée de n’importe qui. Adermin est prête à accueillir les personnages à l’académie en échange de leur service.
+Possibilité de négocier un solde en cas de mission.
+Possibilité d’obtenir un permis de port d’arme de défense en ville.
+
+Partie 4 : Les Voies de la Vallée (1ère session)
+Rappel : Nom des personnages en ville
+Enora Feunard
+Thaddeus Feunard
+Jean Feunard
+Oscar du village
+Sylvain Pierret
+Léon Pierret
+Introduction
+Après l’échange avec Adermin, Rosière propose aux personnages d’obtenir deux chambres dans une loge du bas-quartier pour 3 jours gratuitement. Après quoi, s’ils le souhaitent, ils peuvent obtenir les chambres pour 20 pièces par chambre par mois.
+La loge (et les chambres) donne sur un canal où se jettent les égouts.
+Quête : L’Inquisition chasse Henrien et recherche Anaïde
+
+Personnages concernés : Léomire + groupe
+Le 2 Pluviôse,
+L’article à propos de Léomire paraît dans la gazette
+L’Inquisiteur Esidore fait convoquer Léomire au Dôme pour rencontrer le Vicaire Rochard Saternin, par l’intermédiaire d’un coursier.
+Esidore demande à Léomire quels sont ses projets.
+Il propose à Léomire de participer au récitoire du 10 Pluviôse.
+Il demande à Léomire s’il a pu identifier des pratiquants de l’hérésie parmi les réfugiés.
+Il informe Léomire qu’un groupe d’hérétiques de l’ancienne foi est très présent dans la région. Deux suivants d’Esidore ne sont pas revenus de leur mission. Si Léomire obtient des informations ou identifie des membres haut placés, il pourrait obtenir des faveurs de l’Inquisition.
+
+
+
+Quête : La recherche d’Hubertin Lesquin
+
+Personnages concernés : Thaddeus + Jean + groupe
+Jenelle reprend contact avec Jean, elle l’invite à partager un verre dans un salon de la place.
+Jenelle l’informe qu’elle a peut être un job pour un groupe comme le sien. Bien payé.
+En premier lieu, elle doit s’assurer que le groupe est efficace.
+Si Thaddeus se balade en ville, il est reconnu par hasard par Philélie Bescond, fille de Luthier Bescond, une amie à lui qui prend de ses nouvelles.
+Elle est désormais Fileuse et fréquente le fils du chef artisan.
+Son père a été rattrapé par ses dettes et travaille pour la ville pour les rembourser (allumeur, nettoyeur des rues)
+Elle a croisé Hubertin, il y a moins d’un an, il avait alors des désaccords avec ses collaborateurs et considérait une opportunité hors de la ville auprès d’une personnalité importante. Il est parti dans le nord de la vallée.
+Philélie emmène Thaddeus chez le médecin de famille Davilien.
+Quête : L’Armurerie Tenssier
+Personnages concernés : Enora
+Armurerie Marcine Tenssier => Fourni les armes avancées et de particulier dans la vallée
+Marcine Tenssier utilise des plans et des conceptions qui appartenaient aux Moncardin. (voir intéractions en partie 5)
+Dispose de deux compagnons, Silas et Hémade, deux hommes dans la trentaine, et une jeune apprentie de 14 ans, Uzéline (Uli).
+Silas s’occupe principalement des réparations, Hémade aide la Maîtresse Tenssier à la création. Uli nettoie et participe à l’assemblage des pièces.
+Marcine n’est pas contre l’idée d’une nouvelle apprentie, mais elle doit faire ses preuves, et Enora est assez agée et sans recommandation.
+Elle propose à Enora une période d’essai d’une dizaine de jours. A négocier, un hébergement ou une pièce par jour.
+Elle commencera par les mêmes tâches qu’Uli, mais participera également aux travaux préparatoires pour Silas.
+
+
+1. Disposition et emplacement de l'atelier :
+Atelier attenant à la boutique : Dans la majorité des cas, l’atelier serait directement attenant à la boutique, soit à l’arrière, soit dans un bâtiment adjacent. Cela permettrait de montrer aux clients les armes en cours de fabrication ou de réparation et de gérer facilement les commandes.
+
+
+Atelier séparé dans une zone industrielle ou à la périphérie : Dans certains cas, surtout si la demande est élevée et que l’atelier doit fonctionner à une échelle plus importante, l’armurier pourrait louer un espace plus grand dans une zone industrielle à la périphérie de la ville. L’atelier serait alors séparé de la boutique, avec un flux de matériaux et de produits organisés entre les deux.
+
+
+2. Aspect général :
+L’atelier aurait probablement une apparence simple et fonctionnelle :
+
+
+Matériaux : Il serait construit en pierre ou en briques, souvent avec un toit en pente et de larges fenêtres pour profiter de la lumière naturelle. L’éclairage au gaz ou à la lampe à huile serait utilisé pendant les heures sombres.
+Odeurs et sons : L'endroit serait rempli de l'odeur de l'huile, du métal chaud et du bois travaillé. Le bruit des marteaux frappant le métal, des scies coupant le bois, et parfois des machines à vapeur ou des outils mécaniques résonneraient dans l’atelier.
+3. Outils et machines présents dans l'atelier :
+a. Outils traditionnels :
+Les armuriers de cette époque, bien qu’en transition vers des méthodes semi-industrielles, utiliseraient encore beaucoup d’outils manuels et traditionnels :
+
+
+Forges : L’atelier aurait une petite forge pour le traitement thermique des pièces métalliques (canons, mécanismes internes).
+Enclume et marteaux : Pour marteler et façonner les pièces, en particulier lors de la fabrication d’éléments spécifiques comme les gâchettes ou les ressorts.
+Limes et ciseaux à bois : Pour ajuster les pièces métalliques et sculpter les crosses en bois des fusils.
+Étau et établis : Des établis en bois ou en métal avec des étaux pour maintenir les pièces pendant l'assemblage ou l'ajustement.
+b. Machines émergentes :
+Avec la révolution industrielle, l'armurerie pourrait intégrer certaines machines, notamment dans des ateliers plus développés :
+
+
+Tour à métaux : Utilisé pour usiner des canons, des pièces mécaniques internes (comme des percuteurs ou des ressorts). Ce type de machine, souvent alimenté par des systèmes de courroies reliés à une machine à vapeur ou à des pédales manuelles, était de plus en plus courant dans les ateliers en 1890.
+Perceuses à colonne : Pour forer des trous précis dans les pièces de métal, notamment dans les canons ou les platines des armes.
+Scies à ruban : Pour couper le bois ou le métal avec une plus grande précision qu'une scie manuelle, particulièrement pour les crosses en bois ou certaines pièces métalliques.
+Polisseuses et meules : Pour affiner et polir les surfaces métalliques après le forgeage, ou affûter les bords des pièces critiques.
+c. Outils de mesure et précision :
+Les armuriers, notamment ceux spécialisés dans des armes de qualité, utiliseraient des outils de mesure précis :
+
+
+Calibres et micromètres : Pour mesurer les dimensions des pièces afin d'assurer un ajustement parfait entre les différentes parties d’une arme.
+Instruments de nivellement : Utilisés pour garantir la droiture des canons et la précision des systèmes de visée.
+4. Approvisionnement en matériaux :
+L'armurier utiliserait des matériaux bruts et des pièces préfabriquées dans l'atelier :
+
+
+Métal (acier, fer, laiton) : Le métal serait principalement utilisé pour les canons, les mécanismes de tir, et les garnitures des armes. Certaines armureries pourraient sous-traiter la fabrication de certaines pièces métalliques aux grandes usines de métallurgie et se concentrer sur l'assemblage et la finition.
+Bois (noyer, érable, hêtre) : Le bois de qualité pour les crosses de fusil et de pistolet, souvent sculpté et poli à la main.
+Cuir et autres matériaux pour la finition : Utilisés pour des garnitures ou des accessoires, comme des étuis ou des courroies.
+
+
+5. Atmosphère de l'atelier :
+L’atelier serait un espace de travail animé, souvent encombré de pièces en cours de fabrication, d’armes démontées pour réparation, et d’outils. Il y aurait des éclats de métal, des copeaux de bois et des odeurs d’huile partout. Les clients pourraient parfois visiter l’atelier pour discuter des modifications ou surveiller l’avancement d’une commande.
+
+
+6. Main d'œuvre :
+L'atelier serait probablement dirigé par le maître armurier, avec quelques compagnons et apprentis qui aideraient à fabriquer ou à assembler les armes. Un ou deux ouvriers plus qualifiés seraient responsables des parties les plus complexes, comme l’usinage des canons ou les mécanismes internes.
+
+
+Conclusion :
+L'atelier d'une armurerie régionale en 1890 serait une combinaison d'artisanat traditionnel et de nouvelles technologies de la révolution industrielle. L'intégration des machines, même à petite échelle, permettrait à l'armurier d’augmenter sa productivité tout en maintenant un haut degré de personnalisation et de qualité dans les armes fabriquées.
+
+
+1. Premières années d'apprentissage :
+a. Apprentissage des bases :
+Les premières années seraient consacrées à des tâches simples et à l'acquisition des compétences de base, sous la supervision étroite du maître et des compagnons.
+
+
+Entretien et nettoyage : L’apprenti commencerait par apprendre à entretenir les outils de l’atelier (limes, marteaux, forges, tours, etc.), à nettoyer et à huiler les armes, à organiser les stocks de matériaux (bois, métal, munitions).
+Travaux de préparation : Il serait responsable des tâches préparatoires comme le polissage des pièces métalliques, la découpe grossière des bois pour les crosses, ou la fabrication d'éléments plus simples comme des vis ou des petits ressorts.
+Observation : L’apprenti observerait le travail des compagnons et du maître armurier, apprenant en silence les différentes étapes de la fabrication et de la réparation.
+b. Initiation aux techniques de base :
+Progressivement, l'apprenti commencerait à participer à des tâches plus complexes :
+
+
+Travail du bois : Il apprendrait à sculpter les crosses, à ajuster les formes, à poncer et polir le bois pour obtenir un produit fini.
+Travail du métal : Sous supervision, il pourrait commencer à forger de petites pièces métalliques, à limer et ajuster des mécanismes simples comme les gâchettes ou les percuteurs.
+Assemblage : Il assisterait à l’assemblage des armes, apprenant comment les pièces s'emboîtent et comment ajuster les mécanismes pour garantir la précision et la sécurité des armes.
+2. Dernières années d'apprentissage :
+a. Perfectionnement des compétences :
+Vers la fin de l'apprentissage (environ 3 à 5 ans après le début), l’apprenti commencerait à réaliser des tâches plus complexes de manière autonome.
+
+
+Fabrication complète d’une arme : L'apprenti pourrait être chargé de fabriquer une arme du début à la fin, avec le contrôle du maître pour s'assurer que le travail est bien fait.
+Réparations et ajustements : L'apprenti apprendrait à diagnostiquer les problèmes sur des armes endommagées et à les réparer, une compétence clé dans une armurerie où les réparations sont fréquentes.
+Utilisation des machines : Il deviendrait plus à l’aise avec les machines de l’atelier (tour à métaux, perceuse, etc.), acquérant les compétences nécessaires pour usiner des pièces de haute précision.
+b. Test et certification :
+À la fin de l'apprentissage, il était courant pour le maître armurier d’évaluer les compétences de son apprenti.
+
+
+Chef-d’œuvre : En fin de formation, il pouvait être demandé à l’apprenti de réaliser un chef-d'œuvre, une arme complète qui démontrerait l’ensemble de ses compétences techniques.
+Certificat d'apprentissage : Si l’apprenti réussissait à convaincre le maître de sa compétence, il recevait un certificat attestant de la fin de son apprentissage, et pouvait alors devenir compagnon.
+
+
+
+Partie 5 : Les Voies de la Vallée (2e session)
+
+Quête : L’Inquisition chasse Henrien et recherche Anaïde
+Lors du récitoire du 10, Léomire se sent habité par sa mission. Si il persiste et répond à cet appel, il se voit capable d’un miracle
+Il peut soigner les personnes malades dans l’auditoire
+Jean, si présent, remarque que l’attitude de Léomire à changer au point d’être méconnaissable, comme une autre personne.
+A la fin de son “moment”, il se souvient.
+Quête : La recherche d’Hubertin Lesquin
+Personnages concernés : Thaddeus + Jean + groupe
+Mission : Aller à Venant sur la tranchée pour récupérer un déserteur qui a été capturé. Bastian Trentin.
+Voyage de 75km - Faisable en 2 jours à grosse allure, sinon 3 jours aller puis 3 jours retours.
+Bastian Trentin était un Sergent de la Compagnie, il tente de corrompre les personnages.
+Ils peuvent retrouver des amis de Bastian à Hauteserre et se quitter bons amis.
+Sur place, les compagnons de Trentin cherchent à se débarrasser des personnages.
+Scène pour Thaddeus le 7 Pluviose
+Osculation d’une vieille dame sur le point de mourir
+Thaddeus peut choisir de créer un remède trop onéreux, d’accelérer le processus ou de ne rien faire.
+Scène pour Thaddeus le 9 Pluviose
+Davilien fait remarquer que Thaddeus est pauvre, il lui offre une tenue de son ainé, parti pour devenir physicien dans la tranchée il y a 4 ans, pour les dixièmes.
+Si Thaddeus a parfaitement respecté les directives de Davilien, ce dernier lui offre 5 pièces pour profiter de la journée.
+Quête : La Famille d’Oscar
+Un peu d’histoire, après avoir été reçu par Adermin à Edrain, les deux parents d’Oscar et ses deux soeurs se sont dirigés vers la tranchée.
+Ils sont malheureusement repoussés à la Porte de Venant pour finalement se rendre sur le plateau de Cernin où ils travaillent dans les champs. Avec l’argent prévu pour leur installation dans la tranchée, ils louent une dépendance dans la ferme de Pulchène le Brévier.
+Osélien de Bougeon, sa femme Hermentine et sa plus jeune fille Hermilie y travaillent encore, dans des conditions convenables mais le travail est difficile.
+Hermione, la fille plus âgée, a rencontré l’apprentie du bottier, Yvanie Laguin, qui loge avec elle et lui enseigne l’art du bottier le soir après le travail. En attendant, elle travaille à la filature de Cernin en tant que Tisseuse, un travail difficile mais qui lui permet de vivre correctement.
+Oscar peut retrouver sa famille en cherchant le nom de ses parents à la mairie de Cernin ou par le registre de la Porte de Venant.
+Il tombe sur sa mère au travail dans les champs.
+Elle lui propose de passer la soirée, elle a pu acheter du miel en ville pour préparer du lait de poule.
+Pour l’instant, la traversée de la tranchée semble impossible.
+Quête : L’Armurerie Tenssier
+Contexte de départ
+La ville, inspirée de Valenciennes, est encore en proie à la brume froide du nord, et les forges des armureries Tenssier crachent des volutes de fumée à travers leurs hautes cheminées. À l’intérieur de l’atelier, les marteaux résonnent sur les enclumes, ponctués par le souffle des soufflets. Enora Moncardin, dissimulée derrière un nom d’emprunt, travaille ici depuis quelques années, perfectionnant son art sous la tutelle de Marcine Tenssier. Le bruit des machines, les mécanismes complexes, tout cela lui est familier, un héritage des Moncardin qu’elle porte en elle.
+Un jour, en nettoyant l’atelier et en examinant certains mécanismes, Enora tombe sur des schémas d’armes ou d’équipements qui lui semblent étrangement familiers. Les détails, les systèmes, la logique même de ces inventions… Elle en est certaine : ce sont des brevets Moncardin, peut-être anonymisés ou vendus sous un autre nom, mais elle reconnaît la marque de sa famille.
+Personnages principaux
+Enora Moncardin : Jeune femme désormais dans sa vingtaine, elle a un talent naturel pour l’ingénierie et la mécanique. Son objectif principal est de découvrir la vérité sur le meurtre de sa famille et de regagner son héritage.
+Marcine Tenssier : Maître armurière, elle a bâti sa réputation sur des inventions efficaces, certaines d’entre elles provenant des brevets Moncardin. Elle ignore la véritable identité d’Enora et utilise les brevets dans son armurerie pour maintenir son avance sur ses concurrents.
+Silas : Jeune compagnon dans l’armurerie, efficace mais moins talentueux qu’Enora. Il admire Marcine mais commence à remarquer le talent supérieur d’Enora, ce qui éveille en lui de la jalousie.
+Hémade : Un autre compagnon, plus réservé, il est doué d’une grande attention aux détails. Il s’entend bien avec Enora et est souvent son partenaire de travail.
+Première Phase : La Découverte
+Un jour, alors qu’Enora classe des documents dans l’atelier et examine des schémas de nouveaux prototypes, son regard se fige. Elle reconnaît un mécanisme complexe qui fait écho à une invention de son père, un brevet Moncardin longtemps perdu ou vendu après l'assassinat de sa famille. Elle continue d’explorer les tiroirs, et chaque schéma qu’elle trouve confirme ses soupçons. Une série de mécanismes et de techniques qu’elle croyait disparus refait surface sous les initiales d’autres inventeurs.
+Cette révélation déclenche en elle un torrent de pensées. Elle réalise que les pièces du puzzle commencent à se mettre en place, mais elle ne sait pas encore qui, dans ce réseau de traîtres et d’opportunistes, a vendu les brevets de sa famille à Marcine.
+Deuxième Phase : Les Options d’Enora
+Enora se trouve à un carrefour décisif. Comment réagir à cette découverte ?
+Enora décide d’être passive et n’intervient pas !
+Quête : Les soirées d’Edrain
+Contexte de départ
+Un soir, les nuages épais masquent les étoiles, et la brume froide du nord se glisse dans les rues pavées. Les ouvriers rentrent chez eux, fatigués et usés après une journée de labeur, tandis qu’une poignée d’âmes cherchent des plaisirs plus immédiats dans les salons de jeu clandestins. Ici, derrière des rideaux lourds et des portes discrètes, se mêlent fumeries d’opium, tables de jeu, et spectacles d’artistes itinérants.
+L’intérieur du salon est faiblement éclairé par des lampes à gaz, projetant des ombres longues sur les murs tapissés de velours rouge. Une odeur de tabac épais, de sueur et de vapeurs opiacées sature l’air. Des serveurs silencieux glissent entre les tables, portant des plateaux de verres d’absinthe et de cognac. Le gérant, un homme trapu avec un monocle doré, surveille la salle depuis un balcon surélevé, évaluant chaque client d’un regard calculateur.
+Personnages principaux
+Pauléon : Jeune réfugié rusé, vêtu modestement mais avec assez de flair pour ne pas attirer l'attention. Son regard vif scrute les tables, à l’affût d’une opportunité de tricherie subtile.
+
+
+Egolène : Jeune femme aux allures élégantes, mais aussi débrouillarde que Pauléon. Elle aime jouer de son charme, mais son vrai talent réside dans l’observation et la manipulation des jeux.
+
+
+Le groupe d'individus peu recommandables : Trois hommes aux allures brutes, récemment enrichis grâce à un vol bien orchestré dans les faubourgs. Ils sont venus ici pour se défouler, célébrer leur succès, et ne se soucient pas trop de perdre de l’argent tant qu’ils s’amusent. Ils sont bruyants et arrogants, ce qui en fait des cibles parfaites.
+Gasper : Le leader, un homme large et musclé avec une cicatrice sur le menton. Il est méfiant, mais l’alcool le rend plus imprudent.
+Lorain: Petit et nerveux, toujours en train de scruter la salle. Il est celui qui connaît bien les jeux de cartes, mais est souvent trop excité pour bien se concentrer.
+Tibald : Un colosse silencieux, peu enclin à la conversation, mais il veille sur les deux autres comme un garde du corps.
+Première Phase : Observation et Préparation
+Pauléon entre dans le salon discrètement, son regard parcourant les différentes tables. Ses yeux se posent rapidement sur le groupe bruyant de Gaspard, Lorain et Tibald. Leur comportement laisse deviner qu'ils ne sont pas des habitués des salons raffinés ; ils consomment sans retenue et s’esclaffent bruyamment. Une soirée qui s'annonce riche en opportunités. Pauléon commence par se glisser à une table voisine, écoutant leurs conversations tout en commandant une simple bière. Il attend le bon moment.
+Pendant ce temps, Egolène, qui les a également repérés, joue déjà une partie de cartes à une table non loin. Elle lance un regard à Pauléon, leurs yeux se croisent brièvement. La compétition est implicite, mais elle est bien présente. Ils ne se connaissent que de réputation, mais ce soir, ils chassent sur le même territoire.
+Deuxième Phase : Approche et Début des Jeux
+Le groupe de Gasper passe rapidement de la consommation au jeu. Lorain, excité, propose une partie de poker avec les autres clients. Pauléon sait que c’est maintenant ou jamais. Il s’approche avec un sourire, proposant une partie amicale, et se joint à la table. Egolène, déjà installée à une autre table, décide de patienter encore, pour voir comment les choses se déroulent.
+La première main se déroule sans incident. Pauléon joue prudemment, prenant le temps d'observer les tics et faiblesses de Lorain, le joueur le plus expérimenté du groupe, et de Gasper, le plus arrogant. Tibald, quant à lui, ne fait que grogner en arrière-plan, n’ayant aucune idée des règles du jeu. Pauléon utilise des gestes discrets pour manipuler les cartes : un petit coup d’œil rapide, une carte glissée sous la manche, des mouvements presque imperceptibles.
+Troisième Phase : L'Escalade
+Pauléon commence à remporter quelques petites mises, sans attirer trop l’attention. Cependant, Gasper, ivre et frustré de perdre, devient de plus en plus agressif. Il soupçonne Pauléon de tricher, mais ne peut le prouver. Lorain, quant à lui, s’enfonce dans sa propre avidité, refusant d’admettre qu’il est en train de perdre à cause de son manque de concentration.
+C’est à ce moment qu'Egolène fait son entrée. Elle arrive à la table avec une fausse innocence, s’asseyant à côté de Gasper. Son charme opère rapidement, et elle l’encourage à miser encore plus, soufflant sur ses braises d’arrogance. Pendant que Pauléon continue à tricher discrètement, Egolène elle-même manipule le jeu en influençant subtilement Gasper pour qu'il mise de manière irrationnelle.
+La tension monte à la table. Gasper mise une somme considérable, une partie de leur butin mal acquis, et Lorain suit maladroitement. C’est là que Pauléon fait son grand coup : il remporte une main massive, utilisant à la perfection sa manipulation des cartes.
+Quatrième Phase : La Confrontation
+Gasper explose de rage. Il ne peut plus supporter de perdre ainsi, et dans un accès de fureur, il accuse Pauléon de tricher. La salle devient silencieuse, les regards se tournent vers eux. Tibald se lève, prêt à en découdre, tandis que Lorain scrute les cartes sur la table, cherchant des preuves. Pauléon garde son calme, niant habilement les accusations, mais il sait qu’il devra peut-être se battre pour sortir indemne.
+C’est alors que le gérant du salon, l’homme au monocle doré, intervient. Il ne tolère pas les bagarres dans son établissement. Il offre deux options : régler cela dehors ou s'arrêter immédiatement. Egolène, sentant le danger, quitte la table discrètement, ayant déjà glissé quelques pièces volées dans sa poche. Pauléon, lui, devra décider : fuir immédiatement ou affronter Gasper et ses hommes à l'extérieur, au risque d'une rixe violente.
+Fuite discrète : Pauléon pourrait tenter de quitter le salon en utilisant les ombres et la foule, tandis que Gasper et ses hommes sont distraits. Mais cela risque de faire de lui une cible à long terme.
+
+
+Affrontement : Si Pauléon se sent confiant, il peut décider de provoquer Gasper en duel verbal ou physique, comptant sur ses réflexes ou un soutien extérieur pour s’en sortir.
+
+
+Manipulation : Pauléon pourrait retourner la situation en jouant la carte de la victime, accusant Gasper d'être ivre et menaçant, et s’attirer la sympathie du gérant et des autres clients.
+Quête : Sauver Anaïde contre l’Inquisition
+Selon les choix des personnages.
+Elorien fait parvenir un message aux personnages via un jeune coursier le 13, “une nouvelle coupe de cheveux en ville serait fort appréciée”. (Elorien a donné une pièce à un mineur du Grès pour faire passer le message jusqu’en ville).
+Les Inquisiteurs ont capturé Priscille et Henrien et vont les mettre au bûcher lors du récitoire du 20. En attendant, la ville autorise la compagnie du Grès à prendre possession des réfugiés.
+Si les personnages ne font rien, Elorien et Anaïde se retrouvent à la mine.
+Quête : Le Rituel du Grès
+La Compagnie du Grès a obtenu la gestion totale des camps de réfugiés et qu’ils vont être déplacés pour travailler au front de grès (enfants comme adultes).
+
+
+Emilien Leschères (Le Cavalier), il utilise la Compagnie du Grès pour tenir les lieux et préparer le rituel sous la direction du Fou.
+
+
+Zacharias Avicenne (Le Fou), était provisoirement à la tête de la table d’Emeraude pour accomplir leur grand œuvre, l’aestus liquide.
+
+Partie 6 : Les Voies de la Vallée (3e session)
+Nous sommes le soir du 10e jour de Pluviôse 2680.
+
+Quête : Sauver Anaïde contre l’Inquisition
+L'Interrogatoire : Une Audience Conjointe
+Lieu : Une salle austère du Dôme, éclairée par la lumière filtrée des vitraux. Saternin préside en silence, tandis qu’Esidore mène l’interrogatoire avec insistance.
+Esidore : Cherche à pousser Léomire dans ses retranchements en évoquant le phénomène surnaturel comme une potentielle hérésie ou une possession démoniaque.
+Saternin : Plus subtil, il observe les réponses de Léomire et pourrait intervenir pour le protéger si cela sert ses intérêts ou pour tester ses motivations.
+Si Léomire ne convainc pas Esidore, ou s’il tente de jouer la carte de la confusion mystique sans preuves tangibles :
+Accusation Voilée : Esidore insinue que Léomire pourrait être un imposteur ou manipulé par une force hérétique. Il évoque la possibilité que des individus extérieurs à la Tranchée (les réfugiés) soient impliqués dans ce "miracle".
+Exploitation des Peurs : Esidore joue sur la crainte des puissances locales (conseil municipal, garde de la ville) en avançant que le phénomène pourrait inciter les réfugiés à un soulèvement, galvanisés par un prétendu signe divin.
+Rafles Justifiées : Sous prétexte d’identifier la source du phénomène et d'assurer la sécurité d'Edrain, Esidore demande des pouvoirs extraordinaires pour inspecter les camps de réfugiés.
+→ Léonore convainc Esidore qu’il ne se souvient de rien. Saternin souhaite que Léomire le soutient contre l’Inquisition, il prendra les devants bientôt.
+Les rafles commencent le 13 au petit matin.
+Esidore envoie immédiatement ses hommes de mains dans le camp à la recherche d'Anaide et du Dépositaire.
+Tension sociales :
+Les rafles provoquent une explosion de colère et de peur parmi les réfugiés, créant un climat de violence latente.
+Certains réfugiés pourraient chercher à contacter Léomire, convaincus qu’il est leur protecteur ou messager divin.
+Pouvoirs locaux compromis : 
+Saternin doit choisir entre soutenir Esidore (et préserver son autorité en minimisant le conflit) ou le dénoncer (risquant de perdre le contrôle sur l'Inquisition et d’aggraver la situation).
+Si Saternin s’oppose à Esidore, cela pourrait ouvrir la voie à une collaboration plus étroite avec Léomire pour contrer les excès de l’Inquisition.
+Dénouement potentiel :
+Les rafles servent de couverture à Esidore pour rechercher activement la Matriarche dans les camps de réfugiés.
+Soutenir ou Saboter les rafles
+Se rallier aux réfugiés (Henrien et Priscille en tête, Elorien en support, avec Lutier (apothicaire) de la section 2 et Manguin de la section 5.
+Selon les choix des personnages.
+Pauléon a prévenu Henrien et Elorien des rafles :
+Henrien et Priscile tentent de se cacher dans les camps mais ils ont peu d’options.
+Elorien a fait jouer ses contacts avec les mineurs pour inverser sa place avec un père et son fils de Roueaux. Elorien travaille à la mine pendant qu’Anaïde reste chez lui. Il se fait désormais appelé Tanorède et Anaïde Bénévant.
+Les Inquisiteurs ont capturé Priscille et Henrien et vont les mettre au bûcher lors du récitoire du 20. En attendant, la ville autorise la compagnie du Grès à prendre possession des réfugiés.
+Quête : L’Armurerie Tenssier
+Mise en place
+La scène se déroule dans l’atelier de l’armurerie, tard un soir. La journée de travail est terminée, Silas et Hémade ont quitté les lieux, laissant Enora seule avec Marcine. La pièce est encombrée d’outils, de croquis, et de pièces détachées. Une lampe à huile éclaire faiblement le bureau de Marcine, où elle a posé un plan détaillé du fusil.
+Comportement de Marcine
+Prudente mais opportuniste
+Marcine ne dénoncera pas immédiatement Enora, car l’identité de cette dernière pourrait devenir un atout. Elle préférera observer et tester ses limites pour s’assurer qu’elle peut exploiter la situation.
+Elle pourrait chercher à obtenir un levier supplémentaire sur Enora avant de faire un quelconque mouvement.
+Stratégique et manipulatrice
+Marcine pourrait proposer à Enora de travailler sur des projets particulièrement avancés, espérant qu’Enora révèle involontairement des techniques ou des connaissances spécifiques aux Moncardin.
+Enora pourrait devenir une clé pour renforcer les innovations de Marcine, ce qui lui permettrait de se préparer en cas de conflit ou pour négocier son entrée dans la Tranchée.
+Axée sur sa survie à long terme
+Marcine voit les Moncardin comme une force déchue, mais Enora représente une opportunité de raviver leur prestige sous son contrôle. Si elle peut convaincre Enora de lui faire confiance, elle envisagerait peut-être une collaboration à long terme.
+
+
+Actions possibles de Marcine
+Une proposition d’alliance secrète
+Marcine confronte Enora discrètement et lui propose un accord : Marcine l’aide à s’établir en échange d’un partenariat exclusif où Enora continuerait à innover pour elle. Marcine pourrait même promettre son aide pour enquêter sur les assassins de sa famille.
+Mise à l’épreuve
+Marcine donne à Enora une tâche complexe liée à un projet stratégique pour l’armurerie. Si Enora réussit, Marcine la considèrera comme un atout inestimable. Si elle échoue, Marcine pourrait utiliser cela comme prétexte pour la manipuler davantage.
+Pression psychologique
+Marcine commence à faire allusion à des événements liés aux Moncardin, testant les réactions d’Enora. Par exemple : "Ces brevets, je les ai toujours trouvés fascinants. Une tragédie, cette famille... Tu n’as jamais entendu parler d’eux ?"
+Elle pourrait également évoquer des rumeurs sur les tensions en ville et la nécessité de collaborer pour assurer leur survie.
+Une trahison calculée
+Si Marcine estime qu’Enora est un risque ou qu’elle pourrait être plus utile dans les mains de quelqu’un d’autre, elle pourrait envisager de la dénoncer ou de la vendre à un tiers intéressé par les secrets Moncardin.
+L’Intervention de Silas et Hémade
+Silas et Hémade peuvent également jouer un rôle clé dans ce scénario :
+Silas jaloux : Silas, qui a déjà remarqué que Marcine favorise Enora pour ses compétences, pourrait intervenir. S’il apprend la vérité, il pourrait vouloir déstabiliser Enora par jalousie. Peut-être qu'il soupçonne que quelque chose ne va pas et pourrait utiliser cette information pour tenter de la discréditer aux yeux de Marcine ou d’autres concurrents.
+Hémade en allié : Hémade, de son côté, pourrait être plus compréhensif. S'il est proche d’Enora, il pourrait l’aider à enquêter ou à trouver un moyen de tirer parti de sa position pour avancer ses propres intérêts. Il pourrait même devenir son confident et l’accompagner dans sa quête pour venger sa famille.
+Manipulation de l’un contre l’autre : Enora pourrait utiliser Silas et Hémade dans une stratégie complexe pour garder Marcine sous pression tout en découvrant plus de détails sur les brevets. Silas, avec sa jalousie, pourrait être un levier, tandis qu’Hémade pourrait l'aider à accéder à des documents sensibles.
+Intégration des tensions extérieures
+La Tranchée comme enjeu central : Marcine pourrait insister pour qu’Enora développe des prototypes ou des armes spécifiquement adaptées aux besoins militaires des défenseurs de la Tranchée. Cela permettrait à Marcine de se rendre indispensable aux yeux des administrateurs militaires et d’obtenir un passage.
+Les peaux brunes comme catalyseur : L’arrivée de ces créatures pourrait forcer Marcine à accélérer ses plans. Elle pourrait demander à Enora de concevoir des armes révolutionnaires sous prétexte de défendre Edrain, tout en gardant des arrière-pensées lucratives.
+Quête : Les nuits d’Edrain
+Gasper, Lorain et Tibald recherchent activement Pauléon car ils pensent qu’il a leur argent qu’il aurait subtilisé
+Gasper : Le leader, un homme large et musclé avec une cicatrice sur le menton. Il est méfiant, mais l’alcool le rend plus imprudent.
+Lorain: Petit et nerveux, toujours en train de scruter la salle. Il est celui qui connaît bien les jeux de cartes, mais est souvent trop excité pour bien se concentrer.
+Tibald : Un colosse silencieux, peu enclin à la conversation, mais il veille sur les deux autres comme un garde du corps.
+Egolène vit dans une loge dans le sud de la ville.
+Si Pauléon ne fait rien, la pression de Gasper se fait plus forte : 
+Des gars commencent à parler de lui, en ville, il se fait facilement remarquer.
+Des salles de jeu commencent à refuser l’entrée.
+Il se sait toujours suivi lors des soirées, au moindre faux pas, Gasper et ses comparses vont forcer la rencontre.
+Il peut se tourner vers Egolène, avec un test d’Enquête en ville, il parvient à la rencontrer le lendemain soir de son enquête.
+
+Partie 7 : Les Voies de la Vallée (4e session)
+Rappel : Nom des personnages en ville
+Enora Feunard
+Thaddeus Feunard
+Jean Feunard
+Oscar du village
+Sylvain Pierret
+Léon Pierret
+Nous sommes le matin du 14e jour de Pluviôse 2680.
+Enora obtient de Marcine de travailler à la commission pour 30%.
+Thaddeus obtient 4p6s sur les journées de travail pour l’Apothicaire.
+
+Quête : Les lendemains d’Edrain
+Gasper, Lorain et Tibald recherchent activement Pauléon car ils pensent qu’il a leur argent qu’il aurait subtilisé
+Gasper : Le leader, un homme large et musclé avec une cicatrice sur le menton. Il est méfiant, mais l’alcool le rend plus imprudent.
+Lorain: Petit et nerveux, toujours en train de scruter la salle. Il est celui qui connaît bien les jeux de cartes, mais est souvent trop excité pour bien se concentrer.
+Tibald : Un colosse silencieux, peu enclin à la conversation, mais il veille sur les deux autres comme un garde du corps.
+Egolène vit dans une loge dans le sud de la ville.
+Si Pauléon prend contact, une rencontre est organisée en dehors de la ville, dans le grange d’Adric à 10min au Nord-Est d’Edrain.
+Les personnages sont fouillés et désarmés à l’entrée et sont limités à 2 à l’intérieur.
+Gasper demande à Pauléon de rendre l’argent
+En option, il lui donne la dizaine à Pauléon pour retrouver l’argent d’une manière ou d’une autre.
+Quête : L’Armurerie Tenssier
+Option 1 : Enora accepte les conditions de Marcine
+Avantages : Cela ouvre la voie à un développement plus long et met Enora dans une situation de compromis stratégique. Elle gagne une amélioration immédiate de ses conditions (la prime) tout en ayant un objectif clair à atteindre (le chef-d'œuvre après un an). Ce délai peut être utilisé pour approfondir ses relations avec Marcine, Silas, et Hémade, ou pour introduire de nouveaux défis.
+Tensions potentielles :
+Silas pourrait ressentir encore plus de jalousie à cause de la reconnaissance accordée à Enora et chercher à la discréditer de manière autonome.
+Marcine pourrait essayer de manipuler Enora en l'impliquant dans des projets douteux pour maximiser ses profits avant de l’abandonner.
+La préparation du passage dans la Tranchée peut devenir un arc narratif majeur, avec des tensions croissantes entre Enora et Marcine.
+Option 2 : Marcine piège Enora
+Avantages : Cette option introduit un conflit ouvert, où Enora est forcée de réagir face à une injustice. Cela peut mettre en avant son intelligence et sa résilience, tout en ajoutant un enjeu émotionnel puissant si son nom de famille est révélé publiquement.
+Risques narratifs :
+Si Enora est trop vite discréditée, cela pourrait réduire son influence dans l’histoire, à moins qu’elle trouve un moyen de rebondir rapidement (par exemple, en trouvant un allié ou en déjouant les plans de Marcine).
+Le sabotage orchestré par Silas peut être découvert avant la livraison, ce qui offre à Enora l’opportunité de renverser la situation et de discréditer Marcine à son tour.
+Conseil pour choisir une option
+Si ton objectif est d’amener un conflit plus progressif et stratégique, où les tensions s'accumulent lentement, l’Option 1 est plus adaptée. Elle permet de maintenir une certaine stabilité tout en introduisant des frictions internes.
+Si tu veux accélérer le rythme et mettre Enora face à un défi majeur nécessitant une réponse immédiate et inventive, l’Option 2 est parfaite. Cela ajoute une dynamique dramatique intense et pousse l’interprète à faire preuve de créativité.
+Rebondissements supplémentaires pour l’Option 2
+Enora pourrait découvrir par inadvertance des indices du complot (par exemple, des outils de sabotage chez Silas ou des conversations entre Marcine et un tiers corrompu).
+Elle pourrait chercher à exposer Marcine, soit en rassemblant des preuves, soit en utilisant son influence auprès des clients réguliers de l’armurerie.
+Un client insatisfait pourrait devenir un allié improbable, surtout si Enora parvient à réparer l’arme sabotée et à prouver sa valeur.
+Quête : Lutter contre l’Inquisition
+Saternin demande une entrevue avec Léomire.
+Il lui demande ce dont il aurait besoin pour se montrer moins en faveur de l’Inquisiteur.
+Saternin peut payer pour sortir Henrien et Priscille du camp de réfugiés.
+Saternin envisage de : 
+Mener une mobilisation populaire en encourageant son ministère à parler contre l’Inquisition.
+Assurer des cérémonies prônant du recul face aux agissements de l’Inquisition.
+Chercher des soutiens politiques locaux en appuyant sur les effets néfastes des actions de l’Inquisition.
+Diffuser des fausses informations concernant les réfugiés pour tromper les forces de l’Inquisiteur.
+Le 17, Henrien et Priscille sont capturés. Manguin prévient les personnages par messager. Ils sont retenus dans les geôles de la ville et seront brûlés le 20. La forme de Lycanthrope de Priscille se manifestera sur le bûcher, donnant le pouvoir absolu à l’Inquisiteur.
+Quête : Enquête dans la mine
+Rosières approche Thaddeus et Jean avec des informations inquiétantes : l'Union de la Vallée, sous pression politique et économique, a décidé de confier les réfugiés à la Compagnie du Grès. Cependant, des rumeurs circulent : la mine du Front de Grès cacherait bien plus qu’une simple exploitation minière. Rosières a obtenu des témoignages troublants de réfugiés ayant travaillé brièvement pour la Compagnie avant d’être mystérieusement renvoyés ou portés disparus.
+Elle propose à Thaddeus et Jean de l’aider à enquêter pour découvrir ce que la Compagnie du Grès dissimule et, si possible, trouver des preuves irréfutables pour alerter l’opinion publique et bloquer leur emprise sur les réfugiés.
+Scène : Rencontre avec Rosières
+Lieu : Un camp de réfugiés à la périphérie d’Edrain, grouillant d’activité. Des enfants jouent avec des morceaux de bois, tandis que des adultes réparent des tentes et discutent à voix basse.
+Introduction : Rosières convoque Thaddeus et Jean dans une tente un peu à l’écart. À l’intérieur, deux réfugiés fatigués mais déterminés les attendent. L’atmosphère est tendue, et Rosières insiste sur l’importance d’écouter attentivement leurs récits.
+Les Deux Témoins
+1. Arno "le Marteau" Gerrick
+Description : Un homme robuste, la quarantaine, au visage marqué par des cicatrices et une barbe clairsemée. Son regard est dur, mais ses mains tremblent légèrement, trahissant un traumatisme récent.
+Historique : Ancien contremaître dans une carrière de pierre avant la guerre, il a été recruté par la Compagnie du Grès comme chef d’équipe. Il a rapidement démissionné après avoir vu ce qui se passait dans la mine.
+Témoignage clé :
+"Les conditions dans cette foutue mine... On ne traite même pas les bêtes comme ça. On nous poussait à creuser des zones instables, où la roche suintait une sorte de... de vapeur étrange. Un gars, Malik, a respiré ça de trop près et a commencé à délirer, à parler d’ombres dans les murs. Ils l’ont emmené. Moi, j’ai fermé ma gueule et j’ai démissionné dès que j’ai pu. Mais croyez-moi, ils cachent quelque chose dans ces tunnels."
+2. Lila Voss
+Description : Une jeune femme d’une vingtaine d’années, au visage émacié mais des yeux perçants. Elle porte un manteau élimé, visiblement trop grand pour elle, et une écharpe qui masque des marques de brûlures sur son cou.
+Historique : Orpheline et ancienne assistante d’un apothicaire dans sa région natale, elle a été embauchée par la Compagnie comme aide-médic pour les mineurs. Elle a fui après avoir découvert des "traitements" douteux administrés à certains ouvriers.
+Témoignage clé :
+"Ils m’ont engagée pour m’occuper des blessés, mais ils ne voulaient pas qu’on les soigne, pas vraiment. On m’a forcée à administrer une sorte de potion étrange aux malades, soi-disant pour leur donner de l’énergie. Mais plusieurs d’entre eux ont commencé à convulser, à hurler qu’ils voyaient des choses impossibles. Quand j’ai posé des questions, on m’a dit de me taire... ou de disparaître. J’ai fui cette nuit-là."
+Enquête et Approfondissement
+Exemples de témoignages potentiels
+Un ancien mineur (Gareth, un vieillard affaibli) :
+"Il y avait des bruits dans la roche, comme si elle respirait... parfois même chuchotait. Et ce n’est pas tout. Dans les couloirs profonds, on voyait des éclats de lumière, mais personne n’avait de torche. C’est pas naturel, je vous dis."
+Un réfugié récemment renvoyé (Tarek, 35 ans) :
+"Ils m’ont viré parce que j’avais la jambe cassée. Mais avant de partir, j’ai vu un groupe de types – pas des mineurs, ceux-là – descendre avec des caisses. Ils portaient des tenues noires, comme des soldats, mais sans aucun insigne. Ils ont fermé une porte derrière eux, et je jurerais qu’elle n’était pas là avant."
+Une ancienne cuisinière de la mine (Martha, 50 ans) :
+"On entendait des cris, la nuit. Pas ceux des mineurs blessés, non... c’était différent, comme si c’était pas humain. Un des gars disait que c’était des démons. Moi, je crois qu’ils faisaient des expériences sur les pauvres âmes qu’ils ne voulaient pas payer."
+Un réfugié effrayé (Jonas, 19 ans) :
+"Je travaillais près du puits principal quand ils ont trouvé ce... je sais pas, une sorte de boîte métallique avec des symboles dessus. Les gars qui l’ont touchée sont tombés malades. Mais au lieu de nous faire arrêter de creuser, ils ont juste envoyé plus de gens."
+Décision des PJ
+À ce stade, les joueurs devront choisir leur approche :
+Rassembler davantage de témoignages pour établir un dossier solide.
+S’introduire dans les bureaux locaux de la Compagnie à Edrain pour obtenir des preuves écrites ou contredire les versions officielles.
+Prendre contact avec d’autres mineurs actifs pour obtenir des informations en temps réel, mais cela les expose à des risques.
+Disparition d’Arno le soir même !
+Le témoin : Arno "le Marteau" Gerrick
+Après avoir livré son témoignage, Arno disparaît mystérieusement, laissant derrière lui des indices troublants.
+Où ? Arno vivait dans une cabane isolée à la lisière du camp de réfugiés, où il se sentait plus en sécurité qu’au cœur du camp.
+Quand ? Sa disparition est signalée le matin après sa rencontre avec les personnages, lorsqu’un autre réfugié, venu lui apporter de la nourriture, trouve sa cabane déserte.
+Qui ? :
+Les responsables sont des membres de la Compagnie du Grès. Ces membres surveillent les individus susceptibles de révéler des informations sensibles.
+Ils travaillent sous les ordres de Florilien Drumont, un ancien mercenaire connu pour ses méthodes brutales et son efficacité. Drumont dirige une petite unité spécialisée dans les "effacements" discrets avec Bérard, Prolon et deux autres gars.
+Comment les personnages apprennent-ils la disparition ?
+Un réfugié inquiet :
+Tarek, l’ancien mineur (mentionné précédemment), informe Rosières que quelque chose ne va pas. Il explique qu’Arno avait exprimé des craintes après leur réunion, parlant de "gens qui l’observaient".
+Tarek propose de montrer la cabane d’Arno aux personnages, mais il refuse de s’y aventurer seul.
+Indices dans la cabane :
+La cabane d’Arno est en désordre : la table est renversée, des éclats de bois sont au sol, et la porte montre des signes d’une effraction récente.
+Un bout de tissu noir déchiré est retrouvé coincé dans une latte du plancher, portant un emblème presque effacé. (Jet d’Intellect réussi : l’emblème pourrait être celui d’une compagnie paramilitaire affiliée à la Compagnie du Grès.)
+Une note griffonnée sur le sol, incomplète mais lisible :
+"Ils creusent trop profond… La vapeur… Les ombres..."
+Un témoin visuel :
+Un jeune garçon du camp prétend avoir vu des hommes emporter Arno dans la nuit.
+Il décrit une charrette bâchée quittant la cabane en direction de l’est, vers une ancienne route menant à la mine. (Jet de Charisme réussi : il accepte de donner plus de détails, mentionnant une odeur âcre et des voix murmurant.)
+Actions possibles des personnages
+Surveiller le camp :
+Les joueurs peuvent organiser une surveillance pour repérer d’éventuels membres de la compagnie. Le soir même, ils s’en prennent à Lila.
+Interroger les réfugiés :
+En parlant à d’autres habitants du camp, ils peuvent apprendre qu’Arno avait été approché par des étrangers se faisant passer pour des recruteurs de la Compagnie, lui offrant de l’argent pour retourner à la mine.
+Suivre la piste de la charrette :
+En suivant la route vers l’est, ils découvrent des marques de roues sur un chemin poussiéreux menant à une zone surveillée.
+À proximité, ils peuvent tomber sur un vieil entrepôt abandonné utilisé comme cache temporaire par Drumont et son équipe.
+Confrontation avec Drumont
+Rencontre indirecte :
+L’entrepôt contient des traces d’un campement récent : des cordes, des tâches de sang et des restes de nourriture.
+Rencontre directe :
+Si les joueurs s’attardent trop longtemps près de l’entrepôt, Drumont et deux de ses hommes reviennent pour récupérer leurs affaires.
+Drumont se montre d’abord moqueur et arrogant, testant les joueurs. En cas de combat, il tentera de capturer un des frères pour obtenir des informations sur ce qu’ils savent réellement.
+Éléments cruciaux pour la suite
+Les ombres et la vapeur :
+Les indices trouvés (note d’Arno, témoignage du garçon) orientent les joueurs vers une partie scellée de la mine où des phénomènes étranges sont observés.
+Le rôle de Drumont :
+En tant qu’agent clé de la Compagnie, Valrik peut devenir un antagoniste récurrent ou une source d’information, selon les choix des joueurs (intimidation, marchandage, etc.).
+La Zone Interdite :
+Tout mène à cette zone au cœur de la mine, mais elle est lourdement gardée et nécessite un plan d’infiltration ou une stratégie politique pour y accéder.
+Quête : La recherche d’Hubertin Lesquin
+Hubertin est recherché par la compagnie du grès, il est actuellement aux côtés du Prince des cendres.
+Jenelle et le Capitaine Emilien Leschères reçoivent Jean et compagnie pour présenter la situation.
+Ils recherchent Hubertin vivant pour un client à qui il a volé des documents importants.
+La prime est de 500 pièces.
+Hubertin a été vu la dernière fois à Cruciles il y a deux mois.
+Il apprend aux personnages qu’il a rejoint le Prince des cendres car un sinistre individu a pris le contrôle de la Table d’Emeraude avant de la détruire. Et qu’il va utiliser leurs découvertes pour réaliser quelque chose de grande ampleur au Front de Grès. Devant l’inaction des humains sur place, il se trouve plus en sécurité ici et espère que la Prince des Cendres prendra rapidement la ville avant que la catastrophe ne se produise.
+
+PARTIE 8 : INFILTRATION DU FRONT DE GRÈS
+
+Le détail de la partie se trouve dans ce document : Acte 1 - Le Front de Grès.
+Partie 9 : Vers le nord
+Nous sommes le 18e jour de Pluviôse 2680.
+Les personnages sont de retour à Edrain pour rendre compte à Rosières.
+Compte-rendu à Rosières
+Les personnages rapportent les événements qu’ils ont vécu au Front de Grès à Rosières. Cette dernière est accompagnée d’Adermin et d’Egolène.
+<Résumer ici les éléments rapportés par les personnages>
+Une fois la conversation terminée, Rosières invite les personnages à partir vers le nord au plus vite en compagnie d’Égolène, et de convier Priscille et Henrien si possible. Elle envisage de frapper fort avec une pierre deux coups :
+Hubertin pourrait témoigner des intentions de la Compagnie du Grès et porter un coup fatal à leur entreprise.
+La diffusion de la parole et de preuve de l’arrivée des Peaux Brunes peut renverser le pouvoir en place.
+Préparation à Edrain
+Le voyage vers le nord comprend plusieurs étapes, les personnages risquent de partir pendant plus d’une dizaine de jours.
+Jusqu’à Crusiles, par le chemin des Gameaux, il faut compter 2 jours (40km).
+Jusqu’à Amorin, par la route de Montalier, 2 jours supplémentaires (35km).
+Jusqu’à Montalier par la route éponyme, 1 jour (25km), ou par le sentier de Vanier, 3 jours (36km avec de la montagne).
+Les personnages doivent prévoir des provisions. Egolène se charge de fournir à Thaddeus la matière première pour ses préparations.
+Du côté de Léomire, le Vicaire Saturnin assure qu’il couvrira son absence auprès de l’Inquisiteur. Ce dernier n'est de toute façon pas satisfait de la tournure des événements et il se focalise sur les interrogatoires de réfugiés.
+Voyage jusqu’à Crusiles
+Les personnages partent le 19.
+Les personnages atteignent Saugerais en 4h, puis doivent emprunter le chemin des Gameaux pendant 6h.
+À Crusiles, Egolène connaît les Dorvain, une famille de 4.
+Le coût d’un voyage entre le relais de poste d’Edrain et de Saugerais revient à 2 postes, donc 3 pièces par cheval.
+Le coût d’un voyage entre le relais de poste de Saugerais et de Crusiles revient à 3.5 postes, donc 5 pièces 10 sous par cheval.
+-> Repos à Saugerais
+Les personnages peuvent faire escale à Saugerais pour ne pas enchaîner les 10h de voyage dans la même journée. Dans ce cas, en fonction de la qualité souhaitée, ils paieront entre 1 et 4 pièces par personne.
+X Campement sur le chemin des Gameaux
+Les personnages peuvent se reposer en campant sur le chemin des Gameaux avant d’arriver à Crusiles tôt le lendemain matin. S’ils ne disposent pas de paillasse, la nuit est très inconfortable et ils sont épuisés le lendemain s’ils échouent un test.
+X Faire le chemin d’un trait
+Les personnages peuvent faire 10h de voyage en une fois mais ils doivent dormir en arrivant et sont épuisés le lendemain s’ils échouent à un test.
+Arrivée à Crusiles
+Arrivée le 20 Pluviôse.
+Situation initiale
+Crusiles est une ville de 1200 habitants (300 en ville), autrefois 2800 avant les mouvements de population.
+https://www.saint-marcellin.fr/wp-content/uploads/2023/01/Patrimoine-de-Saint-Marcellin-circuits.pdf
+https://upload.wikimedia.org/wikipedia/commons/e/e3/021_album_dauphin%C3%A9%2C_st_marcellin%2C_Is%C3%A8re%2C_by_AD_cropped.jpg?uselang=fr
+https://p.cartorum.fr/recto/maxi/000/168/584-saint-marcellin-saint-marcellin-vue-generale.jpg
+La ville est barricadée.
+La compagnie misterroise en a pris le contrôle par le Major Alcide Marceval.
+Sécuriser la frontière nord
+Empêcher les fuites d’information sur les Peaux Brunes
+Le discours officiel est : 
+Impossible d’accueillir les réfugiés
+Renvoi ou arrestation des réfugiés vers les camps d’Edrain
+Toute opposition ou discours contraire = trouble à l’ordre public
+Population coupée en deux sur la situation
+Les connaissances de Crusiles :
+Egolène connaît une famille à Crusiles.
+Les membres de la compagnie à l'entrée de la ville tente d'imposer le péage au groupe, puis les laissent entrer.
+Sur place, la famille les accueille chez elle et leur expose la situation en ville.
+D'abord neutre, les membres de la famille ont appris qu'un neveu venant d'une petite ville plus au nord appelée Amorin.
+Arrivé à Crusiles pour chercher de l'aide après un raid de Peaux Brunes.
+La compagnie l'a d'abord rejeté mais devant son insistance, il a été arrêté et il n'a plus donné de nouvelles depuis.
+La famille demande expressément au groupe de les aider.
+Trouver un moyen de sauver le neveu :
+Le groupe de personnage va devoir trouver un moyen de convaincre le Major de libérer le neveu, d'une manière ou d'une autre. Il y a plusieurs options :
+un affrontement avec la compagnie pour mettre le Major aux arrêts
+convaincre le Major de laisser le neveu partir
+faire s'évader le neveu.
+Dans tous les cas, le neveu réitère son appel à l'aide auprès du groupe de personnages, ce qui les conduira ensuite à Amorin.
+Egolène fait appel : 
+A la moralité des personnages
+A la praticité, un membre de la confrérie des chemins noirs est à Amorin et peut aider à infiltrer la région des Peaux Brunes.
+Options de développement et de conflits possibles :
+Le Clerc Augustin tente de négocier avec le Major pour relâcher le neveu.
+Kleber Renoux et Jeannille Moineau cherchent une issue honorable pour quitter la compagnie sans être traités de traîtres.
+Corbin Ravez cherche une excuse pour discréditer le Major et prendre sa place.
+Le groupe pourrait tenter d’armer certains habitants si un combat éclate.
+Une trahison est possible : Anthonide Varnot pourrait dénoncer les plans du groupe.
+Départ avec le neveu et remerciement de la famille :
+Une fois le neveu libéré, la famille remercie le groupe.
+Si le groupe à influencer le Major, il pourrait réduire son emprise sur la Crusiles.
+Si le groupe à vaincu le Major, les habitants de Crusiles trouveront un accord avec les membres restants de la compagnie pour arrêter les abus et accueillir plus de réfugiés, ouvrant la voie à une diffusion de l'information concernant les Peaux Brunes dans la vallée.
+PNJs
+Les Dorvain
+Une famille de notables locaux, citoyens de la Vallée, qui connaissent Égolène. Ils n’ont jamais été révolutionnaires, mais l’arrestation de leur neveu les a poussés à se positionner.
+Mathurin et Clémie Dorvain (parents, 50-55 ans)
+Mathurin : Propriétaire d’une exploitation agricole (blé, seigle, bétail) en périphérie de la ville. Homme pragmatique, il cherche à protéger sa famille mais craint la compagnie.
+Clémie : Femme de lettres et institutrice, respectée par la communauté. Elle est plus engagée que son mari et veut que justice soit faite.
+Léon Dorvain (frère ainé, 30 ans, épicier)
+Époux de Mireine, père de Junien et Mariette (enfants de 10 et 7 ans).
+Pratique une discrète solidarité avec les réfugiés en vendant des provisions à bas prix.
+Anicée Dorvain (sœur cadette, 24 ans, sage-femme)
+Sa profession lui permet de se déplacer en ville sans trop attirer l’attention.
+Elle connaît bien certains soldats et peut servir de messagère ou de lien avec la résistance.
+Adrilas Jorin (neveu emprisonné, 19 ans)
+Fils du frère de Clémie Dorvain, venu d’Amorin.
+A fui après un raid Peaux Brunes, pensant trouver refuge à Crusiles.
+Jeune idéaliste qui croit que la Vallée doit réagir avant qu’il ne soit trop tard.
+En prison depuis quelques jours, affaibli, mais encore combatif.
+Possède des informations précieuses sur l’attaque d’Amorin et la stratégie des Peaux Brunes.
+Les membres de la compagnie
+
+Le Major Alcide Marceval (chef de la compagnie, 28 ans)
+Noble de second rang, formé à l’académie militaire d’Edrain.
+Envoyé ici pour son premier commandement, il sait que son avenir dépend de sa gestion de la situation.
+Tiraillé entre les ordres et sa morale, il voit l’ombre de la trahison partout.
+Ne veut pas une mutinerie et ferme trop souvent les yeux sur les abus de ses hommes.
+Peut être influencé par les joueurs s’ils lui donnent une porte de sortie honorable.
+Sergent Kleber Renoux (40 ans, vétéran loyaliste)
+A servi dans l’armée régulière avant de se reconvertir en mercenaire.
+Respecte encore une certaine éthique militaire et ne supporte pas les exactions.
+Peut devenir un allié clé pour convaincre d’autres soldats de modérer leurs actions.
+Jeannille Moineau (26 ans, tireuse d’élite)
+N’a rien contre la mission, mais exècre les brutes de la compagnie.
+Si elle voit que le groupe est capable de mettre de l’ordre, elle pourrait retourner sa veste.
+Possède un accès direct aux plans du quartier général.
+Luvien "Gros Ours" (30 ans, colosse bienveillant)
+Grand gaillard à l’air dur, mais il déteste voir des innocents souffrir.
+Peu subtil, il préfère "ne pas voir" quand des prisonniers s’évadent…
+Idéal pour fournir un accès discret aux cellules.
+Sergent Corbin Ravez (35 ans, brutal et ambitieux)
+Ancien officier rétrogradé pour actes de cruauté.
+Prend un plaisir sadique à soumettre les réfugiés et les habitants.
+Veut destituer le Major et prendre la tête de la compagnie.
+Il a des soutiens dans la Vallée, qui pourraient accorder leur bénédiction à un coup d’État interne.
+Anthonide Varnot (30 ans, maître-chanteur)
+Profite de la situation pour racketter les habitants et les réfugiés.
+Connaît les secrets des habitants et pourrait les dénoncer au Major ou à Ravez.
+Il a des informateurs dans la population, compliquant l’organisation de la résistance.
+Pierremont "le Boucher" (25 ans, brute sanguinaire)
+Se complaît dans la violence, aime torturer les prisonniers.
+Prendra le commandement s’il n’y a plus de chef, juste pour avoir le champ libre.
+Si le Major tombe, il poussera Ravez à massacrer la population.
+Les habitants résistants de Crusiles
+Des citoyens de la ville s'opposent discrètement à la compagnie. Ils connaissent le terrain et peuvent fournir des ressources.
+Clerc Augustin Brelot (clerc, 63 ans)
+Tient une petite église qui sert de refuge officieux aux réfugiés et aux dissidents.
+Ancien aumônier militaire, il sait parler aux soldats et comprendre leurs failles.
+Peut convaincre les mercenaires hésitants d’abandonner la répression.
+Esthel Garnier (aubergiste, 42 ans)
+Propriétaire de la seule auberge de la ville, où se retrouvent aussi bien les habitants que les soldats.
+Possède une cave secrète où cacher des fugitifs.
+Connaît les secrets et les faiblesses de nombreux soldats, et pourrait fournir des informations utiles.
+Félix Lebron (ancien cambrioleur, 37 ans)
+A purgé une peine pour vol à main armée et a refait sa vie à Crusiles.
+Expert en infiltration, il pourrait aider à s’introduire dans la prison.
+Opportuniste : il aidera le groupe si on lui promet une récompense.
+Vilaire, l’initié des chemins noirs.
+
+Partie 10 : Résistance à Crusiles
+Soir du 21 Pluviôse 2680, dans la maison des Dorvains.
+Les personnages ont été convaincus par le sergent Renoux et les Dorvains de lutter contre la frange radicale des membres de la compagnie Mistéroise en poste à Crusiles. À leur tête, le redoutable sergent Corbin Ravez et sa suite, Varnot et le Boucher.
+La veille de l’assaut
+Dans le salon feutré des Dorvains, la lueur vacillante du feu de cheminée dessine des ombres dansantes sur les murs en pierre. L'atmosphère est lourde d'incertitude et de mélancolie. Le crépitement du bois enflammé se mêle aux murmures étouffés des convives, comme si le temps lui-même retenait son souffle avant l'assaut imminent.
+Les visages et les regards :
+Chaque personnage, des Dorvains aux résistants et même au Sergent Renoux, porte sur son visage la gravité d'une nuit qu'ils savent potentiellement définitive. Les yeux se perdent dans la contemplation des flammes, et dans ce silence lourd, on devine les pensées les plus intimes et les regrets silencieux.
+Sujets de conversation :
+Les souvenirs et les espoirs : Certains évoquent discrètement les souvenirs d'enfance, les moments heureux avant que l'occupation ne vienne tout changer. Clémie parle d’un temps où la ville se remplissait de rires et de marchés animés, tandis que Mathurin se souvient avec nostalgie des saisons de moissons abondantes.
+Les risques de l'assaut : Le Sergent Renoux, assis en bout de table, expose calmement les grandes lignes du plan. Sa voix, basse et posée, trahit une tension contenue : il rappelle que, malgré le courage et la stratégie, il y a des risques mortels. Quelques résistants échangent des regards inquiets en murmurant sur les soldats violents et sur le fait que cette nuit pourrait être leur dernière.
+Les motivations personnelles : Chacun confie à voix basse ses raisons de se battre. Un des jeunes, la voix tremblante, confie qu'il se bat pour protéger sa sœur, tandis qu'une femme âgée, le regard déterminé, insiste sur le devoir de préserver l'honneur et la dignité de leur communauté.
+L'incertitude du lendemain : La conversation se fait plus sombre lorsque les débats portent sur ce que demain pourrait réserver. Certains parlent de la possibilité d’un sacrifice héroïque, d'autres s’interrogent sur l’avenir de Crusiles si l'assaut échoue. Un silence respectueux s’installe lorsque le nom de Ravez et de ses hommes est prononcé, chaque mention rappelant la brutalité imminente.
+Ambiance et détails sensoriels :
+La chaleur contrastante : Tandis que le feu diffuse une chaleur réconfortante, l’air extérieur glacial semble déjà pointer son nez, rappelant que la sécurité de ce foyer n'est qu'une parenthèse fragile.
+La musique discrète : Dans un coin, quelqu’un peut jouer un air de violon, diffusant un morceau de musique mélancolique, renforçant l'impression que chaque note pourrait être la dernière.
+Les gestes et les silences : Des regards se croisent, des mains se serrent discrètement, comme autant de pactes silencieux entre ceux qui savent qu’ils doivent se battre ensemble, malgré leurs peurs et leurs doutes. Le silence ponctué de quelques éclats de rire nerveux témoigne de la tension partagée et de la solidarité naissante.
+Un moment suspendu dans le temps :
+Ce salon devient alors le théâtre d'une communion silencieuse. Le poids du devoir et de la mort imminente se mélange aux espoirs ténus d'un avenir meilleur. Dans cette lumière tamisée, chaque personnage, chaque mot chuchoté, réaffirme leur engagement : ils sont prêts à affronter l'inconnu, à risquer leur vie pour la liberté et pour protéger ceux qu'ils aiment.
+Ce moment de calme, presque irréel, laisse transparaître la vulnérabilité humaine, tout en nourrissant la détermination. C'est la veille d'un assaut qui marquera leur existence, et dans cette nuit, les émotions se mêlent aux ultimes instants d'une paix précaire avant le tumulte du lendemain.
+L’assaut de la barricade sud
+Aux premières lueurs du 22 Pluviôse 2680…
+Prélude dans la Brume
+Aube et atmosphère : Au petit matin, la ville de Crusiles est enveloppée d’une brume épaisse qui rend les contours des bâtiments flous et transforme les rues en ombres mouvantes. Le froid mordant et l’humidité du givre sur les pavés amplifient le silence précaire avant le chaos.
+Mise en place : Le groupe se positionne discrètement dans les rues adjacentes à la Grande Place d'Armes. Le Sergent Renoux, calme et déterminé, fait le compte des hommes qui l’accompagnent et répartit les rôles : certains se chargeront de la diversion, d’autres guetteront l’approche des patrouilles sur la barricade sud.
+La Diversion – Feu et Fuite
+Action planifiée : Pour détourner l'attention de la compagnie, le plan consiste à déclencher un incendie dans un stock de tissus situé à l’ouest des halles, à mi distance entre la barricade et la place des armes. Le bâtiment, peu surveillé, est choisi pour sa proximité stratégique et son potentiel à générer un chaos contrôlé.
+Lancement de la diversion : À la demande du Sergent Renoux, deux résistants lancent un petit explosif improvisé (conçu par Thaddeus) qui, en déclenchant une explosion suivie d’un incendie, projette des étincelles et de la fumée vers le sud. La brume se mêle aux flammes, créant un spectacle terrifiant qui attire immédiatement l’attention des soldats.
+Conséquence immédiate : Quelques soldats, alertés par l’alarme et la panique initiale, quittent la barricade sud pour se diriger vers l’incendie, espérant maîtriser la situation. Le groupe parvient ainsi à isoler Ravez et ses hommes, réduisant leur effectif de combat.
+L'Appât – Le Jeune Adrien en Fuite
+Exécution de la manœuvre : Pendant que le chaos se répand sur le terrain, un autre élément du plan est mis en œuvre. Le jeune Adrien (ou Egolène déguisée), préparé et complice malgré sa condition fragile, est mis en scène pour simuler une fuite désespérée hors de la ville.
+Effet sur l'ennemi : Dans la confusion, quelques soldats détachés se détachent de la barricade pour poursuivre Adrien dans les forêts environnantes. La poursuite, filmée par la tension de la fuite, accentue l’impression d’un ordre qui se défait.
+Impact stratégique : Cette action contribue à déstabiliser davantage la garde sur la barricade sud, isolant encore plus Ravez et ses hommes du reste de la compagnie.
+L’Assaut – Percée dans la Barricade
+Phase d'engagement : Profitant du désordre créé, le Sergent Renoux mène une équipe choisie pour prendre d’assaut la barricade sud. Dans la pénombre de la brume matinale, les premiers coups de feu retentissent.
+Description de l'assaut : 
+Des éclairs de projectiles illuminent brièvement la scène.
+Des cris se mêlent aux bruits sourds des explosions et des affrontements rapprochés.
+Le son des armes à feu et le cliquetis des munitions se répercutent contre les murs de pierre de la barricade.
+L’assaut est rapide, intense et méthodique. Renoux, à la tête de son équipe, ordonne des actions précises pour neutraliser les hommes restants, notamment Varnot et "le Boucher", deux soldats particulièrement brutaux et dangereux.
+Ambiance cinématographique : La lumière pâle du petit matin, mêlée à la fumée et aux reflets des flammes, crée une atmosphère surréaliste où chaque geste, chaque coup, semble gravé dans le temps. L’adrénaline et la tension se ressentent dans chaque coup porté et chaque cri d’effroi.
+Conclusion de l’Assaut et Réactions
+Résultat immédiat : Sous la pression de la diversion, de la poursuite d’Adrien et de l’assaut précis de Renoux, Ravez et ses hommes sont rapidement neutralisés ou se replient dans un désordre confus.
+Implications pour la ville : La barricade sud est prise, et le Major Marceval, apprenant la nouvelle, se retrouve dans une position précaire. Le désordre généré permet aux résistants d’envisager une restructuration : soit ils forcent Marceval à reconnaître leur autorité, soit ils exploitent la faiblesse apparente de la compagnie pour libérer davantage de prisonniers et gagner le soutien des habitants.
+Ambiance finale : Alors que la brume matinale commence à se dissiper, laissant entrevoir un soleil timide, la ville est plongée dans un moment de répit teinté de peur et d'espoir. Les cris, les éclats de feu et les premiers coups de feu s'estompent, remplacés par des murmures de victoire et d’incertitude quant à l’avenir.
+Les personnages se reposent pendant 2 jours, jusqu’au 24 au matin.
+
+Partie 11 : Le Sentier d’Amorin
+Matin du 24 Pluviôse 2680, départ de Crusiles.
+Contexte narratif
+Après l'assaut réussi à Crusiles, le groupe se remet de ses blessures et se prépare à poursuivre sa quête vers le nord, en direction d'Amorin, la ville d'origine du jeune Adrien. À Amorin, ils espèrent trouver Vilaire, un initié de la Confrérie des Chemins Noirs, qui serait le lien essentiel ayant conduit Hubertin jusqu'au chef des Peaux Brunes, le Prince des Cendres.
+Enjeux stratégiques
+La Confrérie des Chemins Noirs est la mémoire vivante des routes anciennes. Leur aide permettra non seulement d'éviter les patrouilles et les embûches des Peaux Brunes mais aussi de bénéficier de leur expertise pour naviguer dans un territoire où la connaissance des sentiers est synonyme de survie.
+Cependant, les personnages ne rentrent pas naturellement dans la catégorie des "nécessiteux" que la confrérie aide habituellement. Vilaire, en particulier, devra être convaincu de la légitimité ou de l'intérêt de les aider, ou bien se voir offrir un service de valeur en échange.
+Voyage vers Amorin
+8h de marche permet au groupe de rejoindre Amorin vers 17h30. Amorin s’inspire de Voiron en Isère.
+Arrivée à Amorin
+Le groupe arrive en bordure d'Amorin, une petite ville au charme rural qui porte les traces des raids et des incendies.
+Adrilas, les larmes aux yeux, remercie le groupe et se dirige vers la ville. Egolène, visiblement troublée, recommande aux personnages de chercher Vilaire au pied du belvédère. De son côté, elle va suivre Adrilas.
+Les personnages font ainsi sa rencontre alors qu’il entretient un bosquet à l’entrée du sentier des gorges.
+
+
+Le sentier des gorges
+Vilaire, guide et initié de la Confrérie, conduit les personnages hors des sentiers battus d’Amorin, les invitant à emprunter un ancien sentier sacré. Ce chemin, dissimulé au cœur d’une forêt dense et baigné de mysticisme, sert de lieu d’épreuve autant que de révélation.
+Au fil de la progression, il oppose ses valeurs – le respect de l’ancien monde, la préservation des chemins oubliés et la foi en l’harmonie de la nature – aux motivations parfois égoïstes ou incertaines des personnages.
+Le sentier est composé de plusieurs étapes distinctes, chacune marquant un niveau de profondeur, tant physique que spirituel, et mettant en lumière une question morale ou existentielle qui interpelle le groupe.
+Etape 1 : L’Entrée du Sentier
+Lieu : L’entrée se trouve à proximité d’un vieux chêne centenaire, dont les branches s’entrelacent pour former un auvent naturel. De petites inscriptions gravées sur l’écorce laissent entrevoir des symboles anciens, témoignage des rites de la Confrérie.
+
+
+Ambiance et Initiation : Vilaire explique que ce premier seuil marque l’abandon temporaire du tumulte du monde extérieur. Ici, il demande aux personnages de se défaire des exigences matérielles et de réfléchir à leurs véritables motivations.
+
+
+“Voyez-vous, ce chêne a abrité bien des âmes, des espoirs et des désillusions. Dites-moi, qu'est-ce qui vous pousse à quitter le confort du connu pour affronter l'inconnu ? Est-ce l'illusion de la gloire ou la quête sincère de vérité ?” “Ici, dans le silence de la nature, débarrassez-vous de vos vanités. Laissez derrière vous ces fardeaux matériels qui vous encombrent. Qui êtes-vous, vraiment ?”
+
+
+Le groupe ressent une légère sensation de fraîcheur et de calme, contrastant avec l’agitation qu’ils ont laissée derrière eux. Une atmosphère de recueillement s’installe.
+
+
+Question morale : Qu’attendez-vous de cette quête ? Cherchez-vous la rédemption, la vérité, ou simplement l’aventure ?
+Etape 2 : Le Carrefour des Âmes
+Lieu : Plus loin, le sentier se divise en plusieurs passages au sein d’une clairière entourée de pierres disposées en cercle, comme un autel naturel. Des pierres polies portent encore des marques d’anciens rites, accentuant le caractère sacré du lieu.
+
+
+Ambiance et Initiation : Vilaire invite le groupe à s’asseoir en cercle autour de ces pierres. Ici, il expose la philosophie de la Confrérie en racontant l’histoire des anciens voyageurs, de ceux qui ont sacrifié une partie de leur propre ambition pour le bien commun.
+"Regardez ces pierres. Chacune porte l'empreinte de ceux qui ont osé s'abandonner à la voie de la connaissance. Elles nous rappellent que la véritable force naît du renoncement à l'égo. Dites-moi, êtes-vous prêts à sacrifier une part de vous pour le bien commun, ou restez-vous accrochés à des ambitions vaines ?"
+"Certains d'entre vous se battent pour des rêves éphémères, pour des honneurs qui ne durent qu'un souffle. Mais qu'en est-il de l'héritage que vous laisserez derrière vous ? Prendrez-vous le parti de la lumière ou de l'obscurité qui vous ronge lentement ?"
+
+
+Un léger frisson, semblable à une caresse d’air froid, semble passer sur la peau des personnages, leur rappelant la fragilité et la beauté du sacrifice.
+
+
+Question morale : "Êtes-vous prêts à renoncer à une partie de vos ambitions personnelles pour le bien commun ?"
+Les personnages peuvent ressentir l’influence subtile de la clairière qui semble peser sur leurs cœurs, les invitant à s’ouvrir à l’idée de sacrifice et d’empathie.
+Etape 3 : Le Lieu des Reflets
+Lieu : Le sentier débouche dans une zone où une petite mare reflète le ciel d’un bleu profond, encadrée par des rochers recouverts de mousse et de lichen. On raconte que cette mare a le pouvoir de révéler, dans ses reflets, l’essence véritable de ceux qui la contemplent.
+
+
+Ambiance et Initiation : Vilaire demande aux personnages de se pencher sur l’eau et de lire dans leurs reflets les aspects cachés de leur âme.
+
+
+"Regardez dans cette eau et contemplez votre reflet. Voyez-vous ces marques, ces fissures ? Elles ne sont pas là par hasard. Elles témoignent des combats que vous avez livrés, des rêves brisés et des promesses non tenues. Qu'êtes-vous prêt à admettre à vous-même ?"
+"Êtes-vous capables d'affronter vos propres faiblesses, de reconnaître que ce que vous chérissez n'est qu'un pâle reflet d'une réalité plus vaste et souvent cruelle ? Acceptez-vous cette part d'ombre, ou refusez-vous de voir au-delà de vos illusions ?"
+
+
+Le silence se fait lourd, et quelques personnages peuvent éprouver une mélancolie ou un éveil de conscience, voyant en eux des vérités difficiles à accepter.
+
+
+Question morale : "Êtes-vous prêts à reconnaître vos faiblesses afin de vous renforcer ?"
+Ce moment, presque mystique, intensifie l'influence du lieu sacré et peut amener les personnages à se méfier de l’attraction de ce pouvoir révélateur.
+Etape 4 : L’Épreuve du Passage
+Lieu : L’étape finale se situe à l’orée d’un ancien pont de pierre – vestige d’un temps révolu –, qui mène à un sanctuaire isolé, lieu de méditation et de recueillement ultime pour les initiés de la Confrérie.
+
+
+Ambiance et Initiation : Vilaire explique que le passage à travers ce pont symbolise le franchissement d'un seuil entre l'ancien monde et leur nouveau destin.
+
+
+"Ce pont marque la frontière entre le monde des hommes et celui des vérités oubliées. Ici, vous devez décider : avancez-vous en vous abandonnant à la clarté de la vérité, ou choisissez-vous de rester dans l'ombre de vos ambitions éphémères ?"
+"Souvenez-vous, le chemin vers la lumière exige parfois le sacrifice de tout ce que vous pensiez être. Ce n'est pas une quête pour les faibles de cœur. Ceux qui se tiennent ici doivent être prêts à renoncer à leur fierté, à embrasser leur véritable nature, aussi douloureuse soit-elle. Quel sera votre serment ?"
+"Ne laissez pas vos peurs obscurcir votre vision. Marchez sur ce pont, non pas par bravoure, mais par la conviction qu'au-delà de ces pierres se trouve la vérité – celle qui vous libérera, ou vous détruira pour toujours."
+
+
+Sous la pression du moment, les personnages ressentent la lourdeur du temps. Le pont grince légèrement, comme s’il exprimait la douleur des siècles passés, et chaque pas résonne comme l’écho d’un serment ancien.
+
+
+Question morale : "Qu'êtes-vous prêts à sacrifier pour marcher sur ce chemin et embrasser la vérité que nos ancêtres ont laissée ?"
+C’est ici que Vilaire conclut l'initiation en demandant un engagement, une acceptation consciente des valeurs de la Confrérie.
+Conclusion de la Scène
+Au terme de cette traversée initiatique, l'atmosphère se fait plus lourde et mystérieuse. Les personnages, marqués par ces épreuves tant physiques que spirituelles, ont tous ressenti l'influence du lieu sacré. La progression du sentier, tant sur le plan moral que intemporel, leur a permis de mesurer le poids de leurs choix et d'appréhender la mission avec un regard renouvelé.
+Vilaire, dans un dernier murmure chargé d’émotion, scelle l'engagement du groupe : 
+"Vous avez marché sur les chemins de l'âme. Que vos pas futurs soient guidés par la lumière des anciens et non par l'ombre des ambitions éphémères."
+Ce moment suspendu dans le temps, entre révélation personnelle et initiation aux traditions ancestrales, renforce l'enjeu de leur quête. Ils savent désormais que la route vers Hubertin ne sera pas simplement une traversée géographique, mais un voyage intérieur qui testera leur clairvoyance et leur détermination.
+
+Partie 12 : Montalier occupée
+Soir du 27 Pluviôse 2680, arrivée dans les hauteurs de Montalier.
+Montalier
+Pourquoi beaucoup d’habitants sont restés à Montalier
+Racines familiales et patrimoine : Beaucoup vivent de fermes, d’ateliers ou de petits commerces hérités de leurs ancêtres. Quitter Montalier équivaudrait à abandonner un héritage — terres, bêtes, savoir-faire — qu’ils veulent préserver pour les générations futures.
+
+
+Ressources et subsistance : Même déclinante, l’économie locale fournit toujours charbon de bois, minerais résiduels et productions agricoles de montagne (fromages, herbes médicinales). Ces revenus, quoique modestes, sont essentiels : partir signifie tout recommencer ailleurs, sans garantie de succès.
+
+
+Espoir de retour et distances : La vallée n’est pas à portée de tous : certains vieillards, familles nombreuses ou personnes sans ressources ne peuvent envisager un long exode. Ils espèrent un retour rapide à la « normale » une fois le conflit apaisé.
+
+
+Solidarité et enjeu collectif : Rester, c’est aussi montrer qu’on n’abandonne pas la frontière : les « résistants » locaux, anciens combattants ou simples civils, tiennent à défendre leur foyer et leur mémoire collective contre l’envahisseur.
+Conséquences sur le quotidien et l’économie
+Déclin démographique : Chaque départ réduit la main-d'œuvre, fermant progressivement les ateliers et petites exploitations. Les commerces de première nécessité (boulangerie, forge) survivent mais voient leur activité chuter.
+
+
+Modification des structures sociales : Les institutions (bureau de poste, école) ferment ou passent en mode « survie » : cours réduits, bureaux ouverts quelques heures par semaine.
+
+
+Vie communautaire renforcée : Les restants se regroupent dans le vieux centre fortifié, s’entraidant pour la garde, le ravitaillement et la défense. Les fêtes et marchés sont rares, mais ceux qui subsistent deviennent des moments symboliques de cohésion.
+Situation
+Montalier, jadis forteresse de 20 000 âmes, a vu près de 35 % de sa population fuir lors des premiers affrontements avec l’avant‑garde du Prince des Cendres, tandis que quelques centaines ont péri dans les escarmouches.
+Aujourd’hui, environ 12 000 habitants vivent sous occupation : un gouvernement militaire élémentaliste assure l’ordre, prélève vivres et main‑d’œuvre pour la survie de 100 000 Peaux Brunes établis dans la région, et maintient un strict rationnement.
+Malgré la baisse drastique de l’activité économique — ateliers fermés, écoles réduites — la population restante, profondément attachée à sa terre, s’efforce de subsister via l’agriculture de montagne et un commerce de subsistance, tout en développant des stratégies de résistance passive et de solidarité locale.
+Démographie et exode
+Population initiale : 20 000 habitants avant les premiers raids.
+
+
+Exode : Montalier a perdu environ 7 000 âmes (35 %), dont :
+5 000 réfugiés internes vers la Vallée de la Miste.
+2 000 exilés (8%) vers des cités plus sûre.
+
+
+Pertes directes : Environ 500 civils tués ou blessés.
+
+
+Population restante : ~12 500 habitants, concentrés dans le vieux bourg fortifié et les faubourgs proches.
+Administration militaire
+Gouvernance : Le Prince des Cendres délègue à ses commandants.
+
+
+Contrôle civil : Des conseils municipaux maintenus gèrent les services de base — registres, ravitaillement, secours.
+
+
+Rationnement : Les vivres (pain, viande, charbon) sont distribués selon un système de tickets.
+
+
+Économie et subsistance
+Agriculture de montagne : L’élevage ovin et la culture de pommes de terre et céréales restent la base de la subsistance.
+
+
+Travail forcé : Une partie des habitants est réquisitionnée pour construire des fortifications et acheminer des vivres.
+Vie quotidienne et résistance
+Services réduits :
+École : Fonctionne 2 jours par semaine.
+Santé : Infirmières et guérisseurs pallient l’absence de médecins militaires.
+
+
+Solidarité locale :
+Refuge clandestin : Certains habitants hébergent des familles dorénavant sans toit.
+Résistance passive : Refus de travailler pour l’occupant pour saboter la production.
+Conclusion
+Montalier se présente comme une ville fortifiée en déclin démographique et économique, mais dont les habitants restants témoignent d’une forte résilience et s’adaptent à une vie austère sous occupation pragmatique.
+Le Prince des Cendres y implante un ordre militaire structuré, s’appuyant sur la production agricole locale et un rationnement rigoureux, tout en maintenant les services clés.
+Approche directe
+Situation initiale
+Alors que la route se fraie un chemin dans les remparts, les personnages débouchent en vue de Montalier : tours branlantes, créneaux murmurant les souvenirs d’un autre temps, silhouettes de Peaux Brunes en patrouille. Leur présence attire l’attention immédiatement.
+Déroulé rapide
+Patrouille d’interception
+Un détachement de gardes les encercle, armes au poing.
+Les PJ sont désarmés, menottés (ou équivalents) et escortés jusqu’au Bureau d’un Commandant dans la caserne.
+
+
+Premier interrogatoire
+Un officier interroge les PJ : qui ils sont, ce qu’ils veulent, d’où ils viennent.
+S’ils parviennent à formuler une demande cohérente, l’officier fait venir un émissaire.
+
+
+Audience avec un émissaire
+Le groupe doit justifier son expédition (Hubertin ? Sa protection ? Sa neutralisation ?).
+En fonction de la qualité de leur plaidoyer et de leurs preuves, cet émissaire organise une audience formelle.
+Approche indirecte
+Infiltration discrète dans la cité fortifiée
+Arrivée de nuit : Les PJ doivent passer 2 points clés.
+La muraille ou la porte (escalade ou persuasion des gardes).
+Les patrouilles sous couvre feu (dissimulation ou persuasion des gardes).
+
+
+Repérages et informations : Les habitants sous occupation se trouvent dans la vieille ville. Les personnages peuvent questionner des habitants jusqu’à trouver des informations sur Hubertin. Ce dernier réside dans l’hôpital des Trinités à l’en-haut.
+L’Hôpital des Trinités – Le refuge d’Hubertin
+https://fr.wikipedia.org/wiki/Couvent_Sainte-Marie_d%27en-Haut
+Portail d’honneur :  Ils débouchent dans une cour intérieure pavée, faiblement éclairée, puis vers des couloirs silencieux.
+
+
+Rencontre avec Hubertin : Dans son laboratoire, entouré de creusets fumants et de fioles phosphorescentes, Hubertin lève les yeux. Méfiant d’abord, il reconnaît Thaddeus ou Jean s’ils sont présents. Les PJ ont quelques instants pour le rassurer : ils ne sont pas des émissaires de la Main Noire, mais des alliés venus empêcher un désastre.
+
+
+Rencontrer Hubertin
+Après-midi du 28 Pluviôse 2680
+Rôle et relations passées
+Ancien maître alchimiste : Hubertin était le maître respecté de la Table d’Émeraude, une assemblée d’alchimistes de haut niveau à Edrain, vouée à la découverte du Grand Œuvre (Magnus Opus).
+
+
+Maître de Thaddeus : C’est lui qui a pris sous son aile l’orphelin Thaddeus, reconnaissant en lui une curiosité rare pour les mystères du monde.
+
+
+Conflit avec Zacharias : Parmi ses confrères siégeait Zacharias, dont la soif de pouvoir l’a poussé à trahir la Table et à transmettre les secrets du rituel de Hubertin à la Main Noire.
+Le rituel du Front de Grès
+Concepteur principal :  Hubertin a élaboré le rituel qui nécessite une énorme quantité d’Aestus pour ouvrir un canal vers l’espace inter-dimensionnel où sont emprisonnés les Anciens.
+
+
+Élément manquant : Il détient la clé sans laquelle Zacharias et Leschères ne peuvent mener à bien le rituel.
+La fuite et l’exil
+Traqué par le Fou et le Cavalier : Après la trahison de Zacharias et l’alliance de ce dernier avec Emilien Leschères, Hubertin a dû prendre la fuite, échappant de peu à leurs filets.
+
+
+Séparation de Thaddeus : Pour protéger son jeune apprenti, il l’a conduit en lieu sûr, puis a disparu avant la prise de contrôle de la Table d’Émeraude par le Fou.
+Alliance temporaire avec le Prince des Cendres
+Refuge chez les Peaux Brunes : Harcelé par la Main Noire, Hubertin s’est tourné vers le Prince des Cendres, chef des Peaux Brunes, en lui offrant son savoir en échange d’un abri.
+
+
+Objectif commun : Il a proposé d’aider le Prince à mieux comprendre la vallée (cartographie, renforcement de ses Élémentalistes) afin de contrer la mise en place du rituel du Front de Grès.
+Motivations et dilemmes
+Empêcher la Main Noire : Hubertin craint qu’entre les mains de Zacharias, son rituel n’ouvre non pas un passage pour la protection de la civilisation, mais une porte à la destruction.
+
+
+Ambivalence face aux Peaux Brunes : S’il a trouvé refuge chez le Prince, son aide pourrait conduire à une conquête plus rapide de la vallée, avec ses propres violences : il s’agit d’un compromis moral lourd.
+Interactions possibles
+Le mentor désabusé
+Hubertin va résister à l’idée de partager son savoir : il sait trop bien que cette clef peut devenir un fléau. Cette méfiance initiale contraindra les joueurs à faire preuve de leur sincérité et de leur détermination à l’empêcher de tomber entre de mauvaises mains.
+Argumenter par l’éthique : Thaddeus plaide pour la responsabilité morale ; le groupe peut utiliser les témoignages des horreurs déjà provoquées par la Main Noire pour le convaincre.
+
+
+Prouver leur utilité : En exposant leur plan pour faire échouer, ou du moins limiter, le rituel, les PJ peuvent lui montrer qu’ils ne sont pas de simples dévots du pouvoir.
+L’alliance pragmatique
+Hubertin est prêt à sacrifier la vallée à un chef étranger s’il croit que c’est le moindre mal face à la corruption de la Main Noire. Cette posture créera un dilemme : aider celui qui jadis les menaçait, pour chasser un mal pire encore ? 
+Négociations : Les PJ peuvent tenter de lui montrer qu’ils ont une troisième voie, ni la Main Noire, ni la conquête des Peaux Brunes.
+
+
+Pressions : S’il sent que le Prince va abuser de son pouvoir, il faudra convaincre Hubertin que la conquête n’est pas la paix.
+La protection de Thaddeus
+Hubertin se braque face à Thaddeus : il refuse de l’embarquer dans ce conflit. Cette attitude “fermée et désagréable” peut créer un moment de tension père-fils : Thaddeus devra démontrer qu’il est désormais capable d’assumer son destin d’alchimiste adulte.
+Épreuve initiatique : Hubertin peut lancer à Thaddeus une dernière série de tests ou d’énigmes pour évaluer sa maturité avant de lui transmettre le secret.
+
+
+Confrontation émotionnelle : Thaddeus peut lui rappeler qu’il a tout appris de lui et qu’il refuse de l’abandonner dans sa solitude ; un face-à-face très chargé dramatiquement.
+En résumé
+Ces trois dimensions (désillusion, compromis extrême, lien paternel) font d’Hubertin un personnage profondément ambivalent et offrent aux joueurs un large éventail de confrontations : argumentation morale, négociation de coalition, et drame intime.
+Chacune de ces interactions peut rebondir sur les choix des PJ et renforcer la densité émotionnelle avant l’acte final du rituel.
+Situation
+Localisation et aménagement
+Position stratégique : une dépendance de l’Hôpital des Trinités, domine la vallée et offre une vue sur les remparts et la plaine. Elle est reliée à la ville par un chemin gardé jour et nuit.
+Aménagement alchimique : Hubertin y a installé son laboratoire,
+Ateliers de fusion pour manipuler les éléments (creusets, alambics).
+
+
+Chambres de maturation où ses précieux catalyseurs sont entreposés.
+
+
+Une petite bibliothèque scellée, aux rayonnages chargés de parchemins anciens.
+Vie quotidienne : Ses quartiers se réduisent à une cellule privée communicant avec une salle d’expérimentation et une petite cour intérieure. Le matin, il ouvre les meurtrières pour respirer l’air frais, le soir il travaille à la lueur des chandelles.
+Contrôle et liberté
+Gardes : Deux gardes assurent la surveillance : ils inspectent les échanges entrants (visiteurs, vivres, messages), mais connaissent suffisamment la réputation d’Hubertin pour ne pas l’importuner tant qu’il respecte les règles.
+Accords tacites :
+Hubertin ne franchit pas les remparts sans escorte (rappel à l’ordre si nécessaire).
+
+
+Les gardes n’entrent pas dans son laboratoire sauf en cas d’alerte (fuite, tentative d’enlèvement).
+Zone neutre : L’Hôpital des Trinités est déclarée « sanctuaire » par le Prince, aucun dossier politique ne sera évoqué entre ses murs, garantissant à Hubertin une paix relative pour poursuivre ses recherches.
+Rencontre avec le Prince des Cendres
+Soir du 28 Pluviôse 2680
+Identité et Statut
+Titre et rôle : Chef de guerre principal des Peaux Brunes, il porte le nom de Prince des Cendres (Ashyen khuntaij), Megujin de son vrai nom. Ce titre, à la fois honorifique et évoquant la renaissance, souligne son rôle de protecteur et de guide en des temps troublés.
+Position sociale : Issu de la caste des Élémentalistes, c’est un élu des divinités zodiacales, investi à la fois de l’autorité religieuse et politique. Sa légitimité repose sur sa ferveur religieuse autant que sur son habileté martiale.
+Contexte historique et géopolitique
+Exode et exil : Confrontés à l’expansion des Peaux Grises, les clans Peaux Brunes se sont unifiés sous son commandement pour trouver refuge sur les hauts plateaux et montagneuses frontières de la Tranchée.
+Relations extérieures : Historiquement neutres vis-à-vis des humains, l’arrivée du Prince a marqué une nouvelle ère : sous sa bannière, les Peaux Brunes ont repris l’offensive contre les Peaux Grises, puis se sont rapprochées des vallées humaines, menaçant désormais la Vallée de la Miste.
+Alliances et stratégie
+Alliance fragile avec Hubertin : Pour accroître la puissance de ses Élémentalistes et cartographier précisément les zones stratégiques, il a accueilli Hubertin comme alchimiste de cour, lui offrant protection contre la Main Noire.
+Objectifs militaires : Utiliser les connaissances alchimiques pour renforcer son avant‑garde : potions de vigueur, renforcements élémentaires, et repérage des positions humaines.
+But ultime : Conquérir la Vallée de la Miste jusqu’au Front de Grès, prévenant indirectement l’achèvement du rituel de la Main Noire, mais au risque de transformer la vallée en territoire sous son contrôle.
+Personnalité et valeurs
+Fervent religieux : Il incarne la ferveur du panthéon zodiacal, veillant à ce que chaque clan honore l’équilibre des éléments au fil des décans.
+Charisme et rigueur : Chef à la fois visionnaire et autoritaire, il inspire le respect par son port altier, ses discours empreints de symboles élémentaires, et sa maîtrise des rituels élémentaires.
+Pragmatisme guerrier : S’il croit en la justice divine, il n’hésite pas à employer la force pour protéger son peuple. Il sait toutefois que l’alliance avec un alchimiste humain (Hubertin) comporte des risques, et mesure chacun de ses engagements.
+Position face au conflit
+Peaux Brunes vs. Peaux Grises : Son premier engagement fut de chasser l’ennemi traditionnel (les Peaux Grises) puis de sécuriser un nouveau territoire pour son peuple.
+Peaux Brunes vs. Humains : Aujourd’hui, la frontière de la Vallée de la Miste est menacée. Il la considère soit comme un nouveau front de défense, soit comme une terre à ajouter à son domaine.
+En résumé
+Le Prince des Cendres est un chef de guerre élu par la tradition élémentaliste de son peuple, charismatique et pragmatique, oscillant entre sa vocation religieuse et son ambition militaire.
+Son alliance avec Hubertin est à la fois un acte de foi – protéger la vallée d’un rituel destructeur – et un pari risqué, car l’alchimie humaine qu’il utilise pourrait tout aussi bien servir d’autres desseins.
+C’est cette dualité — défenseur de son peuple et potentiel conquérant — qui en fait un acteur majeur et imprévisible du conflit à venir.
+Regard porté sur l’ensemble du groupe
+Il verrait immédiatement dans ce groupe un allié opportun : des talents variés (bagarreurs, alchimistes, artificiers, éclaireurs, guérisseurs) capables de l’aider à consolider sa position dans la vallée.
+Relation avec Thaddeus et Hubertin
+Apprenti d’Hubertin : Il honorera Thaddeus en tant que continuateur du savoir de Hubertin, mais le gardera sous étroite surveillance : un alchimiste trop zélé pourrait trahir l’équilibre qu’il cherche à instaurer.
+Médiateur : Il peut jouer le rôle de mentor pour Thaddeus, lui offrant un regard différent sur la magie, celui des anciens panthéons plutôt que des laboratoires de la Table d’Émeraude.
+Particularité d’Oscar, le pyromancien
+Affinité élémentaire : Le feu est l’un des éléments zodiacaux qu’il vénère : Oscar est un « champion » naturel pour le décan du Feu. Le Prince l'observe de près, car ses talents peuvent servir à la protection des siens.
+Attitude générale
+Scepticisme éclairé : Le Prince ne se jette jamais corps et âme dans une alliance sans avoir éprouvé les cœurs. Il posera des questions directes sur leurs motivations, leurs craintes et leurs doutes – comme Vilaire l’a fait sur le chemin noir – pour éprouver leur sincérité.
+Distance cérémonielle : Dans ses premières interactions, il gardera une forme de solennité rituelle : discours et gestes précis pour souligner la gravité de sa décision.
+Ouverture pratique : Une fois convaincu, il se montrera pragmatique : partageant cartes anciennes, offrandes cérémonielles et appuis logistiques pour leur permettre d’atteindre Hubertin.
+Scène de rencontre
+La Salle du Trône
+Dans l’ancienne salle du Conseil Municipal, le Prince a laissé le sol en marbre poli, bordé de tapisseries aux couleurs sombres.
+Les murs de pierre d’origine sont partiellement recouverts de tentures en feutre : motifs géométriques rouges et ocres.
+Au fond, deux colonnes sculptées de dragons stylisés encadrent un dais d’or et de cuivre, surmonté d’un blason. Des lanternes en laiton ciselé diffusent une lumière chaude, tandis que des tentures ferment partiellement les hautes fenêtres, tamisant les rayons du soleil couchant.
+Le Prince des Cendres
+Assis sur son trône élevé, le Prince a une stature moyenne mais une présence magnétique. Son visage ovale est marqué par une barbe soigneusement taillée en pointe. Ses yeux aux iris dorés semblent capter la moindre vibration de l’air. Il porte :
+Une robe longue de soie pourpre, bordée de fourrure, serrée à la taille par une ceinture de cuir tanné où pend un sceptre de bois sculpté.
+
+
+Un surplis en brocart sombre, manches fendues, orné de motifs de nuages et de flammes stylisées.
+
+
+Une coiffe haute rigide, recouverte de velours et surmontée d’un insigne doré.
+La Suite du Prince
+Autour de lui se tiennent :
+La Matriarche Bolormaa, grande prêtresse des décans, en robe blanche drapée.
+
+
+Menggei, le général de l’avant garde, armure et tresse sombre, chargé de la sécurité.
+
+
+Narantuyaa, traductrice et diplomate, une érudit vêtue de tuniques brodées, qui reprend les paroles du Prince aux auditeurs.
+
+
+Le Rituel d’Identification Astrologique
+Voir les thèmes astraux.
+Thèmes Astraux
+L’Invitation au Bouzkachi le lendemain
+Le Prince des Cendres invite les personnages à faire la démonstration de leur talent en participant à une partie de Bouzkachi. 
+
+Partie 13 : Montalier occupée (2e session)
+Confrontation de nuit
+Après avoir rencontré le Prince des Cendres, les personnages retournent dans leur appartement.
+Ils y partagent un repas avant qu’Egolène ne prenne la parole :
+Elle souhaite savoir quelle sera la prochaine étape.
+Elle pousse les personnages à organiser l’enlèvement d’Hubertin.
+Si les personnages ne la suivent pas, elle se rebelle et devient hardened.
+Si Egolène est hardened, elle s’enfuit de l’appartement au milieu de la nuit. Un test de Vigilance (Perception) permet de la détecter et d’interagir avec elle si souhaité. Si c’est un personnage qu’elle apprécie, elle lui propose de venir avec elle.
+Bouzkachi
+Midi du 29 Pluviôse 2680
+Les personnages peuvent choisir d’affronter un groupe de jeunes soldats ou un groupe de vétérans élémentalistes.
+La partie se joue en 3 marques.
+Chaque session suit le processus suivant :
+L’initiative définit dans quel ordre les acteurs peuvent attraper la carcasse.
+Le premier acteur à réussir un test d’Adresse (Coordination) assez difficile (2) saisit la carcasse.
+L’équipe avec la carcasse entre phase d’attaque, l’autre en phase de défense.
+En phase d’attaque : l’objectif est d’aller au plus vite vers l’en-but pour marquer
+En phase de défense : l’objectif est d’être au contact du porteur pour récupérer la carcasse.
+Phase de chasse
+Tous les participants font un test d’Athlétisme (Coordination). Ceux ayant moins de succès que le porteur sont lâchés.
+Phase de conflit
+Tous les participants au contact du porteur font un test d’Adresse (Coordination), de Pugilat (Coordination) ou d’Elémentalisme (Coordination) pour déséquilibrer le porteur ou arracher la carcasse, ou aider le porteur et conserver la carcasse.
+L’équipe avec le plus de succès conserve ou capture la carcasse.
+Si la carcasse est capturée, on revient à la phase de chasse.
+Sinon, le porteur tente de marquer.
+Phase de marque
+Le porteur fait un test d’Adresse (Coordination) assez difficile (2) pour marquer.
+S’il réussit, fin de la session, l’équipe marque.
+S’il échoue, la défense récupère la carcasse et on revient à la phase de chasse.
+En fonction du résultat :
+Si les joueurs affrontent les élémentalistes
+S’ils gagnent, le Prince des Cendres est impressionné et salue leur talent.
+S’ils perdent, le Prince des Cendres salue leur courage mais souligne leur manque de discernement.
+Si les joueurs affrontent les jeunes soldats
+S’ils gagnent, le Prince des Cendres salue leur succès et note la justesse de leur décision.
+S’ils perdent, le Prince des Cendres salue leur tentative et fait remarquer que le Bouzkachi n’est pas à la portée de tous.
+Oscar et le Dragon
+Soir du 29 Pluviôse 2680
+Participation d’Oscar à une démonstration d’Elémentalisme ?
+Le dragon se pointe et le mesure.
+
+Partie 14 : Montalier entre honneur et trahison
+Matin du 30 Pluviôse 2680
+Scène d’ouverture - Le Conseil du Prince
+Lieu : Grande Salle d’Audience, Forteresse de Montalier
+Décor : Haute salle voûtée, murs de pierre froide drapés d’étoffes chamarrées rouge sombre, motifs or et bronze.
+Atmosphère : l’encens de résine brûle lourdement, l’air est imprégné d’odeurs animales, de sueur et de feux de charbon.
+Disposition :
+Au fond sur l’estrade : le Prince des Cendres, assis sur un large siège sculpté de motifs de feu et de bêtes fauves, recouvert de peaux.
+
+
+Autour de lui, en arc de cercle, 8 conseillers (généraux, aristocrates, magistrats) aux vêtements teintés de rouge sombre, d’ocre et d’or.
+
+
+La Prêtresse des Décans se tient debout à sa droite, immobile, voilée de noir et d’argent, un chapelet d’osselets blancs à la main.
+Ambiance générale
+Les PJ sont introduits par deux gardes d’honneur armés de hallebardes courbes. Ils avancent sur un tapis épais rouge foncé jusqu’à la ligne tracée en peinture blanche (symbole de respect et de soumission à l’autorité) à cinq mètres du trône.
+Les regards sont durs. La salle est silencieuse.
+Seul le feu dans le grand brasero central crépite faiblement.
+Le déroulé de la scène
+Accueil silencieux
+Les personnages attendent, debout. Le Prince observe longuement chacun d’eux, son regard ambré perçant sous ses lourdes paupières.
+Il se redresse alors légèrement sur son siège.
+Prise de parole du Prince (ton grave, mesuré, contrarié)
+« J’ai écouté mes conseillers. La traîtresse doit être capturée.
+Elle a défié la paix de cette ville et m’a défiée, moi, en tant que chef de guerre.
+Vous, émissaires venus d’Edrain, avez ramené la discorde là où je souhaitais la concorde. »
+Réaction des conseillers conservateurs
+Hochements de tête approbateurs.
+Ambiance de tension lourde
+Les joueurs ressentent immédiatement qu’ils sont pions sur l’échiquier politique.
+Ils peuvent percevoir (test de Perception) :
+La colère froide du Prince.
+Le triomphalisme contenu des conservateurs.
+Intervention du Prince des Cendres
+Le Prince lève une main, imposant silence à ses généraux.
+« Mais, je n’oublie pas ce que ces émissaires ont montré hier sur le terrain de Bouzkachi… ni ce qu’ils pourraient offrir à notre peuple. »
+Il se tourne lentement vers les PJ.
+« Vous aurez un choix.
+Ramener la traîtresse. Ou bien… rendre un autre service à mon peuple. »
+« Un couple de trolls s’est installé dans les hauteurs de Montalier. Ils ont tué mes patrouilles et pillé nos bergers.
+Chassez-les, et ramenez-moi la preuve de votre victoire. Que les dépouilles ne souillent plus la montagne et que les ossements de mes fils tombés reçoivent une sépulture digne. »
+Les conservateurs murmurent bruyamment entre eux. L’un d’eux, un aristocrate aux boucles d’oreilles en or ciselé, se penche vers un général et murmure avec dédain (audible si un PJ est proche) :
+« Des trolls… quelle farce. Qu’on en finisse avec ces étrangers avant qu'ils ébranlent plus encore notre autorité. »
+Clôture de la scène
+Le Prince conclut, se levant légèrement pour marquer la fin de l’audience :
+« Choisissez avec sagesse. Revenez sous cinq jours. Car à l’aube du sixième, que ce soit par vous ou par mes chasseurs, la traîtresse sera retrouvée. »
+Il fait un signe brusque de la main. Deux gardes d’honneur s’avancent pour escorter les personnages hors de la salle.
+La Chasse aux Trolls
+Matin du 1er Ventôse 2680.
+Contexte et objectifs
+Mission donnée par le Prince des Cendres
+Objectif principal : tuer le couple de trolls qui terrorise les bergers et patrouilles dans les hauteurs de Montalier.
+
+
+Objectif secondaire : ramener leurs corps pour des funérailles appropriées aux Peaux Brunes tombés dans leurs embuscades, afin d’honorer leurs âmes et de purifier la montagne.
+Informations transmises aux PJ lors du briefing
+Les trolls sont des monstres nocturnes, actifs de crépuscule à l’aube.
+
+
+Ils vivent dans une grotte en haute montagne, rarement visitée car jugée maudite.
+
+
+Ils descendent parfois à la tombée de la nuit pour chasser le bétail ou tendre des embuscades.
+Approches possibles
+Approche 1 : L’Appât du crépuscule
+Les PJ peuvent attendre la nuit tombée, se placer sur un sentier ou dans un pâturage pour attirer les trolls lors de leur chasse.
+
+
+Risque : affrontement en terrain découvert, la nuit, avec une visibilité réduite.
+
+
+Avantage : évite d’affronter les trolls dans leur antre.
+Approche 2 : L’Assaut de la Grotte
+Les PJ peuvent choisir de remonter les traces jusqu’à leur grotte, de jour.
+
+
+Risque : ils seront sur le territoire des trolls, risquant un combat à l’intérieur ou à l’entrée de la grotte, où l’espace est réduit.
+
+
+Avantage : possibilité de prendre les trolls par surprise pendant leur repos ou leur repas.
+Approche 3 : La Traque en altitude
+Les PJ peuvent interroger bergers, pisteurs ou éclaireurs Peaux Brunes pour connaître les itinéraires de chasse nocturnes des trolls et les attendre en altitude, sur des crêtes ou des plateaux.
+
+
+Risque : terrain accidenté, vents violents, risque de chute.
+
+
+Avantage : si le combat se déroule près d’une crête ou d’une falaise, les PJ peuvent exploiter l’environnement pour blesser ou précipiter un troll.
+La Grotte des Trolls
+Extérieur
+Entrée béante dans la roche gris sombre, couverte de lichens et de mousse noire.
+
+
+Ossements d’animaux dispersés à proximité (chèvres, chiens de berger, chevaux).
+
+
+Odeur forte de chair crue, d’excréments et de terre humide.
+Intérieur
+La grotte s’enfonce sur plusieurs dizaines de mètres, formant :
+
+
+Une première salle : tanière principale, restes d’animaux et nid de branchages, lambeaux de tissu et équipements arrachés à des victimes.
+
+
+Un couloir étroit menant à la salle plus profonde.
+L’Autel de la Vieille Foi
+Localisation
+Au fond de la grotte, après la salle principale, dans une alcôve naturelle.
+
+
+L’air y est plus sec, légèrement parfumé d’herbes anciennes qui poussent dans des fissures de la roche.
+Description
+Autel taillé dans un bloc de granit clair, orné de symboles effacés par le temps (formes spiralées et entrelacées).
+
+
+Peintures murales en ocre, noir, et blanc :
+
+
+Représentent des êtres humains en posture d’offrande ou de prière.
+
+
+Devant eux, de grands êtres majestueux à forme humaine, parfois ailée, parfois draconique, les bénissant d’une main levée.
+
+
+Une fresque centrale montre l’un de ces êtres se transformant en créature ailée immense, entouré d’un halo d’or et de rouge, survolant un paysage montagneux et lacustre.
+Signification pour les PJ
+Ces fresques rappellent des mythes de la Vieille Foi, évoquant les Façonneurs ou les premiers Dragons.
+
+
+Elles laissent entrevoir un passé où ces entités étaient vénérées comme protectrices et guides spirituels.
+
+
+Les PJ sensibles aux arcanes, à l’alchimie ou à la spiritualité peuvent ressentir un écho d’énergie ancienne encore présente sur le lieu (prévoir un test d’ésotérisme, de volonté ou de perception selon ton système).
+Sortir de la grotte
+Les personnages rencontrent Vilaire. Il est présent pour réhabiliter l’autel et les prévient qu’un groupe de Peaux-Brunes belliqueux se positionne sur le sentier du retour pour tendre une embuscade
+
+
+Il rappelle aux personnages que les choix qu’ils prennent peuvent changer le destin d’âmes en peine. Changer le Destin est le plus grand pouvoir dans cet univers.
+Les Trolls
+Description rapide pour le MJ
+Deux individus : un mâle et une femelle, tous deux massifs, hauts de 3 à 4 mètres.
+
+
+Peau grise-verte, cuir épais, odorants et recouverts de sang séché et de boue.
+
+
+Armes improvisées (gros troncs, rochers).
+
+
+Intelligents à la manière de prédateurs : tactiques simples mais efficaces, attaques coordonnées, connaissance instinctive du terrain.
+
+
+Force brute, mais sensible aux attaques à distance, au feu, et à la lumière vive.
+Éléments d’interaction pour l’affrontement
+Bloc rocheux prêt à s’effondrer si frappé ou incendié.
+
+
+Fissures dans la paroi menant à des crevasses profondes.
+
+
+Éboulements ou stalactites de pierre menaçant de se décrocher.
+
+
+Vieille herbe sèche et mousse pouvant s’enflammer (notamment utile pour Oscar le pyromancien).
+L’Assaut des Conservateurs
+Les conservateurs montent une unité d’élite qui va intercepter les personnages après l’affrontement contre les Trolls. Ils sont là pour tuer.
+L’Enquête vers Egolène
+Pistes d’enquête initiales
+Prisonnier capturé par les Peaux-Brunes (Armanthe)
+Les autorités du Prince des Cendres détiennent Armanthe, une institutrice engagée, arrêtée avec des tracts et des consignes codées.
+
+
+Elle n’a qu’un rôle de liaison et connaît peu d’éléments stratégiques, mais elle peut donner :
+
+
+Les codes de reconnaissance utilisés pour identifier un supérieur.
+
+
+L’adresse d’une boîte aux lettres morte (ex : statuette creuse sous un pont, vieux moulin abandonné de Prabert, au nord de Montalier).
+Dilemme moral :
+Les PJ acceptent-ils d’extraire des informations sous menace.
+Informateur opportuniste (Valsin)
+Un ancien fonctionnaire municipal, ruiné par la guerre et la réquisition des Peaux-Brunes, vend ses services au plus offrant.
+
+
+Il soupçonne une boulangère (Rianelle) d’être un relais de la Flamme (distribution clandestine via sacs de farine).
+
+
+Il propose ses informations contre :
+
+
+Une protection personnelle auprès du Prince.
+
+
+La promesse d’une place confortable après la guerre.
+Dilemme moral :
+Les PJ le récompensent-ils, l’ignorent-ils (il peut les dénoncer au Réseau Flamme), ou le réduisent-ils au silence ?
+Rumeur de refuge
+La rumeur selon laquelle on aurait observé du mouvement autour de la vieille église détruite du village de Bresson, au nord-est de Montalier.
+
+
+Ce lieu pourrait être :
+
+
+Un refuge temporaire d’Egolène.
+
+
+Un piège (embuscade de résistants armés).
+Décryptage d’un message intercepté
+Les PJ doivent :
+
+
+Identifier le chiffre utilisé (Vigenère)
+
+
+Décoder la note (ils peuvent impliquer un PJ intellectuel ou un PNJ cryptographe).
+
+
+A voir ce qu’il contient.
+Complexité du Réseau Flamme
+Structure compartimentée
+Chaque membre connaît maximum 1 à 3 contacts directs.
+
+
+Seule la cellule militaire autour d’Egolène et des officiers possèdent la vision d’ensemble.
+
+
+Capturer un membre ≠ connaître le plan, mais donne un petit fil à tirer.
+Réaction du Réseau Flamme
+Sabotages ciblés
+Des actions de sabotage pour ralentir l’enquête :
+
+
+Incendie dans un entrepôt militaire peaux-brunes proche du lieu d’interrogatoire d’un prisonnier, forçant son transfert.
+
+
+Barricades ou explosions mineures pour retarder une descente de PJ.
+Tentative d’assassinat
+Si les PJ menacent un officier de la Flamme ou un membre populaire, un commando radical pourrait tenter un assassinat direct en ville, de nuit ou dans une ruelle.
+Manipulation de la population humaine
+Si la population apprend que les PJ torturent, menacent ou tuent des résistants :
+
+
+Des émeutes éclatent contre le Prince et les PJ.
+
+
+Des travailleurs se mettent en grève (ravitaillement ralenti).
+
+
+Leur légitimité comme « émissaires » du Prince est remise en cause.
+Répercussions sociales et émotionnelles
+Dilemmes pour les PJ
+Menacer un jeune messager, informer le Prince, laisser la Flamme continuer ?
+
+
+Aider la Flamme contre le Prince, mais risquer la guerre totale entre humains et Peaux-Brunes ?
+
+
+Rester neutres et perdre la confiance de tous ?
+Impact psychologique
+Cette enquête doit rappeler les réalités du renseignement en guerre : chaque choix brise des vies ou modifie le rapport de force politique. Les PJ peuvent progressivement comprendre qu’il n’existe aucune issue « pure », seulement des conséquences.
+Idée finale : « Le fil blanc »
+Pour récompenser un excellent roleplay, tu peux intégrer un fil blanc narratif :
+Si les PJ combinent décryptage, négociation morale et infiltration, ils peuvent découvrir avant l’enlèvement qu’Egolène utilise un ancien tunnel d’évacuation sous la ville, permettant une confrontation dramatique.
+
+
+Sans violence excessive, Egolène peut céder temporairement, créant un dilemme final :
+
+
+La livrer au Prince ?
+
+
+La laisser partir, ruinant leur statut politique mais sauvant leur humanité ?
+
+Partie 15 : Dans l’Hôpital des Trinités
+Nuit du 3 au 4 Ventôse 2680
+Contexte général
+Construite dans un style Renaissance austère mais solide, renforcée par des ajouts défensifs, elle comprend :
+Une salle commune au mobilier simple (table, chaises, quelques coffres, tapis usés, tentures représentant des scènes historiques édéniques).
+
+
+Un petit dortoir partagé (6 lits, quelques armoires scellées).
+
+
+Une salle d’ablution (cuve d’eau, bassins de cuivre, latrines attenantes).
+Les PJ n’ont pas accès à leurs armes ni à leur équipement, celui-ci ayant été stocké pour des raisons de sécurité à leur arrivée.
+Élément déclencheur : « Le calme avant la tempête »
+Au cœur de la nuit, alors que la ville dort, une agitation discrète mais perceptible s’élève dans les couloirs de la forteresse. Des pas précipités, des ordres chuchotés, puis un silence tendu, presque étouffant.
+Test de Perception (Difficulté Moyenne à Haute)
+Réussite : Les PJ se réveillent à temps pour se préparer ou choisir une action avant que les Conservateurs n’interviennent.
+Échec : Les PJ sont surpris et doivent réagir dans la panique à une tentative d’irruption brutale.
+Options des joueurs
+Selon leur réaction initiale, les PJ peuvent tenter différentes approches. Voici les principales options envisageables :
+Option 1 – Fuir dans la forteresse
+Les PJ peuvent chercher à échapper à l’assaut par les couloirs secondaires.
+Test de Culture (Architecture / Stratégie) ou autre pour s’orienter sans se faire piéger.
+
+
+Risques : tomber sur une patrouille de Peaux-Brunes ou croiser une unité de la résistance.
+
+
+Récompense : possibilité de rejoindre d’autres sections (armurerie, cuisine, cellule d’Hubertin…).
+Variante : Ajouter une carte partielle trouvée dans un registre abandonné ou peinte à même les murs.
+Option 2 – Trouver des armes de fortune
+Dans une cuisine ou une réserve :
+Objets utilisables : couteaux de boucher, broches, casseroles, poêles lourdes, huile bouillante, chandeliers.
+
+
+Aspect potentiellement comique mais efficace, peut encourager la créativité.
+Test d’Enquête, suivi de jets de combat si affrontement.
+Ambiance possible : inspirée d’un huis clos avec objets détournés en armes improvisées.
+Option 3 – Capturer des gardes
+Approcher discrètement une patrouille ou un garde isolé :
+Test de Dissimulation puis Pugilat ou Mêlée pour la neutralisation.
+
+
+Récupération d’équipement : armure, armes, clés, informations.
+
+
+Risque : attirer l’attention des Peaux-Brunes ou se tromper de faction.
+Astuce MJ : Introduire un garde hésitant qui pourrait être rallié avec un bon test de Persuasion.
+Option 4 – Convaincre des gardes de les protéger
+Tenter de rallier une faction loyaliste encore fidèle au Prince des Cendres.
+Test de Sociabilité. Bonus si les PJ évoquent leur mission ou s’ils disposent d’un ordre écrit, d’un symbole, etc.
+
+
+Résultat aléatoire possible :
+1-2 : conservateurs infiltrés → trahison !
+3-4 : loyalistes prudents → demandent des preuves, tergiversent.
+5-6 : loyalistes convaincus → se battent aux côtés des PJ.
+Jet MJ : Si souhaité, lancer secrètement un d6 par groupe de gardes rencontrés.
+Option 5 – Rejoindre Hubertin
+Peut-être la plus risquée… et la plus narrative. Hubertin est gardé dans l’aile est.
+Possibilité d’arriver avant la résistance, et donc de préparer une défense.
+
+
+Sinon : les PJ peuvent arriver en même temps qu’un commando de la Flamme (Egolène, Lt Renaux…), et tomber sur une impasse mexicaine.
+Scène optionnelle : Impasse Mexicaine
+Dans la dépendance d’Hubertin ou un couloir proche, une triple confrontation éclate :
+Les PJ (désarmés ou mal équipés),
+
+
+Les Peaux-Brunes (conservateurs lourdement armés),
+
+
+Le commando de la Flamme (furtif, tactique, motivé).
+Les décisions des PJ peuvent orienter l’issue :
+Aident-ils Hubertin ? Tentent-ils de fuir ? Parlent-ils avec Egolène ? Provoquent-ils la panique ?
+Chaque groupe pourrait hésiter à attaquer pour ne pas déclencher une fusillade générale. Il s’agit d’un moment fort en roleplay et en tension dramatique.
+Conclusion et conseils MJ
+Cette scène est une opportunité de :
+Souligner les tensions internes de la ville fortifiée.
+
+
+Donner du poids aux décisions passées des PJ (ont-ils été honnêtes, violents, diplomates ?).
+
+
+Proposer un enchaînement d’actions rythmées dans un cadre fermé, sans tomber dans le donjon classique.
+
+
+Introduire Egolène de manière spectaculaire, sans confrontation directe (à ce stade, elle peut manipuler, négocier ou fuir, selon les réactions).
+Conseils d’adaptation
+Gardez l’initiative au cœur de la scène. Chaque action des PJ modifie l’équilibre des forces.
+
+
+Mettez les choix moraux en avant. Soutenir un groupe ? Se replier ? Mentir à la résistance ?
+
+
+Gérez le rythme. Proposez une tension croissante (porte qui claque, cris, torches qui vacillent) pour mettre la pression.
+
+
+
+Annexes : Déroulé chronologique
+Heure -1 : Préambule (en amont de la scène d’action)
+(Fin de la nuit précédente ou quelques heures avant l’attaque)
+Les PJ arrivent à la forteresse et sont installés dans une aile sécurisée, sous surveillance.
+Ils disposent de quelques effets personnels non menaçants.
+La forteresse est calme mais sous tension. Des rumeurs courent : certains soldats semblent nerveux, et la garde est renforcée sans explication officielle.
+Heure 0 : Déclenchement de l’attaque
+(Premiers signes d’agitation - environ 1h avant l’aube)
+Les PJ entendent des bruits dans les couloirs (tests de Perception).
+S’ils réussissent, ils ont quelques instants pour agir avant l’arrivée d’un escadron de Peaux-Brunes.
+Dans le cas contraire, ils sont surpris par une tentative de capture brutale. Cela peut se traduire par :
+une intrusion violente dans le dortoir,
+des projectiles lancés à travers les fenêtres,
+un gaz soporifique ou fumigène.
+Heure +0h15 : Premiers choix
+Les joueurs doivent rapidement prendre une décision, parmi les options suivantes :
+Option 1 : Se déplacer pour fuir ou se cacher
+La forteresse est un ancien couvent modifié : dédales, escaliers en colimaçon, salles d’archives, recoins sombres.
+Ils peuvent chercher à quitter l’aile par un chemin détourné, ou rejoindre des zones plus fréquentées.
+Option 2 : S’armer dans l’improvisation
+Cuisine, buanderie, salle d’entretien : autant d’endroits où improviser des armes (couteaux, tisonniers, manches à balai).
+Une réussite à un test de Subterfuge ou Investigation peut leur permettre de trouver un équipement plus intéressant (vieille arquebuse, clé de service, etc.).
+Option 3 : Capturer un soldat pour s’équiper
+Risqué, mais payant : embusquer un soldat isolé (par exemple un coursier ou un garde détaché).
+Permet de récupérer une arme, une armure, voire un plan partiel de la forteresse.
+Option 4 : Convaincre des gardes de les protéger
+Si les PJ croisent des soldats loyalistes : test de Persuasion (modificateurs selon leur réputation à Montalier).
+Si ce sont des Conservateurs, ils peuvent tenter un bluff ou intimidation.
+Les résultats varient : les soldats peuvent les aider, les dénoncer ou refuser d’intervenir.
+Option 5 : Retrouver Hubertin
+Par un plan de la forteresse, un souvenir ou une indication donnée auparavant, ils peuvent localiser la cellule de l’alchimiste.
+Hubertin est enfermé dans les profondeurs, mais son secteur est plus faiblement gardé, ce qui joue en faveur de l’infiltration.
+Heure +0h30 à +0h45 : Double incursion
+Les événements s’accélèrent.
+Les Peaux-Brunes avancent
+En groupes bien armés, ils progressent dans la forteresse en encerclant l’aile des PJ.
+Ils évitent les affrontements directs avec les gardes de faction (ils les neutralisent discrètement ou leur ordonnent de ne pas interférer).
+La Résistance entre en scène
+Grâce aux tunnels oubliés sous la forteresse, Egolène et Renaux infiltrent leurs troupes depuis les caves.
+Leur objectif : atteindre Hubertin sans alerter la garnison.
+Ils évitent les patrouilles, contournent les postes gardés, et neutralisent en silence ceux qui se dressent sur leur chemin.
+Heure +1h : Nœud dramatique / Impasse mexicaine
+Si les PJ ont suivi la piste d’Hubertin, ils arrivent en même temps que :
+Un détachement de Peaux-Brunes qui a devancé les autres.
+Le groupe d’Egolène surgissant depuis les souterrains.
+Trois forces en présence :
+Les PJ (potentiellement mal équipés, mais maîtres de la situation par leur initiative).
+Les Conservateurs qui veulent capturer Hubertin et éliminer les témoins.
+Les Résistants qui veulent sauver Hubertin à tout prix, quitte à liquider les Conservateurs.
+La situation devient une impasse tendue. Une étincelle peut tout faire basculer :
+Un mot de trop, un tir, une tentative de fuite, une trahison.
+Ou au contraire, une diplomatie habile peut semer le doute ou retourner une faction contre l’autre.
+Heure +1h15 à +2h : Résolution et échappée
+Selon les choix des joueurs et les jets de dés :
+Hubertin peut être sauvé, ou emmené de force.
+Les PJ peuvent rejoindre la Résistance, fuir par les souterrains, ou se retrouver prisonniers.
+Un combat général peut éclater, forçant tous les groupes à fuir dans le chaos.
+En cas d’évasion :
+Les souterrains mènent à un vieux cloître oublié sous la ville, débouchant dans une rue proche des murailles.
+Une dernière course poursuite ou confrontation peut clôturer la scène.
+Annexes : Factions en Présence
+Peaux-Brunes (Dissidents des Conservateurs)
+Objectifs immédiats :
+Neutraliser ou capturer les PJ (priorité haute).
+Éliminer les témoins gênants.
+Prendre le contrôle de l’aile est de la forteresse pour éviter que l’alerte ne soit donnée au Prince des Cendres.
+Effectifs :
+1 capitaine de section + 7 soldats d’élite (armement complet, tactiques de combat rapproché, masques noirs, tactiques d’intimidation).
+1 espion en civil dans la forteresse qui facilite leur entrée.
+Tactiques :
+Assaut rapide, brutal, en coordination avec l’agent infiltré.
+Utilisent les escaliers latéraux pour encercler les couloirs sans alerter l’ensemble de la garnison.
+Relations :
+Hostilité absolue envers les PJ, la Résistance et les loyalistes du Prince.
+Considèrent les Conservateurs « passifs » comme faibles.
+Attitude envers les PJ :
+Aucun dialogue. Ils veulent les abattre ou les traîner vivants.
+Résistance (Flamme – escouade d’Egolène et du Lt Renaux)
+Objectifs immédiats :
+Exfiltrer Hubertin.
+Éviter une confrontation frontale prolongée avec les troupes loyalistes ou les PJ.
+Si possible, recruter ou épargner les PJ.
+Effectifs :
+Egolène, experte en infiltration, ex-officière.
+Lt Renaux, commandement tactique.
+4 résistants aguerris (armes silencieuses, équipement léger, manteaux noirs).
+Tactiques :
+Infiltration via tunnels sous la chapelle (connus d’Egolène).
+Synchronisation avec l’agitation causée par l’assaut des Peaux-Brunes.
+Discrétion, extraction, repli.
+Relations :
+Neutres avec les loyalistes (préféreraient éviter de les affronter).
+Hostiles aux Peaux-Brunes.
+Ouverts à une coopération avec les PJ selon les circonstances.
+Attitude envers les PJ :
+S’ils croisent leur route, tentent d’obtenir leur coopération.
+Peuvent céder des armes aux PJ si la situation dégénère.
+Garnison de la Forteresse (troupes loyalistes au Prince des Cendres)
+Objectifs immédiats :
+Rétablir l’ordre.
+Défendre la forteresse.
+Protéger les prisonniers et les dignitaires.
+Transmettre l’alerte au Prince des Cendres.
+Effectifs :
+1 officier de garde.
+8 soldats réguliers (casernés, peu réactifs au début).
+2 sentinelles sur les remparts, 1 messager prêt à partir si alerte donnée.
+Tactiques :
+Défense de couloirs et escaliers, verrouillage des portes, évacuation des civils.
+Attendent des ordres s’ils sont pris entre deux feux (surtout en cas de doute sur les PJ).
+Relations :
+Hostilité envers les Peaux-Brunes.
+Méfiance envers la Résistance (considérée comme illégale mais pas forcément ennemie).
+Fluctuante avec les PJ, selon la réputation ou les interactions passées.
+Attitude envers les PJ :
+Neutres à hostiles au départ (surtout s’ils sont « prisonniers »).
+Peuvent coopérer si persuadés que les PJ sont des agents du Prince ou s’ils témoignent d’un danger grave (test de Persuasion / Preuve).
+4. Éléments aléatoires et rebondissements à introduire
+
+
+Événement aléatoire
+Déclencheur possible
+Effet en jeu
+Un garde loyaliste reconnaît Hubertin et veut l’emmener au Prince
+PJ croisent un groupe de soldats
+Changement de dynamique, besoin de le protéger
+Le capitaine Peau-Brune déclenche un incendie pour couvrir sa fuite
+Perte d’un combat ou alerte transmise
+Nouvelle urgence, visibilité réduite
+Un officier de la garnison est en fait un agent conservateur
+Jet d’Intellect / Perspicacité raté
+Trahison, les PJ sont dénoncés
+Le tunnel d’extraction des résistants s’effondre
+Jet d’Athlétisme / Catastrophe externe
+Hubertin piégé temporairement
+Hubertin se défend lui-même avec une puissance inattendue
+PJ échouent à le défendre / résistent à son extraction
+Perturbation magique, sort de type "Onde de choc"
+
+
+
+Annexes : Organisation de la Résistance de Montalier
+Direction stratégique et militaire
+Commandant Jantine Maurevel
+Âge : 23 ans
+Profession : Ex-officier d’artillerie de la Compagnie Misteroise
+Description physique : Grande, carrure puissante, peau claire, cheveux gris-brun coupés court, rides durs au coin des yeux, regard acier.
+Motivation : Après la mort de son escouade sous les bombardements Peaux-Brunes, elle a juré de défendre les civils et de harceler l’occupant jusqu’à la libération ou la mort.
+Rôle : Supervise toutes les opérations militaires. Connaît l’existence d’Egolène et approuve l’opération d’enlèvement d’Hubertin comme levier stratégique.
+Capitaine Ardoin Reval
+Âge : 31 ans
+Profession : Ex-ingénieur militaire et sapeur du génie
+Description physique : Taille moyenne, peau hâlée, visage carré, barbe courte, cheveux châtains clairs tirant sur le roux, yeux noisette.
+Motivation : Voir son régiment dissous et ses officiers collaborer avec l’ennemi l’a mené à rejoindre Flamme. Il est pragmatique et déterminé.
+Rôle : Planification des actions de sabotage et logistique de la résistance. Connaît Egolène, qu’il considère trop idéaliste mais utile. Supervise le réseau de ravitaillement et d’extraction.
+Lieutenant Egedias Renaux
+Âge : 29 ans
+Profession : Ex-officier de cavalerie légère
+Description physique : Plutôt petit, athlétique, peau claire, cheveux noirs ras, cicatrice au menton, regard vif et franc.
+Motivation : Sa famille a été massacrée lors de l’évacuation d’un village, il s’est promis de « brûler jusqu’au dernier pont de l’ennemi avant de plier ».
+Rôle : Commande le groupe tactique chargé de l’enlèvement d’Hubertin. Responsable direct d’Egolène sur cette mission.
+Membres impliqués dans l’enlèvement d’Hubertin
+Milo Carrel
+Âge : 25 ans
+Profession : Ouvrier métallurgiste
+Description physique : Grand, épaules larges, peau mate, cheveux bruns bouclés attachés en queue basse, regard sombre.
+Motivation : Son atelier a été réquisitionné, son père exécuté pour insubordination. Milo s’est radicalisé et mène désormais la section « extraction et exécution » de Flamme.
+Rôle : Commandant tactique adjoint de l’opération d’enlèvement.
+Saline Tregot
+Âge : 27 ans
+Profession : Pharmacienne et herboriste
+Description physique : Petite, corpulence moyenne, peau claire, cheveux blonds cendrés tirés en chignon strict, lunettes rondes.
+Motivation : Après avoir vu des enfants mourir faute de soins, elle fabrique poisons, fumigènes et sédatifs pour la Flamme.
+Rôle : Prépare drogues incapacitantes, soins et toxines. Elle fournit un somnifère puissant pour l’enlèvement d’Hubertin.
+Dionas Fayance
+Âge : 21 ans
+Profession : Etudiant en littérature (avant guerre), devenu coursier et éclaireur
+Description physique : Mince, peau claire, cheveux châtains clairs en bataille, myope (porte de petites lunettes rondes), allure nerveuse.
+Motivation : Rêvait d’écrire un roman, la guerre l’a fait devenir espion et messager. Il rêve toujours d’immortaliser la Flamme dans ses récits secrets.
+Rôle : Assure la liaison entre Egolène et Eydan. Ne connaît que sa cellule directe.
+Membres intermédiaires rencontrables par les PJ
+Rianelle Bonger
+Âge : 27 ans
+Profession : Boulangerie-pâtisserie, réseau logistique
+Description physique : Corpulence large, peau mate, cheveux noirs crépus attachés en foulard, visage jovial, mains puissantes.
+Motivation : Cache des armes dans ses sacs de farine. Son frère a été fusillé pour collaboration supposée, elle refuse de voir d’autres innocents mourir.
+Rôle : Point de contact potentiel des PJ s’ils enquêtent discrètement. Ne connaît ni Egolène ni l’opération d’enlèvement.
+Armanthe Jorelle
+Âge : 31 ans
+Profession : Institutrice
+Description physique : Grande, élancée, peau claire, longs cheveux argentés attachés en natte, traits fins, port altier.
+Motivation : Protège ses élèves et organise la diffusion de tracts anti-occupation. Elle croit en la Flamme comme instrument d’éducation et de justice sociale.
+Rôle : Recrutement, éducation, diffusion d’information. Ne connaît pas l’opération d’enlèvement mais peut être interrogée comme suspecte.
+Garnot Leval
+Âge : 44 ans
+Profession : Cordonnier, ancien sergent d’infanterie
+Description physique : Petit, sec, peau tannée, moustache blanche, yeux noirs vifs.
+Motivation : Trop vieux pour se battre en ligne, il fabrique chaussures et caches secrètes, transmet ses savoirs tactiques aux jeunes officiers.
+Rôle : Connaît vaguement Egolène, l’a formée au pistage et au camouflage urbain. Ignorant des plans militaires actuels.
+
+
+Le Général Conservateur : Vaincu par Oscar : Khaidai.
+
+
+
+Arrivée à Edrain le 9 Ventôse à Midi.
+🌑 CONTEXTE IMMÉDIAT
+Lieu : Edrain, la capitale.
+Situation : Les personnages viennent de revenir du Nord, auréolés d’un certain prestige, mais leur choix d’avoir “abandonné” Hubertin risque de leur coûter cher auprès d’Egolène et de la Flamme.
+Tension : Les factions sont désormais toutes présentes ou sur le point de converger à Edrain : la Flamme, Rosières et son réseau, les alchimistes (Zaccharias), l’Inquisition, et les Fous.
+
+🕰 CHRONOLOGIE PROBABLE DES ÉVÉNEMENTS
+1. Retour à Edrain (jour 0 – matin)
+Les personnages sont reçus par Rosières, dans une ambiance de soulagement mêlée de prudence.
+ Elle écoute leur récit et prend note du document signé par le Prince des Cendres.
+Test de Persuasion / Charisme : selon leur diplomatie, elle les félicitera ou exprimera des doutes sur leurs choix.
+
+
+Elle leur confie qu’elle a eu des nouvelles partielles d’une extraction réussie de Hubertin, mais ignore encore où il se trouve.
+
+
+→ Objectif narratif : rétablir le lien avec le “quartier général” et préparer la confrontation entre les camps alliés.
+
+2. Arrivée d’Egolène et Renaux (jour 0 – soir ou jour 1 – matin)
+Egolène et Renaux arrivent discrètement à Edrain, épuisés, avec un Hubertin blessé mais vivant.
+ Ils sont furieux d’apprendre que les personnages ont préféré sauver leur peau plutôt que d’assurer leur mission initiale.
+Réaction d’Egolène : glaciale, voire hostile. Elle peut les confronter directement (“Vous avez choisi votre survie à la vérité.”)
+
+
+Renaux : plus pragmatique, il reconnaît que sans l’incendie, ils n’auraient peut-être jamais pu extraire Hubertin.
+
+
+→ Possibilité de réconciliation : si les joueurs s’expliquent bien, Egolène pourra admettre que leur “sacrifice tactique” a sauvé la mission.
+ → Sinon : elle demandera à Rosières de les écarter de l’interrogatoire, voire de les surveiller.
+
+3. Le dilemme du sérum de vérité (jour 1 – après-midi)
+Rosières veut interroger Hubertin, mais elle n’a pas de sérum de vérité. Trois pistes s’offrent à elle :
+Zaccharias, le maître alchimiste :
+
+
+Il possède les composants, mais exigera une contrepartie obscure (accès à un artefact, ou la promesse d’épargner un apprenti).
+
+
+Il pourrait être tenté d’altérer le sérum pour obtenir lui-même des informations via Hubertin.
+
+
+L’Inquisiteur :
+
+
+Il détient un stock de fioles scellées sous haute surveillance.
+
+
+L’obtenir nécessitera une faveur politique ou une opération d’infiltration.
+
+
+Hubertin lui-même :
+
+
+Il prétend pouvoir en produire “une version sûre” s’il dispose de son matériel (ce qui est faux ou partiellement vrai).
+
+
+C’est l’occasion pour lui de gagner du temps ou de manipuler la situation.
+
+
+→ Objectif de jeu : les joueurs doivent choisir comment obtenir le sérum — et à qui ils font confiance.
+
+4. Contre-jeu de Zaccharias et Leschères (jour 1 – nuit)
+Les deux membres du Cercle des Fous apprennent qu’Hubertin est vivant et captif.
+ Leur réaction dépendra de la manière dont la session précédente s’est terminée :
+S’ils voient les PJ comme des agents utiles : ils chercheront à négocier une coopération pour surveiller Rosières.
+
+
+S’ils se sentent trahis ou menacés : ils tenteront une exfiltration nocturne d’Hubertin (via illusion, ou infiltration alchimique).
+
+
+Si le MJ veut une tension maximale : Zaccharias sabote discrètement le sérum que prépare Rosières.
+
+
+→ Objectif de jeu : faire sentir que tout le monde a un intérêt dans le sort d’Hubertin, et que personne ne maîtrise vraiment la situation.
+
+5. L’interrogatoire (jour 2 – matin)
+L’interrogatoire d’Hubertin peut être joué comme une scène centrale, mélangeant psychologie, politique et suspense.
+Si le sérum est authentique, il révèle que le Front de Grès abrite une arme ancienne issue des Façonneurs, cachée dans les catacombes d’une ancienne forteresse.
+
+
+Si le sérum a été altéré, il dira la vérité… mais sur autre chose (par exemple, les projets secrets de Rosières).
+
+
+Si Hubertin est exfiltré avant, la session bascule en quête d’urgence pour le retrouver avant qu’il ne livre ses secrets à une autre faction.
+
+
+→ Objectif de jeu : révéler une nouvelle couche du monde et orienter la campagne vers le Front de Grès.
+
+🎭 FONCTIONS DES FONCTIONS POUR LA SESSION
+Faction
+Objectif
+Attitude envers les PJ
+Actions possibles
+Rosières
+Obtenir la vérité sur le Front de Grès
+Variable (prudente)
+Interroge Hubertin, demande l’aide des PJ
+Egolène & Flamme
+Se justifier / punir les traîtres
+Méfiante
+Confrontation verbale, mise à l’écart
+Zaccharias & Leschères (Fous)
+Garder le contrôle du secret
+Ambiguë
+Sabotage, exfiltration, manipulation
+Inquisition
+Maintenir l’ordre spirituel
+Méfiante
+Exige d’assister à l’interrogatoire
+Hubertin
+Survie & manipulation
+Opportuniste
+Joue sur la culpabilité ou les divisions
+
+
+💡 Suggestions d’amélioration / options
+Émotion : tu peux renforcer la tension en faisant sentir que tout le monde veut ce qu’Hubertin sait, mais que personne ne sait s’il dit vrai.
+
+
+Interaction morale : le sérum de vérité peut être une épreuve morale pour les joueurs : accepteront-ils de l’utiliser sur un prisonnier humain, même pour le bien commun ?
+
+
+Cadre sensoriel : Edrain pourrait être décrite comme étouffante, saturée de rumeurs — une ville où chaque murmure est un danger.
+
+
+Préparation du prochain arc : le Front de Grès doit devenir la nouvelle obsession : un lieu interdit, maudit ou protégé par une force oubliée.
+
+
+
+
+
+
+
+
+
+Matin du 11 Ventôse (à vérifier)
+Les personnages vont bosser avec Leschères et Zacharias.
+Leschères prend les infos sur les personnages, qui sont-ils, comment peuvent-ils aider, que savent-ils d’Hubertin.
+Il réprimande Jenelle qui s’est faite doublée.
+Il va informer Zacharias de ce bouleversement. En attendant, il loge les personnages dans l'hôtel de ville de Roueaux.
+Le soir même,
+Zacharias et Leschères rencontrent les personnages.
+Ils réalisent le rituel. Rencontrent et libèrent Lilith partiellement.
+Nuit du 11 au 12 Ventôse.
+
+Fin de l’acte I : Le sang dans la brume
+Ambiance : Gothique industriel, pluie battante, culpabilité pesante et brume surnaturelle.
+
+👥 Acteurs Clés (PNJ)
+Nom
+Rôle
+Personnalité / Tactique
+Le Cavalier
+Emilien Leschères
+Chef de la Compagnie
+Glacial, pragmatique. Il voit les PJ comme des atouts tactiques. Prépare l'élimination des chefs adverses.
+
+
+
+
+
+
+Octaire
+Négociateur (Majordome)
+50 ans, digne, bienveillant. Rappelle aux PJ leur innocence perdue. Une cible émotionnelle.
+Adermin
+Aquamancien / Recteur
+Puissant, solennel. Il utilise la météo pour annuler la technologie de la Compagnie.
+Levallier
+Capitaine de la troupe
+Puissant, revanchard. Bien équipé.
+Rosières
+Politicienne
+Absente physiquement (ou à l'arrière). Son but : récupérer le Résonateur et punir les traîtres.
+
+
+🏗️ Structure de la Partie (Les 3 Actes)
+Acte 1 : Les Préparatifs du Bourreau
+Objectif du Cavalier : Fortifier le QG et piéger la place centrale.
+Mission des PJ : Placer des "Charges de Résonance" ou identifier les lignes de tir.
+Tension : Le silence de Rouaux. Les PJ voient les cadavres des mineurs (le prix de l'Eden).
+Note MJ : Le Cavalier insiste sur le fait qu'Adermin et l'Officier doivent mourir en premier.
+Acte 2 : L'Ultimatum d'Octaire
+L'Arrivée : Octaire avance seul sous la pluie naissante. Il ignore les mercenaires et s'adresse aux PJ par leurs prénoms.
+L'Offre : Amnistie partielle s'ils livrent le Cavalier et le Fou. C'est leur dernière chance de "rentrer à la maison".
+Le Piège : Pendant qu'Octaire parle, Adermin lève une brume épaisse. Les PJ perçoivent (via le Résonateur) que l'armée encercle la zone.
+Le Déclencheur : Le Cavalier ordonne de tirer sur Octaire ou de lancer l'embuscade.
+Acte 3 : Le Creuset de Boue et de Sang
+Climat : Pluie torrentielle. Malus : Les armes à feu (poudre) ont 50% de chance de rater/faire long feu.
+L'Assaut : Les Adeptes d'Adermin surgissent de la brume pour un combat au corps-à-corps (lames et magie).
+Verticalité : Utilise les passerelles minières et les toits.
+Le Final : Retraite vers les mines si le QG tombe. Le Cavalier pourrait tenter de sacrifier les PJ pour s'enfuir.
+
+🔮 Mécaniques Spéciales
+Vision du Résonateur : Le joueur résonateur peut "voir" les signatures vitales à travers la brume d'Adermin (ignore les malus de visibilité). Il est le "radar" de son groupe.
+Échos du Rituel : Dans les zones de combat, les PJ peuvent entendre les cris des mineurs sacrifiés, imposant des tests de Volonté/Stress pour ne pas être hébétés.
+L'Aquamancie d'Adermin :
+Brume : Visibilité réduite à 3 mètres.
+Pluie : Poudre inutilisable, sols glissants (tests de Dextérité).
+
+💡 Notes Narratives (Phrases Chocs)
+Octaire : "Le thé est encore chaud à l'Académie, ne le laissez pas refroidir pour une cause qui n'est pas la vôtre."
+Le Cavalier : "L'Eden exige un prix que les faibles appellent 'atrocité'. Soyez forts, ou soyez des victimes."
+Ambiance : "La pluie ne lave pas le sang des mineurs, elle le transforme en une boue qui s'accroche à vos bottes."
+
+
+ACTE 1 - LE FRONT DE GRÈS
+Les personnages infiltrent le Front de Grès
+L’action se déroule à partir du 17e jour de Pluviôse 2680.
+Les personnages sont dans une charrette en direction du Front de Grès.
+Les personnages se font passer pour des réfugiés.
+Ils sont accompagnés d’Henrien et de Priscille.
+Introduction
+Les personnages arrivent au Front de Grès par le Nord, sur la route de terre qui contourne Roueaux. Il est 12h quand rejoignent le Front. Comme les autres réfugiés avec eux, ils vont travailler de 12h30 à 17h30, prendre une pause, puis reprendre de 18h jusqu’à 23h.
+Combien de gens travaillent au Front de Grès ?
+Le Front de Grès est une exploitation importante, bien qu'elle fonctionne dans un contexte difficile et secret. On peut répartir les effectifs ainsi :
+Mineurs salariés : Environ 180 mineurs, pour la plupart des hommes robustes recrutés parmi les populations locales ou des régions voisines. Ils reçoivent un maigre salaire pour leur travail éprouvant. Certains sont des spécialistes ayant travaillé dans d'autres mines avant de venir ici.
+Réfugiés à la solde : Environ 80 à 90 individus supplémentaires, des hommes, femmes, et parfois adolescents qui acceptent des tâches mineures (transports, tri des matériaux, entretien) en échange d’un peu d’argent ou d’un toit. Leur statut est précaire, et ils sont souvent à la merci des contremaîtres.
+Ingénieurs : Une équipe d’environ 10 ingénieurs, responsables de l’exploitation des machines et des infrastructures. Ce sont des hommes éduqués, souvent issus de classes sociales plus élevées, mais leur loyauté est achetée par la Compagnie avec de bonnes rémunérations et des avantages.
+Administrateurs et surveillants : Environ 15 personnes, qui incluent les scribes, le directeur du site, et les contremaîtres chargés de maintenir la discipline parmi les mineurs. Les contremaîtres sont connus pour leur brutalité.
+Combien de soldats la Compagnie maintient-elle sur place ?
+La Compagnie du Grès emploie une force de sécurité privée :
+Effectifs de la Compagnie du Grès : Une garnison de 50 soldats professionnels, bien armés et équipés, supervisés par Emilien Leschères. Ils sont disciplinés et loyaux, sachant que leur position est lucrative comparée à d'autres tâches similaires.
+Mineurs zélés et contremaîtres : Environ 20 à 30 mineurs, motivés par la peur ou par des privilèges, agissent comme informateurs ou supplétifs pour la Compagnie. Les contremaîtres eux-mêmes sont souvent des hommes violents, prêts à utiliser la force pour maintenir l'ordre dans les galeries ou réprimer les rébellions.
+Les soldats patrouillent autour du site et surveillent l’entrée principale de la mine, mais leurs effectifs sont dispersés entre différentes tâches :
+Environ 10 soldats se relaient pour garder l'entrée et surveiller les baraquements.
+D’autres sont postés dans des points stratégiques, tels que l’entrepôt ou les bâtiments administratifs.
+Quelle est l’organisation de la journée ?
+Le fonctionnement du Front de Grès s’inspire des mines industrielles du 19e siècle, où les conditions de travail étaient extrêmement dures.
+Journée type pour les mineurs
+Début de journée (4h30 - 5h) : Les mineurs sont réveillés avant l’aube par une cloche retentissante. Après un repas léger (souvent du pain noir et une soupe froide), ils se rassemblent devant l’entrée de la mine.
+Descente dans la mine (6h) : Les mineurs descendent par équipes dans les galeries principales, accompagnés d’un contremaître. Les outils sont rudimentaires, et la lumière provient de lampes à huile ou à acétylène.
+Travail en continu (6h - 12h) : Les mineurs travaillent sans interruption pendant six heures, creusant, extrayant, et transportant les matériaux vers les bennes. L’air est lourd et difficile à respirer, surtout dans les sections touchées par l’Aestus.
+Pause (12h - 12h30) : Une pause d’environ 30 minutes est accordée. Les mineurs mangent rapidement leur déjeuner, souvent frugal (pain, fromage, parfois des restes).
+Reprise (12h30 - 17h) : Ils retournent à leur poste pour une seconde période de travail. La fatigue est à son comble, et les accidents sont fréquents à ce moment de la journée.
+Fin de journée (17h30)
+Les mineurs remontent à la surface par groupes. Ceux qui ont fini leur quart retournent aux baraquements ou à leurs familles dans le campement environnant.
+Routine des soldats
+Les soldats, quant à eux, suivent des quarts de patrouille :
+Matinée (6h - 12h) : Surveillance active du site, patrouilles autour des bâtiments et des entrées de la mine.
+Après-midi (12h - 18h) : Rotation des gardes, avec une partie des soldats surveillant les travailleurs pendant leur pause.
+Nuit (18h - 6h) : Sécurité réduite. Une dizaine de soldats restent actifs pour prévenir toute tentative d’intrusion ou rébellion.
+Dynamique sociale et tensions
+Conditions des mineurs : La majorité des mineurs sont exténués par le travail et la discipline stricte. Certains murmurent à propos des "ombres" dans les tunnels ou des malédictions liées à l’Aestus, mais ces rumeurs sont sévèrement réprimées.
+Oppression des contremaîtres : Les contremaîtres utilisent des fouets ou des bâtons pour maintenir l’ordre. Les mineurs qui osent contester leur autorité sont battus ou enfermés dans des cabanes sommaires en guise de punition.
+Tensions entre soldats et mineurs : Les soldats traitent les mineurs avec mépris, mais certains soldats, en particulier les recrues plus jeunes, commencent à douter de la moralité de leur mission.
+Étape 1 : L’arrivée au Front de Grès
+Description de l’environnement extérieur
+En approchant du Front de Grès, les personnages découvrent une scène à la fois industrielle et austère. Le vent froid souffle sur une vallée encaissée où se dresse un ensemble de bâtiments rudimentaires, disposés autour de l’entrée béante de la mine.
+Le site : Les infrastructures semblent avoir été construites à la hâte. Les bâtiments en bois et métal sont tâchés de suie, les fenêtres sont souvent barrées de planches, et des tuyaux de vapeur courent le long des murs, gémissant sous la pression.
+L’entrée principale de la mine : Une arche massive creusée directement dans la roche, protégée par une lourde grille de fer. Deux gardes armés, vêtus d’uniformes gris, patrouillent constamment devant.
+Les baraquements : Un groupe de bâtiments bas et longs, utilisés par les membres de la Compagnie du Grès. Des fumées de cigarette et de pipes s’élèvent dans l’air, tandis que les soldats rient et discutent bruyamment à l’extérieur. Certains s’occupent de leur équipement ou jouent aux cartes sur des caisses renversées.
+Le bâtiment administratif : Une structure plus imposante, avec une enseigne en fer rouillé indiquant "Bureau de la Compagnie". Des va-et-vient d’ingénieurs et de scribes bien habillés contrastent avec les soldats mal rasés. Une cloche retentit de temps à autre, annonçant des changements de quart ou des alertes.
+L’entrepôt : Une grande halle fermée par des portes coulissantes en métal, protégée par un garde solitaire. On entend parfois des bruits sourds de caisses déplacées ou de marteaux frappant des outils à l’intérieur.
+Ambiance et tension
+La pluie fine tombe sans discontinuer, rendant le sol boueux et glissant. Une odeur d’huile et de métal envahit l’air.
+Les gardes semblent nerveux, leurs regards souvent tournés vers l’entrée de la mine, comme s’ils craignaient quelque chose de l’intérieur.
+Une cloche sonne au loin, marquant l’heure : chaque coup renforce la tension.
+Objectif 1 : Trouver un moyen d’entrer ensemble dans la mine
+Les personnages devront décider comment s’infiltrer dans la mine, en fonction de leurs capacités et de leurs priorités. Voici quelques approches possibles :
+Approche discrète
+Observation : Depuis une corniche ou une zone boisée à proximité, les personnages peuvent surveiller les allées et venues des gardes. Un jet de Dextérité ou de Perception (selon leurs compétences) pourrait permettre de repérer des failles dans la sécurité.
+Évasion des patrouilles : Des couloirs entre les baraquements et l’entrepôt offrent des angles morts que les personnages peuvent exploiter pour contourner les gardes.
+Approche sociale
+Déguisement : Léomire, le faussaire, pourrait tenter de se faire passer pour un ingénieur ou un prêtre venu bénir la mine. Un jet de Charisme ou de Tromperie pourrait convaincre les gardes de le laisser entrer avec ses "assistants".
+Distraction : Une diversion pourrait être organisée, par exemple en utilisant Enora pour déclencher une petite explosion sur une conduite de vapeur. Cela détournerait l’attention des gardes.
+Approche directe
+Affrontement : Si les personnages décident de prendre une approche musclée, ils devront neutraliser les gardes rapidement. Un combat pourrait attirer des renforts si les coups ne sont pas portés efficacement.
+Subtilité brutale : Une attaque silencieuse menée par Pauléon ou Oscar pourrait suffire à neutraliser les sentinelles sans alerter toute la garnison.
+Objectif 2 : Recueillir des informations ou du matériel utile
+Avant ou pendant leur tentative d’infiltration, les personnages peuvent explorer les bâtiments pour en apprendre davantage. Voici quelques pistes intéressantes :
+Le bâtiment administratif
+Bureau d’un superviseur : Une fois à l’intérieur, ils pourraient découvrir des plans de la mine ou des lettres mentionnant des "anomalies" liées à l’Aestus.
+Registres : Les archives contiennent des noms de mineurs et des témoignages partiels décrivant des phénomènes étranges (hallucinations, maladies inexpliquées).
+Rencontre avec un ingénieur : Un ingénieur pourrait être intimidé ou convaincu de partager des informations.
+Les baraquements des soldats
+Rumeurs : En écoutant les conversations, les personnages apprennent que plusieurs mineurs ont été envoyés dans des sections "interdites" pour enquêter, mais n’en sont jamais revenus.
+Matériel : Les soldats pourraient posséder des uniformes ou des badges d’accès que les personnages pourraient subtiliser.
+L’entrepôt
+Outillage : Ils pourraient y trouver des lampes, des explosifs ou des outils miniers utiles pour naviguer dans la mine.
+Piège : Un coffre pourrait contenir des documents ou des objets, mais serait piégé pour dissuader les voleurs.
+Étape 2 : L’Enfer sous Terre
+Description de l’environnement
+Lorsque les personnages s'enfoncent dans les galeries du Front de Grès, une chaleur écrasante et une odeur de terre humide mélangée à des relents de soufre les assaillent. La lumière vacillante des lampes à huile ou des lanternes à carbure projette des ombres menaçantes sur les parois rocheuses. Le bruit constant des pioches résonne, accompagné des gémissements de la roche et des murmures des mineurs. L’air est lourd, saturé de particules de poussière qui irritent la gorge et piquent les yeux.
+Les galeries principales sont étroites et renforcées par des supports en bois mal entretenus. Les mineurs travaillent dans des conditions exténuantes : torses nus ou vêtus de vêtements déchirés, les visages noircis par la poussière. Des wagonnets grincent sur des rails instables, tirés à la force des bras ou par des bêtes maigres. À chaque recoin, le sentiment que quelque chose d’étrange rôde dans ces profondeurs s’installe.
+Le cliquetis des outils ne cesse jamais. Les mineurs avancent à genoux dans les galeries étroites, écrasés par la chaleur et la fatigue. Leurs visages sont masqués de suie, leurs mains couvertes de coupures. Chaque inspiration est un supplice dans cet air vicié.
+Active Mine | Workers, No voice, Boulders, Dwarves Ambience | 1 Hour #dnd
+Objectif 1 : Localiser la source des problèmes
+Découverte progressive : Les personnages peuvent interroger discrètement des mineurs, dont certains mentionnent "la zone interdite" ou "les galeries des anciens". Cependant, la peur de représailles les rend avares en détails. Seuls les mineurs les plus désespérés ou téméraires donneront des indications sur la localisation approximative de cette zone interdite.
+Indices environnementaux : Des traces inhabituelles sur les murs (marques anciennes, gravures à demi effacées) ou des flux d’énergie mystique perceptibles par Enora ou Thaddeus pourraient guider les personnages.
+Interaction avec le contremaître : Un contremaître zélé ou violent pourrait les forcer à travailler dans une section dangereuse, les amenant involontairement plus près des galeries anciennes.
+Le Contremaître violent
+Un contremaître, voyant que l'un des mineurs s’effondre de fatigue ou proteste, se met à le battre violemment. Les personnages peuvent intervenir, mais cela risque d’attirer l’attention.
+L’homme crie sur un mineur âgé, frêle et à bout de forces. 'Lève-toi, feignasse !' hurle-t-il en brandissant un bâton noueux. Le vieil homme gémit, mais une nouvelle frappe le fait s’effondrer. Les autres mineurs détournent les yeux, habitués à cette cruauté. Les personnages ressentent le poids de l’injustice dans l’air.
+Les mineurs rebelles
+Les personnages rencontrent un petit groupe de mineurs désespérés qui souhaitent fuir la mine. Ils implorent de l’aide ou tentent de forcer les personnages à leur donner du matériel. Ces mineurs sont armés d’outils rudimentaires et peuvent devenir violents si refusés.
+Trois hommes et une femme émergent de l’ombre. Leurs visages sont marqués par la fatigue et la peur. L’un d’eux brandit une pioche : 'On sait que vous n’êtes pas d’ici. Donnez-nous de quoi nous tirer de cet enfer, ou on se débrouillera autrement.’
+Objectif 2 : Atteindre les galeries des anciens
+Galerie principale
+Si les personnages choisissent de passer par le poste de contrôle principal, ils devront contourner ou neutraliser les gardes, utiliser les talents de Léomire pour duper la sécurité, ou employer la force brute. Le poste est équipé de plusieurs lanternes puissantes, d’armes rudimentaires, et d’une alarme rudimentaire (cloche ou corne).
+Galeries secondaires
+En explorant, les personnages pourraient découvrir une galerie secondaire scellée par un éboulement. Enora, avec son affinité avec l'Aestus, pourrait percevoir les résidus d'énergie des Anciens et ouvrir un passage. Ce chemin serait plus sûr, mais risquerait de déclencher un effondrement ou une montée de gaz toxiques.
+Les parois ici scintillent d’une lueur étrange, presque imperceptible. Enora sent une pulsation rythmique, comme un battement de cœur ancien. Lorsqu’elle pose la main sur la roche, elle ressent un frisson parcourir son échine. Une fissure s'élargit soudain, révélant un passage oublié.
+Galeries effondrés et blessés
+En fouillant, les personnages tombent sur une galerie secondaire où un éboulement récent a piégé un groupe de mineurs. Ils peuvent essayer de secourir les blessés. Henrien, grâce à ses dons de druide, ou Thaddeus, avec ses talents d'alchimiste, pourraient soigner ou stabiliser les victimes.
+La galerie est jonchée de débris. Sous les gravats, des gémissements étouffés se font entendre. Une main maigre émerge, tremblante. 'Aidez-nous !' implore une voix faible. Le sol est instable, et chaque mouvement risque de provoquer un nouvel effondrement.
+Étape 3 : Les Galeries des Anciens
+Description de l’environnement
+Lorsqu’ils entrent dans les galeries des Anciens, les personnages quittent le monde brut et chaotique des mineurs pour plonger dans une dimension étrange et majestueuse. L'air semble différent ici, plus lourd mais presque purifié par la présence de l'Aestus. Les galeries principales s’élargissent, dévoilant des arches et des piliers d’une architecture démesurée et raffinée. Le marbre noir qui compose certains murs capte la lumière des lanternes d’une manière déroutante, reflétant des éclats d’argent et de pourpre. Des fresques partiellement érodées longent les couloirs : elles représentent des scènes cryptiques : figures célestes, cercles d’énergie, et rituels mystérieux.
+Le sol est couvert de poussière et de débris, mais à mesure que les personnages s’enfoncent, des surfaces étonnamment lisses réapparaissent, comme si le temps peinait à effacer totalement l’œuvre des Anciens. L’odeur métallique de l’Aestus devient plus forte, et une sensation de vertige peut submerger les plus sensibles, comme si les galeries elles-mêmes jouaient sur leur perception de la réalité.
+Objectif 1 : Éviter de se faire repérer
+Groupes de mineurs sous surveillance
+De petites équipes de mineurs s'affairent encore à stabiliser des chambres souterraines pour les sacrifices. Ces travailleurs sont surveillés par des gardes armés. Les personnages doivent éviter ces zones en repérant à l’avance les lanternes ou en s’éclipsant dans des galeries latérales.
+Piste d’affluence
+Les personnages peuvent remarquer qu’à mesure qu’ils avancent, les gardes se font plus rares. Cela peut signifier que certains secteurs sont considérés comme sûrs ou inaccessibles, ou que d’autres dangers rôdent dans les profondeurs.
+Objectif 2 : Comprendre la réalité de l’Aestus
+Description détaillée de l’Aestus
+À flanc de paroi, un cristal d’Aestus surgit, étincelant faiblement. Sa surface semble vivante, pulsant d’une lueur interne. Les premiers centimètres sont translucides, piégeant la lumière comme un joyau parfait, mais plus on s’éloigne de cette surface, plus le cœur de la pierre devient opaque, presque liquide. Le noir de l’Aestus semble absorber la lumière, aspirant jusqu’à l’âme de ceux qui osent le contempler trop longtemps.
+Réactions d’Enora
+Si Enora est présente, elle peut ressentir une résonance étrange : des échos de voix oubliées, des murmures à peine perceptibles, ou un frisson de chaleur parcourant son corps. Enora pourrait même avoir des visions fugaces de l’Aestus "activé" : un déferlement de puissance capable de remodeler la réalité elle-même.
+Objectif 3 : Découvrir des informations sur les Anciens
+Fresques et inscriptions
+Les murs ici portent des marques gravées avec une précision impossible : des cercles imbriqués, des glyphes énigmatiques, et des figures à l’allure humanoïde mais inhumaine. Les scènes gravées semblent décrire des rituels complexes où l’Aestus brille comme une étoile, irradiant d’une énergie que les Anciens manipulaient comme un potier modèle l’argile.
+Si un personnage a des connaissances en alchimie ou en histoire ancienne, il pourrait deviner que l’Aestus était bien plus qu’un minerai : c’était une source d’énergie vitale, peut-être divine.
+Artefacts oubliés
+En fouillant, les personnages pourraient tomber sur des objets abandonnés : une amulette brisée, un mécanisme complexe, ou un fragment d’armure incrusté d’Aestus. Ces objets, bien que partiellement endommagés, dégagent une aura palpable, témoignant du savoir perdu des Anciens.
+Objectif 4 : Trouver l’accès à la salle du Rituel
+Guidance d’Enora
+Enora pourrait percevoir un passage caché que personne n’a encore trouvé.
+À un carrefour où plusieurs galeries se croisent, Enora s’arrête soudain, les yeux fixant un mur de pierre parfaitement lisse. Elle pose une main tremblante sur la surface, et un motif se révèle presque imperceptible. Une vibration traverse l’air, et un mécanisme secret s’active lentement.
+Ce passage pourrait conduire les personnages vers les chambres les plus profondes, loin de toute surveillance.
+Un accès défendu
+Si les personnages passent par un chemin traditionnel, ils devront contourner ou affronter un groupe de gardes lourdement armés stationnés à l’entrée de la salle du Rituel.
+L’instabilité des lieux
+Une galerie menant aux chambres rituelles pourrait s’effondrer, forçant les personnages à improviser : escalader un passage dangereux, creuser, ou trouver un autre chemin.
+Étape Optionnelle : La zone des administrateurs des Anciens
+Les appartements des Administrateurs se situent dans une zone intacte, protégée par la disposition particulière des galeries. Ils témoignent d’un raffinement et d’une organisation qui contrastent avec le chaos des galeries modernes. Cependant, le temps et les effondrements ont isolé certains secteurs.
+Lieux clés dans les appartements
+La Salle d’Observation
+Une vaste pièce avec une grande vitre de cristal noir (craquelée mais encore en place) qui donne sur une galerie abandonnée remplie de veines d’Aestus.
+Une table circulaire ornée de gravures complexes : schémas d’extraction et glyphes, avec des reliefs montrant des scènes où des êtres humanoïdes commandent des créatures serviles.
+
+
+Indices à trouver :
+Une phrase gravée en ancien langage : "Seuls les porteurs du Sigil sont reconnus."
+Des outils et artefacts : un bracelet métallique incrusté d’Aestus (encore fonctionnel). Enora pourrait ressentir un faible écho d’énergie en le touchant.
+Le Bureau d’un Administrateur
+Une pièce fermée par une porte lourde et finement décorée, que les personnages peuvent forcer ou ouvrir grâce à Enora.
+
+
+À l’intérieur :
+Une bibliothèque sculptée dans la roche, contenant des tablettes gravées avec des inscriptions. Certaines mentionnent le fonctionnement des gardiens et des protocoles.
+Un trône massif orné d’Aestus avec des accoudoirs creusés pour accueillir les mains : une interface qui aurait permis aux administrateurs d’interagir directement avec le gardien. Enora pourrait ressentir une résonance avec l’essence du gardien en s’asseyant.
+
+
+Indices à trouver :
+Une tablette brisée mentionne que les administrateurs utilisaient un "Sigil" comme preuve d’identité.
+Une note laissée par un autre administrateur, expliquant que le gardien est "capable de détecter les altérations et imitations".
+La Salle des Archives
+Un dépôt d’objets et d’informations endommagés : des fragments de plans, des reliques inutilisables, mais aussi quelques éléments encore lisibles.
+Une fresque détaillant le rituel des Anciens, où l’Aestus est activé pour canaliser des énergies massives.
+
+
+Indices à trouver :
+Une fresque où un administrateur montre un insigne ou un Sigil à un gardien humanoïde (représenté comme une figure de cristal d’Aestus).
+Un fragment de texte évoquant l’importance de l’harmonie entre l’administrateur et l’Aestus pour activer certains mécanismes.
+Les Quartiers Personnels
+Des pièces privées où les administrateurs vivaient. La décoration est minimaliste, mais chaque pièce possède une pierre d’Aestus installée comme une source d’énergie ou d’éclairage.
+Un des quartiers contient un coffre caché avec un fragment de Sigil : un petit artefact incomplet mais suffisant pour activer une partie de la porte si Enora parvient à le synchroniser avec sa propre Essence.
+
+
+Indices à trouver :
+Des objets personnels (bijoux, outils, ou vêtements) qui montrent que les administrateurs étaient aussi des entités physiques, bien que très différentes des humains.
+La Porte du Gardien
+Une structure imposante, taillée dans le marbre noir et incrustée d’Aestus. Le cristal forme des motifs géométriques complexes qui semblent "vivre", irradiant une faible lumière pulsante.
+L’Essence Gardienne
+Une conscience fragmentaire piégée dans la porte, conçue pour exécuter un rôle strict : reconnaître et obéir aux administrateurs.
+Lorsqu’Enora s’approche, la porte réagit en projetant une lueur scintillante et une voix résonne dans son esprit, froide et impersonnelle : "Accès refusé. Identité non reconnue."
+Si les personnages tentent de forcer la porte ou de manipuler l’Aestus, la réaction du gardien pourrait être agressive (un choc énergétique ou une vague de chaleur).
+Résolution et pistes pour les personnages
+Les bons indices
+Si les personnages rassemblent suffisamment d’éléments (fragments de Sigil, schémas, inscriptions) et qu’Enora comprend qu’elle doit harmoniser sa propre Essence avec celle du gardien, elle peut simuler un administrateur et ouvrir la porte.
+Les mauvaises conclusions
+Si les personnages ratent certains indices ou interprètent mal les informations, Enora pourrait échouer en tentant de synchroniser son Essence, ce qui pourrait :
+Provoquer une réaction violente du gardien (défense de la porte).
+Sceller définitivement l’accès, forçant les personnages à chercher une autre entrée.
+Les choix moraux
+Enora pourrait découvrir que pour ouvrir la porte, elle doit sacrifier une partie de sa propre Essence ou utiliser celle de quelqu’un d’autre (un mineur, un personnage joueur).
+Étape 4 : La Salle du Rituel
+La salle du rituel est un espace d’une étrangeté saisissante, où chaque détail semble témoigner d’une époque révolue et d’une civilisation à la fois avancée et incompréhensible. C'est une vaste caverne souterraine, en grande partie naturelle, mais aménagée par les Anciens avec une précision géométrique et une maîtrise de l’Aestus qui dépasse l’entendement.
+Disposition générale
+Dimensions : La salle s’étend sur une centaine de mètres de long et près de cinquante mètres de large, avec un plafond en voûte naturelle qui culmine à une trentaine de mètres. Des piliers colossaux d’Aestus brut émergent du sol et s’élèvent jusqu’au plafond, semblant soutenir l’immense cavité. Certains de ces piliers sont partiellement translucides, laissant entrevoir des formes brumeuses, comme des ombres prisonnières à l’intérieur.
+Disposition circulaire : Au centre de la salle se trouve un cercle parfait, encastré dans le sol, constitué d’une mosaïque complexe d’Aestus poli formant un hexagramme, gravé de symboles ésotériques et de géométries fractales. Ce cercle, qui mesure environ vingt mètres de diamètre, semble être le cœur du rituel.
+Ambiance lumineuse et sonore
+Lumière : La salle est plongée dans une semi-obscurité, éclairée uniquement par l’Aestus qui émet une lueur faible mais constante, oscillant entre des tons froids (bleu et argenté). Cette lumière semble réagir à la présence des personnages, devenant plus vive ou s’intensifiant à proximité des sources d’énergie ou de magie.
+Sonorité : Un bourdonnement sourd emplit l’air, comme un mélange entre le grondement d’une mer lointaine et les pulsations d’un cœur géant. Parfois, des échos se font entendre, comme des murmures indistincts, provenant des murs eux-mêmes.
+Murs et décorations
+Murs : Les parois de la salle sont constituées de roche brute, mais elles sont par endroits ornées de bas-reliefs détaillés. Ces gravures représentent des scènes cryptiques : des silhouettes humanoïdes tenant des sphères de lumière, des créatures hybrides, et des motifs d’étoiles et de spirales.
+Inscriptions : Sur certaines sections des murs, des symboles brillent faiblement dans l’obscurité. Ces inscriptions sont écrites dans une langue ancienne, inconnue, mais ceux dotés d’une sensibilité magique peuvent ressentir qu’elles contiennent une forme de pouvoir latent.
+Le Fou et le Cavalier
+Descriptions
+Zacharias, le Fou
+Zacharias est un homme au charisme troublant, à la fois fascinant et dérangeant. Son apparence est soigneusement entretenue, mais elle trahit des excentricités révélant son esprit chaotique.
+Tenue : Il porte une veste longue et élégante, d’un noir profond, parsemée de broderies argentées. Sa chemise blanche est d’une propreté impeccable, mais sa cravate est légèrement défaite, comme s’il l’avait nouée à la hâte.
+Visage et traits : Son visage est fin, presque anguleux, avec des pommettes saillantes et un teint pâle. Ses yeux, d’un bleu perçant, semblent scruter les âmes, toujours en mouvement, témoignant de son esprit hyperactif et de ses pensées calculatrices. Ses lèvres fines sont souvent étirées en un sourire ambigu, oscillant entre bienveillance feinte et mépris narquois. Ses cheveux noirs et ondulés, légèrement trop longs, sont savamment négligés.
+Attitude : Zacharias a une posture détendue mais trahissant une tension sous-jacente, comme un prédateur prêt à bondir. Il fait des gestes exagérés pour accentuer ses paroles, captivant ou intimidant ses interlocuteurs. Il parle d’une voix douce mais chargée d’intensité, jouant sur les silences pour maintenir l’attention.
+Émilien Leschères, le Cavalier
+Émilien est l’incarnation du contrôle et de la discipline. Chaque aspect de son apparence et de son attitude dégage une froide efficacité, contrastant fortement avec l’exubérance de Zacharias.
+Tenue : Il est vêtu d’un uniforme militaire adapté à son rôle, composé d’une veste sombre ornée d’épaulettes discrètes et d’un pantalon parfaitement repassé. Le cuir de ses bottes, noir et poli, reflète la lumière vacillante des torches. Une ceinture fonctionnelle porte une dague et une petite bourse contenant des objets pratiques (clé, carnet de notes, etc.). Il porte une bague en argent sobre, marquée de gravures complexes.
+Visage et traits : Émilien a un visage sévère, marqué par des rides d’expression, preuve d’années passées à scruter, calculer, et décider. Ses yeux perçants et intransigeants, sont souvent immobiles, comme s’il pesait chaque détail. Ses cheveux courts et poivre-et-sel sont impeccablement coiffés, sans une mèche rebelle.
+Attitude : Toujours droit, Émilien a une posture rigide et altière. Il bouge avec une précision mécanique, chaque geste mesuré et dépourvu d’émotion apparente. Il parle d’une voix posée, privilégiant la concision et l’autorité. Même en situation de tension, il conserve un calme glacial, bien que son regard puisse trahir une lueur de calcul intense lorsqu’il évalue une situation.
+Rencontre
+Réactions potentielles de Zacharias, le Fou
+Confrontation immédiate et imprudente : Zacharias pourrait interpréter l'arrivée des personnages comme une menace immédiate ou une opportunité inattendue. Son ambition et son tempérament manipulateur pourraient le pousser à essayer de prendre le contrôle de la situation en improvisant.
+Exemple : Il pourrait demander aux personnages qui ils sont, tentant de gagner du temps pour évaluer leurs motivations, ou même proposer un faux marché, leur promettant des "récompenses" en échange de leur soumission ou de leur aide pour retrouver Hubertin.
+Déclenchement partiel du rituel : Si Zacharias est particulièrement impatient, il pourrait envisager de tenter une activation partielle du rituel, même sans Hubertin ou les sacrifices nécessaires, espérant que cela suffise à révéler où se trouve ce dernier ou à intimider les intrus. Cela pourrait causer un chaos magique incontrôlé dans la salle et les galeries.
+Manipulation et bluff : Le Fou pourrait essayer de se faire passer pour un allié des personnages, prétendant être un chercheur ou un administrateur de la mine, pour les convaincre de révéler comment ils sont arrivés ici ou s’ils savent où se trouve Hubertin.
+Réactions potentielles d’Émilien Leschères, le Cavalier
+Évaluation stratégique : Le Cavalier pourrait percevoir les personnages comme une menace, mais aussi comme une ressource potentielle. Leur capacité à s’infiltrer pourrait lui indiquer qu’ils possèdent des talents utiles. Il pourrait suggérer de ne pas les éliminer immédiatement, préférant les capturer ou les interroger pour comprendre leurs intentions.
+Offre pragmatique : Émilien, toujours calculateur, pourrait envisager de négocier avec les personnages, leur offrant la vie sauve ou une place dans ses plans en échange de leur coopération. Il pourrait mentir sur leurs chances de s’en sortir vivants ou tenter de semer la discorde parmi eux.
+Exemple : « Vous êtes arrivés ici par des moyens qui m’échappent. Soit vous m’aidez à terminer ce rituel, soit vous mourrez en essayant de vous échapper. Faites votre choix. »
+Force brute si nécessaire : Si Émilien estime que les personnages représentent une menace immédiate ou qu’ils ne coopèrent pas, il pourrait décider de les neutraliser rapidement. Toutefois, sa prudence l’empêcherait de se lancer dans un affrontement sans avoir sécurisé les lieux. Il pourrait organiser une retraite tactique pour se regrouper avec des renforts.
+Interaction entre le Fou et le Cavalier
+La dynamique entre ces deux personnages peut également jouer un rôle crucial dans leur réaction :
+Divergence d’opinions : Zacharias pourrait vouloir confronter les intrus immédiatement ou tenter un coup risqué, tandis qu’Émilien préférerait une approche plus mesurée. Cela pourrait créer une tension palpable entre eux, offrant une ouverture aux personnages pour exploiter leur désaccord.
+Complémentarité forcée : Si l’urgence les pousse à collaborer, le Fou pourrait se concentrer sur la manipulation et la diversion pendant que le Cavalier organise un plan tactique pour reprendre le contrôle de la situation.
+Exploitation par les personnages
+Manipuler le Fou : Les joueurs pourraient jouer sur son impatience et son ambition pour le pousser à commettre des erreurs, comme révéler des informations cruciales ou activer prématurément le rituel.
+Gagner la confiance du Cavalier : Avec les bons arguments ou un comportement pragmatique, ils pourraient convaincre Émilien qu’ils pourraient être utiles dans la recherche d’Hubertin ou même pour compléter le rituel.
+Semer la discorde : Les personnages pourraient exacerber les tensions entre le Fou et le Cavalier pour perturber leur alliance, créant une opportunité de fuite ou d’intervention directe.
+Péripéties possibles
+Affrontement différé : Le Cavalier ordonne aux gardes restants de tenir les personnages à distance pendant qu’il replie les forces vers une position stratégique, laissant les joueurs gérer un combat ou des pièges avant d’atteindre leur objectif.
+Rituel corrompu : Si Zacharias tente une activation partielle, les effets pourraient devenir incontrôlables, forçant tout le monde (alliés et ennemis) à improviser pour survivre.
+
+
+
+
+
+
+
+
+
+
+
+
