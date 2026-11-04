@@ -12,7 +12,7 @@ L'héritier du trône était toujours l'enfant Adepte le plus puissant de sa gé
 Ces enfants grandissaient sous la tutelle de la famille impériale. Vers l'âge de treize ans, le tri était fait :
 * Les plus prometteurs étaient officiellement adoptés et intégrés aux hautes sphères du pouvoir.
 * Les moins talentueux n'étaient pas reconnus, rendus à l'autre parent ou adoptés par des roturiers.
-* Les éléments instables ou dangereux étaient exécutés ou enfermés à vie dans des monastères spécialisés et coupés du monde.
+* Les éléments instables ou dangereux étaient exécutés ou enfermés à vie dans des couvents spécialisés et coupés du monde.
 
 Cette méthode garantissait que la famille impériale demeure un cercle fermé d'Adeptes plénipotentiaires redoutables, capables de maintenir l'équilibre entre les deux autres forces majeures du pays : les Consuls et l'Église.
 

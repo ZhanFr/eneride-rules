@@ -10,6 +10,14 @@ Cet univers de *Fantaisie Victorienne* et de *Révolution Industrielle* est marq
     <p>Une introduction rapide à l'histoire et à la situation de La Tranchée sous administration naine.</p>
   </div>
   <div class="feature">
+    <h2><a href="/universe/chronology.html">Chronologie Complète</a></h2>
+    <p>La matrice spatio-temporelle de l'univers, de la Genèse mythique à l'an 2680.</p>
+  </div>
+  <div class="feature">
+    <h2><a href="/universe/todo-roadmap.html">Feuille de Route du Lore</a></h2>
+    <p>L'inventaire structuré et le suivi d'avancement des éléments de l'univers.</p>
+  </div>
+  <div class="feature">
     <h2><a href="/universe/astronomy.html">Astronomie & Physique</a></h2>
     <p>Les astres, le système planétaire et les mystères de l'Éther luminifère.</p>
   </div>

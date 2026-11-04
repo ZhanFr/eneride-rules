@@ -10,7 +10,7 @@ Tu ne savais pas que chaque fois qu'un de ces beaux messieurs parle d'ingénieri
 
 L'année 2667 fut celle de ma première grande lâcheté sous le joug de la Table d'Argent.
 
-À cette époque, j'étais encore considéré comme l'un des esprits les plus prometteurs de notre loge métropolitaine. Zacharias avait dix-neuf ans ; il venait de valider son Œuvre au Noir avec un éclat insolent, et nous formions en apparence le tandem d'adeptes idéal : l'expérience austère guidant le génie précoce. Lorsque la matriarche, Tempérance Sinclair, nous a mandés dans son cabinet privé de Péronne pour nous confier une mission de la plus haute importance, j'ai cru bêtement à une marque d'estime scientifique.
+À cette époque, j'étais un maître respecté de la Table d'Argent, austère et méthodique. Zacharias avait dix-neuf ans ; il venait d'achever son premier travail probatoire avec un éclat insolent, et nous formions en apparence le tandem d'adeptes idéal : ma patience pour tempérer sa fougue. Lorsque notre Grand-Maître, Tempérance Sinclair, nous a mandés dans son cabinet privé de Péronne pour nous confier une mission de la plus haute importance, j'ai cru bêtement à une marque d'estime scientifique.
 
 Il s'agissait en réalité d'une besogne d'espionnage industriel de la plus basse extraction.
 
@@ -18,9 +18,9 @@ Il s'agissait en réalité d'une besogne d'espionnage industriel de la plus bass
 
 Péronne était alors le cœur battant de l'innovation en Prosie occidentale. C'est dans ses faubourgs industriels que résidait la famille **Moncardin**, des artificiers et ingénieurs mécaniciens d'une réputation sans égale, dont la mère, Artémise, menait les recherches avec une vigueur extraordinaire.
 
-La Table d'Argent avait eu vent de leurs travaux sur un minerai d'exception : l'adamantine. Les Moncardin avaient réussi ce qu'aucune académie n'avait cru possible. En soumettant ce métal dense à des arcs voltaïques et à des distillations d'acides rares, ils parvenaient à le saturer d'une énergie colossale, une force motrice pure et luminescente qu'ils avaient baptisée l'**Aestus**. Ils ne se contentaient pas d'en faire des curiosités de laboratoire : ils concevaient déjà des mécanismes d'une puissance inouïe, capables de décupler le rendement des manufactures, mais aussi des prototypes d'armes cinétiques à répétition qui rendaient caduques toutes les arquebuses du continent.
+La Table d'Argent avait eu vent de leurs travaux sur un minerai d'exception : l'adamantine, ce métal si dense et réfractaire que nos forges ordinaires peinaient à entamer. Mais les Moncardin avaient réussi ce qu'aucune académie n'avait cru possible. En soumettant ce métal à des variations d'énergie et à des processus de purification, ils parvenaient à le saturer d'une énergie colossale, une force motrice pure et luminescente qu'ils avaient baptisée l'**Aestus**. Ils ne se contentaient pas d'en faire des curiosités de laboratoire : ils concevaient déjà des mécanismes d'une puissance inouïe, capables de décupler le rendement des manufactures, mais aussi des prototypes d'armes cinétiques à répétition qui rendaient caduques toutes les arquebuses du continent.
 
-Tempérance m'a ordonné de m'infiltrer chez eux sous prétexte d'un partenariat alchimique. Zacharias et moi devions expertiser leurs alliages, évaluer la stabilité de leurs accumulateurs et, surtout, lui faire un rapport quotidien et exhaustif sur l'avancée de leurs brevets.
+Tempérance nous a ordonné de nous infiltrer chez eux sous prétexte d'un partenariat d'atelier. Les rôles étaient clairs : Zacharias étudiait la trempe des métaux et l'ajustage mécanique des culasses, tandis que ma tâche était d'observer la manière dont l'Aestus réagissait au contact de la matière et si ce flux d'énergie pouvait être stabilisé sans détruire les porteurs. Nous devions lui faire un rapport quotidien et exhaustif sur l'avancée de leurs brevets.
 
 Pendant près de six mois, nous avons partagé leur table et leur toit.
 
@@ -34,7 +34,7 @@ Et pendant qu'ils m'offraient leur pain, leur vin et leurs secrets les plus inti
 
 La catastrophe s'est nouée au début de l'hiver.
 
-Lorsque Tempérance a lu mes conclusions confirmant que les Moncardin avaient achevé un prototype d'arme portative alimentée à l'Aestus, elle a convoqué Artémise dans un salon discret de la capitale. La matriarche des Sinclair a posé ses conditions avec sa brutalité aristocratique habituelle : les Moncardin devaient céder immédiatement l'intégralité de leurs brevets, placer leurs ateliers sous la tutelle exclusive de la Table d'Argent, et jurer un secret d'État absolu. La Table d'Argent menait en parallèle un projet occulte de première grandeur avec les Dessendre, et elle refusait catégoriquement que la technologie de l'Aestus ne circule librement en Médrésie.
+Lorsque Tempérance a lu mes conclusions confirmant que les Moncardin avaient achevé un prototype d'arme portative alimentée à l'Aestus, elle a convoqué Artémise dans un salon discret de la capitale. Notre Grand-Maître a posé ses conditions avec sa brutalité aristocratique habituelle : les Moncardin devaient céder immédiatement l'intégralité de leurs brevets, placer leurs ateliers sous la tutelle exclusive de la Table d'Argent, et jurer un secret d'État absolu. La Table d'Argent menait en parallèle un projet occulte de première grandeur avec les Dessendre, et elle refusait catégoriquement que la technologie de l'Aestus ne circule librement en Médrésie.
 
 Artémise a refusé tout net.
 

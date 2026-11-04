@@ -34,7 +34,7 @@ En l'écoutant, j'ai ressenti cette lucidité glacée qui accompagne toujours le
 
 Ce que je n'ai pas dit à Vilaire ce soir-là, c'est que je possédais déjà mes propres certitudes. Depuis la catastrophe de 2676 et le sac de la Table d'Émeraude, j'entretenais une correspondance clandestine et chiffrée avec Judelia Rosière.
 
-C'est ici que je dois inscrire l'aveu le plus honteux de ma vie, Thaddeus. Que ces lignes te montrent la lâcheté dont est capable un esprit que tu croyais inébranlable : je n'ai jamais eu le courage d'écrire à Judelia que sa mère était morte. 
+C'est ici que se niche ma défaillance la plus misérable, Thaddeus. Une lâcheté sans panache, dépouillée du fracas des laboratoires et des grands serments brisés : je n'ai jamais eu le courage d'écrire à Judelia que sa mère était morte. 
 
 Chaque fois que ma plume touchait le vélin, le souvenir de Margella m'étranglait. Je revoyais cette nuit abominable où Zacharias l'a égorgée parce que je refusais de lui livrer mes carnets et les secrets du premier rituel. C'était mon orgueil d'initié qui l'avait tuée. C'était mon silence qui avait guidé la lame sur sa gorge. Comment aurais-je pu écrire à sa fille que sa mère pourrissait sous une motte de terre anonyme au fond d'un bois, par ma seule faute ? J'ai menti par omission, prétextant une retraite lointaine et nécessaire.
 

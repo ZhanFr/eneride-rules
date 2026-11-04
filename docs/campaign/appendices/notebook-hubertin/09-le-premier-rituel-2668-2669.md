@@ -28,31 +28,33 @@ J'ai contemplé les câbles qui vibraient sous le vent du fleuve. L'orgueil d'un
 
 De l'autre côté m'attendait Tempérance Sinclair, et avec elle, le véritable cœur du projet.
 
-Sur l'ordre de la matriarche, je fus introduit dans les ateliers secrets des Dessendre, la grande famille rivale des Moncardin. C'est là que j'ai rencontré **Azaline**.
+Sur l'ordre de notre Grand-Maître, je fus introduit dans les ateliers secrets des Dessendre, la grande famille rivale des Moncardin. C'est là que j'ai rencontré **Azaline**.
 
-Elle avait vingt-deux ans. Elle était la fierté rayonnante de sa lignée, une jeune femme d'une vivacité d'esprit éblouissante, maniant la chimie des détonations et la physique des métaux rares avec une grâce qui faisait passer nos plus grands maîtres d'académie pour de lourds artisans de forge. Mais Azaline ne cherchait pas à fabriquer des canons. Elle portait en elle un dessein familial séculaire, une quête mystique et technique vertigineuse : concevoir un dispositif capable d'ouvrir une porte dans le tissu même du réel pour accéder au chemin de l'illumination première.
+Elle avait vingt-deux ans. Elle était la fierté rayonnante de sa lignée, une jeune femme d'une vivacité d'esprit éblouissante, maniant la chimie des poudres et la physique des métaux avec une grâce qui faisait passer nos plus vieux théoriciens pour de lourds artisans de forge. Mais Azaline ne cherchait pas à fabriquer des armes. Elle portait en elle un dessein familial ancien, une quête folle et vertigineuse : concevoir un dispositif capable d'ouvrir une brèche dans le tissu même du réel pour accéder au chemin de l'illumination première.
 
-Pour un alchimiste, la résonance était immédiate et bouleversante : c'était la transposition matérielle de l'Œuvre au Rouge, l'étape ultime du Grand Œuvre où la matière corruptible s'embrase pour toucher au divin. 
+Pour Tempérance Sinclair, ce projet était l'obsession d'une vie. Notre Grand-Maître vieillissait, et elle cherchait le moyen décisif d'écraser la Table d'Or et d'arracher les secrets ultimes de la Création avant que ses propres forces ne déclinent.
 
-Tempérance Sinclair en bavait d'impatience. Elle voyait dans les travaux d'Azaline le moyen décisif d'écraser la Table d'Or et de s'octroyer le monopole absolu de la transmutation d'essence. Pendant une année entière, de l'automne 2668 à l'hiver 2669, j'ai travaillé jour et nuit aux côtés de cette jeune fille. 
+Mais pour canaliser une telle puissance, les Dessendre avaient besoin d'aide : ils savaient bâtir le mécanisme, mais ils ne pouvaient pas empêcher l'énergie de s'emballer et de dévorer les chairs. Il leur fallait l'expérience d'un maître capable de discipliner la matière par la seule rigueur de l'esprit, d'apaiser les flux invisibles qui parcourent le monde. Ma vanité d'adepte fit le reste : j'ai accepté de guider leurs mains.
 
-Je n'ai jamais éprouvé pour quiconque une telle admiration intellectuelle. Azaline possédait cette pureté d'intention, cette flamme désintéressée qui manque si cruellement à notre corporation. Je l'aimais comme un père peut aimer une fille d'exception. Et c'est précisément parce que je mesurais la grandeur et la fragilité de cette œuvre que j'ai tenu mon propre apprenti, Zacharias, à l'écart le plus strict de nos travaux. Je savais que son ambition mercantile et son absence d'éthique auraient souillé ce creuset. Zacharias ne me l'a jamais pardonné, et cette rancœur allait porter les fruits empoisonnés que tu sais.
+Pendant une année entière, de l'automne 2668 à l'hiver 2669, j'ai travaillé jour et nuit aux côtés d'Azaline. 
+
+Je n'ai jamais éprouvé pour quiconque une telle admiration. Azaline possédait cette pureté d'intention, cette flamme désintéressée qui manquait si cruellement à notre ordre. Je l'aimais comme un père peut aimer une fille d'exception. Et c'est précisément parce que je mesurais la grandeur et la fragilité de cette quête que j'ai tenu mon propre apprenti, Zacharias, à l'écart le plus strict de nos travaux. Je savais que son avidité et son absence totale d'éthique auraient tout souillé. Zacharias ne me l'a jamais pardonné, et cette rancœur allait porter les fruits empoisonnés que tu sais.
 
 ### La Brèche et le Charnier
 
-Je ne consignerai pas ici les formules du rituel, Thaddeus. Les équations de confinement et les proportions d'Aestus pur qui alimentaient la chambre de résonance ont été détruites par ma propre main, et que le ciel m'écrase si je devais jamais les murmurer de nouveau.
+Je ne consignerai pas ici les formules du rituel, Thaddeus. Les calculs de résonance et les proportions d'Aestus pur qui alimentaient la chambre d'ignition ont été détruits par ma propre main, et que le ciel m'écrase si je devais jamais les murmurer de nouveau.
 
 Tout ce que tu dois savoir, c'est que la porte s'est ouverte.
 
-Ce fut une déchirure dans la structure de l'air, une gerbe de lumière aveuglante d'un blanc bleuté qui ne projetait aucune ombre. Pendant une seconde, une fraction d'éternité, nous avons touché à l'Au-delà. Mais ce qui a répondu à notre appel n'était pas l'harmonie des sphères. C'était une présence colossale, ancienne, indomptable, une force prédatrice qui s'est abattue sur notre chambre d'expérimentation avec le poids d'une montagne en chute libre.
+Ce fut une déchirure dans la structure de l'air, une gerbe de lumière aveuglante d'un blanc bleuté qui ne projetait aucune ombre. Pendant une seconde, une fraction d'éternité, nous avons touché à ce qui se trouve au-delà du monde. Mais ce qui a répondu à notre appel n'était pas la paix promise par les anciens rouleaux. C'était une présence colossale, ancienne, indomptable, une force prédatrice qui s'est abattue sur notre chambre d'expérimentation avec le poids d'une montagne en chute libre.
 
-Le contrecoup physique fut un enfer de feu chimique qui a cautérisé ma peau et brisé mes appareils. Mais l'horreur véritable était ailleurs.
+J'ai jeté toutes mes forces pour tenter d'endiguer la marée et refermer le passage. L'effort a failli me foudroyer : la force brute que je tentais de contraindre s'est retournée contre moi, brûlant mes chairs de l'intérieur, rongeant mes tissus et me laissant vieilli de vingt ans en l'espace de quelques secondes. Mais l'horreur véritable était ailleurs.
 
-Lorsque la fumée s'est dissipée, Azaline gisait au centre du cercle calciné. Son corps respirait encore, mais son âme... son âme avait été déracinée. Ses yeux ne reflétaient plus la vivacité joyeuse de la jeune femme que j'aimais : ils étaient devenus deux gouffres immobiles, habités par une volonté étrangère, glaciale, qui contemplait notre monde avec une cruauté souveraine. Azaline était morte à elle-même, transformée en réceptacle de chair pour une puissance qui nous dépassait de cent coudées.
+Lorsque la fumée s'est dissipée, Azaline gisait au centre du cercle calciné. Son corps respirait encore, mais son âme... ce qui faisait d'elle Azaline avait été déraciné. Ses yeux ne reflétaient plus la vivacité joyeuse de la jeune femme que j'aimais : ils étaient devenus deux gouffres immobiles, habités par une volonté étrangère, glaciale, qui contemplait notre monde avec une cruauté souveraine. Azaline était morte à elle-même, transformée en réceptacle de chair pour une puissance qui nous dépassait de cent coudées.
 
 Et c'est dans cette poussière ardente que la trahison de Tempérance m'est apparue dans toute sa saleté.
 
-En descendant dans les galeries inférieures pour inspecter les conduits de décharge tellurique, j'ai découvert ce que la matriarche m'avait soigneusement caché pendant douze mois de préparatifs. La chambre de résonance n'avait pas été alimentée par de simples accumulateurs d'énergie minérale. Tempérance avait fait brancher les collecteurs d'Aestus sur les caves de détention de La Tranchée. Cent prisonniers, cent vagabonds et indigents ramassés dans les bas-fonds avaient été consumés vifs dans des cuves scellées pour fournir la tension vitale nécessaire à la déchirure du voile.
+En descendant dans les galeries inférieures pour inspecter les conduits d'évacuation, j'ai découvert ce que le Grand-Maître m'avait soigneusement caché pendant douze mois de préparatifs. Pour maintenir une telle déchirure sans que son propre corps ne vole en éclats, Tempérance avait triché. Elle avait fait brancher les accumulateurs d'Aestus sur les caves de détention de La Tranchée. Cent prisonniers, cent vagabonds ramassés dans les bas-fonds avaient été consumés vivants dans des cuves scellées, leur vie même vidée goutte à goutte pour alimenter le foyer.
 
 J'avais bâti un autel sur un charnier d'esclaves.
 

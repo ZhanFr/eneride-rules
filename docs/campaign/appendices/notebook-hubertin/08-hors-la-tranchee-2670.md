@@ -6,7 +6,7 @@
 
 Il est des moments dans l'existence d'un savant où l'air de la ville devient irrespirable.
 
-Après le désastre occulte de l'hiver 2669, la métropole et les bastions fortifiés de La Tranchée n'étaient plus pour moi qu'un immense tombeau à ciel ouvert. L'odeur du soufre, les murmures de couloir dans les hôtels particuliers de la Table d'Argent, le regard d'acier de Tempérance Sinclair et le spectre brisé de cette pauvre Azaline... tout m'étouffait. J'avais la sensation physique que ma chair s'empoisonnait à chaque respiration, corrompue par les compromissions d'une aristocratie qui sacrifiait des vies d'hommes sur l'autel de son confort industriel.
+Après le désastre occulte de l'hiver 2669, la métropole et les bastions fortifiés de La Tranchée n'étaient plus pour moi qu'un immense tombeau à ciel ouvert. L'odeur du soufre, les murmures de couloir dans les hôtels particuliers de la Table d'Argent, le regard d'acier de notre Grand-Maître Tempérance Sinclair et le spectre brisé de cette pauvre Azaline... tout m'étouffait. J'avais la sensation physique que ma chair s'empoisonnait à chaque respiration, corrompue par les compromissions d'une aristocratie qui sacrifiait des vies d'hommes sur l'autel de son confort industriel.
 
 Il me fallait fuir. Non pas par lâcheté, mais par cet instinct vital qui pousse une bête blessée à s'enfoncer dans les sous-bois pour lécher ses plaies à l'écart de la meute.
 
